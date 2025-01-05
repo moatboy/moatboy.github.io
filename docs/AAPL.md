@@ -1,7 +1,6 @@
 ---
 title: Apple (AAPL)
 layout: minimal
-nav_order: 1
 ---
 
 # AAPL
