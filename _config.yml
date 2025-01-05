@@ -2,4 +2,5 @@ title: MoatBoy
 description: Companies and their moats.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://moatboy.github.io
+baseurl: "/docs"
