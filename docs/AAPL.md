@@ -34,6 +34,8 @@ For one thing, its competitors are continually looking for vulnerabilities and w
 For another, Apple is increasingly susceptible to changes in macroeconomic conditions. As it moves up the income ladder, it draws an increasing proportion of its revenues from higher income customers, who are in turn more sensitive to changes in the business cycle and interest rates.
 Finally, changes in the media landscape or in technological standards can impact the performance of its hardware products. For example, regulation of big technology companies, as it relates to app store pricing, app developer behavior, or app access, can increase costs or reduce revenue. In the longer term, changing usage patterns and technological standards, including the shift to electric vehicles and augmented reality, can alter the competitive landscape and threaten the value of its existing investments.
 
+{: .warning } This rating reflects a pessimistic and skeptical outlook, emphasizing the challenges that Apple could face in the coming years.
+
 **Valuation**
 
 To value Apple, we begin with its operating earnings, and consider the effects of growth and reinvestment in the business. The key assumptions and calculations are:
