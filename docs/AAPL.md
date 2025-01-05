@@ -1,6 +1,6 @@
 ---
 title: Apple (AAPL)
-layout: minimal
+layout: default
 ---
 
 # Apple Inc.
