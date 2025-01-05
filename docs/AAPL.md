@@ -1,4 +1,7 @@
-## Apple (AAPL) | Moat: 4 / 5 | Valuation: $2.3 Trillion
+---
+title: Apple (AAPL) | Moat: 4 / 5 | Valuation: $2.3 Trillion
+layout: minimal
+---
 
 Apple operates with a wide moat derived primarily from its brand strength, high switching costs integrated into its ecosystem, and network effects from its user base.  It also benefits from economies of scale, especially in sourcing components and media content. 
 
