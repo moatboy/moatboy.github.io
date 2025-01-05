@@ -1,5 +1,5 @@
 ---
-title: Apple (AAPL) | Moat: 4 / 5 | Valuation: $2.3 Trillion
+title: "Apple (AAPL) | Moat: 4 / 5 | Valuation: $2.3 Trillion"
 layout: minimal
 ---
 
