@@ -3,10 +3,17 @@ title: Apple (AAPL)
 layout: minimal
 ---
 
-# Apple (AAPL) | Moat: 4 / 5 | Valuation: $2.3 Trillion
-
+# AAPL
+{: .fs-9 }
 
 Apple operates with a wide moat derived primarily from its brand strength, high switching costs integrated into its ecosystem, and network effects from its user base.  It also benefits from economies of scale, especially in sourcing components and media content. 
+{: .fs-6 .fw-300 }
+
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
 
 **Brand**
 
