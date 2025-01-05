@@ -19,6 +19,9 @@ Apple operates with a wide moat derived primarily from its brand strength, high 
 
 ---
 
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
 **Brand**
 
 Apple's brand is deeply embedded in its customer base. It consistently ranks as one of Interbrand's top global brands with high brand strength and its customers repeatedly demonstrate their willingness to pay more for Apple products than they would for equivalent products from other manufacturers (see Helmer's Costco vs. Tiffany ring example).
@@ -41,9 +44,6 @@ While Apple's competitive advantages appear stable, its heavy reliance on a sing
 For one thing, its competitors are continually looking for vulnerabilities and will try to chip away at Apple's dominant market share. While Apple has a better record at fending off low-end disruptors, it has been less successful against new-market disruptors that expand the smartphone market (see Christensen, "The Innovator's Dilemma").
 For another, Apple is increasingly susceptible to changes in macroeconomic conditions. As it moves up the income ladder, it draws an increasing proportion of its revenues from higher income customers, who are in turn more sensitive to changes in the business cycle and interest rates.
 Finally, changes in the media landscape or in technological standards can impact the performance of its hardware products. For example, regulation of big technology companies, as it relates to app store pricing, app developer behavior, or app access, can increase costs or reduce revenue. In the longer term, changing usage patterns and technological standards, including the shift to electric vehicles and augmented reality, can alter the competitive landscape and threaten the value of its existing investments.
-
-{: .warning } 
->This rating reflects a pessimistic and skeptical outlook, emphasizing the challenges that Apple could face in the coming years.
 
 **Valuation**
 
