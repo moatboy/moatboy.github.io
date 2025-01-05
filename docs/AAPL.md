@@ -3,7 +3,7 @@ title: Apple (AAPL)
 layout: minimal
 ---
 
-# AAPL
+# Apple Inc.
 {: .fs-9 }
 
 Apple operates with a wide moat derived primarily from its brand strength, high switching costs integrated into its ecosystem, and network effects from its user base.  It also benefits from economies of scale, especially in sourcing components and media content. 
