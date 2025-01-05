@@ -6,6 +6,8 @@ layout: minimal
 # Apple Inc.
 {: .fs-9 }
 
+{: .Moat: 4/5 .label-purple }
+
 Apple operates with a wide moat derived primarily from its brand strength, high switching costs integrated into its ecosystem, and network effects from its user base.  It also benefits from economies of scale, especially in sourcing components and media content. 
 {: .fs-6 .fw-300 }
 
