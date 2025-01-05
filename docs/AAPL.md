@@ -22,8 +22,6 @@ Apple operates with a wide moat derived primarily from its brand strength, high 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
-**Brand**
-
 Apple's brand is deeply embedded in its customer base. It consistently ranks as one of Interbrand's top global brands with high brand strength and its customers repeatedly demonstrate their willingness to pay more for Apple products than they would for equivalent products from other manufacturers (see Helmer's Costco vs. Tiffany ring example).
 
 **Switching Costs**
@@ -58,7 +56,6 @@ To value Apple, we begin with its operating earnings, and consider the effects o
 **Discounted Cash Flow Analysis**
 
 Projecting out free cash flows to the firm (FCFF) for the next 10 years, discounting back at the cost of capital, and adding the present value of the terminal value result in a total enterprise value of $2,380 billion. Adding cash ($45 billion) and subtracting out debt ($110 billion) and expected options payouts (approximately $600 billion, based on historical employee compensation and the growth in shares over the last decade) yields a total equity value of $1.775 trillion. Dividing by the number of shares outstanding (7,465.398 million) yields a value per share of $237.83.
-
 
 **Additional Considerations**
 
