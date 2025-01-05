@@ -12,7 +12,6 @@ Apple operates with a wide moat derived primarily from its brand strength, high 
 
 ---
 
-
 **Brand**
 
 Apple's brand is deeply embedded in its customer base. It consistently ranks as one of Interbrand's top global brands with high brand strength and its customers repeatedly demonstrate their willingness to pay more for Apple products than they would for equivalent products from other manufacturers (see Helmer's Costco vs. Tiffany ring example).
