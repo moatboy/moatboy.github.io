@@ -18,6 +18,9 @@ Pessimistic value: $271 B
 The Home Depot is the world's largest home improvement retailer, offering a wide assortment of building materials, home improvement products, lawn and garden products, and appliances, décor, and services. It operates across the US, Canada, and Mexico, primarily catering to two customer segments: do-it-yourself (DIY) customers and professional customers (Pros).  Its interconnected retail strategy, including robust online and in-store experiences, coupled with its vast supply network, has allowed it to achieve a dominant position in the industry.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=HD+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/HD/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

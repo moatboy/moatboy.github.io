@@ -18,6 +18,9 @@ Pessimistic value: $120 B
 Medtronic operates in the medical technology industry, specifically in the Cardiac and Vascular, Minimally Invasive Therapies, Restorative Therapies, Diabetes, and Neuromodulation segments. The company designs, manufactures, distributes, and sells a broad range of medical devices, therapies, and services worldwide.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=MDT+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/MDT/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

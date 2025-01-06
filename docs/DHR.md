@@ -18,6 +18,9 @@ Pessimistic value: $172 B
 Danaher Corporation is a diversified global science and technology innovator committed to helping its customers solve complex challenges and improve quality of life around the world. The company designs, manufactures, and markets professional, medical, industrial, and commercial products and services.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=DHR+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/DHR/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

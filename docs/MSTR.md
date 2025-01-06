@@ -18,6 +18,9 @@ Pessimistic value: $2.1 B
 MicroStrategy is a business intelligence software company providing enterprise analytics software and related services.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=MSTR+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/MSTR/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

@@ -18,6 +18,9 @@ Pessimistic value: $8.12 B
 GE Vernova (GEV) is a global leader in power generation technologies, with operations in renewables (wind, hydro), power, and grid solutions. The company was spun off from General Electric in early 2024.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=GEV+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/GEV/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

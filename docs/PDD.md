@@ -18,6 +18,9 @@ Pessimistic value: $54.7 B
 PDD Holdings Inc. operates a portfolio of e-commerce platforms, including Pinduoduo, Temu, and others primarily in China, but increasingly across the globe.  Pinduoduo is the company's main revenue driver, focused on agricultural products.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=PDD+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/PDD/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

@@ -18,6 +18,9 @@ Pessimistic value: $102 B
 American Express is a global payments company. Its business activities are organized into four segments: Global Consumer Services Group, Global Commercial Services, Global Merchant and Network Services, and Corporate and Other. Its core businesses include credit card member acquisition and retention, credit card lending, merchant acquisition and servicing, network services, and traveler’s checks.  American Express serves individual consumers, small businesses, and large corporations around the globe.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=AXP+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/AXP/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

@@ -18,6 +18,9 @@ Pessimistic value: $47.4 B
 Palo Alto Networks is a leading cybersecurity company that offers a platform approach to network security, cloud security, and secure access service edge (SASE).
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=PANW+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/PANW/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

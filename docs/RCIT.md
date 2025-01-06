@@ -18,6 +18,9 @@ Pessimistic value: $7.2
 Rogers Corporation, now a part of DuPont, specializes in engineered materials and components. While it was previously publicly traded, it is no longer listed following its acquisition.  During its time as a standalone entity, the company operated across several diverse business segments, a factor that complicates moat analysis. The core businesses that Rogers operated in can be roughly categorized as:
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=RCIT+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/RCIT/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

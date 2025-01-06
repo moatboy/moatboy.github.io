@@ -18,6 +18,9 @@ Pessimistic value: $150 B
 Abbott Laboratories is a diversified health care company with a presence in established product categories such as generic pharmaceuticals, nutritionals, and established medical devices.  The company has a small and growing business in branded, high-growth medical devices.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=ABT+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/ABT/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

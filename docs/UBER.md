@@ -18,6 +18,9 @@ Pessimistic value: $50 B
 Uber Technologies operates a technology platform for ride-hailing, food delivery, and freight services worldwide.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=UBER+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/UBER/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

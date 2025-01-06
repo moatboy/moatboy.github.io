@@ -18,6 +18,9 @@ Pessimistic value: $88.5 B
 Booking Holdings, formerly known as The Priceline Group, operates a portfolio of online travel and restaurant reservation platforms. Its primary brands include Booking.com, KAYAK, Priceline, Agoda, Rentalcars.com, and OpenTable.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=BKNG+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/BKNG/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

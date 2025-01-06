@@ -18,6 +18,9 @@ Pessimistic value: $270 B
 Chevron, a global energy company, is engaged in oil and natural gas exploration, production, refining, transportation, chemicals manufacturing, and power generation. Its integrated operations span the globe, with significant activity in North America, South America, Asia, Europe, Africa, and Australia.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=CVX+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/CVX/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

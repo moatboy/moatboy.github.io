@@ -18,6 +18,9 @@ Pessimistic value: €122 B
 TotalEnergies SE, formerly Total S.A., is a French multinational integrated energy and petroleum company. It operates in all segments of the oil and gas industry, including exploration and production, refining, chemicals, marketing and services, and power generation.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=TTE+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/TTE/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

@@ -18,6 +18,9 @@ Pessimistic value: $121.2 B
 Applied Materials supplies equipment for producing semiconductor chips, display manufacturing, and related industries. It derives the bulk of its revenues, approximately two-thirds, from semiconductor equipment. The remaining revenue streams come from AGS (Applied Global Services), providing consulting and related services, and Display and Adjacent Markets.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=AMAT+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/AMAT/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

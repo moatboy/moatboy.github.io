@@ -18,6 +18,9 @@ Pessimistic value: ₹7.5 T
 HDFC Bank is a leading private sector bank in India, offering a wide range of financial products and services across various customer segments, including retail, wholesale, treasury, and other banking services.  Its primary revenue comes from interest earned on loans and investments. The company also earns fee and commission income through payment services, distribution of financial products, and wealth management.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=HDB+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/HDB/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

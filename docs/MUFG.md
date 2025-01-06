@@ -18,6 +18,9 @@ Pessimistic value: ¥7,885 B
 MUFG is a large Japanese bank holding company offering a range of financial services globally, including commercial banking, trust banking, securities, credit cards, leasing, and other financial services. It operates in Japan, the Americas, EMEA, and Asia Pacific.  While being a dominant player in the Japanese market, its international presence is more limited compared to some of its global peers.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=MUFG+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/MUFG/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

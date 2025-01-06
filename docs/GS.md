@@ -18,6 +18,9 @@ Pessimistic value: $274
 Goldman Sachs is a leading global investment banking, securities, and investment management firm. It operates through four business segments: Global Banking & Markets, Asset & Wealth Management, Platform Solutions, and Consumer & Wealth Management.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=GS+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/GS/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

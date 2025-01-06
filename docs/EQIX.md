@@ -18,6 +18,9 @@ Pessimistic value: $50 B
 Equinix operates in the data center industry, owning and operating hundreds of International Business Exchange™ (IBX®) data centers worldwide. These data centers are strategically located worldwide and interconnected, serving as critical infrastructure hubs for businesses in the digital age.  The company derives its revenues primarily from providing colocation, interconnection, and related services to its customers.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=EQIX+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/EQIX/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

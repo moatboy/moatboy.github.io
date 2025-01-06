@@ -18,6 +18,9 @@ Pessimistic value: $85 B
 Alibaba Group is a large-cap Chinese e-commerce company. Its primary businesses include retail commerce in China, international retail commerce, local consumer services, Cainiao logistics, cloud computing, digital media and entertainment, and innovation initiatives and others. These businesses are accessed by consumers and businesses through Taobao (mobile app), Tmall (website and app), AliExpress (cross-border e-commerce platform), Ele.me (on-demand local services platform), Youku (online long-form video platform), Amap (mobile digital map and navigation platform), and Fliggy (online travel platform).
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=BABA+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/BABA/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

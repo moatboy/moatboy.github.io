@@ -18,6 +18,9 @@ Pessimistic value: $70 B
 Gilead Sciences is a biopharmaceutical company specializing in the discovery, development, and commercialization of innovative medicines. While it once held a dominant position in the HIV market, increased competition and patent expirations have led to a decline in revenues and profits.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=GILD+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/GILD/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

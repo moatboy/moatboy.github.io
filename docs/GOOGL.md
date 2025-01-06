@@ -18,6 +18,9 @@ Pessimistic value: $950 B
 Alphabet, the parent company of Google, is a dominant force in the digital advertising and cloud computing markets. Its vast reach, coupled with network effects and intangible assets, creates a formidable moat, although a few cracks are appearing.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=GOOGL+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/GOOGL/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

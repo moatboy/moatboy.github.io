@@ -18,6 +18,9 @@ Pessimistic value: $160 B
 AstraZeneca is a global biopharmaceutical company focused on the discovery, development, and commercialization of prescription medicines in Oncology, Cardiovascular, Renal & Metabolism (CVRM), Respiratory & Immunology, and other therapy areas. They operate in a highly competitive industry, with major players like Pfizer, Novartis, and Roche, demanding constant innovation to stay ahead of rivals.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=AZN+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/AZN/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

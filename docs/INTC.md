@@ -18,6 +18,9 @@ Pessimistic value: $115 B
 Intel is a semiconductor company designing and manufacturing microprocessors.  They have a long history, having been founded in 1968, and operate globally. Despite once dominating the PC market, the company currently faces significant challenges.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=INTC+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/INTC/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

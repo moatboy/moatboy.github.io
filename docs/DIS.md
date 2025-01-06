@@ -18,6 +18,9 @@ Pessimistic value: $120 B
 The Walt Disney Company is a global entertainment conglomerate with operations spanning media networks, parks and experiences, studio entertainment, and direct-to-consumer streaming services. Founded in 1923, Disney has built an unparalleled collection of intellectual property and brands, including Mickey Mouse, Star Wars, Marvel, Pixar, ESPN, and National Geographic. These assets have historically driven substantial profits and a dominant market position. However, the media landscape has undergone radical transformations in recent years, with the rise of streaming posing significant challenges and opportunities for the company.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=DIS+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/DIS/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

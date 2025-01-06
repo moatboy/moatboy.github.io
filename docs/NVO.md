@@ -18,6 +18,9 @@ Pessimistic value: $275 B
 Novo Nordisk, a global healthcare company based in Denmark, specializes in diabetes care. It holds a dominant market share in insulin and GLP-1 diabetes treatments.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=NVO+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/NVO/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

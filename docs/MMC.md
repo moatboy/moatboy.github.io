@@ -18,6 +18,9 @@ Pessimistic value: $74.2 B
 Marsh & McLennan Companies, Inc. is a global professional services firm providing advice and solutions in the areas of risk, strategy, and human capital. Its operations are divided into two main segments:
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=MMC+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/MMC/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

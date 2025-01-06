@@ -18,6 +18,9 @@ Pessimistic value: $8.2 B
 EADSY, or Expedia Group, Inc., is a global travel platform operating a portfolio of travel brands including Expedia, Hotels.com, Vrbo, Travelocity, Orbitz, and more. They operate in a highly competitive online travel agency (OTA) industry, a subsection of the business services sector.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=EADSY+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/EADSY/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

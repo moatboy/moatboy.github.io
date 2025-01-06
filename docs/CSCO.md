@@ -18,6 +18,9 @@ Pessimistic value: $48.4 B
 Cisco Systems is a multinational technology conglomerate specializing in networking hardware, software, and telecommunications equipment.  The company operates across various segments, broadly categorized as Products and Services.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=CSCO+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/CSCO/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

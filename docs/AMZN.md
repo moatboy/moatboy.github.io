@@ -18,6 +18,9 @@ Pessimistic value: $1.4 T
 Amazon's dominance in online retail, cloud services (AWS), and its growing presence in advertising and other sectors make it a compelling company.  However, its overreliance on growth as its core narrative and an increasingly uncertain competitive landscape warrant caution and a more measured assessment of its moat.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=AMZN+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/AMZN/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

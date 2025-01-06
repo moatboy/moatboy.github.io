@@ -18,6 +18,9 @@ Pessimistic value: $71.38 per share
 Anheuser-Busch InBev (BUD) is the world's largest brewer, with a dominant global presence. It owns a massive portfolio of beer brands, some of which are among the most recognized and consumed globally.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=BUD+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/BUD/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

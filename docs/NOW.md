@@ -18,6 +18,9 @@ Pessimistic value: $80 B
 ServiceNow is a leading provider of cloud-based workflow automation software for businesses. Its core business is built around its Now Platform, which provides a single, integrated platform for managing various IT and business processes, including IT service management (ITSM), IT operations management (ITOM), IT business management (ITBM), customer service management (CSM), human resources (HR), and security operations.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=NOW+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/NOW/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

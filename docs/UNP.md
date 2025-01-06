@@ -18,6 +18,9 @@ Pessimistic value: $92.23 B
 Union Pacific (UNP) is a Class I freight railroad operating in the western two-thirds of the United States.  It is one of only seven Class I railroads in North America, indicative of the consolidated nature of the industry.  Its primary business involves providing and managing the infrastructure and rolling stock for freight transportation, serving a diverse array of industries.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=UNP+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/UNP/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

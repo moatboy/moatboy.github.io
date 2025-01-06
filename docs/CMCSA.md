@@ -18,6 +18,9 @@ Pessimistic value: $170 B
 Comcast is a global media and technology company with two primary businesses: Cable Communications and NBCUniversal.  It also has a smaller business, Sky, based primarily in Europe.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=CMCSA+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/CMCSA/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

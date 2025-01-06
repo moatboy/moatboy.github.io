@@ -18,6 +18,9 @@ Pessimistic value: $46.4 B
 Moody's Corporation operates in the credit rating industry alongside S&P Global and Fitch Ratings. The industry exhibits an oligopoly structure dominated by these three players, creating significant barriers to entry. This report analyzes MCO's moat, provides a detailed business overview, and performs a valuation based on its financials and industry dynamics.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=MCO+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/MCO/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

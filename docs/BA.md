@@ -18,6 +18,9 @@ Pessimistic value: $170 B
 Boeing is one of the two dominant players in the global duopoly for commercial aircraft manufacturing, alongside Airbus. This industry structure provides a structural competitive advantage. However, Boeing's moat has been weakening for a few reasons:
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=BA+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/BA/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

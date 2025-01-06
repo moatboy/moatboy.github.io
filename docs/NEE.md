@@ -18,6 +18,9 @@ Pessimistic value: $115 B
 NextEra Energy, Inc. operates as a vertically integrated electric power and energy infrastructure company in North America.  The company's principal operations include generation, transmission, distribution, and retail sale of electricity, alongside energy-related products and services. It is the largest generator of renewable energy from wind and solar in the world.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=NEE+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/NEE/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

@@ -18,6 +18,9 @@ Pessimistic value: $30.4 B
 Marvell Technology is a fabless semiconductor company specializing in data infrastructure, which includes networking, storage, and custom ASICs (Application-Specific Integrated Circuits).
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=MRVL+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/MRVL/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

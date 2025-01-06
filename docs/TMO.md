@@ -18,6 +18,9 @@ Pessimistic value: $210 B
 Thermo Fisher Scientific is a leading provider of scientific research services, analytical instruments, reagents and consumables, diagnostics, and laboratory products and biopharma services.  The company operates globally across various end markets, including pharma and biotech, academic and government, industrial, clinical, and diagnostics.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=TMO+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/TMO/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

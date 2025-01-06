@@ -18,6 +18,9 @@ Pessimistic value: $52.5 B
 Eaton Corporation plc is a global power management company that provides energy-efficient solutions to help customers effectively manage electrical, hydraulic, and mechanical power more reliably, efficiently, safely, and sustainably. The company operates through two segments: Electrical Americas and Electrical Global.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=ETN+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/ETN/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

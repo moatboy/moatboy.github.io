@@ -18,6 +18,9 @@ Pessimistic value: $8.12 B
 AppLovin is a mobile technology company providing a software platform and related tools, primarily to mobile game developers. Their platform helps developers automate, optimize, and manage their user acquisition. The company also publishes and develops its own mobile games.  It operates in a highly competitive and rapidly growing segment of the technology sector.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=APP+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/APP/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

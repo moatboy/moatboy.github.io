@@ -18,6 +18,9 @@ Pessimistic value: $120 B
 Netflix is a leading global streaming entertainment service. Its primary business is providing subscription-based video streaming, allowing members access to a vast library of movies and TV shows on various devices. Netflix operates in nearly every country globally, generating revenue from paid memberships. The company has increasingly invested in original content creation and acquisition, which has been a significant driver of subscriber growth and brand building.  While DVD-by-mail remains a small component of the business in the U.S., streaming is the dominant force in its operations and revenue.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=NFLX+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/NFLX/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

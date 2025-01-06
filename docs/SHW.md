@@ -18,6 +18,9 @@ Pessimistic value: $62.26 B
 Sherwin-Williams is a leading global manufacturer and distributor of paints, coatings, and related products, catering to both professional and retail customers. The company operates through four segments: The Americas Group, Consumer Brands Group, Performance Coatings Group, and Administrative.  Its largest segment, The Americas Group, distributes architectural paint and coatings through a network of company-operated stores, serving professional, commercial, industrial, and residential customers.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=SHW+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/SHW/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

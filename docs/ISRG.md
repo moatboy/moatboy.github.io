@@ -18,6 +18,9 @@ Pessimistic value: $80 B
 Intuitive Surgical, Inc. is a global technology leader in minimally invasive care and the pioneer of robotic-assisted surgery. Their flagship product, the *da Vinci Surgical System*, enables surgeons to perform complex procedures with enhanced precision, dexterity, and control compared to traditional open surgery. ISRG operates in a concentrated industry, competing primarily with Medtronic, Johnson & Johnson, and Stryker. While barriers to entry are relatively high for the robotics platform itself, potential competition arises for the various procedure categories they address. ISRG has significant recurring revenue through instruments and accessories, sales, and servicing revenue.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=ISRG+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/ISRG/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

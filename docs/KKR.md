@@ -18,6 +18,9 @@ Pessimistic value: $43.2 B
 KKR is a leading global investment firm that offers alternative asset management and capital markets services across a range of strategies, including private equity, credit and liquid strategies, real estate, infrastructure, and strategic partnerships.  As of December 31, 2023, the firm had $556.5 billion in assets under management (AUM), making it one of the world's largest alternative asset managers.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=KKR+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/KKR/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

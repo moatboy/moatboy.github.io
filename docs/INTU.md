@@ -18,6 +18,9 @@ Pessimistic value: $107 B
 Intuit is a leading provider of financial management and tax preparation software for consumers, small businesses, and self-employed individuals. Its flagship products include QuickBooks, TurboTax, Mint, Credit Karma, and Mailchimp.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=INTU+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/INTU/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

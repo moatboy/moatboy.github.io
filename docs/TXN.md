@@ -18,6 +18,9 @@ Pessimistic value: $144 B
 Texas Instruments (TXN) is a global semiconductor company specializing in designing, manufacturing, and selling analog and embedded processing chips.  These chips form the fundamental building blocks of electronic devices across a wide variety of industries, including automotive, personal electronics, industrial automation, and communications equipment.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=TXN+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/TXN/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

@@ -18,6 +18,9 @@ Pessimistic value: $97 B
 Raytheon Technologies (RTX) is a prominent aerospace and defense company formed through the merger of United Technologies and Raytheon Company in 2020.  It operates through four principal business segments:
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=RTX+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/RTX/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

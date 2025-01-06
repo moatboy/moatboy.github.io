@@ -18,6 +18,9 @@ Pessimistic value: €130 B
 SAP is a multinational software corporation based in Walldorf, Germany. It is the world's leading enterprise resource planning (ERP) software provider.  ERP systems integrate various business processes, including accounting, sales, production, human resources, and so on, across an entire company. This integration enables companies to streamline their operations, improve communication and data sharing, and gain a more holistic view of their business. SAP’s primary customers are large corporations across diverse industries.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=SAP+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/SAP/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

@@ -18,6 +18,9 @@ Pessimistic value: $46.2 B
 Citigroup is a global financial services company operating across a wide range of businesses including consumer banking, investment banking, wealth management, trading, markets, and securities services.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=C+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/C/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

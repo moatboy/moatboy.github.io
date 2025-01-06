@@ -18,6 +18,9 @@ Pessimistic value: $100 B
 Qualcomm is a leading designer and supplier of digital wireless telecommunications products and services, including integrated circuits, system software, and licensing.  The company operates in two primary segments: Qualcomm CDMA Technologies (QCT), focused on chipsets, and Qualcomm Technology Licensing (QTL), which licenses the company's intellectual property.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=QCOM+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/QCOM/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

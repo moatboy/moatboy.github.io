@@ -18,6 +18,9 @@ Pessimistic value: $370 B
 KLA Corporation is a leading supplier of process control and yield management solutions primarily for the semiconductor industry. They also provide metrology and inspection systems for other high-technology industries, including:
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=KLAC+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/KLAC/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

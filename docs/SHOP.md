@@ -18,6 +18,9 @@ Pessimistic value: $48.2 B
 Shopify operates in the e-commerce platform industry, providing software and services that enable merchants of all sizes to create and manage online stores. While the company has established a strong presence and brand recognition, its moat rating of 3 out of 5 reflects a balanced assessment of its strengths and vulnerabilities.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=SHOP+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/SHOP/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

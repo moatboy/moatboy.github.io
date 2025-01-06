@@ -18,6 +18,9 @@ Pessimistic value: $214 B
 Costco Wholesale operates a chain of membership-only warehouse clubs offering a wide selection of merchandise at discounted prices. The company also offers ancillary services, such as optical, hearing aid, photo processing, and auto services.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=COST+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/COST/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

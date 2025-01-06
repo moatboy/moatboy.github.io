@@ -18,6 +18,9 @@ Pessimistic value: $140 B
 Linde plc is a leading global industrial gas and engineering company. Its primary business is the production and distribution of atmospheric gases (oxygen, nitrogen, argon) and other industrial gases (hydrogen, helium, carbon dioxide, etc.).  These gases are essential inputs across a wide range of industries, from healthcare and manufacturing to food and beverages and electronics.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=LIN+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/LIN/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

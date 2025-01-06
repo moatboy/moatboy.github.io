@@ -18,6 +18,9 @@ Pessimistic value: $71.8 B
 Altria Group, a dominant player in the U.S. tobacco industry, possesses a narrow moat stemming primarily from its iconic Marlboro brand and the addictive nature of nicotine.  However, the moat is eroding due to regulatory pressures, declining smoking rates, and the increasing social stigma associated with tobacco use.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=MO+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/MO/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

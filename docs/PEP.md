@@ -18,6 +18,9 @@ Pessimistic value: $200 B
 PepsiCo is a leading global food and beverage company with a diverse portfolio of brands, including Frito-Lay, Quaker Foods, Pepsi-Cola, Gatorade, and Tropicana. It operates in more than 200 countries and territories, manufacturing, marketing, distributing, and selling a wide variety of convenient foods and beverages.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=PEP+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/PEP/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

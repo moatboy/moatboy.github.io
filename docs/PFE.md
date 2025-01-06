@@ -18,6 +18,9 @@ Pessimistic value: $33.70 per share
 Pfizer is a global biopharmaceutical company operating in two primary segments:
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=PFE+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/PFE/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

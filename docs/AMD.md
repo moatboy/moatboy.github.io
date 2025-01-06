@@ -18,6 +18,9 @@ Pessimistic value: $88.8 B
 Advanced Micro Devices, Inc. (AMD) is a global semiconductor company that develops high-performance computing, graphics, and visualization technologies for a variety of markets, including servers, PCs, embedded devices, and game consoles. The company operates in four segments: Data Center, Client, Gaming, and Embedded.  AMD has become a significant competitor to Intel in the server and PC markets and to Nvidia in the graphics processing unit (GPU) market.  The company's growth has been driven by its focus on high-performance products, its innovative design capabilities, and its strategic partnerships.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=AMD+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/AMD/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

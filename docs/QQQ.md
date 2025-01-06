@@ -18,6 +18,9 @@ Pessimistic value: Fair Value = Market Price
 Invesco QQQ Trust, Series 1 (QQQ) is an exchange-traded fund (ETF) that tracks the Nasdaq-100 Index. This index comprises 100 of the largest nonfinancial companies listed on the Nasdaq Stock Market. QQQ offers investors diversified exposure to large-cap growth and technology companies.  The fund's holdings are determined by the index, with no active management involved. This means the fund's composition automatically adjusts as the index rebalances, generally quarterly. QQQ generates revenue primarily through the dividends received from the underlying stocks, less a small expense ratio (currently 0.20%).
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=QQQ+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/QQQ/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

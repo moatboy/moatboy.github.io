@@ -18,6 +18,9 @@ Pessimistic value: $127 B
 Philip Morris International (PM) is a leading international tobacco company, selling cigarettes and other nicotine-containing products in markets outside the United States.  Its brand portfolio includes *Marlboro*, *Parliament*, and *L&M*. Although the company boasts a wide global presence, its core business is in a state of secular decline, with cigarette volumes shrinking globally due to health concerns, increasing regulation, and social stigma.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=PM+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/PM/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

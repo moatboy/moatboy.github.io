@@ -18,6 +18,9 @@ Pessimistic value: $370 B
 Johnson & Johnson is a multinational corporation engaged in the research, development, manufacture, and sale of a broad range of health care products and services. Its business segments include Consumer Health, Pharmaceutical, and MedTech.  The company operates in virtually every country of the world.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=JNJ+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/JNJ/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

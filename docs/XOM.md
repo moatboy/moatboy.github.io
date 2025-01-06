@@ -18,6 +18,9 @@ Pessimistic value: $323 B
 ExxonMobil is one of the largest publicly traded international integrated oil and gas companies, operating across the upstream (exploration and production), downstream (refining, marketing, and chemical products), and chemical product segments.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=XOM+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/XOM/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

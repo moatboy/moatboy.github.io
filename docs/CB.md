@@ -18,6 +18,9 @@ Pessimistic value: $85.12 B
 Chubb is a global insurance and reinsurance company offering a broad range of property and casualty, accident and health, and life insurance products. The company operates through six segments: North America Commercial P&C Insurance, North America Personal P&C Insurance, North America Agricultural Insurance, Overseas General Insurance, Global Reinsurance, and Life Insurance.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=CB+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/CB/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

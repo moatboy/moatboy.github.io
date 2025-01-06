@@ -18,6 +18,9 @@ Pessimistic value: €138 B
 Sanofi is a global biopharmaceutical company specializing in pharmaceuticals, vaccines, and consumer healthcare. Its largest shareholder is L’Oreal, which owns 9.42% of shares as of 2022.  This substantial ownership stake may limit some strategic options available to management.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=SNY+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/SNY/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

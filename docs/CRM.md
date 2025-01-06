@@ -18,6 +18,9 @@ Pessimistic value: $175 B
 Salesforce is a leading provider of cloud-based customer relationship management (CRM) software and related services. Its core business involves helping companies manage their interactions with customers, automate sales processes, and improve overall customer experience.  Over the years, Salesforce has expanded its product offerings beyond CRM to include marketing automation, e-commerce platforms, analytics, and application development tools.  It primarily serves businesses of all sizes, ranging from small businesses to large enterprises.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=CRM+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/CRM/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

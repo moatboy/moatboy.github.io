@@ -18,6 +18,9 @@ Pessimistic value: $195 B
 McDonald's is a quick-service restaurant company with over 40,000 restaurants globally.  It operates under a largely franchised model (about 95% of restaurants), with franchisees paying rent and royalties to McDonald's. The company primarily earns its revenue through these rent and royalty payments.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=MCD+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/MCD/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

@@ -18,6 +18,9 @@ Pessimistic value: $67 B
 MercadoLibre operates a dominant e-commerce and fintech platform in Latin America, benefiting from strong network effects and switching costs in several of its business lines.  While the company enjoys robust growth and high market share in a region with significant long-term potential, competitive pressures and regulatory risks temper the moat's width.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=MELI+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/MELI/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

@@ -18,6 +18,9 @@ Pessimistic value: $400 B
 UnitedHealth Group Incorporated is a diversified health care company dedicated to helping people live healthier lives and helping the health system work better for everyone. The company operates through two platforms: UnitedHealthcare, which provides health benefits, and Optum, which provides information and technology-enabled health services.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=UNH+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/UNH/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

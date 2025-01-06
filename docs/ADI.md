@@ -18,6 +18,9 @@ Pessimistic value: $80 B
 Analog Devices designs, manufactures, and markets a broad portfolio of integrated circuits (ICs) used in signal processing. These chips convert real-world phenomena like temperature, pressure, sound, light, speed, and motion into electrical signals, and vice versa.  ADI operates across various end markets, including industrial, automotive, communications, and consumer.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=ADI+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/ADI/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

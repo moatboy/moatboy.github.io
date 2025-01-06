@@ -18,6 +18,9 @@ Pessimistic value: $105.4 B
 Lowe's Companies, Inc. is a major home improvement retailer, operating primarily in the United States.  It competes with Home Depot and other smaller firms. While Lowe's has historically enjoyed strong performance, its future prospects are clouded by increased competition and a maturing market.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=LOW+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/LOW/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

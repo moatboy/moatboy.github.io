@@ -18,6 +18,9 @@ Pessimistic value: $325 B
 Procter & Gamble (P&G) is a consumer products giant with a wide moat derived primarily from **intangible assets (brands)** and supported by **economies of scale**, particularly in distribution.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=PGR+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/PGR/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

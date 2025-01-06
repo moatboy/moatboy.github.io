@@ -18,6 +18,9 @@ Pessimistic value: $58.5 B
 RELX PLC, formerly Reed Elsevier, is a global provider of information-based analytics and decision tools for professional and business customers.  The company operates in four primary segments:
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=RELX+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/RELX/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

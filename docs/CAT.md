@@ -18,6 +18,9 @@ Pessimistic value: $102 B
 Caterpillar is a leading global manufacturer of construction and mining equipment, diesel and natural gas engines, industrial gas turbines, and diesel-electric locomotives.  The company operates through three primary segments: Construction Industries, Resource Industries, and Energy & Transportation. CAT sells its products through a worldwide network of independent dealers, providing a significant competitive advantage in terms of distribution and service.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=CAT+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/CAT/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

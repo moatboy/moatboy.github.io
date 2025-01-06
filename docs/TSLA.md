@@ -18,6 +18,9 @@ Pessimistic value: $276.4 B
 Tesla's core business is the design, development, manufacturing, lease, and sale of electric vehicles, battery energy storage from home to grid-scale, solar panels and solar roof tiles, and related products and services.  While it's tempting to get caught up in the excitement surrounding Tesla and other "story" stocks,  a rigorous approach to valuation requires both qualitative and quantitative scrutiny.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=TSLA+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/TSLA/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

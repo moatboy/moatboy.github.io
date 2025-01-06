@@ -18,6 +18,9 @@ Pessimistic value: ¥7,230 B
 SMFG, a leading financial services group in Japan, operates primarily through three segments: Wholesale, Retail, and Global Markets. It offers a comprehensive suite of financial products and services, including commercial banking, trust banking, securities, and asset management.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=SMFG+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/SMFG/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

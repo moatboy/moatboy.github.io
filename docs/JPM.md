@@ -18,6 +18,9 @@ Pessimistic value: $117 B
 JPMorgan Chase & Co. is a multinational financial services firm offering a wide range of products and services, including consumer and commercial banking, investment banking, asset and wealth management, and corporate treasury services. The company operates globally and is headquartered in New York City.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=JPM+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/JPM/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

@@ -18,6 +18,9 @@ Pessimistic value: $90 B
 Stryker Corporation is a leading medical technology company that designs, manufactures, and markets a wide range of products and services for orthopedics, medical and surgical, and neurotechnology and spine.  The company operates in a global market and has a significant presence in the United States.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=SYK+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/SYK/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

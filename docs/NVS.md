@@ -18,6 +18,9 @@ Pessimistic value: $170 B
 Novartis is a large pharmaceutical company specializing in the development and sale of patented prescription drugs and generic medications. Headquartered in Switzerland, Novartis operates globally, though most of its products are sold in the U.S., EU, and Japan.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=NVS+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/NVS/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

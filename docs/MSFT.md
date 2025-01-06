@@ -18,6 +18,9 @@ Pessimistic value: $1.9 T
 Microsoft is a technology behemoth, dominating several key markets including operating systems (Windows), productivity software (Office), cloud computing (Azure), gaming (Xbox), and professional networking (LinkedIn).  Their business model has transitioned over time from primarily selling packaged software to a subscription-based service model, generating recurring revenue streams.  They cater to a diverse customer base, spanning individuals, small businesses, and large enterprises.  Their operations are global, with a significant presence in virtually every country.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=MSFT+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/MSFT/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

@@ -18,6 +18,9 @@ Pessimistic value: $62.73 B
 Vertex Pharmaceuticals is a biotechnology company focused on developing and commercializing therapies for serious diseases, most notably cystic fibrosis (CF).  While the company currently has a dominant position in the CF market, this analysis suggests that its moat may not be as wide as some believe.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=VRTX+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/VRTX/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

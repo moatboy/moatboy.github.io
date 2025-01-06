@@ -18,6 +18,9 @@ Pessimistic value: $63.8 B
 Enbridge is a leading North American energy infrastructure company with a diverse portfolio of assets in liquids pipelines, gas transmission and midstream, gas distribution and storage, renewable power generation, and energy services. The company's primary business is the transportation of crude oil and natural gas, primarily in North America.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=ENB+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/ENB/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

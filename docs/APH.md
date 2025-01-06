@@ -18,6 +18,9 @@ Pessimistic value: $42.8 B
 Amphenol Corporation is a global leader in the design, manufacture, and marketing of electrical, electronic, and fiber optic connectors, interconnect systems, antennas, sensors, and sensor-based products. The company's products serve a diverse range of end markets, including automotive, broadband communications, commercial aerospace, industrial, information technology and data communications, military, mobile devices, and mobile networks.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=APH+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/APH/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

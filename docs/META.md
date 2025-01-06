@@ -18,6 +18,9 @@ Pessimistic value: $280 B
 Meta Platforms, a dominant force in social media and digital advertising, presents a compelling but complex case for moat analysis. While the company exhibits clear strengths, significant challenges raise questions about the long-term defensibility of its business. Therefore, a 3/5 moat rating reflecting a narrow moat is warranted.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=META+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/META/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

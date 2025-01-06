@@ -18,6 +18,9 @@ Pessimistic value: $80 B
 PayPal operates a two-sided platform connecting merchants and consumers in the digital payments space. Its key business segments are:
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=PYPL+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/PYPL/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

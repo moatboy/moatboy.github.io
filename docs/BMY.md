@@ -18,6 +18,9 @@ Pessimistic value: $120 B
 Bristol-Myers Squibb is a global biopharmaceutical company focusing on discovering, developing, licensing, manufacturing, marketing, distributing, and selling innovative medicines. They specialize in therapeutic areas such as oncology, hematology, immunology, and cardiovascular disease.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=BMY+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/BMY/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

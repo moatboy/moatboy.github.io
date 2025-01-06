@@ -18,6 +18,9 @@ Pessimistic value: $520 B
 Berkshire Hathaway is a sprawling conglomerate with businesses in insurance, railroads, utilities, energy, manufacturing, service and retailing, and finance and financial products.  It is effectively a publicly traded investment fund managed by Warren Buffett and Charlie Munger, two of the greatest investors of all time.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=BRK-B+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/BRK-B/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

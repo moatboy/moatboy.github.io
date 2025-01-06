@@ -18,6 +18,9 @@ Pessimistic value: $88 B
 Rio Tinto is a diversified mining and metals company with operations across the globe. The company is a leading producer of iron ore, aluminum, copper, diamonds, and minerals used in industrial applications.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=RIO+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/RIO/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

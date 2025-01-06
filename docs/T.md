@@ -18,6 +18,9 @@ Pessimistic value: $11.7 B
 AT&T is a major telecommunications company operating in the United States and globally. Its business segments comprise of:
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=T+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/T/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

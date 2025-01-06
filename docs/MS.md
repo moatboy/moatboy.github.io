@@ -18,6 +18,9 @@ Pessimistic value: $68 B
 Morgan Stanley is a global financial services firm offering investment banking, wealth management, and investment management services.  Its diverse range of services and global reach makes it a significant player in the financial industry.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=MS+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/MS/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

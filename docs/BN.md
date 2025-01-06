@@ -18,6 +18,9 @@ Pessimistic value: $50.5 B
 Brookfield Asset Management is a global alternative asset manager with approximately $825 billion in assets under management (AUM) as of 2023 year-end. The company focuses on real estate, infrastructure, renewable power, private equity, and credit.  Brookfield generates revenue primarily from fee-related earnings, carried interest, and disposition gains/losses, with fee-related earnings providing stability and predictability. The company's investment strategy focuses on long-term value creation by acquiring high-quality assets at attractive prices and actively managing them to improve their performance.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=BN+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/BN/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

@@ -18,6 +18,9 @@ Pessimistic value: $67.8 B
 Boston Scientific is a global developer, manufacturer, and marketer of medical devices used in a wide range of interventional medical specialties. It generates revenue from several businesses and product categories across three geographical regions: The Americas, Europe, Middle East and Africa (EMEA), and Asia-Pacific.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=BSX+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/BSX/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

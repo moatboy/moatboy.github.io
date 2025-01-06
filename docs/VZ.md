@@ -18,6 +18,9 @@ Pessimistic value: $126 B
 Verizon operates in a highly competitive and mature telecommunications industry, primarily in the United States. Its core business involves providing wireless and wireline communication services, primarily to businesses and consumers. Its main revenue streams are wireless service, broadband and other wireline services, and other (media and other businesses).
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=VZ+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/VZ/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

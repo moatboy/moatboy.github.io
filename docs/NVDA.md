@@ -18,6 +18,9 @@ Pessimistic value: $350 B
 NVIDIA is a dominant player in the growing accelerated computing industry, with a strong focus on graphics processing units (GPUs) and related platforms. While the company has established a clear leadership position in several key markets,  the evolving nature of technology and competition warrants a degree of caution.  Thus, we assign NVIDIA a narrow moat rating of 3/5, reflecting its current strength but also acknowledging potential challenges ahead.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=NVDA+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/NVDA/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

@@ -18,6 +18,9 @@ Pessimistic value: $105 B
 Prologis, Inc. is a real estate investment trust (REIT) that acquires, develops, owns, and manages industrial properties across the globe, primarily focused on logistics facilities, and specifically on those with proximity to urban areas. Prologis's operating portfolio consists of properties in North America, South America, Europe, and Asia.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=PLD+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/PLD/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

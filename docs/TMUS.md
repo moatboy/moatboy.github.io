@@ -18,6 +18,9 @@ Pessimistic value: $115 B
 T-Mobile US, Inc. is a major wireless communications services provider in the United States, operating the third-largest wireless network nationwide.  It offers a range of wireless voice, messaging, and data services to a diverse customer base, including individual consumers, businesses, and government entities.  T-Mobile's primary revenue streams are service revenues and equipment sales. Its business model is centered around providing reliable wireless service at competitive prices, and it has made significant strides in expanding and upgrading its network infrastructure, particularly with the integration of Sprint. T-Mobile also benefits from the ownership of a significant amount of wireless spectrum licenses.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=TMUS+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/TMUS/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

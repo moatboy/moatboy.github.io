@@ -18,6 +18,9 @@ Pessimistic value: $144 M
 AIQUY Inc. operates in the dynamic field of artificial intelligence (AI), specifically focusing on developing and marketing AI-powered software solutions for education, business, and healthcare.  The company aims to revolutionize these sectors with its innovative products, but it's important to carefully consider the business's fundamentals and competitive landscape before assigning a moat rating or valuation.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=AIQUY+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/AIQUY/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

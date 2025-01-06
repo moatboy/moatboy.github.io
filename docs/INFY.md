@@ -18,6 +18,9 @@ Pessimistic value: $63.5 B
 Infosys Limited is a global technology services company providing consulting, technology, outsourcing, and next-generation digital services. Its core business is providing IT services to businesses around the world.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=INFY+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/INFY/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

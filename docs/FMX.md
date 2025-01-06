@@ -18,6 +18,9 @@ Pessimistic value: $20.26 /share
 Fomento Económico Mexicano, S.A.B. de C.V. (FMX) operates as a holding company. Its primary business segments are Coca-Cola FEMSA, a Coca-Cola bottler; FEMSA Comercio, a proximity retailer; and FEMSA Salud, a drugstore chain.  The company also has small investments in other companies. It also has invested in Heineken.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=FMX+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/FMX/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

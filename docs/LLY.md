@@ -18,6 +18,9 @@ Pessimistic value: $338 B
 Eli Lilly and Company is a global pharmaceutical company that develops, manufactures, and markets prescription drugs for human and animal health. Its products are sold in approximately 120 countries worldwide, with the majority of sales occurring in the United States. LLY operates in a single business segment—the pharmaceutical industry.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=LLY+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/LLY/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

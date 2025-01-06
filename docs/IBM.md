@@ -18,6 +18,9 @@ Pessimistic value: $110 B
 IBM, a venerable technology company, has transitioned from a hardware-centric business to one primarily focused on software and services, including cloud computing, AI, and consulting. While its legacy segments (mainframes) remain profitable, its future growth hinges on capturing share in hybrid cloud and AI.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=IBM+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/IBM/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

@@ -18,6 +18,9 @@ Pessimistic value: $217 B
 Coca-Cola is a global beverage giant, best known for its namesake soft drink. The company operates a franchise model, manufacturing concentrates and syrups that are then sold to independent bottlers who handle the production and distribution of the finished products. While this business model is simple, its competitive advantages are formidable.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=KO+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/KO/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

@@ -18,6 +18,9 @@ Pessimistic value: $47.5 B
 Arista Networks is a cloud networking solutions provider focused on high-speed, software-driven cloud networking for large datacenter and campus environments. They derive revenue from selling their Extensible Operating System (EOS), network switches and routers, as well as professional services such as consulting, training, and support contracts.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=ANET+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/ANET/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

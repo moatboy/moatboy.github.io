@@ -18,6 +18,9 @@ Pessimistic value: $228 B
 Broadcom Inc. is a global technology leader that designs, develops, and supplies a broad range of semiconductor and infrastructure software solutions.  Their products and services serve diverse end markets including:
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=AVGO+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/AVGO/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

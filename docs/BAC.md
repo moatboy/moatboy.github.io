@@ -18,6 +18,9 @@ Pessimistic value: $187 B
 Bank of America is a multinational investment bank and financial services company. Its primary businesses include consumer banking, global wealth and investment management, global banking, and global markets. The company operates in a highly regulated industry, adding an additional layer of complexity to assessing its moat.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=BAC+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/BAC/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

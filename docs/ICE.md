@@ -18,6 +18,9 @@ Pessimistic value: $50 B
 Intercontinental Exchange (ICE) operates a network of regulated exchanges and clearing houses, and provides data services for commodity, financial, and fixed income markets. Its business can be segmented into three primary areas:
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=ICE+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/ICE/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

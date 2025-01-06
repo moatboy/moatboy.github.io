@@ -18,6 +18,9 @@ Pessimistic value: $223 B
 Oracle is a multinational computer technology corporation headquartered in Austin, Texas. The company develops and markets cloud applications, platform and infrastructure technologies for enterprises.  Its main business lines are cloud services and license support, hardware, and services. While their offerings include many applications, their largest product remains the Oracle database, which remains the gold standard for its breadth of data storage, retrieval, and manipulation functions.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=ORCL+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/ORCL/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

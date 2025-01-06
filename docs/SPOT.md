@@ -18,6 +18,9 @@ Pessimistic value: $18.8 B
 Spotify is a music streaming service with a dual revenue model: premium subscriptions (no ads) and an ad-supported service. It currently operates in most of the world, but its core markets (North America and Europe) are becoming increasingly saturated, presenting challenges for continued growth. While Spotify is the industry leader, competition remains intense, especially with Apple Music and Amazon Music vying for market share.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=SPOT+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/SPOT/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

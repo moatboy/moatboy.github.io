@@ -18,6 +18,9 @@ Pessimistic value: $50.1 B
 ARM Holdings is a leading semiconductor and software design company based in the United Kingdom. The company's primary business is licensing its intellectual property (IP), primarily in the form of central processing units (CPUs) and related technologies, to a diverse range of customers, including system companies, semiconductor manufacturers, original equipment manufacturers (OEMs), and software vendors.  ARM's business model is centered around licensing fees and royalties received from its licensees.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=ARM+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/ARM/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

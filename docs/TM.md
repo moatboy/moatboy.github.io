@@ -18,6 +18,9 @@ Pessimistic value: ¥2,200,000 M
 Toyota Motor Corporation is a global automotive manufacturer headquartered in Toyota City, Japan.  The company operates in a highly competitive industry, facing rivals like Volkswagen, General Motors, Ford, and Hyundai.  Its business spans various segments, including the design, manufacture, assembly, and sale of passenger cars, minivans, trucks, and buses, as well as related parts and accessories. Toyota also has a significant presence in the financial services sector.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=TM+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/TM/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

@@ -18,6 +18,9 @@ Pessimistic value: $130 B
 Royal Dutch Shell plc is a global group of energy and petrochemical companies. It operates in over 70 countries with over 80,000 employees.  Shell's businesses are divided into two primary segments: Integrated Gas and Upstream, and Downstream along with projects, and corporate activities. Shell’s Integrated Gas business engages in liquefied natural gas (LNG), natural gas and power, and related activities and the Downstream business engages in oil products, chemicals, and retail/marketing. Upstream activities are the exploration, development and extraction of crude oil, natural gas and natural gas liquids. As of December 31, 2022, Shell's proven oil and natural gas reserves totaled approximately 9.72 billion barrels of oil equivalent.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=SHEL+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/SHEL/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 

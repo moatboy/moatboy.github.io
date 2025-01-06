@@ -18,6 +18,9 @@ Pessimistic value: $87.6 B
 ADP is a leading provider of human capital management (HCM) solutions, primarily payroll processing, to businesses of all sizes.  The company also offers retirement plan administration and human resource business process outsourcing (HR BPO), as well as insurance brokerage services.
 {: .fs-6 .fw-300 }
 
+[Investor Relations](https://www.google.com/search?q=ADP+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/ADP/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
 ---
 
 {: .warning } 
