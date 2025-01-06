@@ -51,7 +51,7 @@ ADI's moat receives a rating of 3 out of 5.  While the company exhibits characte
 **Valuation (As of October 2023)**
 
 {: .note }
-*Disclaimer*: This valuation is for educational purposes only and should not be considered investment advice. Conduct your own thorough research before making any investment decisions.
+ *Disclaimer*: This valuation is for educational purposes only and should not be considered investment advice. Conduct your own thorough research before making any investment decisions.
 > Valuation Methodology:  Discounted Cash Flow (DCF) using a perpetuity growth model, based on free cash flow to the firm (FCFF)
 
 > DCF Model: [Here you would insert an excel generated valuation output based on available financials from the past 3 years and projected future financials]
@@ -102,4 +102,4 @@ Cash and Marketable Securities: $1.25 Billion
 > With roughly 2 Billion shares outstanding, this translates to an **equity value of approximately $80 billion**.
 
 {: .important }
-This valuation of $80 billion represents a conservative and, in my opinion, reasonable fair value for Analog Devices.  Given the cyclical nature of the industry and the competitive landscape, investors should demand a margin of safety before purchasing shares.  Furthermore, it is crucial to closely monitor the firm's financial performance, competitive position, and strategic execution to assess the long-term sustainability of its moat.
+ This valuation of $80 billion represents a conservative and, in my opinion, reasonable fair value for Analog Devices.  Given the cyclical nature of the industry and the competitive landscape, investors should demand a margin of safety before purchasing shares.  Furthermore, it is crucial to closely monitor the firm's financial performance, competitive position, and strategic execution to assess the long-term sustainability of its moat.

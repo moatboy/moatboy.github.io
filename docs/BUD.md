@@ -46,7 +46,7 @@ BUD has a **narrow moat**, which I rate as a **3 out of 5**.
 * **Scale:** As the world's largest brewer, BUD benefits from economies of scale in purchasing and production. These cost advantages are primarily relevant in markets where volume matters more than differentiation. I am not entirely convinced about the long-term sustainability of BUD’s cost advantage as the industry is slowly becoming more vertically integrated. For instance, in-house beer production may not be as effective as relying on locally produced beer using specialized brewing processes. 
 
 {: .warning }
-**Overall Moat Assessment:** While BUD's brands and distribution network provide a solid foundation for its narrow moat, its ability to sustain excess returns is limited by the fragmented and competitive nature of the beer industry, particularly in developed markets. Further, rising input costs have put pressure on profitability and created incentives to invest in businesses and geographies that could be argued are a distraction from BUD's core business. The growing popularity of craft breweries and increasing consumer preference for healthier beverages are also potential long-term threats to the company's moat.
+ **Overall Moat Assessment:** While BUD's brands and distribution network provide a solid foundation for its narrow moat, its ability to sustain excess returns is limited by the fragmented and competitive nature of the beer industry, particularly in developed markets. Further, rising input costs have put pressure on profitability and created incentives to invest in businesses and geographies that could be argued are a distraction from BUD's core business. The growing popularity of craft breweries and increasing consumer preference for healthier beverages are also potential long-term threats to the company's moat.
 **Valuation:**
 
 I employed a discounted cash flow (DCF) approach to value BUD, using its financial statements from 2019 to 2022 and 2023 interim results.
@@ -58,7 +58,7 @@ I employed a discounted cash flow (DCF) approach to value BUD, using its financi
 * **Cost of Capital:** 7.8 percent WACC in perpetuity for AB-Inbev overall
 
 {: .important }
-**Detailed Calculation:**
+ **Detailed Calculation:**
 1. **Forecast free cash flow (FCF) for the next 10 years.** (Calculations not shown due to limited space. Projected financial statements are shown in the attached resources).
 2. **Calculate the terminal value:** $50.44 billion (assumes 3% growth rate in perpetuity)
 3. **Discount the FCF and terminal value back to today at the cost of capital.** The present value of the next 10 years of FCF is $13.42 billion, and the present value of the terminal value is $29.84 billion.
@@ -78,7 +78,7 @@ I employed a discounted cash flow (DCF) approach to value BUD, using its financi
 | **Value per Share (Intrinsic)** | **$71.38**        |
 
 {: .note }
-**Caveats and Additional Considerations:**
+ **Caveats and Additional Considerations:**
 * This valuation is based on a number of assumptions that may not materialize. There is considerable uncertainty attached to the valuation of companies. The actual outcome may differ significantly from what has been laid out. Consequently, it is important to test the robustness of a valuation result. Sensitivity and scenario analysis would be employed to estimate the range of outcomes and incorporate risk.
 * The beer industry is mature, and growth is likely to be muted going forward.
 * I applied a margin of safety (MOS) to arrive at a fair value estimate. Given the challenges that AB InBev faces, a larger than usual MOS would be applied.  

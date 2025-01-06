@@ -95,6 +95,6 @@ Total Equity Value = $16,568.81 + $204,718.35
 Total Equity Value = $221,287.16 million
 ```
 {: .highlight }
-Note: I have used Citigroup's latest 10K (2021) for valuation purposes. I have not taken into account any future share repurchases. If Citigroup continues buybacks, its current valuation and share price are probably not sustainable, but rather merely a reflection of those buybacks.
+ Note: I have used Citigroup's latest 10K (2021) for valuation purposes. I have not taken into account any future share repurchases. If Citigroup continues buybacks, its current valuation and share price are probably not sustainable, but rather merely a reflection of those buybacks.
 {: .warning }
 >  Based on this valuation, Citigroup's intrinsic value per share (assuming a 5.2 percent failure rate) is approximately $72.65 per share (see computations of other valuation variables in provided resource). Assuming the company's share price is undervalued at $46 (at time of valuation, June 2021), this valuation result suggests it may not be as undervalued as it seems, and therefore, it is recommended that an investor wait for a better entry point into the stock.

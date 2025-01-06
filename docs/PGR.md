@@ -36,7 +36,7 @@ Procter & Gamble (P&G) is a consumer products giant with a wide moat derived pri
 **Moat Analysis:**
 
 {: .important }
-P&G’s core moat stems from the power of its brands.   Consumers are willing to pay a premium for brands they trust and that have earned a reputation for quality and performance.  This brand loyalty creates a buffer against competitors and provides pricing power. Examples include Tide, Gillette, Pampers, Crest, and many others. This translates into consistent and robust profits and high returns on invested capital.
+P&G’s core moat stems from the power of its brands.   Consumers are willing to pay a premium for brands they trust and that have earned a reputation for quality and performance.  This brand loyalty creates a buffer against competitors and provides pricing power. Examples include Tide, Gillette, Pampers, Crest, and many others. This translates into consistent and robust profits and high returns on invested capital. 
 Economies of scale, particularly in distribution, further bolster P&G’s competitive position.  Its massive size allows it to negotiate favorable terms with retailers and efficiently distribute its products worldwide. This scale is a significant barrier to entry for new competitors and makes it very difficult for smaller firms to compete effectively.
 
 While the consumer staples sector isn't immune to competitive pressures and changing consumer preferences, P&G’s wide moat and diversified portfolio of leading brands make it well-positioned to sustain its competitive advantages and generate excess returns over the long term.
@@ -73,5 +73,5 @@ To estimate a fair value for P&G, we will use a **discounted cash flow (DCF)** m
 **Approximation:**
 
 {: .note }
-Based on these pessimistic assumptions and the company's recent financial performance, the DCF model would generate an approximate valuation in the neighborhood of \$325 billion, which translates to roughly \$115 per share. While this is slightly higher than the market value as of late 2024, it's important to remember that we've taken a cautious approach, factoring in the potential for slower growth and margin pressure.  A more optimistic scenario would yield a higher valuation.
+Based on these pessimistic assumptions and the company's recent financial performance, the DCF model would generate an approximate valuation in the neighborhood of \$325 billion, which translates to roughly \$115 per share. While this is slightly higher than the market value as of late 2024, it's important to remember that we've taken a cautious approach, factoring in the potential for slower growth and margin pressure.  A more optimistic scenario would yield a higher valuation.  
 It's important to consider P&G's performance relative to its intrinsic value. If PGR trades significantly below this estimated intrinsic value, it becomes a much more compelling investment.

@@ -71,7 +71,7 @@ However, these moat attributes are not sufficient to warrant a higher rating:
 To value KKR, we use the **discounted cash flow (DCF)** methodology, specifically focusing on free cash flow to equity (FCFE), primarily because of the challenges in applying relative valuations to a company like KKR. 
 
 {: .warning }
-**It is extremely difficult for even the most diligent analysts to forecast earnings, growth, the cost of equity, and the required amounts of cash flow on a company-by-company basis, even for companies that look reasonably priced. This difficulty is exacerbated by the lack of information on companies that look underpriced. This makes DCF modeling a challenge for KKR.**
+ **It is extremely difficult for even the most diligent analysts to forecast earnings, growth, the cost of equity, and the required amounts of cash flow on a company-by-company basis, even for companies that look reasonably priced. This difficulty is exacerbated by the lack of information on companies that look underpriced. This makes DCF modeling a challenge for KKR.**
 #### Key Assumptions & Inputs
 
 1. **Revenue Growth:** We forecast revenue growth rates, based upon the company's guidance and market growth rates, considering macroeconomic scenarios that appear reasonable given the company's recent performance and outlook.
@@ -121,7 +121,7 @@ These factors are incorporated into the valuation using scenario analysis and pr
 #### Valuation Range
 
 {: .note }
-Given the inherent uncertainty in valuing a financial firm like KKR, it is essential to consider a range of values, rather than a single point estimate. Based on the scenarios considered, with their associated probabilities and their discounted cash flows, a reasonable range for KKR's fair value would be approximately $39.1 billion to $47.55 billion.  This implies a potential undervaluation at the current market capitalization of KKR.
+ Given the inherent uncertainty in valuing a financial firm like KKR, it is essential to consider a range of values, rather than a single point estimate. Based on the scenarios considered, with their associated probabilities and their discounted cash flows, a reasonable range for KKR's fair value would be approximately $39.1 billion to $47.55 billion.  This implies a potential undervaluation at the current market capitalization of KKR.
 
 >Note: This analysis is based on information available as of December 31, 2023, and August 2024. Actual results may vary.  It should not be construed as investment advice. Additional risk factors, such as regulatory changes, lawsuits, and unforeseen events, could impact KKR’s financials. 
 

@@ -119,6 +119,10 @@ for input_file in docs:
             for callout in callouts:
                 if callout in line:
                     print(f"{callout} detected.")
-                    line = callout + "\n" + line.replace(callout, "").strip()
+                    if not (line.startswith("**") and line.endswith("**")):
+                        line = line.strip()
+                        line = callout + "\n" + line.replace(callout, "")
+                    else:
+                        line = line.replace(callout, "").strip()
 
             file.write(line)

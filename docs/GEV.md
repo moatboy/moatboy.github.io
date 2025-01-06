@@ -28,7 +28,7 @@ GE Vernova (GEV) is a global leader in power generation technologies, with opera
 
 
 {: .warning }
-> The company seems to be at its peak in terms of market penetration: They're in the mature part of the product life cycle.
+> The company seems to be at its peak in terms of market penetration: They're in the mature part of the product life cycle. 
 ### Business Overview
 
 GEV operates in a diverse, competitive, and dynamic global industry undergoing significant shifts and transformations. The company faces numerous challenges, including macroeconomic headwinds, supply chain disruptions, and technological advancements. GEV's business model focuses on providing high-tech equipment and services in the energy sector, which is critical for many industries worldwide.
@@ -86,7 +86,7 @@ A discounted cash flow (DCF) valuation was performed using the following assumpt
 * **Liquidation Value:** 50% of book value of assets
 
 {: .note }
-> Although R&D is expensed, as it is at US companies, for valuation purposes, it should be capitalized to gain greater insight into performance and profitability. We are already familiar with the impact of capitalization...
+> Although R&D is expensed, as it is at US companies, for valuation purposes, it should be capitalized to gain greater insight into performance and profitability. We are already familiar with the impact of capitalization... 
 **Calculations:**
 
 1. **Forecasted Free Cash Flow to the Firm (FCFF):**  Projected revenues, margins, and reinvestment rates were used to forecast FCFF for the next 10 years. [For detailed calculations, refer to financials in attached spreadsheets]
