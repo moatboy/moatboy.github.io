@@ -49,8 +49,8 @@ Overall, ConocoPhillips's competitive advantages are not as strong or durable as
 
 **Valuation:**
 
-{: .warning }A discounted cash flow (DCF) analysis was conducted using financial statements from 2017 to 2022 and the latest company filings, along with projections from Morgan Stanley research. The financials reflect a period of economic recovery in oil markets.{: .warning }
-
+{: .warning }
+A discounted cash flow (DCF) analysis was conducted using financial statements from 2017 to 2022 and the latest company filings, along with projections from Morgan Stanley research. The financials reflect a period of economic recovery in oil markets.
 **Assumptions:**
 
 * **Revenue Growth:**  For the next five years, revenues are assumed to grow at an average rate of 3 percent per year, reflecting conservative projections for oil price growth.
@@ -79,10 +79,8 @@ Overall, ConocoPhillips's competitive advantages are not as strong or durable as
 
 **Results:**
 
-Based on these pessimistic assumptions, the estimated intrinsic value of ConocoPhillips is **$107.87 billion**, or **$87.79** per share.  This is somewhat below the current market price, but within a reasonable range, given the uncertainties of the commodity business.
-{: .warning }It is important to note that this valuation is highly dependent on the price of oil and gas, and a change in the commodity cycle could change the valuation significantly. Also, be certain that if a firm or industry has historically generated returns below the cost of capital, its future value may not be all that attractive—the odds of the firm or industry turning around are not that great, even if you have a very clever management team. Finally, remember that this valuation gives you only a point estimate of ConocoPhillips's value today, but we recommend constructing a value range as we've done here, using at least three different scenarios.
 {: .warning }
-
+Based on these pessimistic assumptions, the estimated intrinsic value of ConocoPhillips is **$107.87 billion**, or **$87.79** per share.  This is somewhat below the current market price, but within a reasonable range, given the uncertainties of the commodity business. It is important to note that this valuation is highly dependent on the price of oil and gas, and a change in the commodity cycle could change the valuation significantly. Also, be certain that if a firm or industry has historically generated returns below the cost of capital, its future value may not be all that attractive—the odds of the firm or industry turning around are not that great, even if you have a very clever management team. Finally, remember that this valuation gives you only a point estimate of ConocoPhillips's value today, but we recommend constructing a value range as we've done here, using at least three different scenarios.
 **Additional Notes:**
 
 * This valuation is based on a simplified DCF model. A more sophisticated model would incorporate additional factors, such as commodity price volatility and the potential for acquisitions or divestitures.

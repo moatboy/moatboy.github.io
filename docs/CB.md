@@ -68,7 +68,7 @@ To value Chubb, a Discounted Cash Flow (DCF) model is used with a 10-year explic
 > 5. **Subtract Net Debt and Nonoperating Claims.**  From this enterprise value, we deduct net debt and any other non-equity claims against the company (e.g., preferred stock, employee options, etc.) to arrive at the value of equity. Net debt includes debt from the balance sheet and other debt equivalents, such as operating leases. At the time of this valuation, Chubb did not have a significant amount of operating leases or other debt equivalents.  Therefore, the value of net debt is simply equal to the reported book value of its long-term and short-term interest-bearing debt: $19,144.
 > 6. **Divide by Shares Outstanding.** The resulting equity value is then divided by the number of shares outstanding to arrive at the value per share. With 448 million shares outstanding, the value per share is $140.13.
 
-{: .note } 
+{: .note }
 This valuation does not incorporate a margin of safety, which is a standard practice to allow for errors in estimations. Based on the conservative outlook and high-volatility in the financial markets, a discount of around 20-30% percent is recommended. Applying the 30% discount, a fair value is $85.12 Billion (448 Million Shares * $140.13/Share * 0.70 Discount). 
 
 **Disclaimer:** This valuation is for educational purposes only and should not be taken as investment advice.  It's important to conduct your own thorough research before making any investment decisions.  Market conditions and company performance can fluctuate significantly, so it is advisable to regularly review your valuation. 

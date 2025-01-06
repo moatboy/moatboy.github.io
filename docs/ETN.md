@@ -61,9 +61,8 @@ For valuation, we will use a discounted cash flow (DCF) model using free cash fl
 * **Revenue Growth:** We assume a modest growth rate, in line with the overall economy, of 3 percent a year for the next 5 years and 2 percent thereafter. We believe it’s pretty unlikely that it can sustain its recent growth rate, and even less likely that it can achieve the current sell-side growth forecasts.
 * **Operating Margin:** We assume a decline in operating margin from the current 17% to 16% by 2027 reflecting increased competition, falling prices, and rising costs.  
 * **Reinvestment Rate:**  Based on Eaton's historical financials, we assume a reinvestment rate of 10 percent.
-* **Cost of Capital (WACC):** We calculate a WACC of 7.5 percent using a risk-free rate of 4 percent, an equity risk premium of 4.5%, a beta of 0.85, a before-tax cost of debt of 5.5%, and a target debt ratio of 20%.  For detailed calculations, see appendix. 
-{: .note } 
-
+{: .note }
+* **Cost of Capital (WACC):** We calculate a WACC of 7.5 percent using a risk-free rate of 4 percent, an equity risk premium of 4.5%, a beta of 0.85, a before-tax cost of debt of 5.5%, and a target debt ratio of 20%.  For detailed calculations, see appendix.
 **Calculations:**
 
 1. **Free Cash Flow (FCFF):** We calculate annual free cash flows for the next 10 years using our revenue, margin, and reinvestment rate assumptions. 
@@ -71,9 +70,8 @@ For valuation, we will use a discounted cash flow (DCF) model using free cash fl
 3. **Enterprise Value:** We discount the free cash flows and the terminal value back to today using the WACC to arrive at the enterprise value.  
 4. **Equity Value:** We subtract net debt, which is estimated as 20% of its present enterprise value from the enterprise value. We are ignoring other non-operating assets for ease of calculation, but note that these would increase equity value.
 5. **Value per Share:** We divide the equity value by the number of shares outstanding, approximately 432 million, to arrive at a value per share.  
+{: .warning }
 6. **Probability Weighting:** Given the uncertainties about Eaton's business, we introduce a probability adjustment reflecting the risk of bankruptcy for distressed companies with higher leverage. Based on the current bond rating of BBB+, we estimate a probability of distress of 2.7% over the next 10 years and assume that in the case of distress the firm will be sold for half its current value.  We assign 97.3% probability to the business continuing as a going concern.
-{: .warning } 
-
 
 **Valuation Results:**
 

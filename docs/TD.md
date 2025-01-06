@@ -37,33 +37,26 @@ TD Bank operates as a diversified financial institution, offering a wide range o
 
 TD's moat is primarily derived from a combination of factors:
 
-1. **Switching Costs:** Customers face significant switching costs when changing banks, such as the hassle of transferring accounts, setting up new direct deposits, and updating bill payments.  This creates some customer stickiness, though not as much as with software or subscription services.
 {: .important }
-2. **Network Effect (Limited):**  TD benefits from a network effect in some areas, particularly in payments and credit cards. The more customers use TD's credit cards, the more merchants are willing to accept them, making the cards more valuable to customers.  However, this network effect is not as powerful as in other industries, like social media or e-commerce.
-{: .warning }
+1. **Switching Costs:** Customers face significant switching costs when changing banks, such as the hassle of transferring accounts, setting up new direct deposits, and updating bill payments.  This creates some customer stickiness, though not as much as with software or subscription services.{: .warning }
+2. **Network Effect (Limited):**  TD benefits from a network effect in some areas, particularly in payments and credit cards. The more customers use TD's credit cards, the more merchants are willing to accept them, making the cards more valuable to customers.  However, this network effect is not as powerful as in other industries, like social media or e-commerce.{: .highlight }
 3. **Economies of Scale:** As a large financial institution, TD enjoys economies of scale in areas such as technology, operations, and regulatory compliance. These scale advantages allow TD to offer a wider range of products and services at competitive prices.
-{: .highlight }
-
 > While TD possesses these moat characteristics, it's crucial to acknowledge their limitations. Switching costs for banks are real but not insurmountable. The network effect is relatively weak compared to other industries. Economies of scale are valuable, but other large banks enjoy similar advantages.
 
 **Moat Rating Justification:**
 
-Given the above analysis, I assign TD a moat rating of 3 out of 5.  TD's moat is present but not exceptionally wide. The banking industry is fiercely competitive, and technological disruption poses an ongoing threat.  TD's switching costs, limited network effects, and economies of scale are not enough to guarantee long-term excess returns. The bank needs to continually innovate and adapt to maintain its competitive edge. 
 {: .note }
-
+Given the above analysis, I assign TD a moat rating of 3 out of 5.  TD's moat is present but not exceptionally wide. The banking industry is fiercely competitive, and technological disruption poses an ongoing threat.  TD's switching costs, limited network effects, and economies of scale are not enough to guarantee long-term excess returns. The bank needs to continually innovate and adapt to maintain its competitive edge.
 **Valuation:**
 
 I will use a discounted cash flow (DCF) model to value TD Bank, focusing on the relatively more stable Canadian Retail banking operations.  Given the cyclical nature of banks and economic uncertainty, I will use a pessimistic approach.
 
 **Assumptions:**
 
-* **Revenue Growth:** Based on TD's recent performance and a pessimistic outlook for the Canadian economy, I assume 1 percent revenue growth for the next 5 years, followed by a 0 percent terminal growth rate.
 {: .important }
-* **Operating Margin:** Given increasing competition, I assume that margins will gradually decline from 45 percent to 40 percent over the next 10 years and then remain stable.
-{: .important }
-* **Reinvestment Rate:** Given its mature status and limited growth opportunities, I assume a reinvestment rate of 50 percent, decreasing to 0 percent in the terminal year.
-{: .important }
-* **Cost of Capital:** I assume a cost of capital of 8 percent. This includes a risk-free rate of 4.5%, equity risk premium of 4%, and beta of 0.90 (taken from TD’s latest financials).
+* **Revenue Growth:** Based on TD's recent performance and a pessimistic outlook for the Canadian economy, I assume 1 percent revenue growth for the next 5 years, followed by a 0 percent terminal growth rate.{: .important }
+* **Operating Margin:** Given increasing competition, I assume that margins will gradually decline from 45 percent to 40 percent over the next 10 years and then remain stable.{: .important }
+* **Reinvestment Rate:** Given its mature status and limited growth opportunities, I assume a reinvestment rate of 50 percent, decreasing to 0 percent in the terminal year.* **Cost of Capital:** I assume a cost of capital of 8 percent. This includes a risk-free rate of 4.5%, equity risk premium of 4%, and beta of 0.90 (taken from TD’s latest financials).
 
 **Calculations:**
 

@@ -85,9 +85,8 @@ We used a Discounted Cash Flow (DCF) model to value UPS, with a pessimistic outl
 7. **Divide the equity value by the number of shares outstanding to get the value per share.**  The calculation details have been incorporated in the annual report.
 
 > {: .note}
-> As per our assumptions and calculations, we obtain a value per share significantly below the current market price, implying an overvaluation.  Sensitivity analysis using different assumptions will lead to different values, but most will not lead to valuations far from the intrinsic value obtained.
-{: .highlight } With this valuation, we estimate the total enterprise value to be $130 Billion.
-
+{: .highlight }
+> As per our assumptions and calculations, we obtain a value per share significantly below the current market price, implying an overvaluation.  Sensitivity analysis using different assumptions will lead to different values, but most will not lead to valuations far from the intrinsic value obtained.  With this valuation, we estimate the total enterprise value to be $130 Billion.
 **Caveats**
 
 * Our valuation is sensitive to the assumptions made.  Changes in future growth or margins will significantly affect the results.

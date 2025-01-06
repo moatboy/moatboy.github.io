@@ -42,9 +42,8 @@ TotalEnergies SE, formerly Total S.A., is a French multinational integrated ener
 
 TotalEnergies' moat rating of 2 out of 5 reflects a narrow moat based primarily on its **cost advantage** stemming from its **scale** and its **integrated** business model.
 
->
 {: .important }
-> I am not convinced that TTE benefits from the kind of unique competitive advantages necessary to ensure long-term excess returns, this suggests to me that brand recognition (TTE) is not producing a sufficient level of profitability increase.
+>> I am not convinced that TTE benefits from the kind of unique competitive advantages necessary to ensure long-term excess returns, this suggests to me that brand recognition (TTE) is not producing a sufficient level of profitability increase.
 
 1. **Cost Advantage:**  As an integrated player, TotalEnergies has lower costs than many of its smaller, non-integrated peers. Its massive scale enables the firm to achieve economies of scale in exploration, production, refining, and distribution.
 2. **Integration:**  The company's integrated operations across the value chain, from exploration and production to refining and marketing, create synergies and cost efficiencies that are difficult for smaller, less integrated competitors to replicate.
@@ -52,18 +51,16 @@ TotalEnergies' moat rating of 2 out of 5 reflects a narrow moat based primarily 
 4. **Switching Costs:** Switching costs are close to zero for retail customers of gasoline stations. Even in the business-to-business part of TTE’s business, switching costs are typically not so large as to create a solid moat.
 5. **Network Effects:** Network effects are not significant in the oil and gas industry, even with some integrated operations.
 
->
 {: .warning }
-> I am cautious on the sustainability of TTE’s cost advantages due to increasing competition from national oil companies, technological disruptions, and changing industry dynamics.
+>> I am cautious on the sustainability of TTE’s cost advantages due to increasing competition from national oil companies, technological disruptions, and changing industry dynamics.
 
 
 **Valuation:**
 
 A **discounted cash flow (DCF)** valuation was performed using data from TotalEnergies' 2019–2022 annual reports. A **five-year** explicit forecast period was used, followed by a continuing-value computation. The following key assumptions were made:
 
->
 {: .note }
-> A simple average was used. I would prefer a geometric average as it will produce results that are theoretically correct. However, I have limited data for meaningful analysis.
+>> A simple average was used. I would prefer a geometric average as it will produce results that are theoretically correct. However, I have limited data for meaningful analysis.
 
 
 * **Revenue growth:** 2% annually for the first three years then 1% for the next two years (pessimistic, given the mature nature of the industry and the shift towards renewable energy).
@@ -73,9 +70,8 @@ A **discounted cash flow (DCF)** valuation was performed using data from TotalEn
 * **Failure rate:** 20% over the next 10 years (reflecting company-specific risks from competition and political uncertainty in areas where the firm operates).
 * **Tax Rate:** 30%
 
->
 {: .important }
-> Given the uncertainty of future oil prices, management quality, and the competitive landscape, I have included a company-specific discount of 20% in all valuations, to be safe.
+>> Given the uncertainty of future oil prices, management quality, and the competitive landscape, I have included a company-specific discount of 20% in all valuations, to be safe.
 
 **Calculations:**
 
@@ -90,6 +86,5 @@ A **discounted cash flow (DCF)** valuation was performed using data from TotalEn
 5. **Scenario Valuation:** In addition, to incorporate the impact of failure, the business-as-usual valuation is typically adjusted by a probability of survival and a distress sales value. In our DCF model, given the significant uncertainty related to Zomato's business, we adjust by a 20% probability of failure over the next ten years and a distress sales multiple of 0. The value of equity is consequently equal to the probability-weighted average of both outcomes (survival x valuation + failure x 0). Therefore, the value of equity is equal to €62,255 million, multiplied by 80% (probability of survival) = €49,804 million.
 6. **Final Valuation:**  Applying a 20% discount for uncertainty yields a final valuation of **€122 billion**.
 
->
 {: .warning }
-> In my opinion, this valuation is optimistic for a few reasons. First, the energy industry is volatile and unpredictable. Second, management's long-term goals for revenue growth and cost savings may be too ambitious. Third, there is a large discount attached to TTE's shares already, indicating that the market may be expecting a decline in the business.
+>> In my opinion, this valuation is optimistic for a few reasons. First, the energy industry is volatile and unpredictable. Second, management's long-term goals for revenue growth and cost savings may be too ambitious. Third, there is a large discount attached to TTE's shares already, indicating that the market may be expecting a decline in the business.

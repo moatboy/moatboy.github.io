@@ -91,9 +91,8 @@ Value of Debt = $37.41 billion (from balance sheet)
 Equity Value = $13.52 + $22.77 - $37.41 = -$1.12 Billion 
 ```
 
->
-{: .warning } Given the conservative assumptions used in this DCF model, we arrive at an equity value of -$1.12 billion.  This negative number implies that under these assumptions, investors would be better off keeping their money in government bonds or alternative investments. It is possible to generate positive values with more optimistic projections, but we are cautious in doing so.
-
+{: .warning }
+>  Given the conservative assumptions used in this DCF model, we arrive at an equity value of -$1.12 billion.  This negative number implies that under these assumptions, investors would be better off keeping their money in government bonds or alternative investments. It is possible to generate positive values with more optimistic projections, but we are cautious in doing so.
 **Valuation Range**
 
 To assess a range of possible outcomes, we performed sensitivity analyses and created two alternative scenarios. 
@@ -105,9 +104,8 @@ To assess a range of possible outcomes, we performed sensitivity analyses and cr
 
 The results are summarized below.
 
->
-{: .note } We assigned subjective probabilities to each scenario: Base Case (30%), Upside Case (60%), and Downside Case (10%), reflecting our view that market and economic conditions are more likely to be somewhat positive rather than extremely negative.
-
+{: .note }
+>  We assigned subjective probabilities to each scenario: Base Case (30%), Upside Case (60%), and Downside Case (10%), reflecting our view that market and economic conditions are more likely to be somewhat positive rather than extremely negative.
 
 | Scenario     | Equity Value | Probability |
 |--------------|--------------|-------------|

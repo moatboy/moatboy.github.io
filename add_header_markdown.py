@@ -113,11 +113,12 @@ for input_file in docs:
         file.write(markdown_output)
         file.write("\n\n")
 
+        callouts = ['{: .highlight }', '{: .note }', '{: .new }', '{: .important }', '{: .warning }']
+
         for line in lines[ltr:]:
-            line = line.replace(" {: .highlight }", "\n{: .highlight }")
-            line = line.replace(" {: .note }", "\n{: .note }")
-            line = line.replace(" {: .new }", "\n{: .new }")
-            line = line.replace(" {: .important }", "\n{: .important }")
-            line = line.replace(" {: .warning }", "\n{: .warning }")
+            for callout in callouts:
+                if callout in line:
+                    print(f"{callout} detected.")
+                    line = callout + "\n" + line.replace(callout, "").strip()
 
             file.write(line)

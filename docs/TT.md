@@ -61,8 +61,8 @@ the weighted average cost of capital (WACC) is estimated to be roughly 9.4%.
 * **Probability of Failure:** We conservatively assign a probability of failure of 10 percent, with estimated liquidation proceeds of $0.1 billion (one tenth of the face value of debt), given the company's highly leveraged balance sheet.
 
 {: .note} The model used is a simplified DCF model that assumes a stable growth rate in perpetuity. More complex DCF models could incorporate staged growth or cyclical factors, but these would be far too sensitive for this company.
-{: .warning } All assumptions are based on current data and estimates, and there is no guarantee these will hold in the future.  
-
+{: .warning }
+All assumptions are based on current data and estimates, and there is no guarantee these will hold in the future.
 **Valuation Results:**
 
 * **Value of Operating Assets:** $15.01 billion

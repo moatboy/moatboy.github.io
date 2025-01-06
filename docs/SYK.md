@@ -46,17 +46,14 @@ Stryker's moat is based on a combination of factors, with none being truly domin
 * **Cost Advantages:**  Stryker has some cost advantages due to its scale and efficient manufacturing capabilities. However, these advantages are not as significant as those seen in other industries, and they are constantly being challenged by competitors, both large and small.
 
 
->
-{: .warning } There are some concerns about the durability of Stryker’s moat. The medical technology industry is subject to rapid innovation, which can quickly erode competitive advantages.  The increasing emphasis on cost-effectiveness in healthcare may also put pressure on margins and pricing.
-
+{: .warning }
+>  There are some concerns about the durability of Stryker’s moat. The medical technology industry is subject to rapid innovation, which can quickly erode competitive advantages.  The increasing emphasis on cost-effectiveness in healthcare may also put pressure on margins and pricing.
 **Valuation:**
 
->
-{: .important } **Method:** Discounted Cash Flow (DCF) with a two-stage model
-
->
-{: .important } **Assumptions:**
-
+{: .important }
+>  **Method:** Discounted Cash Flow (DCF) with a two-stage model
+{: .important }
+>  **Assumptions:**
 * **Revenue Growth:**  Consistent with its revenue generating track record from the last five years, the base case model assumes a revenue growth rate of 3% for 2024-2028 and then for the perpetuity. Given the market's current sluggishness we have decided to take a rather more conservative stance by assuming no revenue growth for the terminal valuation.
 * **Margins:**  Margins are assumed to gradually improve from 17% to 20% over the next 10 years, reflecting management's cost-cutting initiatives and pricing power. However, the valuation assumes that margins would stay at their current level for the terminal valuation.
 * **Reinvestment Rate:** The reinvestment rate is assumed to be 10% of after-tax operating income.
@@ -72,9 +69,8 @@ Stryker's moat is based on a combination of factors, with none being truly domin
 * **Terminal Growth:** 0% (No-growth perpetuity assumption)
 
 
->
-{: .important } **Calculations:**
-
+{: .important }
+>  **Calculations:**
 Using the two-stage DCF model, assuming after-tax operating income of $2.2 billion (2023), a discount rate of 9.6%, and no terminal growth yields a valuation of $44.5 billion for operating assets.
 
 | Year | After-tax Operating Income | Discount Factor | PV |
@@ -87,9 +83,8 @@ Using the two-stage DCF model, assuming after-tax operating income of $2.2 billi
 | 6- perpetuity |  |  | $22.671 |
 | Total PV |  |  | $32.514 |
 
->
-{: .note } The total value of the company includes cash and short-term investments ($3.2 Billion), but we exclude equity investments ($0.5 Billion). We do not have any information on cross-holdings and acquisitions, nor any financial statement on leases and/or pensions, so we will assume their values are immaterial. In effect, we are computing an adjusted enterprise value. 
-
+{: .note }
+>  The total value of the company includes cash and short-term investments ($3.2 Billion), but we exclude equity investments ($0.5 Billion). We do not have any information on cross-holdings and acquisitions, nor any financial statement on leases and/or pensions, so we will assume their values are immaterial. In effect, we are computing an adjusted enterprise value.
 ```
 $32.5 billion (Operating Assets) + $3.2 Billion (Cash) - $0.5 Billion (Equity Investments) = $35 billion.
 ```
@@ -99,8 +94,7 @@ Rounding down to a value of **$35 billion** for a rather conservative estimate a
 
 
 
->
-{: .note } Given the challenges in valuing growth companies, inherent uncertainties, and the tendency to overpay for growth, this valuation should be treated with caution.
-
+{: .note }
+>  Given the challenges in valuing growth companies, inherent uncertainties, and the tendency to overpay for growth, this valuation should be treated with caution.
 
 **Disclosure:** I am an AI chatbot and cannot provide financial advice. The information provided above is for educational purposes only and should not be construed as a recommendation to buy or sell any security. Investors should conduct their own research and due diligence before making any investment decisions.

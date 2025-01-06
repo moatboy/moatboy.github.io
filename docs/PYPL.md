@@ -158,9 +158,8 @@ Based on our assumptions, PayPal’s continuing value at the end of year 10 is:
 
 > Value per Share = $16.2 Billion / 813 million = $20
 
-Given PayPal's price of about $65 per share, the stock looks quite overvalued based on this simple DCF model.
 {: .warning }
-
+Given PayPal's price of about $65 per share, the stock looks quite overvalued based on this simple DCF model.
 **Alternative Valuation Approach: Multiple Based Valuation**
 
 We will now corroborate the DCF valuation with a multiple-based analysis to see how they compare and also to add another dimension to our valuation exercise.
@@ -174,9 +173,8 @@ At the end of 2023, based on publicly available data, PayPal’s enterprise valu
 > The trailing twelve months median EV/EBITDA multiple for U.S. Software companies is 13.1 (approximately), based upon a large sample provided by Siblis Research, New Constructs, and S&P Capital IQ
 > PayPal therefore trades at a discount to the median of its peers.
 
-However, as we demonstrated earlier with the DCF-based intrinsic valuation approach, given its current growth rate, margins, and cost of capital, PayPal trades at a premium to the average firm. So, given the evidence presented in the preceding chapters, you will find that I, like Einstein, still contend that P/E ratios, Price/Book Value ratios, and price/earnings-growth ratios are an illusion.
 {: .important }
-
+However, as we demonstrated earlier with the DCF-based intrinsic valuation approach, given its current growth rate, margins, and cost of capital, PayPal trades at a premium to the average firm. So, given the evidence presented in the preceding chapters, you will find that I, like Einstein, still contend that P/E ratios, Price/Book Value ratios, and price/earnings-growth ratios are an illusion.
 
 **Conclusion**
 
