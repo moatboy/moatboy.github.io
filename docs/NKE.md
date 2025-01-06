@@ -84,6 +84,7 @@ Considering these factors, a moat rating of 3/5 seems justified. The brand still
     * **Employee Stock Options:** Subtracting the value of employee stock options ($2.5 Billion, assuming 5% of outstanding shares). 
 
 **Total value to equity investors:**  $50 Billion.
-> Note: The stock price can fluctuate wildly, especially for companies in the cyclical retail sector.  This discounted cash flow valuation only provides a snapshot of the underlying business at this point in time and doesn't guarantee future stock market performance. {: .important }
+> Note: The stock price can fluctuate wildly, especially for companies in the cyclical retail sector.  This discounted cash flow valuation only provides a snapshot of the underlying business at this point in time and doesn't guarantee future stock market performance. 
 
+{: .important }
 This valuation suggests that Nike is currently fairly valued.  Given the industry headwinds and the increased competition, there is little margin of safety at the current price.  A more pessimistic outlook for growth or margins could easily result in a lower valuation.
