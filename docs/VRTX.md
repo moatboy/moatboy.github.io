@@ -56,14 +56,14 @@ To value Vertex, a Discounted Cash Flow (DCF) model was used with a 10-year expl
 * **Revenue Growth:**  We assume a gradually declining revenue growth rate of 4% for the next five years, followed by 1% terminal growth.  This assumes success in some of Vertex’s pipeline, but acknowledges increasing competition and market saturation in CF.
 * **Margins:** We assume a slight decrease in operating margins over the next 10 years, settling at 45% by the end of year 10.  This reflects potential pricing pressure. 
 * **Reinvestment:** Given slowing revenue growth, we forecast lower reinvestment needs, with a reinvestment rate of 20% during the explicit forecast period and 10% thereafter.
-* **Cost of Capital (WACC):** We used an unlevered beta of 0.80 based on industry average, unlevered it for Vertex's current market value debt/equity ratio of 0.04, and re-levered using a target debt/equity ratio of 0.10. We used a risk free rate of 4%, a market risk premium of 5.5% and an equity risk premium of 5.7%. {: .note} We used a marginal tax rate of 20%. The resulting WACC is 7.43%.
-
+{: .note }
+* **Cost of Capital (WACC):** We used an unlevered beta of 0.80 based on industry average, unlevered it for Vertex's current market value debt/equity ratio of 0.04, and re-levered using a target debt/equity ratio of 0.10. We used a risk free rate of 4%, a market risk premium of 5.5% and an equity risk premium of 5.7%.  We used a marginal tax rate of 20%. The resulting WACC is 7.43%.
 
 > **Calculations:**
 > 1. **FCFF:** Based on historical analysis and incorporating our assumptions, the FCFF is forecast for each of the next 10 years. Due to space constraints, the full FCFF forecast table is not displayed here, but it forms the basis of the following calculations. The key driver is that FCFF turns from negative to positive around year 5 of the explicit forecast period.
-> 2. **Continuing Value:** Using the constant growth model based on our conservative growth assumptions, the continuing value for Vertex in year 10 is computed as: ($4,143 million *(1+0.01)) / (0.0743-0.01) = $64,291 million. {: .important}
-> 3. **Present Value of Operating Assets:**  Discounting both the explicit FCFF forecast and the continuing value at the WACC gives us a present value of operating assets of approximately $62,730 million. {: .important}
-
+{: .important }
+> 2. **Continuing Value:** Using the constant growth model based on our conservative growth assumptions, the continuing value for Vertex in year 10 is computed as: ($4,143 million *(1+0.01)) / (0.0743-0.01) = $64,291 million.{: .important }
+> 3. **Present Value of Operating Assets:**  Discounting both the explicit FCFF forecast and the continuing value at the WACC gives us a present value of operating assets of approximately $62,730 million.
 **Valuation**
 
 Adding in cash and subtracting debt yields an equity value for VRTX of approximately **$62.73 billion**. This assumes that non-operating assets are negligible and that there are no other net non-operating liabilities.

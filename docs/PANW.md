@@ -38,10 +38,10 @@ Palo Alto Networks is a leading cybersecurity company that offers a platform app
 
 PANW's moat is based on a combination of factors, including:
 
-* **Switching Costs:**  Large enterprise customers using PANW's platform face significant switching costs due to the complexity of integrating various security functions and the potential disruption to their operations.  {: .important}
-* **Network Effect:** While not as strong as a traditional network effect like social networks, PANW's platform benefits from some network effects as the security value of the platform increases with more users and data. {: .new}
-* **Intangible Assets:**  PANW's brand name is a valuable intangible asset, particularly among larger enterprise customers.  However, brand strength can be fleeting in the technology sector, which requires continuous innovation. {: .warning}
-
+{: .important }
+* **Switching Costs:**  Large enterprise customers using PANW's platform face significant switching costs due to the complexity of integrating various security functions and the potential disruption to their operations.{: .new }
+* **Network Effect:** While not as strong as a traditional network effect like social networks, PANW's platform benefits from some network effects as the security value of the platform increases with more users and data.{: .warning }
+* **Intangible Assets:**  PANW's brand name is a valuable intangible asset, particularly among larger enterprise customers.  However, brand strength can be fleeting in the technology sector, which requires continuous innovation.
 
 **Moat Rating Justification:**
 
@@ -88,8 +88,8 @@ The resulting enterprise value of operations is $57,078 million. Deduct the comp
 
 <br>
 
-4. **Divide the equity value by the number of shares outstanding** to arrive at a value per share. For PANW, with 281 million shares outstanding, this implies a value/share of $225.45, slightly higher than the current trading price (near $210). Multiplying $225.45 by 281 million leads to an overall valuation of $63.35 Billion. {: .highlight}
-
+{: .highlight }
+4. **Divide the equity value by the number of shares outstanding** to arrive at a value per share. For PANW, with 281 million shares outstanding, this implies a value/share of $225.45, slightly higher than the current trading price (near $210). Multiplying $225.45 by 281 million leads to an overall valuation of $63.35 Billion.
 <br>
 
 
@@ -101,8 +101,8 @@ We can build a valuation range using the probabilities provided in Zomato's IPO 
 * **Bull case**:  Assume a 25% probability that revenue and margin will surprise positively. In such case, assume PANW will grow at 20% and deliver margin of 25%. This bull case leads to a valuation of $70 Billion.
 * **Base case**: Assume a 50% probability that revenue and margin will remain as projected.
 
-Weighting the valuations accordingly leads to a weighted average valuation of $57.4 billion, rounded to $47.4 Billion due to our pessimistic outlook. {: .note} 
-
+{: .note }
+Weighting the valuations accordingly leads to a weighted average valuation of $57.4 billion, rounded to $47.4 Billion due to our pessimistic outlook.
 <br>
 
 **Conclusion:**

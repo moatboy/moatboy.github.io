@@ -100,7 +100,7 @@ Our pessimistic base-case valuation for Amgen is approximately **$107 billion**.
 
 
 <aside>
-{: .important}
+{: .important }
 **Additional Valuation Resources:**
 
 For a more in-depth analysis on valuation techniques, the following books are highly recommended:

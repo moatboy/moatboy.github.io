@@ -72,8 +72,8 @@ We employ a discounted cash flow (DCF) model to estimate Altria's intrinsic valu
 **Valuation Summary**
 Based on these assumptions, we arrive at an intrinsic value per share of $40.01.  Multiplying this by the number of shares outstanding (1,137 million) yields a total equity value of $45,475 million. Adding cash and subtracting debt and other liabilities, we derive an enterprise value of $50 billion.
 
-> [!WARNING] This is a DCF model's valuation based on several years of historical financials. The result should be interpreted as a baseline valuation, not a precise estimate. Many factors can impact the actual stock price. {: .warning}
-
+{: .warning }
+> [!WARNING] This is a DCF model's valuation based on several years of historical financials. The result should be interpreted as a baseline valuation, not a precise estimate. Many factors can impact the actual stock price.
 
 **Final Value:** Given all the above considerations, my valuation of Altria is **$71.8 Billion**. This valuation suggests that Altria's shares may be slightly overvalued at current market prices.  The market appears to be optimistic about the company's ability to navigate the challenging business environment, but a more pessimistic approach seems warranted.
 

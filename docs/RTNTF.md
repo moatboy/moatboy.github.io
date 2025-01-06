@@ -53,8 +53,8 @@ We will perform a discounted cash flow (DCF) valuation of Rio Tinto using the fo
 
 **Key Assumptions (Base Case)**
 
-* **Revenue Growth:** Long-run real GDP growth in the U.S. and other developed economies of 2.7%.  This growth rate can be estimated using a 10-year government bond rate of 3.2% minus a historical risk premium on long-term U.S. government bonds of 0.5% (3.2–0.5=2.7). {: .note}
-* **Operating Margin:**  Constant at 14% (2023 level).
+{: .note }
+* **Revenue Growth:** Long-run real GDP growth in the U.S. and other developed economies of 2.7%.  This growth rate can be estimated using a 10-year government bond rate of 3.2% minus a historical risk premium on long-term U.S. government bonds of 0.5% (3.2–0.5=2.7).* **Operating Margin:**  Constant at 14% (2023 level).
 * **Tax Rate:** 25% (2023 level).
 * **Reinvestment Rate:** 10% of after-tax operating income, estimated using the sales-to-capital ratio of 4.5 (from the company’s financials).  Long-run reinvestment rate gradually declines to 3% in year 10 and beyond.
 * **Cost of Capital:**  9.4% (Risk-free rate: 3.2%, Equity risk premium: 6%, Beta: 0.83, Tax rate: 25%, Debt: 15%). Risk-free rate has been derived from government zero-coupon yields and the equity risk premium from a modified version of the key value driver formula. Company beta has been derived from the regression of the company's stock return against MSCI World Index. This results in a cost of equity of 8.2% (3.2+6\*0.83=8.2). The company's cost of debt is 4.1%. Given the current capital structure of the company, the WACC is 7.4%.

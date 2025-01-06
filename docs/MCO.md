@@ -92,8 +92,8 @@ Valuation Model:  **Two-Stage Discounted Cash Flow (DCF)**
 
 5. **Value of the Company:** Value of company=Value of Operating Assets + Cash and Marketable Securities (2022 annual report) - Debt = $49,335 + $416 - $7,415 = $42,336 million. 
 
-6. **Value per Share:** Value/share = Value of company/Number of Shares (2022 annual report) = $42,336/1,778=$23.81.  MCO current price is $306.53 {: .warning}
-
+{: .warning }
+6. **Value per Share:** Value/share = Value of company/Number of Shares (2022 annual report) = $42,336/1,778=$23.81.  MCO current price is $306.53
 **Valuation Conclusion:**
 
 {: .important }

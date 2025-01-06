@@ -36,7 +36,7 @@ MUFG is a large Japanese bank holding company offering a range of financial serv
     * Morgan Stanley (MUFG owns just over 20%): 15%
 * **Industry Trends:** The banking industry is generally mature and highly regulated. Profitability is strongly driven by macroeconomic factors.  Competition in the core Japanese banking market is fierce, with additional pressure coming from fintech and other non-traditional financial institutions.  Growth rates in the sector are low, generally in line with GDP growth.
 * **Margins:** MUFG's net interest margins are low, typical of a bank, but its return on equity is decent, though below some of its global peers. Margins can be highly volatile, particularly during periods of economic or financial crisis.  
-{: .warning}
+{: .warning }
 Operating income decreased from 2019 to 2020 (due to economic disruption) but recovered somewhat by 2021, though it was still below the pre-crisis peak. Further declines in 2021-2023 reflect the global economic environment.
 
 
@@ -64,7 +64,7 @@ Given MUFG's limited international exposure and challenging industry dynamics, a
 * **Downside Case:**  We assume zero growth over the next five years and a return on equity that will decline to 6% (incorporating both an unfavorable macroeconomic environment and the effects of declining margins). 
 * **Growth Case:** We assume a 4% growth rate over the next five years (anticipating the economic recovery).  We assume a return on equity increasing to 10%.
 
-{: .important}
+{: .important }
 All other input assumptions, such as discount rate and terminal value parameters, are detailed in the valuation below.
 
 **Calculations:**
@@ -88,7 +88,7 @@ All other input assumptions, such as discount rate and terminal value parameters
 
 **Weighted Average DCF Value** (Sum of Probability x Present Value): **¥7,885 Billion** (≈ $55 Billion USD using exchange rate ¥143/$)
 
-{: .note}
+{: .note }
 * Exchange rates and market values can be volatile.  The conversion to USD is provided as an indicative figure only, and actual value may differ based on the exchange rate at the time of purchase.
 * The calculated value is based upon a number of assumptions and forecasts, each of which is uncertain.
 * Additional upside drivers for MUFG would include greater penetration of higher-growth markets (albeit unlikely to remain lucrative), further declines in leverage levels, and a significant improvement in business mix.

@@ -53,14 +53,14 @@ KKR's margins (operating margins and pretax margins) are healthy, but they fluct
 
 While KKR possesses some attributes that contribute to a competitive advantage, its moat is narrow and faces increasing pressure. 
 
-* **Intangible Assets (Brand):** KKR has a strong brand name in the alternative asset management space, but this is not exclusive in an environment where fund performance drives the narrative. {: .highlight}
-* **Switching Costs:** KKR's investor base is largely institutional, with high switching costs, providing some protection from competition. There is a substantial incentive for fund investors to remain invested in funds that are performing well. Switching between fund managers can also entail logistical costs and the risk of missing out on continued success with an established manager. 
+{: .highlight }
+* **Intangible Assets (Brand):** KKR has a strong brand name in the alternative asset management space, but this is not exclusive in an environment where fund performance drives the narrative.* **Switching Costs:** KKR's investor base is largely institutional, with high switching costs, providing some protection from competition. There is a substantial incentive for fund investors to remain invested in funds that are performing well. Switching between fund managers can also entail logistical costs and the risk of missing out on continued success with an established manager. 
 * **Scale:** KKR's size does provide some cost advantages, and its scale allows it to pursue a more diversified set of investment opportunities. KKR's size provides substantial advantages in fundraising, reducing its risk relative to smaller firms.
 
 However, these moat attributes are not sufficient to warrant a higher rating:
 
-* **Performance Dependence:** The alternative asset management industry is heavily performance-driven. KKR's success is intrinsically tied to its ability to generate alpha.  {: .important} If performance slips, investors are likely to move their capital elsewhere, regardless of switching costs.
-* **Key-Person Risk:**  While KKR is growing its next generation of leaders, much of the firm's success remains linked to its founding partners. However, as demonstrated in the provided "The Essays of Warren Buffett" resource, management can play a significant role and can counteract the influence of key personnel on a firm's overall performance.
+{: .important }
+* **Performance Dependence:** The alternative asset management industry is heavily performance-driven. KKR's success is intrinsically tied to its ability to generate alpha.   If performance slips, investors are likely to move their capital elsewhere, regardless of switching costs.* **Key-Person Risk:**  While KKR is growing its next generation of leaders, much of the firm's success remains linked to its founding partners. However, as demonstrated in the provided "The Essays of Warren Buffett" resource, management can play a significant role and can counteract the influence of key personnel on a firm's overall performance.
 * **Increasing Competition:** As the industry consolidates, competition for both institutional capital and investment opportunities is intensifying, pressuring fees and potentially returns.
 * **Regulation:**  Increased regulatory scrutiny of the financial services industry could limit KKR's flexibility and compress margins. 
 

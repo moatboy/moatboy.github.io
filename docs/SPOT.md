@@ -91,7 +91,7 @@ Note: Spotify has multiple share classes with different voting rights. For simpl
 
 
 **Valuation Conclusion**
-{: .warning}
+{: .warning }
 Based on our pessimistic DCF valuation, Spotify's fair value is approximately **$18.8 Billion**. This is slightly higher than its current market capitalization, suggesting that the stock is potentially slightly overvalued, given our pessimistic assumptions.  It's important to note that the valuation is sensitive to changes in growth, margins, and the cost of capital. Small improvements in performance could significantly increase the valuation and vice versa. Any investment should be made at a sufficient margin of safety, given this sensitivity and the risks associated with Spotify's business.
 
 

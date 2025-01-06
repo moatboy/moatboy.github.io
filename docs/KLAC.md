@@ -64,8 +64,8 @@ KLA benefits from several sources of competitive advantage that create high barr
 | Cost of Debt | 5% |
 | Debt/Equity | 0.3 |
 
-{: .important }
-{: .note } We are choosing to value the firm using an explicit, 10-year DCF model, which allows us to better see the intertemporal dynamics of value creation that a company exhibits, allowing us to better integrate the company's dynamics and current performance into its business economics.
+{: .note }
+We are choosing to value the firm using an explicit, 10-year DCF model, which allows us to better see the intertemporal dynamics of value creation that a company exhibits, allowing us to better integrate the company's dynamics and current performance into its business economics. {: .important }
 {: .important }
 > **Calculations:**
 1. **Terminal Value:** Assuming a steady state where the company's revenue growth will converge on the nominal growth rate of the US economy (say 3% annual), we can estimate the terminal value.  We will assume a return on capital declining to cost of capital (10%) by year 10.
@@ -123,8 +123,8 @@ KLA benefits from several sources of competitive advantage that create high barr
 
 {: .important }
 >**Other Valuation Methods:** As an additional cross-check, relative valuations can be applied.
-* In addition to the valuation based on discounted cash flows, I also compared the valuation with comparable companies and estimated the implied market-value-to-capital ratio as well as the market value derived from recent share prices. The resulting valuations are similar to the DCF-based valuation. {: .note}
-
+{: .note }
+* In addition to the valuation based on discounted cash flows, I also compared the valuation with comparable companies and estimated the implied market-value-to-capital ratio as well as the market value derived from recent share prices. The resulting valuations are similar to the DCF-based valuation.
 
 
 **Disclaimer:** This valuation is for educational purposes only and is not a recommendation to buy or sell KLA stock. It is critical to conduct your own thorough research and consult with a qualified financial advisor before making any investment decisions.

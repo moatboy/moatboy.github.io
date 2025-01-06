@@ -47,8 +47,8 @@ MMC exhibits a narrow moat, primarily based on intangible assets and switching c
 
 * **Switching Costs:** Clients, especially large multinational corporations, often develop long-term relationships with their insurance brokers and consultants. Switching providers can be disruptive and time-consuming, as it requires significant effort to establish new relationships, transfer data and systems, and learn new processes. 
 
-> {: .note} The nature of MMC’s business creates stickiness, which translates into a competitive advantage.
-
+{: .note }
+>  The nature of MMC’s business creates stickiness, which translates into a competitive advantage.
 MMC's moat is not impregnable. New competitors continue to enter the consulting market, and clients are cost-conscious. Therefore, MMC’s moat is given a rating of 3 out of 5. It is a good moat but not an exceptional one.
 
 **Valuation:**

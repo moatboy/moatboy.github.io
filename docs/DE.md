@@ -42,12 +42,12 @@ Deere & Company, commonly known as John Deere, is a leading manufacturer of agri
 
 Deere's moat is primarily based on the following sources of competitive advantage:
 
-1. **Intangible Assets (Brand):**  The John Deere brand is highly recognized and respected among farmers, conveying quality, durability, and innovation.  This brand recognition allows the company to command premium pricing for its products. However, the strength of the brand is limited to agricultural equipment, the core business of John Deere, and does not extend to construction, forestry, and turf equipment segments. {: .warning}
-
-2. **Switching Costs:** Deere has cultivated a loyal customer base, particularly in the agricultural segment.  Farmers are often reluctant to switch brands due to the integration of Deere's equipment with their existing machinery, the availability of specialized parts and service through Deere's extensive dealer network, and the learning curve associated with using different brands of precision agriculture equipment. This integration of technology creates high switching costs for customers. {: .important}
-
-3. **Cost Advantages:** Deere benefits from economies of scale in its manufacturing and distribution operations, particularly in the production of large agricultural equipment.  These cost advantages are, however, lessened due to the availability of cheaper equipment from competitors. {: .warning}
-
+{: .warning }
+1. **Intangible Assets (Brand):**  The John Deere brand is highly recognized and respected among farmers, conveying quality, durability, and innovation.  This brand recognition allows the company to command premium pricing for its products. However, the strength of the brand is limited to agricultural equipment, the core business of John Deere, and does not extend to construction, forestry, and turf equipment segments.
+{: .important }
+2. **Switching Costs:** Deere has cultivated a loyal customer base, particularly in the agricultural segment.  Farmers are often reluctant to switch brands due to the integration of Deere's equipment with their existing machinery, the availability of specialized parts and service through Deere's extensive dealer network, and the learning curve associated with using different brands of precision agriculture equipment. This integration of technology creates high switching costs for customers.
+{: .warning }
+3. **Cost Advantages:** Deere benefits from economies of scale in its manufacturing and distribution operations, particularly in the production of large agricultural equipment.  These cost advantages are, however, lessened due to the availability of cheaper equipment from competitors.
 **Moat Rating Justification**
 
 Deere earns a moat rating of 3 out of 5, indicating a narrow moat. While the company benefits from strong brand recognition among agricultural customers, a robust dealer network providing services, and significant switching costs, it faces intense competition from other equipment manufacturers.
@@ -56,8 +56,8 @@ Deere earns a moat rating of 3 out of 5, indicating a narrow moat. While the com
 
 We used a **discounted cash flow (DCF)** model to estimate Deere's intrinsic value. Our valuation uses data from Deere's 2023 annual report and financial releases.  We also looked at valuation multiples and peer groups to validate our output.
 
-> {: .important}
-> Given the cyclical nature of Deere's businesses, we made somewhat pessimistic assumptions for the company’s future performance, which makes it difficult for both newcomers and shareholders to increase their returns on the investments they made.
+{: .important }
+>> Given the cyclical nature of Deere's businesses, we made somewhat pessimistic assumptions for the company’s future performance, which makes it difficult for both newcomers and shareholders to increase their returns on the investments they made.
 
 **Key Valuation Assumptions and Calculations**
 

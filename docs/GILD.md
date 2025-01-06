@@ -43,8 +43,8 @@ Gilead's moat is narrow, primarily based on intangible assets in the form of its
 * **Cost Advantages:** Gilead does not have significant cost advantages. The company's manufacturing costs are in line with those of its competitors.  In fact, the high cost of innovation and drug development acts as a barrier to entry and hence a form of cost advantage in that it makes it difficult for most competitors to compete. However, generic drug manufacturers can enter the market once the drug loses its patent and typically offer the drugs at much lower prices than the incumbent drug manufacturer, thus mitigating or destroying the cost advantage, when considering generic drug manufacturers as potential future competitors of the incumbent.
 * **Eroding Moat:**  Gilead's competitive advantages are eroding. The company's patents are expiring, and it is facing increasing competition from generic drug manufacturers.
 
-> {: .warning} Gilead's narrow moat based on intangible assets is weakening due to patent expirations and increasing competition.  This makes it difficult to assign a high moat rating.
-
+{: .warning }
+>  Gilead's narrow moat based on intangible assets is weakening due to patent expirations and increasing competition.  This makes it difficult to assign a high moat rating.
 **Valuation**
 
 To value Gilead Sciences, we have used a discounted cash flow (DCF) model, using FCFF, with projections from 2024 to 2033 and discounting the value back to today.
@@ -75,8 +75,8 @@ Terminal Value = ($4,940 * (1 - 0.10)) / (0.075 - 0.03) = $98,464 million
 
 <br>
 
-> {: .note} For a fully detailed and explained calculation for the 2023 Annual Report data, please refer to **Table 5.3, Table 5.4, and Table 6.3** in *The Little Book of Valuation*.
-
+{: .note }
+>  For a fully detailed and explained calculation for the 2023 Annual Report data, please refer to **Table 5.3, Table 5.4, and Table 6.3** in *The Little Book of Valuation*.
 <br>
 
 Based on these assumptions and calculations, the enterprise value (the value of the operating assets) of Gilead Sciences is estimated to be about $70 billion, which translates to about $53 per share. This assumes that the firm will continue to operate as a going concern.

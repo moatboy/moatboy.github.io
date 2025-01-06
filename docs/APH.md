@@ -66,8 +66,8 @@ The valuation is done using a discounted cash flow (DCF) model, based upon the c
     * After-tax cost of debt = 7.20% * (1 - 0.25) = 5.40%
     * Target capital structure: 44.8% Debt/55.2% Equity (Market value-based)
     * WACC = 0.448 * 5.40% + 0.552 * 10.77% = 8.42%
-* **Reinvestment Rate:** This is computed using the formula: Reinvestment Rate = Growth Rate / ROIC. This has been decreasing over time as growth has slowed for the company. It is assumed to trend from 115.7% in year 1 to 10% in year 10 and the perpetuity.  {: .note}
-
+{: .note }
+* **Reinvestment Rate:** This is computed using the formula: Reinvestment Rate = Growth Rate / ROIC. This has been decreasing over time as growth has slowed for the company. It is assumed to trend from 115.7% in year 1 to 10% in year 10 and the perpetuity.
 **Calculations:**
 
 <br>
@@ -82,8 +82,8 @@ The valuation is done using a discounted cash flow (DCF) model, based upon the c
 
 
 > **Terminal Value:**  We assume terminal growth will be equal to the risk-free rate of 4.00% and a return on new invested capital of 9% in perpetuity.
-> {: .note}
-
+{: .note }
+>
 Terminal Value =  ($11,086 * (1-0.1) * 0.09)/ (0.0842-0.04)  = $24,901 million
 
 Value of Operations = ∑ PV of yearly FCF + PV of Terminal Value = \$13,572 + $13,931 = $27,503 million
@@ -100,8 +100,8 @@ Value of Operations = ∑ PV of yearly FCF + PV of Terminal Value = \$13,572 + $
 
 
 > **Shares Outstanding:** To determine Amphenol’s intrinsic value per share, divide its equity value by the number of shares outstanding (821 Million).
-> {: .note}
-
+{: .note }
+>
 Intrinsic Value per Share = $17,734 million / 821 million = $21.60.
 
 

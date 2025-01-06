@@ -37,8 +37,8 @@ United Parcel Service, Inc. (UPS) is a global package delivery company and a lea
 
 The package delivery industry is characterized by high barriers to entry due to the significant capital investments required for building a global delivery network. Competition is intense, primarily between UPS and FedEx, along with regional and local players.  E-commerce growth has fueled industry expansion in recent years, but the industry has seen a slowdown in 2022 and 2023. The industry remains sensitive to global macroeconomic conditions and regulatory changes. Consolidation continues to be a theme in the industry, as smaller players are acquired by larger ones to achieve economies of scale and improve their competitive position.
 
-> {: .warning}
-> The industry's competitive intensity puts downward pressure on margins, and technological disruptions (e.g., drone delivery) are a potential future threat, albeit a distant one.
+{: .warning }
+>> The industry's competitive intensity puts downward pressure on margins, and technological disruptions (e.g., drone delivery) are a potential future threat, albeit a distant one.
 
 **Financial Performance**
 
@@ -58,8 +58,8 @@ UPS benefits from several sources of competitive advantage, leading to a narrow 
 3. **Switching Costs:** While not as powerful as in some industries, some customers (especially businesses) face moderate switching costs associated with integrating UPS' systems and processes into their operations.
 
 
-> {: .important}
-> Despite these competitive advantages, the moat is not insurmountable. Competition is intense, and technological and macroeconomic shifts could erode the moat over time. Hence, a rating of 3/5 reflects a relatively stable but not impenetrable moat.
+{: .important }
+>> Despite these competitive advantages, the moat is not insurmountable. Competition is intense, and technological and macroeconomic shifts could erode the moat over time. Hence, a rating of 3/5 reflects a relatively stable but not impenetrable moat.
 
 **Valuation**
 
@@ -84,8 +84,8 @@ We used a Discounted Cash Flow (DCF) model to value UPS, with a pessimistic outl
 6. **Subtract net debt from enterprise value to get equity value:** Net debt is estimated from the financials.
 7. **Divide the equity value by the number of shares outstanding to get the value per share.**  The calculation details have been incorporated in the annual report.
 
-> {: .note}
-{: .highlight }
+{: .note }
+>{: .highlight }
 > As per our assumptions and calculations, we obtain a value per share significantly below the current market price, implying an overvaluation.  Sensitivity analysis using different assumptions will lead to different values, but most will not lead to valuations far from the intrinsic value obtained.  With this valuation, we estimate the total enterprise value to be $130 Billion.
 **Caveats**
 
@@ -97,5 +97,5 @@ We used a Discounted Cash Flow (DCF) model to value UPS, with a pessimistic outl
 
 UPS has a narrow moat based on its scale and brand, but competition and macroeconomic conditions pose challenges.  Our DCF valuation suggests that the current market price is overly optimistic, and we estimate the intrinsic value to be considerably lower at $130 billion.
 
-> {: .important}
-> Given the inherent difficulties in forecasting, potential investors should treat the DCF estimate as a starting point and conduct additional due diligence. 
+{: .important }
+>> Given the inherent difficulties in forecasting, potential investors should treat the DCF estimate as a starting point and conduct additional due diligence. 

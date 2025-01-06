@@ -62,7 +62,7 @@ We will use a **discounted cash flow (DCF)** model to value Equinix, focusing on
 * **Reinvestment Rate:**  We assume a reinvestment rate of 30% in perpetuity, slightly below historical levels but reflecting ongoing capital needs.
 * **Cost of Capital (WACC):**  We estimate a cost of capital of 8.5%, using a risk-free rate of 3%, a market risk premium of 5.5%, and a beta of 1.2, delevered to account for Equinix's capital structure, as well as a cost of debt of 4% after tax.
 
-{: .note}
+{: .note }
 It is important to note that Equinix is classified as a REIT under US tax laws which may affect the cash available to equity holders
 
 **Calculations:**

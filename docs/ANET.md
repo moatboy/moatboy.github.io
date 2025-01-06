@@ -92,7 +92,7 @@ We also performed a scenario analysis by creating bull and bear scenarios with d
 
 **Valuation Conclusion**
 
-{: .warning}
+{: .warning }
 Based on the DCF, the equity value of Arista is estimated at $57.410 billion.  The relative valuation suggests a value of $44.426 billion. Given the increasing competition in the cloud networking market and our pessimistic assumptions, we arrive at a fair value of $47.5 billion, which is closer to the relative valuation.
-{: .note}
+{: .note }
 It is important to note that the assumptions used in the valuation are based on ANET's latest 10k report and earlier quarterly financials, and it also worth reiterating that this may be too high of a valuation at $47.5 billion given ANET's low trading volume.

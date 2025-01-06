@@ -40,10 +40,10 @@ Nike's brand power is undeniable, but its competitive advantages are showing sig
 Nike’s moat rests primarily on its brand. The swoosh logo is globally recognized and conveys quality, performance, and status. This allows Nike to charge premium prices for its products. However, the strength of this brand is not as formidable as it once was.  Several factors contribute to this assessment:
 
 {: .warning }
-* **Increased Competition:**  Competitors like Adidas and Under Armour have stepped up their game, developing their own strong brands and innovative products, chipping away at Nike's market share and pricing power.* **Shifting Consumer Preferences:** Consumer tastes are fickle, and Nike’s reliance on brand cachet is being challenged by the rise of smaller, more niche brands that cater to specific consumer segments. {: .warning}
-{: .note }
-* **Dependence on Endorsements:** While endorsements still play a significant role, they can be fickle and expensive.  A negative event surrounding a key athlete could tarnish the brand's image.* **Manufacturing Challenges:**  Nike has faced scrutiny for its manufacturing practices, particularly in developing countries.  These issues could potentially impact consumer perceptions of the brand. {: .note}
-
+* **Increased Competition:**  Competitors like Adidas and Under Armour have stepped up their game, developing their own strong brands and innovative products, chipping away at Nike's market share and pricing power.{: .warning }
+* **Shifting Consumer Preferences:** Consumer tastes are fickle, and Nike’s reliance on brand cachet is being challenged by the rise of smaller, more niche brands that cater to specific consumer segments.{: .note }
+* **Dependence on Endorsements:** While endorsements still play a significant role, they can be fickle and expensive.  A negative event surrounding a key athlete could tarnish the brand's image.{: .note }
+* **Manufacturing Challenges:**  Nike has faced scrutiny for its manufacturing practices, particularly in developing countries.  These issues could potentially impact consumer perceptions of the brand.
 While Nike possesses a large scale distribution network, this advantage doesn't translate to a moat because scaling is not unique to Nike. Other large companies have similar networks, making it easy for competitors to match and undercut Nike. Other factors often cited as sources of competitive advantage, such as technology or efficient operations, are not sufficient to create a long-lasting moat. These advantages are easily replicable, and competitors are constantly innovating. 
 
 Considering these factors, a moat rating of 3/5 seems justified. The brand still has value, but the moat has become substantially narrower and shallower than it was at its peak.  
