@@ -44,6 +44,7 @@ Carrefour has some characteristics that could contribute to a narrow moat, but i
 
 {: .warning }
 >  **Rating Justification:** While scale and private label brands provide some competitive advantages, these are not strong enough to create a wide moat.  The grocery industry is fiercely competitive, and Carrefour's thin margins suggest limited pricing power.  Its e-commerce efforts, while necessary, face significant hurdles.  A rating of 2 / 5 reflects a narrow moat that is potentially weakening in the face of increasing competition.
+
 **Valuation (€14.6 Billion):**
 
 We will use a discounted cash flow (DCF) model to estimate Carrefour's intrinsic value.  Given the thin margins and intense competition in the grocery industry, we will adopt a more pessimistic outlook.
@@ -74,6 +75,7 @@ Value of equity = Value of operating assets + Cash + Marketable Securities + Min
 
 {: .note }
 >  **Simplified Version:**  This is a simplified version of the DCF model, assuming a constant level of after-tax operating income during the explicit forecast period to make the computations easier to follow.  A more complete model with changing margins would likely yield a higher valuation. More detailed assumptions would also lead to a different number but for the purpose of providing an approximation, and a pessimistic one at that, this version will do.
+
 
 {: .important }
 >  **Disclaimer:** This valuation is based on a set of assumptions and is subject to change.  It is essential to conduct your own due diligence and develop your own scenarios and forecasts before making any investment decisions.  Furthermore, the grocery sector is particularly sensitive to changes in customer spending.

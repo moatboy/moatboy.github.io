@@ -60,6 +60,7 @@ BMY's moat derives primarily from **intangible assets**, specifically its patent
 {: .note }
 >  DCF is the most appropriate valuation method for businesses with long and stable histories, and provides the best measure of long-term intrinsic value.
 
+
 **Key Assumptions:**
 
 * **Revenue Growth:** I project revenue growth of 2% per year for the first five years, then decreasing to 1% until year 10. This reflects expected biosimilar competition and the already observed slowdown in revenue growth for some of BMY's established products.
@@ -101,6 +102,7 @@ BMY's moat derives primarily from **intangible assets**, specifically its patent
 {: .note }
 >  I have not included any adjustments for non-operating assets for simplicity. However, you should include such adjustments to accurately measure the value of equity.
 
+
 I assumed zero value for nonoperating assets and subtract out the debt to arrive at the value of equity.
 
 
@@ -109,6 +111,7 @@ I assumed zero value for nonoperating assets and subtract out the debt to arrive
 
 {: .warning }
 These calculations yielded an intrinsic value in the neighborhood of **$50 per share** for the most-likely scenario, suggesting a fair market value for the firm in the neighborhood of  $120 billion. However, the valuation range was quite wide, because small changes in input assumptions could dramatically affect the results.
+
 
 **Disclaimer:**
 

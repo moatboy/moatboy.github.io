@@ -45,6 +45,7 @@ AppLovin is a mobile technology company providing a software platform and relate
 AppLovin’s moat is narrow and currently rates a **2 out of 5**.
 
 {: .warning }
+
 > **Justification for Moat Rating:** While AppLovin enjoys some network effects through its platform and benefits from demand-side economies of scale, these advantages are partially offset by the highly competitive nature of the mobile gaming market, the relatively low switching costs for developers and users, and the limited financial strength of the firm. The lack of profitability raises concerns about the company's long-term financial health.  Intense competition may erode the benefits of scale as the market matures. The company’s relatively young age also makes it difficult to assess the long-term durability of the moat with the same degree of confidence as one might assess more established firms. The network effects are not sufficiently strong or unique to warrant a wider moat rating, especially given the low switching costs involved with its products and services. The industry overall is growing rapidly, but this growth may benefit established competitors even more and allow them to leverage their existing scale even further.
 
 
@@ -53,6 +54,7 @@ AppLovin’s moat is narrow and currently rates a **2 out of 5**.
 Using a **discounted cash flow (DCF)** model with a **10-year explicit forecast period**, we arrived at a valuation of **$8.12 Billion** for AppLovin. The DCF valuation is based upon the following assumptions, under a **business-as-usual** scenario, with a pessimistic view of the company's future growth and profitability:
 
 {: .important }
+
 > **Key Valuation Assumptions:**
 > * **Revenue Growth:** 5-10% annual revenue growth for 5 years, declining to 3% in perpetuity.
 > * **Operating Margin:** 15% (long term)
@@ -64,11 +66,13 @@ Using a **discounted cash flow (DCF)** model with a **10-year explicit forecast 
 > * **Liquidation Value (in case of failure):** 30% of book value
 > * **Terminal Value growth:** 3% perpetual growth
 {: .note }
+
 > * **FCFF Approach:** We calculate free cash flow to firm (FCFF) using the reorganized company's financials, discount them back to present value using the weighted average cost of capital (WACC), and then add the present value of the terminal value.
 > * **Conservative Assumptions:** These growth, margin, reinvestment, and cost of capital assumptions reflect a cautious view of AppLovin’s ability to navigate the competitive landscape and achieve sustainable profitability.  The liquidation value in the event of failure is also a conservative estimate.
 
 
 {: .highlight }
+
 > **Detailed DCF Calculations:**
 >
 > 1. **Forecast the Company's Financials:** Using the provided financial statements and the assumptions above, we forecast AppLovin's revenues, costs, and invested capital for the next 10 years.
@@ -82,6 +86,7 @@ Using a **discounted cash flow (DCF)** model with a **10-year explicit forecast 
 
 
 {: .note }
+
 > **Valuation Justification:**  Given the company’s current lack of profitability and intense competition in the industry, a lower valuation reflecting these risks is warranted. My estimated fair value is significantly lower than recent market valuations, reflecting a more pessimistic view of the company's future prospects.  This valuation is highly sensitive to the growth and margin assumptions. If AppLovin can demonstrate a clear path to sustainable profitability and higher growth, the valuation could be significantly higher. However, the burden of proof is on the company to prove these optimistic outcomes, not on the investor to assume them.
 
 **Sensitivity Analysis**

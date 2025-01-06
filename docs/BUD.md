@@ -42,11 +42,13 @@ BUD has a **narrow moat**, which I rate as a **3 out of 5**.
 **Justification:**
 
 {: .highlight }
-* **Brand Strength:** BUD possesses a portfolio of strong brands, some of which have global recognition. These brands contribute to customer captivity and pricing power. This is the cornerstone of BUD’s moat. However, brand loyalty in the beer market is not as strong as in some other consumer goods categories (e.g., soft drinks), limiting the extent to which the company can extract value via premium pricing.   Furthermore, the rise of smaller craft breweries, especially in the US market, threatens to erode the brand strength of some of the company's weaker brands.  I take a pessimistic view on the durability of brand power in a market where consumer tastes are fragmented, and competition is intensifying, albeit still from a relatively small base.  This is not a consumer category where brand power is as durable as, say, in luxury goods or soft drinks.* **Distribution Network:** BUD's extensive distribution network provides a cost advantage, particularly in emerging markets, where the company often enjoys privileged access to distribution channels. However, this advantage is less significant in developed markets, where distribution networks are often more fragmented. I am also concerned about the increasingly substantial investments BUD makes in emerging markets and its reliance on local distributors in these markets, which increases geographic concentration risk. 
+* **Brand Strength:** BUD possesses a portfolio of strong brands, some of which have global recognition. These brands contribute to customer captivity and pricing power. This is the cornerstone of BUD’s moat. However, brand loyalty in the beer market is not as strong as in some other consumer goods categories (e.g., soft drinks), limiting the extent to which the company can extract value via premium pricing.   Furthermore, the rise of smaller craft breweries, especially in the US market, threatens to erode the brand strength of some of the company's weaker brands.  I take a pessimistic view on the durability of brand power in a market where consumer tastes are fragmented, and competition is intensifying, albeit still from a relatively small base.  This is not a consumer category where brand power is as durable as, say, in luxury goods or soft drinks.
+* **Distribution Network:** BUD's extensive distribution network provides a cost advantage, particularly in emerging markets, where the company often enjoys privileged access to distribution channels. However, this advantage is less significant in developed markets, where distribution networks are often more fragmented. I am also concerned about the increasingly substantial investments BUD makes in emerging markets and its reliance on local distributors in these markets, which increases geographic concentration risk. 
 * **Scale:** As the world's largest brewer, BUD benefits from economies of scale in purchasing and production. These cost advantages are primarily relevant in markets where volume matters more than differentiation. I am not entirely convinced about the long-term sustainability of BUD’s cost advantage as the industry is slowly becoming more vertically integrated. For instance, in-house beer production may not be as effective as relying on locally produced beer using specialized brewing processes. 
 
 {: .warning }
 **Overall Moat Assessment:** While BUD's brands and distribution network provide a solid foundation for its narrow moat, its ability to sustain excess returns is limited by the fragmented and competitive nature of the beer industry, particularly in developed markets. Further, rising input costs have put pressure on profitability and created incentives to invest in businesses and geographies that could be argued are a distraction from BUD's core business. The growing popularity of craft breweries and increasing consumer preference for healthier beverages are also potential long-term threats to the company's moat.
+
 **Valuation:**
 
 I employed a discounted cash flow (DCF) approach to value BUD, using its financial statements from 2019 to 2022 and 2023 interim results.
@@ -59,6 +61,7 @@ I employed a discounted cash flow (DCF) approach to value BUD, using its financi
 
 {: .important }
 **Detailed Calculation:**
+
 1. **Forecast free cash flow (FCF) for the next 10 years.** (Calculations not shown due to limited space. Projected financial statements are shown in the attached resources).
 2. **Calculate the terminal value:** $50.44 billion (assumes 3% growth rate in perpetuity)
 3. **Discount the FCF and terminal value back to today at the cost of capital.** The present value of the next 10 years of FCF is $13.42 billion, and the present value of the terminal value is $29.84 billion.
@@ -79,6 +82,7 @@ I employed a discounted cash flow (DCF) approach to value BUD, using its financi
 
 {: .note }
 **Caveats and Additional Considerations:**
+
 * This valuation is based on a number of assumptions that may not materialize. There is considerable uncertainty attached to the valuation of companies. The actual outcome may differ significantly from what has been laid out. Consequently, it is important to test the robustness of a valuation result. Sensitivity and scenario analysis would be employed to estimate the range of outcomes and incorporate risk.
 * The beer industry is mature, and growth is likely to be muted going forward.
 * I applied a margin of safety (MOS) to arrive at a fair value estimate. Given the challenges that AB InBev faces, a larger than usual MOS would be applied.  

@@ -34,6 +34,7 @@ EADSY, or Expedia Group, Inc., is a global travel platform operating a portfolio
 
 {: .important }
 >  Transparency in segment details can be patchy. Relying solely on publicly available documents, and not access to management, often hinders a complete view.
+
 * **Industry Trends:** The online travel industry is a dynamic environment marked by increasing online penetration, a shift towards mobile bookings, and the rise of alternative accommodation platforms. The industry is increasingly concentrated at the top, with Expedia Group and Booking Holdings dominating. Consolidation through mergers and acquisitions has been a key feature of the industry landscape.
 * **Margins:**  EADSY has historically enjoyed robust operating margins, though these have been under pressure due to increased competition, rising marketing costs, and the shift in mix towards lower-margin products and services.  There's no pricing power in commodity products like airline tickets, which compresses margins in that segment.
 * **Competitive Landscape:**  The online travel industry is fiercely competitive, with major players including Booking Holdings, Airbnb, and Google.  While brand recognition exists, switching costs for consumers are low, hence, limited pricing power. EADSY's size and scale provide some cost advantage, particularly in marketing, and their network of properties and customers is valuable.  However, these advantages are not insurmountable.
@@ -51,6 +52,7 @@ EADSY's moat earns a rating of 2 out of 5, representing a narrow moat.
 
 {: .warning }
 >   While cost advantages are important in highly competitive commodity businesses, they need to be significant and sustainable. EADSY's cost advantages are present but are not unassailable by larger competitors with greater resources.
+
 * **Ergodic Moat:** There is the risk of the moat eroding due to technological change, increased competition, and changing consumer preferences. The rise of alternative accommodation platforms and direct booking options are potential threats to EADSY's business model.  Moreover, Google's entry into the travel search market intensifies the competitive landscape.
 
 **Valuation:**
@@ -76,6 +78,7 @@ We will employ a discounted cash flow (DCF) model, specifically using enterprise
 
 {: .note }
 >   Complete year-by-year free cash flow projections are not shown here but are crucial for a fully robust valuation.
+
 5. **Enterprise Value:** Sum of the present value of free cash flows for the explicit forecast period (5 years) and the present value of the terminal value.
 6. **Equity Value:** Enterprise Value - Debt + Cash and Marketable Securities. 
 7. **Value per Share:** Equity Value / Number of Shares Outstanding
@@ -87,6 +90,7 @@ Applying the above assumptions and the DCF model yields an enterprise value of a
 
 {: .warning }
 >  This valuation is sensitive to growth and margin assumptions. A more pessimistic outlook, which is warranted given the competitive landscape, would lead to a lower valuation.
+
 Therefore, based on a DCF valuation with somewhat pessimistic assumptions, EADSY's fair value is approximately **$8.2 Billion**.
 
 

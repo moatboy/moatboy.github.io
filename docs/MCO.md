@@ -46,9 +46,12 @@ Moody's operates through two segments:
 Moody's financial performance has been consistently strong, with high margins and returns on invested capital (ROIC).  
 
 {: .highlight }
-* **Margins:** The company's operating margin (adjusted) hovers around 44%, significantly higher than the average for most industries.{: .highlight }
-* **ROIC:** The company's ROIC (adjusted) has remained consistently above its cost of capital, indicating value creation.  In 2022, Moody's ROIC was ~13%, well above its cost of capital, estimated at 9.2%.{: .warning }
+* **Margins:** The company's operating margin (adjusted) hovers around 44%, significantly higher than the average for most industries.
+{: .highlight }
+* **ROIC:** The company's ROIC (adjusted) has remained consistently above its cost of capital, indicating value creation.  In 2022, Moody's ROIC was ~13%, well above its cost of capital, estimated at 9.2%.
+{: .warning }
 * **Revenue Growth:**  Revenue growth has been steady, reflecting the overall growth of the credit markets. In recent years, MCO has increasingly relied on acquisitions for growth, a potential concern.
+
 **Moat Analysis and Rating Justification**
 
 Moody's enjoys a wide moat derived from several sources:
@@ -58,8 +61,10 @@ Moody's enjoys a wide moat derived from several sources:
 3. **Network Effect:** While not a direct network effect, Moody's benefits from the concentration of the market among the Big Three.  The more these firms dominate, the more valuable their ratings become, creating a virtuous cycle.
 {: .note }
 4. **Cost Advantages:** Although not as powerful as the first two sources of competitive advantage, economies of scale provide some cost advantages to MCO.
+
 {: .important }
 These factors combined warrant a moat rating of 4 out of 5. Although a strong and durable competitive advantage exists, the increasing reliance on acquisitions for growth and the potential for regulatory changes to disrupt the industry warrant a slightly less optimistic outlook.
+
 **Valuation**
 
 Valuation Model:  **Two-Stage Discounted Cash Flow (DCF)**
@@ -94,10 +99,12 @@ Valuation Model:  **Two-Stage Discounted Cash Flow (DCF)**
 
 {: .warning }
 6. **Value per Share:** Value/share = Value of company/Number of Shares (2022 annual report) = $42,336/1,778=$23.81.  MCO current price is $306.53
+
 **Valuation Conclusion:**
 
 {: .important }
 Based on a DCF model and under somewhat-pessimistic assumptions, Moody's is estimated to be worth \$46.4 Billion, or approximately $26/share.  This valuation is considerably lower than its current market price, suggesting the company may be overvalued.  The gap between my valuation and the market value should be interpreted with caution; bear in mind, as emphasized in the *Valuation* book, that there are no precise valuations, particularly for companies that own intangible assets, operate in unique industries, or have few peers.
+
 **Additional Considerations:**
 
 * This valuation does not incorporate any margin of safety.  A true margin of safety would lower the purchase price further, thereby increasing the return on investment and helping to protect against downside risk.

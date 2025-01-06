@@ -39,9 +39,12 @@ Palo Alto Networks is a leading cybersecurity company that offers a platform app
 PANW's moat is based on a combination of factors, including:
 
 {: .important }
-* **Switching Costs:**  Large enterprise customers using PANW's platform face significant switching costs due to the complexity of integrating various security functions and the potential disruption to their operations.{: .new }
-* **Network Effect:** While not as strong as a traditional network effect like social networks, PANW's platform benefits from some network effects as the security value of the platform increases with more users and data.{: .warning }
+* **Switching Costs:**  Large enterprise customers using PANW's platform face significant switching costs due to the complexity of integrating various security functions and the potential disruption to their operations.
+{: .new }
+* **Network Effect:** While not as strong as a traditional network effect like social networks, PANW's platform benefits from some network effects as the security value of the platform increases with more users and data.
+{: .warning }
 * **Intangible Assets:**  PANW's brand name is a valuable intangible asset, particularly among larger enterprise customers.  However, brand strength can be fleeting in the technology sector, which requires continuous innovation.
+
 
 **Moat Rating Justification:**
 
@@ -59,6 +62,7 @@ PANW's moat is rated a 3 out of 5 due to the following:
 <br>
 {: .note }
 We will perform a discounted cash flow (DCF) valuation using the key value driver formula, as described in “Valuation”. We use this simplified model despite its limitations for several reasons. First, there is less ambiguity in communicating using the model. Second, many valuation spreadsheet models employ a similar formula, making it easier to compare and contrast with the valuations of other business or financial advisors. Finally, research shows that this simplified model generates results that are close to the best-practice DCF model.
+
 
 **Assumptions:**
 
@@ -80,16 +84,19 @@ We will perform a discounted cash flow (DCF) valuation using the key value drive
 <br>
 {: .important }
 Note: We use the continuing-value formula for free cash flows at the end of a growth period. This calculation produces the same value as the perpetuity growth model. However, when modeling expected cash flows for a firm in a high-inflation country, using this key-value-driver formula is easier than using the perpetuity growth model because the latter requires an estimate for the terminal year.
+
 3. **Discount FCFF and terminal value back to present value using the cost of capital.**  
 
 <br>
 {: .new }
 The resulting enterprise value of operations is $57,078 million. Deduct the company's current net debt (Total Debt - Cash and cash equivalents = $1,824 million) and add its nonoperating assets ($8,097 million, from its annual report) to arrive at the value of equity. The value of equity is $63,351 million.
 
+
 <br>
 
 {: .highlight }
 4. **Divide the equity value by the number of shares outstanding** to arrive at a value per share. For PANW, with 281 million shares outstanding, this implies a value/share of $225.45, slightly higher than the current trading price (near $210). Multiplying $225.45 by 281 million leads to an overall valuation of $63.35 Billion.
+
 <br>
 
 
@@ -103,6 +110,7 @@ We can build a valuation range using the probabilities provided in Zomato's IPO 
 
 {: .note }
 Weighting the valuations accordingly leads to a weighted average valuation of $57.4 billion, rounded to $47.4 Billion due to our pessimistic outlook.
+
 <br>
 
 **Conclusion:**

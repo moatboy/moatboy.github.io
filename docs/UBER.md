@@ -62,6 +62,7 @@ Uber's technology and operational execution are also important competitive advan
 
 {: .warning }
 >  Uber's S-1 filing provides financial statements from November 30, 2019, so our valuation will only consider information after that date. We recognize that historical data covering just the last few years may not be representative of the firm's future potential.
+
 * **Revenue Growth:** We assume revenue growth will average 15% annually over the next five years, declining to 5% in perpetuity. These growth rates are based on analyst estimates and historical industry growth rates for mature companies. This assumption is quite optimistic, given the competitive landscape.
 * **Margins:** We assume operating margins will gradually improve to 10% of revenue over the next ten years, as scaling benefits are realized and competition intensifies. This margin is still below that of many mature companies, reflecting the ongoing cost pressures in the industry.
 * **Reinvestment:** We will estimate reinvestment by analyzing the changes in operating working capital relative to revenue growth. The reinvestment rate is expected to decline to 10% in steady state.

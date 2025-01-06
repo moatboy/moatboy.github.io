@@ -50,6 +50,7 @@ Sanofi's moat rating of 2/5 reflects a **Narrow** moat based primarily on the st
 {: .warning }
 >  **Justification for 2/5 Moat Rating:** Sanofi's moat is driven by a single product and the potential for other promising drugs in development. Patent expirations and the commodity nature of its consumer business are significant factors weighing on the moat. A higher rating would not be justified given the significant business risks facing the company.
 
+
 **Valuation**
 
 A two-stage Discounted Cash Flow (DCF) analysis was conducted to value Sanofi.  A range of valuations is presented across three scenarios:
@@ -77,6 +78,7 @@ A two-stage Discounted Cash Flow (DCF) analysis was conducted to value Sanofi.  
 {: .note }
 >  **Detailed data, and calculation of discount rates by segment and business area can be found in the company's Form 20-F filings for relevant years.**
 
+
 **Valuation Calculations**
 
 1. **Free Cash Flow Projections:** Year-by-year free cash flow projections were developed for the next 10 years, based on the revenue growth, margin, reinvestment rate, and tax rate assumptions. 
@@ -92,9 +94,11 @@ A two-stage Discounted Cash Flow (DCF) analysis was conducted to value Sanofi.  
 {: .important }
 >  **Scenario Analysis:** This process was repeated for the downside and upside scenarios, adjusting the key assumptions (growth, margins, and reinvestment rate) for each scenario.
 
+
 5. **Probability-Weighted Average Valuation:**  The valuation from each scenario was weighted by its probability of occurrence to arrive at a final, blended valuation. This yielded a total enterprise value of **€138 billion**.
 
 {: .note }
 >  The full valuation model including free cash flow forecasts, terminal value calculation,  present value calculations and adjustments is too extensive to include in this response but should be done in a spreadsheet format using the provided financial statements. For simplicity, only some parts are presented.
+
 {: .important }
 >   **Key Takeaway:** This valuation suggests that Sanofi may be slightly overvalued at its current market capitalization of approximately €124 billion as of October 2023.  However, this assessment is sensitive to the assumptions concerning Dupixent's future performance and competitive threats, as well as the success of other pipeline drugs.  Given the risks and uncertainty surrounding these factors, a 2/5 moat rating and a more conservative valuation approach are warranted.

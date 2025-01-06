@@ -45,6 +45,7 @@ Gilead's moat is narrow, primarily based on intangible assets in the form of its
 
 {: .warning }
 >  Gilead's narrow moat based on intangible assets is weakening due to patent expirations and increasing competition.  This makes it difficult to assign a high moat rating.
+
 **Valuation**
 
 To value Gilead Sciences, we have used a discounted cash flow (DCF) model, using FCFF, with projections from 2024 to 2033 and discounting the value back to today.
@@ -68,6 +69,7 @@ Terminal Value = ($4,940 * (1 - 0.10)) / (0.075 - 0.03) = $98,464 million
 **Calculations:**
 {: .highlight }
 
+
 * **Free Cash Flow:** Free cash flow to the firm (FCFF) is the after-tax operating income minus the net capital expenditures and working capital needs of the firm. It is the cash flow available to all providers of capital to the firm, regardless of capital structure. We first obtain FCFF for years 2024 to 2033 by using the equation: FCFF = Revenue * Operating Margin * (1 - Tax rate) * (1 - Reinvestment Rate).
 * **Present Value of Free Cash Flow:** We then discount these cash flows at the cost of capital to arrive at their present value.
 * **Present Value of Terminal Value:** We discount the terminal value by the cost of capital to arrive at its present value as of today.
@@ -77,12 +79,14 @@ Terminal Value = ($4,940 * (1 - 0.10)) / (0.075 - 0.03) = $98,464 million
 
 {: .note }
 >  For a fully detailed and explained calculation for the 2023 Annual Report data, please refer to **Table 5.3, Table 5.4, and Table 6.3** in *The Little Book of Valuation*.
+
 <br>
 
 Based on these assumptions and calculations, the enterprise value (the value of the operating assets) of Gilead Sciences is estimated to be about $70 billion, which translates to about $53 per share. This assumes that the firm will continue to operate as a going concern.
 
 {: .important }
 >   Given the uncertainty and competition in the pharmaceutical and biotechnology industry, we have used fairly conservative assumptions to build a margin of safety into the valuation.
+
 **Additional Considerations**
 
 * **Drug Pipeline:** Gilead's drug pipeline is a key driver of its future growth.  However, drug development is inherently risky, and there is no guarantee that any of the company's current drug candidates will be commercially successful.
@@ -91,6 +95,7 @@ Based on these assumptions and calculations, the enterprise value (the value of 
 
 {: .warning }
 >  The pharmaceutical industry is complex and inherently risky. The valuation is based on conservative assumptions, but it is still possible that the actual results could be significantly different from the estimated value.
+
 **Suggested Books:**
 
 * **The Intelligent Investor** by Benjamin Graham: This book provides a comprehensive overview of value investing and emphasizes the importance of investing with a margin of safety.

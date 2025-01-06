@@ -39,10 +39,12 @@ Medtronic's moat rating of 3/5 reflects a narrow moat stemming from a combinatio
 
 1. **Switching Costs:** Medtronic benefits from moderately high switching costs, particularly in its implantable devices segment. Once a physician is trained on and comfortable using a specific Medtronic device, they are less likely to switch to a competitor's product due to the time and resources required to learn a new system. Additionally, hospitals have an incentive to standardize on a single supplier to streamline training, maintenance, and procurement, which further entrenches Medtronic's position. 
 {: .warning }
->  However, these switching costs are not absolute, as new technologies and products from competitors can induce physicians and hospitals to change vendors.2. **Intangible Assets:** Medtronic owns a large portfolio of patents, which offer some protection for its innovative products and technologies. However, as with any patent-driven moat, this strength has limitations. The average patent life is finite, and competitors can often design around existing patents with some effort.
+>  However, these switching costs are not absolute, as new technologies and products from competitors can induce physicians and hospitals to change vendors.
+2. **Intangible Assets:** Medtronic owns a large portfolio of patents, which offer some protection for its innovative products and technologies. However, as with any patent-driven moat, this strength has limitations. The average patent life is finite, and competitors can often design around existing patents with some effort.
 3. **Economies of Scale:** Medtronic's large size enables it to invest heavily in research and development, creating a pipeline of new products. The company also benefits from scale in manufacturing and distribution, lowering costs relative to smaller competitors.
 {: .warning }
 >  However, the company has made a few acquisitions at extremely high premiums that are less likely to generate excess returns.
+
 **Valuation:**
 
 To arrive at a fair value for Medtronic, a discounted cash flow (DCF) model was used, focusing on free cash flow (FCF). A 10-year explicit forecast period, followed by a terminal value, was utilized. Key assumptions include:

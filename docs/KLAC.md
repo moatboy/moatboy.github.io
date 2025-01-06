@@ -54,6 +54,7 @@ KLA benefits from several sources of competitive advantage that create high barr
 
 {: .important }
 > **Assumptions for a Base Case (Business as Usual):**
+
 | Variable         | Input |
 |-----------------|-------|
 | Revenue growth    | 3%    |
@@ -66,8 +67,10 @@ KLA benefits from several sources of competitive advantage that create high barr
 
 {: .note }
 We are choosing to value the firm using an explicit, 10-year DCF model, which allows us to better see the intertemporal dynamics of value creation that a company exhibits, allowing us to better integrate the company's dynamics and current performance into its business economics. {: .important }
+
 {: .important }
 > **Calculations:**
+
 1. **Terminal Value:** Assuming a steady state where the company's revenue growth will converge on the nominal growth rate of the US economy (say 3% annual), we can estimate the terminal value.  We will assume a return on capital declining to cost of capital (10%) by year 10.
 
 
@@ -110,21 +113,27 @@ We are choosing to value the firm using an explicit, 10-year DCF model, which al
     ```
 
 {: .important }
-> **Therefore, based on this base-case, DCF valuation, KLA is worth approximately $370 billion.**{: .warning }
+> **Therefore, based on this base-case, DCF valuation, KLA is worth approximately $370 billion.**
+{: .warning }
 > **This represents a modest potential upside of about 15% from the last closing price of KLA's stock.**
+
 {: .warning }
 > **Given the inherent uncertainty associated with any valuation, and the current volatility in semiconductor markets, as well as macroeconomic uncertainties, I urge investors to proceed with caution.**
+
 
 **Additional Considerations:**
 
 {: .important }
 > **Sensitivity Analysis:** A complete sensitivity analysis requires considering how the output changes for a wide range of inputs, and it requires a comprehensive set of financial projections for individual drivers. Such as revenue growth, profit margins, reinvestment rate and cost of capital, etc. to address sensitivity.
+
 * **Downside Scenario:** If revenue growth were to be just 1%, the discounted cash flows would be much lower and the terminal value would decline dramatically.  If KLA’s margins came under further pressure from increased competition, this would also materially lower the value of the business. In a severe downside scenario, the value would be less than half of the base case. 
 
 {: .important }
 >**Other Valuation Methods:** As an additional cross-check, relative valuations can be applied.
+
 {: .note }
 * In addition to the valuation based on discounted cash flows, I also compared the valuation with comparable companies and estimated the implied market-value-to-capital ratio as well as the market value derived from recent share prices. The resulting valuations are similar to the DCF-based valuation.
+
 
 
 **Disclaimer:** This valuation is for educational purposes only and is not a recommendation to buy or sell KLA stock. It is critical to conduct your own thorough research and consult with a qualified financial advisor before making any investment decisions.

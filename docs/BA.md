@@ -38,6 +38,7 @@ Despite these headwinds, Boeing's duopoly position still bestows a narrow moat, 
 {: .warning }
 >  The moat rating is subjective. Other analysts, perhaps more optimistic, might give Boeing a rating of 3 or higher. However, given the company’s recent financial and operational missteps, a rating higher than 2 would not be warranted by economic fundamentals.
 
+
 **Business Overview**
 
 Boeing operates through three segments:
@@ -52,6 +53,7 @@ A discounted cash flow (DCF) valuation was performed using a 10-year forecast pe
 
 {: .important }
 >  The valuation is highly sensitive to assumptions, and small changes can have a dramatic impact. Be sure to review all the assumptions and understand their drivers before using any valuation output. Also, bear in mind that the valuation was performed using information that is currently available.
+
 **Valuation Assumptions and Calculations**
 
 * **Revenue growth (years 1-5):** Three scenarios were created:
@@ -77,6 +79,7 @@ A discounted cash flow (DCF) valuation was performed using a 10-year forecast pe
 
 {: .highlight }
 
+
 **Example Calculation (Base Case - Year 1)**
 
 * Revenue: $81.8 Billion
@@ -93,10 +96,12 @@ Similar calculations were performed for each of the forecast years, for each of 
 {: .note }
 >   All the financial statements used for the base valuation of Boeing are available publicly in the EDGAR database at www.sec.gov.
 
+
 **Conclusion**
 
 Based on the DCF valuation, with pessimistic assumptions and incorporating the risk of business failure, a fair value of approximately $170 billion is estimated for Boeing.
 
 {: .important }
 >  This valuation is based on a particular set of assumptions, and the actual value may be higher or lower. Given the considerable uncertainty associated with Boeing's future, it would be wise to apply a margin of safety, i.e., buy shares only at a price substantially below this valuation.
+
 This valuation uses the financial statement information that is available publicly and incorporates the discount rates that are currently available. Different outcomes in the years ahead may cause these numbers to change. However, based upon a thorough discounted cash flow analysis as of August 2023, and Boeing's continued position as one of two leading providers of commercial aircraft, Boeing seems to be a good long-term investment at the right price. It seems to be fairly valued at the time of this valuation, and not an obvious value play.

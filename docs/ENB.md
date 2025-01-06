@@ -44,16 +44,19 @@ Enbridge is a leading North American energy infrastructure company with a divers
 Enbridge's moat rating of 3 out of 5 reflects a narrow moat based primarily on the following:
 
 {: .important }
-1. **Real Asset Network:**  Enbridge owns and operates an extensive network of pipelines, storage facilities, and other infrastructure assets that are essential for transporting energy across North America.  These real assets possess substantial replacement costs and regulatory complexity, particularly around pipeline permits, creating significant barriers to entry.    It is not easy or cheap to replicate Enbridge's existing infrastructure.2. **Stable Cash Flows:**  Enbridge derives most of its revenues from long-term, cost-of-service and take-or-pay contracts. This provides a stable and predictable stream of cash flows, even in the face of fluctuating energy prices. This stable cash flow profile makes the company a safe investment from a dividend perspective.
+1. **Real Asset Network:**  Enbridge owns and operates an extensive network of pipelines, storage facilities, and other infrastructure assets that are essential for transporting energy across North America.  These real assets possess substantial replacement costs and regulatory complexity, particularly around pipeline permits, creating significant barriers to entry.    It is not easy or cheap to replicate Enbridge's existing infrastructure.
+2. **Stable Cash Flows:**  Enbridge derives most of its revenues from long-term, cost-of-service and take-or-pay contracts. This provides a stable and predictable stream of cash flows, even in the face of fluctuating energy prices. This stable cash flow profile makes the company a safe investment from a dividend perspective.
 3. **Size and Scale:**  Enbridge benefits from economies of scale, particularly in its pipeline business.  The company's extensive pipeline network allows it to spread its fixed costs (such as pipeline construction and maintenance) over a larger volume of transported products, lowering the per-unit cost of transportation. In addition, Enbridge’s size and scale help the company negotiate more favorable contracts with customers and energy suppliers.
 
 
 {: .warning }
 However, there are factors that moderate the strength of Enbridge's moat:
+
 1. **Regulation:** As a regulated utility, Enbridge's profitability is constrained by regulatory rules. These regulations limit the company's ability to raise prices and extract maximum profits from customers.  This is particularly true in the gas distribution and storage business. While the company enjoys some pricing power in other segments (particularly liquids pipelines), it is less than it would be without regulatory oversight.
 2. **Commodity Price Sensitivity:** While Enbridge's business model mitigates some commodity price risk, the company's profitability is still somewhat sensitive to fluctuations in energy prices. This is particularly true in the energy services business. This sensitivity makes the company's profitability and cash flows slightly less predictable than a typical wide-moat company.
 {: .warning }
 3. **ESG Risks:**  The energy sector is facing increasing pressure to reduce greenhouse gas emissions, which could affect the company's operations and financial results in the coming years. Enbridge is investing heavily in reducing emissions and transitioning to cleaner fuels; however, the transition will be costly and require significant investments with uncertain returns.
+
 
 **Valuation:**
 
@@ -97,7 +100,9 @@ However, there are factors that moderate the strength of Enbridge's moat:
 
 {: .important }
 **Overall Value:**  Based on our assumptions, the probability weighted average of the values for ENB yields an **equity value of approximately $31.23 Billion**, which translates to $41.11 per share. Although above current market price, our view is that this is reasonably close.
+
 {: .note }
 Given the uncertainty inherent in valuing energy companies and the potential for long-term changes in the energy industry, **we believe this valuation is fair**. However, a more pessimistic view of commodity prices could easily yield a lower valuation.
+
 
 This valuation represents a single point in time and will change with new information.  It is vital to build the processes and the institutional structure that enables the company's intrinsic value to increase over time.  Further research should be conducted to gain insight into the dynamics of the company’s industry, including the level of competition, any barriers to entry, and how it might be able to create a sustainable competitive advantage.  Finally, ongoing investor communications will build a bridge between market participants and those who believe in the company, allowing for any short-term valuation mismatches to be resolved.

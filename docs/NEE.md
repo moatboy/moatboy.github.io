@@ -40,6 +40,7 @@ NEE's moat earns a rating of 2 out of 5, indicating a narrow moat.
 
 {: .warning }
 This rating reflects a pessimistic and skeptical outlook, emphasizing the challenges and vulnerabilities in NEE's business model.
+
 **Justification for Moat Rating:**
 
 * **Regulation:** FPL benefits from regulatory advantages.  These are not as strong as those enjoyed by other utilities with absolute geographic monopolies, given its status as a "regulated monopoly," meaning that competitors can enter if they can show that they can provide the same service with similar returns to customers.
@@ -67,6 +68,7 @@ A discounted cash flow (DCF) model is used to value NEE, with a pessimistic bias
 
 {: .note }
 All assumptions used are available in the provided documents and represent a pessimistic view of the company’s performance.
+
 **Valuation Calculations:**
 
 1. **Forecast Free Cash Flow (FCF):**  Project revenues, expenses, capital expenditures, working capital, etc., for the explicit forecast period (10 years). Then, calculate free cash flow to the firm (FCFF) each year.
@@ -84,12 +86,14 @@ Terminal Value = (FCFF * (1+g)) / (WACC - g)
 
 {: .important }
 The detailed financial projections and valuation calculations can be found in the tables and spreadsheets (attached files - these numbers are based upon company filings, and reasonable approximations).
+
 **Valuation Results:**
 
 Based on these pessimistic assumptions, the estimated value of NEE’s equity is approximately $115 billion.  This represents a modest discount to the current market value, suggesting that the market may be slightly overvaluing the company.  
 
 {: .highlight }
 This valuation reinforces a skeptical outlook. Even with its strong position in the renewables sector, NEE faces a number of headwinds that could negatively impact its future performance.
+
 **Additional Considerations:**
 
 * **Sensitivity Analysis:**  Test the valuation's sensitivity to changes in key assumptions, especially growth rates and cost of capital. Given the volatile nature of the commodity business and the challenges to value creation, valuations are extremely sensitive to even small changes in assumptions.

@@ -59,11 +59,14 @@ To value Vertex, a Discounted Cash Flow (DCF) model was used with a 10-year expl
 {: .note }
 * **Cost of Capital (WACC):** We used an unlevered beta of 0.80 based on industry average, unlevered it for Vertex's current market value debt/equity ratio of 0.04, and re-levered using a target debt/equity ratio of 0.10. We used a risk free rate of 4%, a market risk premium of 5.5% and an equity risk premium of 5.7%.  We used a marginal tax rate of 20%. The resulting WACC is 7.43%.
 
+
 > **Calculations:**
 > 1. **FCFF:** Based on historical analysis and incorporating our assumptions, the FCFF is forecast for each of the next 10 years. Due to space constraints, the full FCFF forecast table is not displayed here, but it forms the basis of the following calculations. The key driver is that FCFF turns from negative to positive around year 5 of the explicit forecast period.
 {: .important }
-> 2. **Continuing Value:** Using the constant growth model based on our conservative growth assumptions, the continuing value for Vertex in year 10 is computed as: ($4,143 million *(1+0.01)) / (0.0743-0.01) = $64,291 million.{: .important }
+> 2. **Continuing Value:** Using the constant growth model based on our conservative growth assumptions, the continuing value for Vertex in year 10 is computed as: ($4,143 million *(1+0.01)) / (0.0743-0.01) = $64,291 million.
+{: .important }
 > 3. **Present Value of Operating Assets:**  Discounting both the explicit FCFF forecast and the continuing value at the WACC gives us a present value of operating assets of approximately $62,730 million.
+
 **Valuation**
 
 Adding in cash and subtracting debt yields an equity value for VRTX of approximately **$62.73 billion**. This assumes that non-operating assets are negligible and that there are no other net non-operating liabilities.
@@ -74,6 +77,7 @@ Adding in cash and subtracting debt yields an equity value for VRTX of approxima
 
 {: .warning }
 A sensitivity analysis was performed on key assumptions, specifically revenue growth and operating margin. A 1% change in revenue growth or a 1% change in margin could have a substantial impact on the valuation, emphasizing the importance of developing robust, multi-year forecasts.
+
 **Additional Considerations:**
 
 * The sensitivity analysis is crucial in the case of Vertex, especially given the inherent uncertainties related to its future growth rate and profit margin. 

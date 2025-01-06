@@ -75,6 +75,7 @@ Based on these assumptions, we arrive at an intrinsic value per share of $40.01.
 {: .warning }
 > [!WARNING] This is a DCF model's valuation based on several years of historical financials. The result should be interpreted as a baseline valuation, not a precise estimate. Many factors can impact the actual stock price.
 
+
 **Final Value:** Given all the above considerations, my valuation of Altria is **$71.8 Billion**. This valuation suggests that Altria's shares may be slightly overvalued at current market prices.  The market appears to be optimistic about the company's ability to navigate the challenging business environment, but a more pessimistic approach seems warranted.
 
 *Disclaimer:* This valuation is for educational purposes only and should not be considered investment advice.  It is essential to conduct your own due diligence before making any investment decisions.

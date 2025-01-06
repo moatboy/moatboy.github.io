@@ -39,7 +39,8 @@ Trane Technologies' moat earns a rating of 2 out of 5.  While the company posses
 
 * **Intangible Assets (Brand):** Trane benefits from brand recognition, particularly in the commercial HVAC space. However, brand strength alone is not a significant barrier to entry, and intense competition limits pricing power. There is evidence of substantial goodwill on the balance sheet, which needs to be taken with a large pinch of salt. The brand may confer some customer loyalty, but in a price-sensitive market, this loyalty is often insufficient to prevent switching.
 {: .important }
-* **Switching Costs:** Switching costs for HVAC systems can be moderately high for commercial customers due to the disruption and cost associated with replacing existing systems. However, for smaller projects or replacement parts, switching costs are lower, opening the door to competition.  In transport refrigeration, switching costs are relatively low.* **Network Effect:** Trane Technologies does not benefit from network effects.
+* **Switching Costs:** Switching costs for HVAC systems can be moderately high for commercial customers due to the disruption and cost associated with replacing existing systems. However, for smaller projects or replacement parts, switching costs are lower, opening the door to competition.  In transport refrigeration, switching costs are relatively low.
+* **Network Effect:** Trane Technologies does not benefit from network effects.
 * **Cost Advantage:** Trane doesn't possess a meaningful cost advantage. While economies of scale exist in the production of certain HVAC components, competitors also enjoy similar scale advantages. Intense competition and industry consolidation are squeezing margins in the sector.
 
 > There is no single source of competitive advantage that clearly differentiates Trane and ensures long-term excess economic profits.
@@ -61,8 +62,10 @@ the weighted average cost of capital (WACC) is estimated to be roughly 9.4%.
 * **Probability of Failure:** We conservatively assign a probability of failure of 10 percent, with estimated liquidation proceeds of $0.1 billion (one tenth of the face value of debt), given the company's highly leveraged balance sheet.
 
 {: .note }
-The model used is a simplified DCF model that assumes a stable growth rate in perpetuity. More complex DCF models could incorporate staged growth or cyclical factors, but these would be far too sensitive for this company.{: .warning }
+The model used is a simplified DCF model that assumes a stable growth rate in perpetuity. More complex DCF models could incorporate staged growth or cyclical factors, but these would be far too sensitive for this company.
+{: .warning }
 All assumptions are based on current data and estimates, and there is no guarantee these will hold in the future.
+
 **Valuation Results:**
 
 * **Value of Operating Assets:** $15.01 billion

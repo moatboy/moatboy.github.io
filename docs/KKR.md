@@ -54,13 +54,15 @@ KKR's margins (operating margins and pretax margins) are healthy, but they fluct
 While KKR possesses some attributes that contribute to a competitive advantage, its moat is narrow and faces increasing pressure. 
 
 {: .highlight }
-* **Intangible Assets (Brand):** KKR has a strong brand name in the alternative asset management space, but this is not exclusive in an environment where fund performance drives the narrative.* **Switching Costs:** KKR's investor base is largely institutional, with high switching costs, providing some protection from competition. There is a substantial incentive for fund investors to remain invested in funds that are performing well. Switching between fund managers can also entail logistical costs and the risk of missing out on continued success with an established manager. 
+* **Intangible Assets (Brand):** KKR has a strong brand name in the alternative asset management space, but this is not exclusive in an environment where fund performance drives the narrative.
+* **Switching Costs:** KKR's investor base is largely institutional, with high switching costs, providing some protection from competition. There is a substantial incentive for fund investors to remain invested in funds that are performing well. Switching between fund managers can also entail logistical costs and the risk of missing out on continued success with an established manager. 
 * **Scale:** KKR's size does provide some cost advantages, and its scale allows it to pursue a more diversified set of investment opportunities. KKR's size provides substantial advantages in fundraising, reducing its risk relative to smaller firms.
 
 However, these moat attributes are not sufficient to warrant a higher rating:
 
 {: .important }
-* **Performance Dependence:** The alternative asset management industry is heavily performance-driven. KKR's success is intrinsically tied to its ability to generate alpha.   If performance slips, investors are likely to move their capital elsewhere, regardless of switching costs.* **Key-Person Risk:**  While KKR is growing its next generation of leaders, much of the firm's success remains linked to its founding partners. However, as demonstrated in the provided "The Essays of Warren Buffett" resource, management can play a significant role and can counteract the influence of key personnel on a firm's overall performance.
+* **Performance Dependence:** The alternative asset management industry is heavily performance-driven. KKR's success is intrinsically tied to its ability to generate alpha.   If performance slips, investors are likely to move their capital elsewhere, regardless of switching costs.
+* **Key-Person Risk:**  While KKR is growing its next generation of leaders, much of the firm's success remains linked to its founding partners. However, as demonstrated in the provided "The Essays of Warren Buffett" resource, management can play a significant role and can counteract the influence of key personnel on a firm's overall performance.
 * **Increasing Competition:** As the industry consolidates, competition for both institutional capital and investment opportunities is intensifying, pressuring fees and potentially returns.
 * **Regulation:**  Increased regulatory scrutiny of the financial services industry could limit KKR's flexibility and compress margins. 
 
@@ -72,6 +74,7 @@ To value KKR, we use the **discounted cash flow (DCF)** methodology, specificall
 
 {: .warning }
 **It is extremely difficult for even the most diligent analysts to forecast earnings, growth, the cost of equity, and the required amounts of cash flow on a company-by-company basis, even for companies that look reasonably priced. This difficulty is exacerbated by the lack of information on companies that look underpriced. This makes DCF modeling a challenge for KKR.**
+
 #### Key Assumptions & Inputs
 
 1. **Revenue Growth:** We forecast revenue growth rates, based upon the company's guidance and market growth rates, considering macroeconomic scenarios that appear reasonable given the company's recent performance and outlook.
@@ -122,6 +125,7 @@ These factors are incorporated into the valuation using scenario analysis and pr
 
 {: .note }
 Given the inherent uncertainty in valuing a financial firm like KKR, it is essential to consider a range of values, rather than a single point estimate. Based on the scenarios considered, with their associated probabilities and their discounted cash flows, a reasonable range for KKR's fair value would be approximately $39.1 billion to $47.55 billion.  This implies a potential undervaluation at the current market capitalization of KKR.
+
 
 >Note: This analysis is based on information available as of December 31, 2023, and August 2024. Actual results may vary.  It should not be construed as investment advice. Additional risk factors, such as regulatory changes, lawsuits, and unforeseen events, could impact KKR’s financials. 
 

@@ -54,6 +54,7 @@ Spotify's narrow moat comes from network effects and switching costs, but there 
 **Valuation Assumptions (Pessimistic View)**
 
 {: .highlight }
+
 * **Revenue Growth:**  5% for the next 5 years.
 * **Margins:** Flat operating margins in stable growth.
 * **Return on Capital:** 12%.
@@ -62,6 +63,7 @@ Spotify's narrow moat comes from network effects and switching costs, but there 
 * **Perpetual Growth:** 3% (in nominal terms)
 
 {: .important }
+
 These assumptions reflect a pessimistic view of Spotify's future, with slowing growth and limited margin expansion due to intense competition.
 
 
@@ -92,6 +94,7 @@ Note: Spotify has multiple share classes with different voting rights. For simpl
 
 **Valuation Conclusion**
 {: .warning }
+
 Based on our pessimistic DCF valuation, Spotify's fair value is approximately **$18.8 Billion**. This is slightly higher than its current market capitalization, suggesting that the stock is potentially slightly overvalued, given our pessimistic assumptions.  It's important to note that the valuation is sensitive to changes in growth, margins, and the cost of capital. Small improvements in performance could significantly increase the valuation and vice versa. Any investment should be made at a sufficient margin of safety, given this sensitivity and the risks associated with Spotify's business.
 
 
