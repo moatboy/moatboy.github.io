@@ -120,8 +120,8 @@ for input_file in docs:
                 if callout in line:
                     print(f"{callout} detected.")
                     if not (line.startswith("**") and line.endswith("**")):
-                        line = line.strip()
-                        line = callout + "\n" + line.replace(callout, "")
+                        line = line.strip().replace(callout, "")
+                        line = callout + "\n" + line
                     else:
                         line = line.replace(callout, "").strip()
 
