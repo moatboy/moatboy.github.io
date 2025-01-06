@@ -1,6 +1,27 @@
-## Procter & Gamble (PG) | Moat: 4 / 5 | Valuation: $325 Billion
+---
+title: Procter & Gamble (PGR)
+layout: default
+nav_order: 84
+---
+
+# Procter & Gamble Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $325 B
 
 Procter & Gamble (P&G) is a consumer products giant with a wide moat derived primarily from **intangible assets (brands)** and supported by **economies of scale**, particularly in distribution.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview:**
 

@@ -1,8 +1,28 @@
-## T-Mobile US, Inc. (TMUS) | Moat: 2 / 5 | Valuation: $115 Billion
+---
+title: T-Mobile US, Inc. (TMUS)
+layout: default
+nav_order: 33
+---
 
-**Business Overview**
+# T-Mobile US, Inc. Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 2/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $115 B
 
 T-Mobile US, Inc. is a major wireless communications services provider in the United States, operating the third-largest wireless network nationwide.  It offers a range of wireless voice, messaging, and data services to a diverse customer base, including individual consumers, businesses, and government entities.  T-Mobile's primary revenue streams are service revenues and equipment sales. Its business model is centered around providing reliable wireless service at competitive prices, and it has made significant strides in expanding and upgrading its network infrastructure, particularly with the integration of Sprint. T-Mobile also benefits from the ownership of a significant amount of wireless spectrum licenses.
+
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Moat Analysis**
 

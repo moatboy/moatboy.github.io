@@ -1,6 +1,27 @@
-## Linde plc (LIN) | Moat: 3 / 5 | Valuation: $140 Billion
+---
+title: Linde plc (LIN)
+layout: default
+nav_order: 49
+---
+
+# Linde plc Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $140 B
 
 Linde plc is a leading global industrial gas and engineering company. Its primary business is the production and distribution of atmospheric gases (oxygen, nitrogen, argon) and other industrial gases (hydrogen, helium, carbon dioxide, etc.).  These gases are essential inputs across a wide range of industries, from healthcare and manufacturing to food and beverages and electronics.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview:**
 

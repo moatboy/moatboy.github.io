@@ -1,6 +1,27 @@
-## Chevron (CVX) | Moat: 3 / 5 | Valuation: $270 Billion
+---
+title: Chevron (CVX)
+layout: default
+nav_order: 32
+---
+
+# Chevron Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $270 B
 
 Chevron, a global energy company, is engaged in oil and natural gas exploration, production, refining, transportation, chemicals manufacturing, and power generation. Its integrated operations span the globe, with significant activity in North America, South America, Asia, Europe, Africa, and Australia.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Description:**
 

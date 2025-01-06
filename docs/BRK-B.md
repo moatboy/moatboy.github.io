@@ -1,6 +1,27 @@
-## Berkshire Hathaway (BRK-B) | Moat: 4 / 5 | Valuation: $520 Billion
+---
+title: Berkshire Hathaway (BRK-B)
+layout: default
+nav_order: 9
+---
+
+# Berkshire Hathaway Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $520 B
 
 Berkshire Hathaway is a sprawling conglomerate with businesses in insurance, railroads, utilities, energy, manufacturing, service and retailing, and finance and financial products.  It is effectively a publicly traded investment fund managed by Warren Buffett and Charlie Munger, two of the greatest investors of all time.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview**
 

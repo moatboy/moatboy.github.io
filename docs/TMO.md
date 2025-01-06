@@ -1,6 +1,27 @@
-## Thermo Fisher Scientific (TMO) | Moat: 4 / 5 | Valuation: $210 Billion
+---
+title: Thermo Fisher Scientific (TMO)
+layout: default
+nav_order: 51
+---
+
+# Thermo Fisher Scientific Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $210 B
 
 Thermo Fisher Scientific is a leading provider of scientific research services, analytical instruments, reagents and consumables, diagnostics, and laboratory products and biopharma services.  The company operates globally across various end markets, including pharma and biotech, academic and government, industrial, clinical, and diagnostics.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Description:**
 

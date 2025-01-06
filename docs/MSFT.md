@@ -1,8 +1,28 @@
-## Microsoft (MSFT) | Moat: 4 / 5 | Valuation: $1.9 Trillion
+---
+title: Microsoft (MSFT)
+layout: default
+nav_order: 2
+---
 
-**Business Overview:**
+# Microsoft Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $1.9 T
 
 Microsoft is a technology behemoth, dominating several key markets including operating systems (Windows), productivity software (Office), cloud computing (Azure), gaming (Xbox), and professional networking (LinkedIn).  Their business model has transitioned over time from primarily selling packaged software to a subscription-based service model, generating recurring revenue streams.  They cater to a diverse customer base, spanning individuals, small businesses, and large enterprises.  Their operations are global, with a significant presence in virtually every country.
+
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Moat Analysis:**
 

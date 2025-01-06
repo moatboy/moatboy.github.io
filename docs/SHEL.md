@@ -1,6 +1,27 @@
-## Royal Dutch Shell plc (SHEL) | Moat: 2 / 5 | Valuation: $130 Billion
+---
+title: Royal Dutch Shell plc (SHEL)
+layout: default
+nav_order: 58
+---
+
+# Royal Dutch Shell plc Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 2/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $130 B
 
 Royal Dutch Shell plc is a global group of energy and petrochemical companies. It operates in over 70 countries with over 80,000 employees.  Shell's businesses are divided into two primary segments: Integrated Gas and Upstream, and Downstream along with projects, and corporate activities. Shell’s Integrated Gas business engages in liquefied natural gas (LNG), natural gas and power, and related activities and the Downstream business engages in oil products, chemicals, and retail/marketing. Upstream activities are the exploration, development and extraction of crude oil, natural gas and natural gas liquids. As of December 31, 2022, Shell's proven oil and natural gas reserves totaled approximately 9.72 billion barrels of oil equivalent.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Moat Analysis**
 

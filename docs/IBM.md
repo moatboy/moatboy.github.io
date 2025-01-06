@@ -1,8 +1,28 @@
-## International Business Machines (IBM) | Moat: 2 / 5 | Valuation: $110 Billion
+---
+title: International Business Machines (IBM)
+layout: default
+nav_order: 44
+---
 
-**Business Overview:**
+# International Business Machines Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 2/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $110 B
 
 IBM, a venerable technology company, has transitioned from a hardware-centric business to one primarily focused on software and services, including cloud computing, AI, and consulting. While its legacy segments (mainframes) remain profitable, its future growth hinges on capturing share in hybrid cloud and AI. 
+
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Moat Analysis:**
 

@@ -1,6 +1,27 @@
-## General Electric (GE) | Moat: 2 / 5 | Valuation: $87.5 Billion
+---
+title: General Electric (GE)
+layout: default
+nav_order: 62
+---
+
+# General Electric Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 2/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $87.5 B
 
 General Electric (GE), once a sprawling conglomerate spanning numerous industries, has undergone a significant transformation in recent years, divesting many businesses and narrowing its focus to three core segments: Aerospace, Healthcare, and Power (Renewable Energy, Power Conversion, Gas Power). While GE maintains a recognizable brand name, its once-wide economic moat has narrowed considerably.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview**
 

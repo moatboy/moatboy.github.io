@@ -1,6 +1,27 @@
-## Procter & Gamble (PG) | Moat: 4 / 5 | Valuation: $330 Billion
+---
+title: Procter & Gamble (PG)
+layout: default
+nav_order: 22
+---
+
+# Procter & Gamble Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $330 B
 
 Procter & Gamble (PG) is a consumer goods giant with a diverse portfolio of well-known brands spanning multiple categories, including beauty, grooming, health care, fabric & home care, and baby, feminine & family care.  The company's extensive brand portfolio and massive distribution network provide it with a formidable competitive advantage.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview**
 

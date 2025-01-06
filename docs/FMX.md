@@ -1,6 +1,27 @@
-## Fomento Económico Mexicano (FMX) | Moat: 2 / 5 | Valuation: $20.26/share
+---
+title: Fomento Económico Mexicano (FMX)
+layout: default
+nav_order: 74
+---
+
+# Fomento Económico Mexicano Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 2/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $20.26 /share
 
 Fomento Económico Mexicano, S.A.B. de C.V. (FMX) operates as a holding company. Its primary business segments are Coca-Cola FEMSA, a Coca-Cola bottler; FEMSA Comercio, a proximity retailer; and FEMSA Salud, a drugstore chain.  The company also has small investments in other companies. It also has invested in Heineken.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview:**
 

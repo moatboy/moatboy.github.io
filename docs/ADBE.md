@@ -1,8 +1,28 @@
-## Adobe (ADBE) | Moat: 4 / 5 | Valuation: $150 Billion
+---
+title: Adobe (ADBE)
+layout: default
+nav_order: 54
+---
 
-**Business Overview**
+# Adobe Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $150 B
 
 Adobe is a dominant player in the creative software industry. Its products, including Creative Cloud (Photoshop, Illustrator, Premiere Pro) and Document Cloud (Acrobat, Sign), are deeply embedded in creative workflows worldwide. This deep integration translates to substantial switching costs, a key component of Adobe's wide moat.  The company operates on a subscription model, providing recurring revenue and enhancing profitability.  Its primary customer base includes individuals, small and medium-sized businesses, and large enterprises across diverse sectors, creating a resilient revenue stream. While primarily a software provider, Adobe also derives revenue from publishing and advertising, although these segments contribute a much smaller portion of overall revenue.
+
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Moat Analysis**
 

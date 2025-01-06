@@ -1,6 +1,27 @@
-## Mastercard (MA) | Moat: 4 / 5 | Valuation: $350 Billion
+---
+title: Mastercard (MA)
+layout: default
+nav_order: 15
+---
+
+# Mastercard Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $350 B
 
 Mastercard operates in the payment processing industry, facilitating electronic transactions between merchants and financial institutions.  It generates revenue primarily through transaction processing fees, which are assessed as a percentage of the dollar volume of each transaction. Other revenue sources include assessments, which are transaction-based fees paid by customers and financial institutions, and revenues from data analytics and consulting, security products, and other related services.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Breakdown:**
 

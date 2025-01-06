@@ -1,6 +1,27 @@
-## Shopify (SHOP) | Moat: 3 / 5 | Valuation: $48.2 Billion
+---
+title: Shopify (SHOP)
+layout: default
+nav_order: 77
+---
+
+# Shopify Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $48.2 B
 
 Shopify operates in the e-commerce platform industry, providing software and services that enable merchants of all sizes to create and manage online stores. While the company has established a strong presence and brand recognition, its moat rating of 3 out of 5 reflects a balanced assessment of its strengths and vulnerabilities.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview:**
 

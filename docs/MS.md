@@ -1,6 +1,27 @@
-## Morgan Stanley (MS) | Moat: 3 / 5 | Valuation: $68 Billion
+---
+title: Morgan Stanley (MS)
+layout: default
+nav_order: 48
+---
+
+# Morgan Stanley Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $68 B
 
 Morgan Stanley is a global financial services firm offering investment banking, wealth management, and investment management services.  Its diverse range of services and global reach makes it a significant player in the financial industry.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview:**
 

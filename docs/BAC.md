@@ -1,6 +1,27 @@
-## Bank of America (BAC) | Moat: 2 / 5 | Valuation: $187 B
+---
+title: Bank of America (BAC)
+layout: default
+nav_order: 25
+---
+
+# Bank of America Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 2/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $187 None
 
 Bank of America is a multinational investment bank and financial services company. Its primary businesses include consumer banking, global wealth and investment management, global banking, and global markets. The company operates in a highly regulated industry, adding an additional layer of complexity to assessing its moat.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview**
 

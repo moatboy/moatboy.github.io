@@ -1,8 +1,28 @@
-## SPDR S&P 500 ETF Trust (SPY) | Moat: 0 / 5 | Valuation: N/A
+---
+title: SPDR S&P 500 ETF Trust (SPY)
+layout: default
+nav_order: 14
+---
 
-**Business Overview:**
+# SPDR S&P 500 ETF Trust Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 0/5
+
+{: .label .label-yellow }
+
+Pessimistic value: N/A None
 
 The SPDR S&P 500 ETF Trust (SPY) is an exchange-traded fund (ETF) that tracks the S&P 500 index.  This means it aims to replicate the performance of the 500 largest publicly traded companies in the U.S. stock market. SPY offers investors a diversified way to gain exposure to the overall U.S. equity market.  It's passively managed, meaning it doesn't employ stock pickers or attempt to outperform the index.  Instead, it buys and holds the same stocks in the same proportions as the S&P 500.
+
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Moat Analysis and Rating:**
 

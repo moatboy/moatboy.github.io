@@ -1,8 +1,28 @@
-## Broadcom Inc. (AVGO) | Moat: 3 / 5 | Valuation: $228 Billion
+---
+title: Broadcom Inc. (AVGO)
+layout: default
+nav_order: 8
+---
 
-**Business Overview:**
+# Broadcom Inc. Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $228 B
 
 Broadcom Inc. is a global technology leader that designs, develops, and supplies a broad range of semiconductor and infrastructure software solutions.  Their products and services serve diverse end markets including:
+
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 * **Data Center:** Networking, compute, and storage
 * **Networking:** Broadband access, campus/metro ethernet, carrier ethernet, enterprise, and set-top box

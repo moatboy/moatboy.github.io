@@ -1,8 +1,28 @@
-## Invesco QQQ Trust (QQQ) | Moat: 1 / 5 | Valuation: Fair Value = Market Price
+---
+title: Invesco QQQ Trust (QQQ)
+layout: default
+nav_order: 45
+---
 
-**Business Description:**
+# Invesco QQQ Trust Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 1/5
+
+{: .label .label-yellow }
+
+Pessimistic value: Fair Value = Market Price None
 
 Invesco QQQ Trust, Series 1 (QQQ) is an exchange-traded fund (ETF) that tracks the Nasdaq-100 Index. This index comprises 100 of the largest nonfinancial companies listed on the Nasdaq Stock Market. QQQ offers investors diversified exposure to large-cap growth and technology companies.  The fund's holdings are determined by the index, with no active management involved. This means the fund's composition automatically adjusts as the index rebalances, generally quarterly. QQQ generates revenue primarily through the dividends received from the underlying stocks, less a small expense ratio (currently 0.20%).
+
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Moat Analysis:**
 

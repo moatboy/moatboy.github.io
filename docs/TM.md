@@ -1,8 +1,28 @@
-## Toyota Motor Corporation (TM) | Moat: 3 / 5 | Valuation: ¥2,200,000 Million (approximately $15 Billion USD)
+---
+title: Toyota Motor Corporation (TM)
+layout: default
+nav_order: 37
+---
 
-**Business Overview**
+# Toyota Motor Corporation Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: ¥2,200,000 M
 
 Toyota Motor Corporation is a global automotive manufacturer headquartered in Toyota City, Japan.  The company operates in a highly competitive industry, facing rivals like Volkswagen, General Motors, Ford, and Hyundai.  Its business spans various segments, including the design, manufacture, assembly, and sale of passenger cars, minivans, trucks, and buses, as well as related parts and accessories. Toyota also has a significant presence in the financial services sector.
+
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 * **Revenues Distribution:** Toyota's revenue primarily comes from vehicle sales, with a smaller contribution from financial services. Geographically, its largest market is North America, followed by Japan, Asia, Europe, and other regions.
 * **Industry Trends:** The automotive industry is in the midst of significant disruption and transformation. The shift towards electric vehicles (EVs), autonomous driving, and ride-sharing services presents both opportunities and challenges for established players like Toyota. The industry is also affected by macroeconomic trends, such as economic growth, fuel prices, and raw material availability.  Increased competition and downward pressure on margins are likely in the coming years as the industry evolves.

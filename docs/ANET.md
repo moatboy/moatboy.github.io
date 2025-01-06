@@ -1,6 +1,27 @@
-## Arista Networks (ANET) | Moat: 3 / 5 | Valuation: $47.5 Billion
+---
+title: Arista Networks (ANET)
+layout: default
+nav_order: 87
+---
+
+# Arista Networks Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $47.5 B
 
 Arista Networks is a cloud networking solutions provider focused on high-speed, software-driven cloud networking for large datacenter and campus environments. They derive revenue from selling their Extensible Operating System (EOS), network switches and routers, as well as professional services such as consulting, training, and support contracts.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview**
 

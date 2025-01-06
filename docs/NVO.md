@@ -1,6 +1,27 @@
-## Novo Nordisk (NVO) | Moat: 4 / 5 | Valuation: $275 Billion
+---
+title: Novo Nordisk (NVO)
+layout: default
+nav_order: 16
+---
+
+# Novo Nordisk Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $275 B
 
 Novo Nordisk, a global healthcare company based in Denmark, specializes in diabetes care. It holds a dominant market share in insulin and GLP-1 diabetes treatments.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview:**
 

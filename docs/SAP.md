@@ -1,6 +1,27 @@
-## SAP (SAP) | Moat: 3 / 5 | Valuation: €130 Billion
+---
+title: SAP (SAP)
+layout: default
+nav_order: 28
+---
+
+# SAP Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: €130 B
 
 SAP is a multinational software corporation based in Walldorf, Germany. It is the world's leading enterprise resource planning (ERP) software provider.  ERP systems integrate various business processes, including accounting, sales, production, human resources, and so on, across an entire company. This integration enables companies to streamline their operations, improve communication and data sharing, and gain a more holistic view of their business. SAP’s primary customers are large corporations across diverse industries.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 
 **Business Overview:**

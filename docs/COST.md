@@ -1,6 +1,27 @@
-## Costco Wholesale (COST) | Moat: 4 / 5 | Valuation: $214 Billion
+---
+title: Costco Wholesale (COST)
+layout: default
+nav_order: 20
+---
 
-Costco Wholesale operates a chain of membership-only warehouse clubs offering a wide selection of merchandise at discounted prices. The company also offers ancillary services, such as optical, hearing aid, photo processing, and auto services. 
+# Costco Wholesale Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $214 B
+
+Costco Wholesale operates a chain of membership-only warehouse clubs offering a wide selection of merchandise at discounted prices. The company also offers ancillary services, such as optical, hearing aid, photo processing, and auto services.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview:**
 

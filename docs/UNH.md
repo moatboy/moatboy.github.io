@@ -1,6 +1,27 @@
-## UnitedHealth Group (UNH) | Moat: 4 / 5 | Valuation: $400 Billion
+---
+title: UnitedHealth Group (UNH)
+layout: default
+nav_order: 19
+---
+
+# UnitedHealth Group Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $400 B
 
 UnitedHealth Group Incorporated is a diversified health care company dedicated to helping people live healthier lives and helping the health system work better for everyone. The company operates through two platforms: UnitedHealthcare, which provides health benefits, and Optum, which provides information and technology-enabled health services.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Description:**
 

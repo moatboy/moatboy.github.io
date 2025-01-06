@@ -1,6 +1,27 @@
-## AbbVie Inc. (ABBV) | Moat: 3 / 5 | Valuation: $125 Billion
+---
+title: AbbVie Inc. (ABBV)
+layout: default
+nav_order: 27
+---
+
+# AbbVie Inc. Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $125 B
 
 AbbVie is a global, research-based biopharmaceutical company.  The company develops and markets advanced therapies that address some of the world's most complex and serious diseases. AbbVie's products are concentrated in Immunology, Oncology, Neuroscience, Eye Care, Virology, Aesthetics, and Women's Health.  A key product is Humira, which is approved to treat a number of autoimmune diseases, but faces biosimilar competition.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview and Competitive Advantages:**
 

@@ -1,6 +1,27 @@
-## Amgen (AMGN) | Moat: 3 / 5 | Valuation: $107 billion
+---
+title: Amgen (AMGN)
+layout: default
+nav_order: 85
+---
 
-Amgen is a leading biotechnology company focusing on human therapeutics. They develop, manufacture, and market a diverse range of medicines for various serious illnesses, including cardiovascular disease, oncology, bone health, nephrology, neuroscience, and inflammation. 
+# Amgen Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $107 billion
+
+Amgen is a leading biotechnology company focusing on human therapeutics. They develop, manufacture, and market a diverse range of medicines for various serious illnesses, including cardiovascular disease, oncology, bone health, nephrology, neuroscience, and inflammation.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview**
 

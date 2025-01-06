@@ -1,8 +1,28 @@
-## Honeywell International Inc. (HON) | Moat: 3 / 5 | Valuation: $123 Billion
+---
+title: Honeywell International Inc. (HON)
+layout: default
+nav_order: 78
+---
 
-**Business Overview:**
+# Honeywell International Inc. Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $123 B
 
 Honeywell International Inc. is a global conglomerate operating in four main segments:
+
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 * **Aerospace:** Providing products, software, and services for commercial, defense, and space industries. Key offerings include aircraft engines, auxiliary power units, avionics, environmental control systems, and more.
 * **Honeywell Building Technologies (HBT):** A global provider of building products, software, solutions, and technologies, primarily for commercial buildings. Products include control systems for heating, ventilation, and air conditioning (HVAC), security, fire protection, and energy management.

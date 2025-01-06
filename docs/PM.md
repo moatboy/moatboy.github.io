@@ -1,6 +1,27 @@
-## Philip Morris International (PM) | Moat: 3 / 5 | Valuation: $127 Billion
+---
+title: Philip Morris International (PM)
+layout: default
+nav_order: 56
+---
+
+# Philip Morris International Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $127 B
 
 Philip Morris International (PM) is a leading international tobacco company, selling cigarettes and other nicotine-containing products in markets outside the United States.  Its brand portfolio includes *Marlboro*, *Parliament*, and *L&M*. Although the company boasts a wide global presence, its core business is in a state of secular decline, with cigarette volumes shrinking globally due to health concerns, increasing regulation, and social stigma.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Description:**
 

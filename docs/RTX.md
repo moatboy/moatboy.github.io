@@ -1,8 +1,28 @@
-## Raytheon Technologies (RTX) | Moat: 3 / 5 | Valuation: $97 Billion
+---
+title: Raytheon Technologies (RTX)
+layout: default
+nav_order: 75
+---
 
-**Business Overview**
+# Raytheon Technologies Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $97 B
 
 Raytheon Technologies (RTX) is a prominent aerospace and defense company formed through the merger of United Technologies and Raytheon Company in 2020.  It operates through four principal business segments:
+
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 * **Collins Aerospace:** Provides primarily commercial aircraft engines and related aftermarket services.
 * **Pratt & Whitney:** Manufactures and services military and commercial aircraft engines and auxiliary power units.

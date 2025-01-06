@@ -1,6 +1,27 @@
-## HSBC Holdings plc (HSBC) | Moat: 2 / 5 | Valuation: $120 Billion
+---
+title: HSBC Holdings plc (HSBC)
+layout: default
+nav_order: 64
+---
+
+# HSBC Holdings plc Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 2/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $120 B
 
 HSBC Holdings plc is a global banking and financial services company headquartered in London, U.K. The company operates through four main business segments:
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 * **Wealth and Personal Banking:** This segment provides retail banking, wealth management, insurance, and asset management services to individuals and small businesses.
 * **Commercial Banking:** This segment provides banking services to small, medium, and large corporations, as well as financial institutions.

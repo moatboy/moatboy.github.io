@@ -1,8 +1,28 @@
-## HDFC Bank Limited (HDB) | Moat: 3 / 5 | Valuation: ₹7.5 trillion (₹945/share)
+---
+title: HDFC Bank Limited (HDB)
+layout: default
+nav_order: 71
+---
 
-**Business Overview**
+# HDFC Bank Limited Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: ₹7.5 trillion
 
 HDFC Bank is a leading private sector bank in India, offering a wide range of financial products and services across various customer segments, including retail, wholesale, treasury, and other banking services.  Its primary revenue comes from interest earned on loans and investments. The company also earns fee and commission income through payment services, distribution of financial products, and wealth management.
+
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Revenue Distribution (As of FY24):**
 

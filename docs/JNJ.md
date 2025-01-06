@@ -1,6 +1,27 @@
-## Johnson & Johnson (JNJ) | Moat: 3 / 5 | Valuation: $370 Billion
+---
+title: Johnson & Johnson (JNJ)
+layout: default
+nav_order: 24
+---
 
-Johnson & Johnson is a multinational corporation engaged in the research, development, manufacture, and sale of a broad range of health care products and services. Its business segments include Consumer Health, Pharmaceutical, and MedTech.  The company operates in virtually every country of the world.  
+# Johnson & Johnson Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $370 B
+
+Johnson & Johnson is a multinational corporation engaged in the research, development, manufacture, and sale of a broad range of health care products and services. Its business segments include Consumer Health, Pharmaceutical, and MedTech.  The company operates in virtually every country of the world.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview**
 

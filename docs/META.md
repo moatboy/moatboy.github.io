@@ -1,6 +1,27 @@
-## Meta Platforms, Inc. (META) | Moat: 3 / 5 | Valuation: $280 Billion
+---
+title: Meta Platforms, Inc. (META)
+layout: default
+nav_order: 6
+---
+
+# Meta Platforms, Inc. Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $280 B
 
 Meta Platforms, a dominant force in social media and digital advertising, presents a compelling but complex case for moat analysis. While the company exhibits clear strengths, significant challenges raise questions about the long-term defensibility of its business. Therefore, a 3/5 moat rating reflecting a narrow moat is warranted.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **The Business and Its Moat:**
 

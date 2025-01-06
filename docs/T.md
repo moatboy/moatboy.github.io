@@ -1,6 +1,27 @@
-## AT&T (T) | Moat: 2 / 5 | Valuation: $11.7 billion
+---
+title: AT&T (T)
+layout: default
+nav_order: 72
+---
+
+# AT&T Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 2/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $11.7 billion
 
 AT&T is a major telecommunications company operating in the United States and globally. Its business segments comprise of:
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 * **Communications:** This segment accounts for the vast majority of AT&T's revenue and profit, encompassing mobility, wireless, consumer wireline, business wireline, and Mexico wireless services. It offers network access, voice, data, video, and other communications services.
 * **Latin America:** This segment provides wireless services in Mexico and video entertainment in several countries in Latin America and the Caribbean. Its size is considerably smaller than the U.S. operations.

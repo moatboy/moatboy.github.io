@@ -1,6 +1,27 @@
-## Wells Fargo & Company (WFC) | Moat: 2 / 5 | Valuation: $31.38 per share
+---
+title: Wells Fargo & Company (WFC)
+layout: default
+nav_order: 35
+---
+
+# Wells Fargo & Company Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 2/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $31.38 per share
 
 Wells Fargo is a leading financial services company offering banking, mortgage, investment, and wealth management products and services to consumers and businesses, primarily in the United States.  It operates through four main business segments: Consumer Banking and Lending, Commercial Banking, Corporate and Investment Banking, and Wealth & Investment Management.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview:**
 

@@ -1,8 +1,28 @@
-## The Home Depot (HD) | Moat: 3 / 5 | Valuation: $271 Billion
+---
+title: The Home Depot (HD)
+layout: default
+nav_order: 21
+---
 
-**Business Overview**
+# The Home Depot Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $271 B
 
 The Home Depot is the world's largest home improvement retailer, offering a wide assortment of building materials, home improvement products, lawn and garden products, and appliances, décor, and services. It operates across the US, Canada, and Mexico, primarily catering to two customer segments: do-it-yourself (DIY) customers and professional customers (Pros).  Its interconnected retail strategy, including robust online and in-store experiences, coupled with its vast supply network, has allowed it to achieve a dominant position in the industry.
+
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Moat Analysis**
 

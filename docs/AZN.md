@@ -1,8 +1,28 @@
-## AstraZeneca (AZN) | Moat: 3 / 5 | Valuation: $160 Billion
+---
+title: AstraZeneca (AZN)
+layout: default
+nav_order: 47
+---
 
-**Business Overview:**
+# AstraZeneca Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $160 B
 
 AstraZeneca is a global biopharmaceutical company focused on the discovery, development, and commercialization of prescription medicines in Oncology, Cardiovascular, Renal & Metabolism (CVRM), Respiratory & Immunology, and other therapy areas. They operate in a highly competitive industry, with major players like Pfizer, Novartis, and Roche, demanding constant innovation to stay ahead of rivals.
+
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Moat Analysis:**
 

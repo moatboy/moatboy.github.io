@@ -1,8 +1,28 @@
-## Cisco Systems (CSCO) | Moat: 3 / 5 | Valuation: $48.4 billion
+---
+title: Cisco Systems (CSCO)
+layout: default
+nav_order: 36
+---
 
-**Business Overview**
+# Cisco Systems Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $48.4 billion
 
 Cisco Systems is a multinational technology conglomerate specializing in networking hardware, software, and telecommunications equipment.  The company operates across various segments, broadly categorized as Products and Services.
+
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 * **Revenue Distribution (as of July 29, 2023):**
     * **Product:** $8.9 billion (63% of total revenue) primarily from Secure, Agile Networks; Internet for the Future; Hybrid Work; End-to-End Security; Optimized Application Experiences.

@@ -1,6 +1,27 @@
-## Alibaba Group (BABA) | Moat: 2 / 5 | Valuation: $85 Billion
+---
+title: Alibaba Group (BABA)
+layout: default
+nav_order: 46
+---
+
+# Alibaba Group Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 2/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $85 B
 
 Alibaba Group is a large-cap Chinese e-commerce company. Its primary businesses include retail commerce in China, international retail commerce, local consumer services, Cainiao logistics, cloud computing, digital media and entertainment, and innovation initiatives and others. These businesses are accessed by consumers and businesses through Taobao (mobile app), Tmall (website and app), AliExpress (cross-border e-commerce platform), Ele.me (on-demand local services platform), Youku (online long-form video platform), Amap (mobile digital map and navigation platform), and Fliggy (online travel platform).
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview & Analysis:**
 

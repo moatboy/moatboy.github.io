@@ -1,6 +1,27 @@
-## Intuit (INTU) | Moat: 4 / 5 | Valuation: $107 Billion
+---
+title: Intuit (INTU)
+layout: default
+nav_order: 59
+---
+
+# Intuit Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $107 B
 
 Intuit is a leading provider of financial management and tax preparation software for consumers, small businesses, and self-employed individuals. Its flagship products include QuickBooks, TurboTax, Mint, Credit Karma, and Mailchimp.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview and Competitive Advantages (Moat)**
 

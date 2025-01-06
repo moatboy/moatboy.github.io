@@ -1,6 +1,27 @@
-## Coca-Cola (KO) | Moat: 4 / 5 | Valuation: $217 Billion
+---
+title: Coca-Cola (KO)
+layout: default
+nav_order: 31
+---
+
+# Coca-Cola Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $217 B
 
 Coca-Cola is a global beverage giant, best known for its namesake soft drink. The company operates a franchise model, manufacturing concentrates and syrups that are then sold to independent bottlers who handle the production and distribution of the finished products. While this business model is simple, its competitive advantages are formidable.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Moat Analysis**
 

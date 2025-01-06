@@ -1,6 +1,27 @@
-## ServiceNow, Inc. (NOW) | Moat: 4 / 5 | Valuation: $80 Billion
+---
+title: ServiceNow, Inc. (NOW)
+layout: default
+nav_order: 38
+---
+
+# ServiceNow, Inc. Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $80 B
 
 ServiceNow is a leading provider of cloud-based workflow automation software for businesses. Its core business is built around its Now Platform, which provides a single, integrated platform for managing various IT and business processes, including IT service management (ITSM), IT operations management (ITOM), IT business management (ITBM), customer service management (CSM), human resources (HR), and security operations.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview:**
 

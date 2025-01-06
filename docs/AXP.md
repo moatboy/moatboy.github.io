@@ -1,6 +1,27 @@
-## American Express (AXP) | Moat: 3 / 5 | Valuation: $102 Billion
+---
+title: American Express (AXP)
+layout: default
+nav_order: 42
+---
+
+# American Express Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $102 B
 
 American Express is a global payments company. Its business activities are organized into four segments: Global Consumer Services Group, Global Commercial Services, Global Merchant and Network Services, and Corporate and Other. Its core businesses include credit card member acquisition and retention, credit card lending, merchant acquisition and servicing, network services, and traveler’s checks.  American Express serves individual consumers, small businesses, and large corporations around the globe.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Moat Analysis**
 

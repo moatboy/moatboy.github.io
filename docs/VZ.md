@@ -1,6 +1,27 @@
-## Verizon Communications (VZ) | Moat: 2 / 5 | Valuation: $126 Billion
+---
+title: Verizon Communications (VZ)
+layout: default
+nav_order: 66
+---
 
-Verizon operates in a highly competitive and mature telecommunications industry, primarily in the United States. Its core business involves providing wireless and wireline communication services, primarily to businesses and consumers. Its main revenue streams are wireless service, broadband and other wireline services, and other (media and other businesses).  
+# Verizon Communications Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 2/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $126 B
+
+Verizon operates in a highly competitive and mature telecommunications industry, primarily in the United States. Its core business involves providing wireless and wireline communication services, primarily to businesses and consumers. Its main revenue streams are wireless service, broadband and other wireline services, and other (media and other businesses).
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 
 **Business Overview:**

@@ -1,6 +1,27 @@
-## McDonald's (MCD) | Moat: 4 / 5 | Valuation: $195 Billion
+---
+title: McDonald's (MCD)
+layout: default
+nav_order: 43
+---
+
+# McDonald's Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $195 B
 
 McDonald's is a quick-service restaurant company with over 40,000 restaurants globally.  It operates under a largely franchised model (about 95% of restaurants), with franchisees paying rent and royalties to McDonald's. The company primarily earns its revenue through these rent and royalty payments.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview**
 

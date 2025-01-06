@@ -1,6 +1,27 @@
-## ASML Holding N.V. (ASML) | Moat: 4 / 5 | Valuation: €573 Billion
+---
+title: ASML Holding N.V. (ASML)
+layout: default
+nav_order: 29
+---
+
+# ASML Holding N.V. Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-yellow }
+
+Pessimistic value: €573 B
 
 ASML Holding N.V. is a Dutch multinational company that specializes in the development and manufacturing of photolithography systems used in the semiconductor industry. These systems are crucial for producing integrated circuits (ICs), the building blocks of modern electronics.  ASML effectively holds a near-monopoly in the extreme ultraviolet (EUV) lithography market, a cutting-edge technology essential for creating the most advanced chips.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview:**
 

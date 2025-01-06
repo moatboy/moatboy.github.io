@@ -1,6 +1,27 @@
-## Exxon Mobil (XOM) | Moat: 3 / 5 | Valuation: $323 Billion
+---
+title: Exxon Mobil (XOM)
+layout: default
+nav_order: 18
+---
 
-ExxonMobil is one of the largest publicly traded international integrated oil and gas companies, operating across the upstream (exploration and production), downstream (refining, marketing, and chemical products), and chemical product segments. 
+# Exxon Mobil Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $323 B
+
+ExxonMobil is one of the largest publicly traded international integrated oil and gas companies, operating across the upstream (exploration and production), downstream (refining, marketing, and chemical products), and chemical product segments.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview**
 

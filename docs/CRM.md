@@ -1,6 +1,27 @@
-## Salesforce (CRM) | Moat: 3 / 5 | Valuation: $175 Billion
+---
+title: Salesforce (CRM)
+layout: default
+nav_order: 26
+---
+
+# Salesforce Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $175 B
 
 Salesforce is a leading provider of cloud-based customer relationship management (CRM) software and related services. Its core business involves helping companies manage their interactions with customers, automate sales processes, and improve overall customer experience.  Over the years, Salesforce has expanded its product offerings beyond CRM to include marketing automation, e-commerce platforms, analytics, and application development tools.  It primarily serves businesses of all sizes, ranging from small businesses to large enterprises.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview and Moat Analysis:**
 

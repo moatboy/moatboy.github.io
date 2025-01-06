@@ -1,6 +1,27 @@
-## Goldman Sachs (GS) | Moat: 2 / 5 | Valuation: $274 B
+---
+title: Goldman Sachs (GS)
+layout: default
+nav_order: 61
+---
+
+# Goldman Sachs Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 2/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $274 None
 
 Goldman Sachs is a leading global investment banking, securities, and investment management firm. It operates through four business segments: Global Banking & Markets, Asset & Wealth Management, Platform Solutions, and Consumer & Wealth Management.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview**
 

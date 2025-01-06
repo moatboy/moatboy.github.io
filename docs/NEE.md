@@ -1,6 +1,27 @@
-## NextEra Energy (NEE) | Moat: 2 / 5 | Valuation: $115 Billion
+---
+title: NextEra Energy (NEE)
+layout: default
+nav_order: 82
+---
+
+# NextEra Energy Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 2/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $115 B
 
 NextEra Energy, Inc. operates as a vertically integrated electric power and energy infrastructure company in North America.  The company's principal operations include generation, transmission, distribution, and retail sale of electricity, alongside energy-related products and services. It is the largest generator of renewable energy from wind and solar in the world.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview**
 

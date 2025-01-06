@@ -1,6 +1,27 @@
-## Qualcomm (QCOM) | Moat: 3 / 5 | Valuation: $100 Billion
+---
+title: Qualcomm (QCOM)
+layout: default
+nav_order: 63
+---
+
+# Qualcomm Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $100 B
 
 Qualcomm is a leading designer and supplier of digital wireless telecommunications products and services, including integrated circuits, system software, and licensing.  The company operates in two primary segments: Qualcomm CDMA Technologies (QCT), focused on chipsets, and Qualcomm Technology Licensing (QTL), which licenses the company's intellectual property.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview:**
 

@@ -1,6 +1,27 @@
-## Tesla (TSLA) | Moat: 2 / 5 | Valuation: $276.4 Billion
+---
+title: Tesla (TSLA)
+layout: default
+nav_order: 7
+---
+
+# Tesla Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 2/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $276.4 B
 
 Tesla's core business is the design, development, manufacturing, lease, and sale of electric vehicles, battery energy storage from home to grid-scale, solar panels and solar roof tiles, and related products and services.  While it's tempting to get caught up in the excitement surrounding Tesla and other "story" stocks,  a rigorous approach to valuation requires both qualitative and quantitative scrutiny.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview:**
 

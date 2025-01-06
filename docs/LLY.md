@@ -1,6 +1,27 @@
-## Eli Lilly and Company (LLY) | Moat: 3 / 5 | Valuation: $338 Billion
+---
+title: Eli Lilly and Company (LLY)
+layout: default
+nav_order: 11
+---
 
-Eli Lilly and Company is a global pharmaceutical company that develops, manufactures, and markets prescription drugs for human and animal health. Its products are sold in approximately 120 countries worldwide, with the majority of sales occurring in the United States. LLY operates in a single business segment—the pharmaceutical industry. 
+# Eli Lilly and Company Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $338 B
+
+Eli Lilly and Company is a global pharmaceutical company that develops, manufactures, and markets prescription drugs for human and animal health. Its products are sold in approximately 120 countries worldwide, with the majority of sales occurring in the United States. LLY operates in a single business segment—the pharmaceutical industry.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview**
 

@@ -1,6 +1,27 @@
-## Booking Holdings Inc. (BKNG) | Moat: 3 / 5 | Valuation: $88.5 Billion
+---
+title: Booking Holdings Inc. (BKNG)
+layout: default
+nav_order: 68
+---
 
-Booking Holdings, formerly known as The Priceline Group, operates a portfolio of online travel and restaurant reservation platforms. Its primary brands include Booking.com, KAYAK, Priceline, Agoda, Rentalcars.com, and OpenTable. 
+# Booking Holdings Inc. Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $88.5 B
+
+Booking Holdings, formerly known as The Priceline Group, operates a portfolio of online travel and restaurant reservation platforms. Its primary brands include Booking.com, KAYAK, Priceline, Agoda, Rentalcars.com, and OpenTable.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview:**
 

@@ -1,6 +1,27 @@
-## Amazon (AMZN) | Moat: 3 / 5 | Valuation: $1.4 Trillion
+---
+title: Amazon (AMZN)
+layout: default
+nav_order: 4
+---
+
+# Amazon Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $1.4 T
 
 Amazon's dominance in online retail, cloud services (AWS), and its growing presence in advertising and other sectors make it a compelling company.  However, its overreliance on growth as its core narrative and an increasingly uncertain competitive landscape warrant caution and a more measured assessment of its moat.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview and Discussion of Moat**
 

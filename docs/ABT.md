@@ -1,6 +1,27 @@
-## Abbott Laboratories (ABT) | Moat: 3 / 5 | Valuation: $150 Billion
+---
+title: Abbott Laboratories (ABT)
+layout: default
+nav_order: 55
+---
+
+# Abbott Laboratories Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $150 B
 
 Abbott Laboratories is a diversified health care company with a presence in established product categories such as generic pharmaceuticals, nutritionals, and established medical devices.  The company has a small and growing business in branded, high-growth medical devices.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview**
 

@@ -1,8 +1,28 @@
-## Texas Instruments (TXN) | Moat: 3 / 5 | Valuation: $144 Billion
+---
+title: Texas Instruments (TXN)
+layout: default
+nav_order: 67
+---
 
-**Business Overview:**
+# Texas Instruments Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $144 B
 
 Texas Instruments (TXN) is a global semiconductor company specializing in designing, manufacturing, and selling analog and embedded processing chips.  These chips form the fundamental building blocks of electronic devices across a wide variety of industries, including automotive, personal electronics, industrial automation, and communications equipment.  
+
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Revenue Distribution (2022):**
 

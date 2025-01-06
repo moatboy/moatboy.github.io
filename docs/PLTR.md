@@ -1,8 +1,28 @@
-## Palantir Technologies (PLTR) | Moat: 2 / 5 | Valuation: $8.12 Billion
+---
+title: Palantir Technologies (PLTR)
+layout: default
+nav_order: 69
+---
+
+# Palantir Technologies Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 2/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $8.12 B
 
 
-**Business Overview and Industry Analysis**
 
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 Palantir Technologies, a software company specializing in big data analytics, operates primarily in two segments: commercial and government. Its core offerings are its two software platforms, Gotham (for government agencies) and Foundry (for commercial clients).  The company's revenue is derived from selling software licenses, related services, and access to its platforms. 
 
 * **Revenues:** Palantir's revenue has grown rapidly, though it has recently faced a slowdown in growth.  Its revenue distribution is roughly 42% commercial and 58% government. A key factor impacting its valuation is its ability to maintain and expand its customer base across both segments.

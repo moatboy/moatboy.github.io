@@ -1,6 +1,27 @@
-## Alphabet (GOOGL) | Moat: 4 / 5 | Valuation: $950 Billion (B)
+---
+title: Alphabet (GOOGL)
+layout: default
+nav_order: 5
+---
+
+# Alphabet Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $950 B
 
 Alphabet, the parent company of Google, is a dominant force in the digital advertising and cloud computing markets. Its vast reach, coupled with network effects and intangible assets, creates a formidable moat, although a few cracks are appearing.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **The Business**
 

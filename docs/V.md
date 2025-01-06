@@ -1,6 +1,27 @@
-## Visa (V) | Moat: 4 / 5 | Valuation: $420 Billion
+---
+title: Visa (V)
+layout: default
+nav_order: 13
+---
+
+# Visa Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $420 B
 
 Visa operates a global payments network, facilitating electronic transactions between financial institutions, merchants, and consumers. Its core business is enabling the secure and efficient movement of money, earning revenue primarily through transaction processing fees and other service revenues.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview:**
 

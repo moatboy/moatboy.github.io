@@ -1,8 +1,28 @@
-## Merck & Co., Inc. (MRK) | Moat: 3 / 5 | Valuation: $205 Billion
+---
+title: Merck & Co., Inc. (MRK)
+layout: default
+nav_order: 34
+---
+
+# Merck & Co., Inc. Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $205 B
 
 
-Merck & Co., Inc. is a global health care company primarily involved in researching, developing, manufacturing, and selling a wide array of human and animal health products and services. Its operations are organized into two segments: (1) Pharmaceutical, focused primarily on human health; and (2) Animal Health, focused primarily on animal health. While both segments include biologics and vaccines, human pharmaceuticals consist of therapies and preventatives focused on the treatment of cancer, cardiovascular disease, diabetes, and infectious diseases, while animal health produces vaccines, antiparasitics, and anti-infectives, primarily for livestock. 
 
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 **Business Overview and Moat Analysis**
 
 Merck faces intense competition, particularly from other large pharmaceutical firms with significant R&D capabilities.  Product patents provide a temporary window of competitive advantage, allowing for premium pricing for new drugs. However, patent expiration generally leads to a rapid and significant decrease in sales as generic drugs enter the market. Brand recognition and customer loyalty can mitigate these sales declines, but only partially. Therefore, a key source of a pharmaceutical firm's moat, and a significant barrier to entry for most pharmaceutical firms, is its drug pipeline.

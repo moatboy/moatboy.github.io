@@ -1,6 +1,27 @@
-## JPMorgan Chase & Co. (JPM) | Moat: 2 / 5 | Valuation: $117 Billion
+---
+title: JPMorgan Chase & Co. (JPM)
+layout: default
+nav_order: 12
+---
+
+# JPMorgan Chase & Co. Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 2/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $117 B
 
 JPMorgan Chase & Co. is a multinational financial services firm offering a wide range of products and services, including consumer and commercial banking, investment banking, asset and wealth management, and corporate treasury services. The company operates globally and is headquartered in New York City.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview:**
 

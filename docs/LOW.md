@@ -1,6 +1,27 @@
-## Lowe's Companies, Inc. (LOW) | Moat: 2 / 5 | Valuation: $105.4 Billion
+---
+title: Lowe's Companies, Inc. (LOW)
+layout: default
+nav_order: 83
+---
+
+# Lowe's Companies, Inc. Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 2/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $105.4 B
 
 Lowe's Companies, Inc. is a major home improvement retailer, operating primarily in the United States.  It competes with Home Depot and other smaller firms. While Lowe's has historically enjoyed strong performance, its future prospects are clouded by increased competition and a maturing market.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview**
 

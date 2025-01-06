@@ -1,6 +1,27 @@
-## Novartis AG (NVS) | Moat: 3 / 5 | Valuation: $170 Billion
+---
+title: Novartis AG (NVS)
+layout: default
+nav_order: 53
+---
+
+# Novartis AG Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $170 B
 
 Novartis is a large pharmaceutical company specializing in the development and sale of patented prescription drugs and generic medications. Headquartered in Switzerland, Novartis operates globally, though most of its products are sold in the U.S., EU, and Japan.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview:**
 

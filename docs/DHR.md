@@ -1,6 +1,27 @@
-## Danaher Corporation (DHR) | Moat: 4 / 5 | Valuation: $172 Billion
+---
+title: Danaher Corporation (DHR)
+layout: default
+nav_order: 70
+---
 
-Danaher Corporation is a diversified global science and technology innovator committed to helping its customers solve complex challenges and improve quality of life around the world. The company designs, manufactures, and markets professional, medical, industrial, and commercial products and services. 
+# Danaher Corporation Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $172 B
+
+Danaher Corporation is a diversified global science and technology innovator committed to helping its customers solve complex challenges and improve quality of life around the world. The company designs, manufactures, and markets professional, medical, industrial, and commercial products and services.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview:**
 

@@ -1,8 +1,28 @@
-## BlackRock (BLK) | Moat: 3 / 5 | Valuation: $58.6 Billion
+---
+title: BlackRock (BLK)
+layout: default
+nav_order: 73
+---
 
-**Business Overview**
+# BlackRock Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $58.6 B
 
 BlackRock, the world's largest asset manager, operates primarily in the financial services sector. Its revenue streams can be categorized as follows:
+
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 * **Investment advisory, administration fees, and performance fees:** These constitute the bulk of BlackRock's revenue, stemming from managing various investment products for institutional and retail clients.  A significant portion comes from passively managed index funds and ETFs.  These fees are recurring and relatively stable.
 * **Securities lending revenue:**  BlackRock generates revenue by lending securities to other market participants. This is dependent on market activity and can be more volatile.

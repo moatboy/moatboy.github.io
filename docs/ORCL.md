@@ -1,6 +1,27 @@
-## Oracle (ORCL) | Moat: 3 / 5 | Valuation: $223 Billion
+---
+title: Oracle (ORCL)
+layout: default
+nav_order: 17
+---
+
+# Oracle Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $223 B
 
 Oracle is a multinational computer technology corporation headquartered in Austin, Texas. The company develops and markets cloud applications, platform and infrastructure technologies for enterprises.  Its main business lines are cloud services and license support, hardware, and services. While their offerings include many applications, their largest product remains the Oracle database, which remains the gold standard for its breadth of data storage, retrieval, and manipulation functions.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview:**
 

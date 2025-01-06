@@ -1,8 +1,28 @@
-## Pfizer Inc. (PFE) | Moat: 2 / 5 | Valuation: $33.70 per share
+---
+title: Pfizer Inc. (PFE)
+layout: default
+nav_order: 79
+---
 
-**Business Overview**
+# Pfizer Inc. Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 2/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $33.70 per share
 
 Pfizer is a global biopharmaceutical company operating in two primary segments:
+
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 * **Biopharmaceuticals:** This segment, comprising a diverse portfolio of medicines and vaccines, is Pfizer's core business and main revenue driver. Key therapeutic areas include Oncology, Internal Medicine, Hospital, Inflammation & Immunology, Rare Disease, and Vaccines. Blockbuster drugs such as Prevnar, Eliquis, and Ibrance have contributed significantly to past revenue growth, but many of these products are now facing increased competition from biosimilars. Pfizer is actively pursuing new drug development and acquisitions to maintain growth in this segment.  This is a highly competitive industry with numerous players.
 * **Consumer Healthcare (partially owned):** This segment produces over-the-counter health products such as Advil, Centrum, and Chapstick. GlaxoSmithKline (GSK) acquired the remainder of Pfizer's stake in the Consumer Healthcare business in 2019, reducing Pfizer's direct revenue stream from this unit significantly.

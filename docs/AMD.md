@@ -1,8 +1,28 @@
-## Advanced Micro Devices (AMD) | Moat: 2 / 5 | Valuation: $88.8 Billion
+---
+title: Advanced Micro Devices (AMD)
+layout: default
+nav_order: 52
+---
 
-**Business Overview**
+# Advanced Micro Devices Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 2/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $88.8 B
 
 Advanced Micro Devices, Inc. (AMD) is a global semiconductor company that develops high-performance computing, graphics, and visualization technologies for a variety of markets, including servers, PCs, embedded devices, and game consoles. The company operates in four segments: Data Center, Client, Gaming, and Embedded.  AMD has become a significant competitor to Intel in the server and PC markets and to Nvidia in the graphics processing unit (GPU) market.  The company's growth has been driven by its focus on high-performance products, its innovative design capabilities, and its strategic partnerships.
+
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Moat Analysis**
 

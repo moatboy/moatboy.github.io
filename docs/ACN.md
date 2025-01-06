@@ -1,8 +1,28 @@
-## Accenture (ACN) | Moat: 3 / 5 | Valuation: $145 Billion
+---
+title: Accenture (ACN)
+layout: default
+nav_order: 40
+---
 
-**Business Overview:**
+# Accenture Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $145 B
 
 Accenture is a leading global professional services company, providing a broad range of services and solutions in strategy & consulting, technology, and operations. With a presence in more than 120 countries, Accenture serves a diverse clientele, including Fortune Global 500 companies and various governments.  The company operates across a wide variety of industries, offering services related to digital transformation, cloud computing, artificial intelligence, cybersecurity, and more. A substantial portion of their business is focused on helping clients adapt to and capitalize on changes in the technology landscape.
+
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Moat Analysis and Rating:**
 

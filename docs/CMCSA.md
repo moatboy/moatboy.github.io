@@ -1,6 +1,27 @@
-## Comcast (CMCSA) | Moat: 3 / 5 | Valuation: $170 Billion
+---
+title: Comcast (CMCSA)
+layout: default
+nav_order: 81
+---
+
+# Comcast Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-yellow }
+
+Pessimistic value: $170 B
 
 Comcast is a global media and technology company with two primary businesses: Cable Communications and NBCUniversal.  It also has a smaller business, Sky, based primarily in Europe.
+{: .fs-6 .fw-300 }
+
+---
+
+{: .warning } 
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 **Business Overview:**
 
