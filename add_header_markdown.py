@@ -79,7 +79,7 @@ Pessimistic value: {valuation.replace("Trillion", "T").replace("Billion", "B"). 
 ---
 
 {{: .warning }} 
->The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.\n
 """
     return markdown
 
