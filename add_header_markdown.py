@@ -107,7 +107,8 @@ for input_file in docs:
 
     # Replace the first few lines with the new markdown content
     with open(input_file, 'w') as file:
-        file.write(markdown_output + "\n")
-        file.write("\n" + lines[ltr] + "\n")
-        for line in lines[ltr + 1:]:
+        file.write(markdown_output)
+        file.write("\n\n")
+
+        for line in lines[ltr:]
             file.write(line)
