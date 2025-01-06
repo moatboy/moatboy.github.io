@@ -79,7 +79,7 @@ Pessimistic value: {valuation.replace("Trillion", "T").replace("Billion", "B"). 
 ---
 
 {{: .warning }} 
->The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.<br>
+>The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 """
     return markdown
 
@@ -107,6 +107,7 @@ for input_file in docs:
 
     # Replace the first few lines with the new markdown content
     with open(input_file, 'w') as file:
-        file.write(markdown_output)
-        for line in lines[ltr:]:
+        file.write(markdown_output + "\n")
+        file.write("\n" + lines[ltr] + "\n")
+        for line in lines[ltr + 1:]:
             file.write(line)
