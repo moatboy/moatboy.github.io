@@ -13,7 +13,7 @@ Moat: 2/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $187
+Pessimistic value: $187 B
 
 Bank of America is a multinational investment bank and financial services company. Its primary businesses include consumer banking, global wealth and investment management, global banking, and global markets. The company operates in a highly regulated industry, adding an additional layer of complexity to assessing its moat.
 {: .fs-6 .fw-300 }
