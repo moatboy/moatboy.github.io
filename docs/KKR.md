@@ -72,7 +72,6 @@ However, these moat attributes are not sufficient to warrant a higher rating:
 
 To value KKR, we use the **discounted cash flow (DCF)** methodology, specifically focusing on free cash flow to equity (FCFE), primarily because of the challenges in applying relative valuations to a company like KKR. 
 
-{: .warning }
 **It is extremely difficult for even the most diligent analysts to forecast earnings, growth, the cost of equity, and the required amounts of cash flow on a company-by-company basis, even for companies that look reasonably priced. This difficulty is exacerbated by the lack of information on companies that look underpriced. This makes DCF modeling a challenge for KKR.**
 
 #### Key Assumptions & Inputs

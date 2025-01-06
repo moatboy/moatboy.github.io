@@ -112,7 +112,6 @@ This valuation assumes a fairly stable business with low to moderate growth and 
 
 Given the current stock price (early July 2024), our DCF model suggests that the stock is slightly overvalued.  
 
-{: .note }
 **Additional Notes:**
 
 * This valuation does not account for any potential benefits from Lockheed Martin's involvement in emerging technologies, such as hypersonics and directed energy weapons. However, as stated in "Where the Rubber Meets the Road," even the best businesses become bad investments if the price is too high.  The development of hypersonic weapons technology has proved expensive, risky, and with minimal financial return.
@@ -121,7 +120,6 @@ Given the current stock price (early July 2024), our DCF model suggests that the
 * In a previous year's 10-K report, the CEO of Lockheed Martin, stated,  "As the market share of the F-35 program increases, we continue to leverage our production efficiencies and realize economic benefits of scale on our programs that were previously in low rate initial production (LRIP). As a result, we expect higher operating margins going forward, across all four segments.” This indicates a key concern of the company: making F-35 profitable. In the first quarter of 2023 10-K, Lockheed mentions, "As the flagship F-35 continues to increase volume, as a key cost consideration, we remain focused on maximizing F-35 operating margins, primarily by driving down cost-per-unit in the supply chain through efficiencies in our production processes.  As these cost and volume initiatives materialize, we expect higher operating margins on our F-35 programs."
 * This valuation also does not account for any potential negative impact from Lockheed Martin’s involvement in producing cluster munitions, as there is a growing movement around the world to ban this type of weaponry. In 2023, President Joseph Biden gave his go-ahead to supply Ukraine with cluster munitions, but it appears that even in the U.S., only three-quarters of Americans supported the move, even if it was only seen as a "necessary evil."
 
-{: .important }
 **Conclusion:**
 
 Lockheed Martin is a well-established defense company with a narrow but stable moat.  However, our DCF model suggests that the stock is currently overvalued, even with our pessimistic assumptions.  Investors should be cautious about paying too much for Lockheed Martin's shares, especially given the potential for slower growth and increasing competition going forward. As Warren Buffet mentioned in "The Intelligent Investor"  buying with a margin of safety can greatly reduce the risk of loss and significantly raise the probability of profit.

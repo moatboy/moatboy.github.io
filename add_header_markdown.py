@@ -128,7 +128,12 @@ for input_file in docs:
                     correct_callout = callout_mapping.get(callout, callout)  # Normalize to correct callout
                     print(f"{correct_callout} detected.")
                     # Remove the callout from the line and prepend the normalized callout
-                    modified_line = f"{correct_callout}\n{line.replace(callout, '').strip()}\n"
+
+                    if line.replace(callout, '').strip().startswith("**") and line.replace(callout, '').strip().endswith("**"):
+                        modified_line = f"{line.replace(callout, '').strip()}\n"
+                    else:
+                        modified_line = f"{correct_callout}\n{line.replace(callout, '').strip()}\n"
+
                     modified_line = modified_line.replace(">  ", "")
                     break  # Exit the loop after finding the first matching callout
 

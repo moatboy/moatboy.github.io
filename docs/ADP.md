@@ -60,23 +60,3 @@ A discounted cash flow (DCF) model has been used to value ADP.  A five-year expl
 * **Cost of Capital:**  The cost of equity has been calculated using CAPM with the risk free rate of 4%, a beta of 0.92 (levered), and an ERP of 5.5%, giving a cost of equity of 9%. Then, adding the default spread of 1.27% and the US marginal tax rate of 25%, we get an after tax cost of debt of 4.27% for ADP. The market-based capital structure is estimated to be 20% debt and 80% equity. This gives a WACC of 7.56%.
 * **Terminal Value:** Assuming a growth rate of 0% and a cost of capital of 7.5%, then subtracting 10% reinvestment rate gives a value of $49.3 billion for operations.
 
-{: .note }
-**Calculations**
-
-* **Present Value of Cash Flows (2024-2028):** $15.32B
-* **Present Value of Continuing Value:** $44.53B
-* **Value of Operating Assets:** $59.85B
-* **+ Cash:** $1.31B
-* **- Debt:** -$20.07B
-* **Value of Equity:** $41.19B
-* **Value/Share:** $82.38
-
-
-**Valuation Conclusion**
-
-* **Fair Value:** $87.6 billion. This valuation of ADP is based on the preceding explicit forecasts. It is sensitive to several assumptions, some more than others, as sensitivity analysis in the spreadsheet model will show. It is important to note that although valuations are based on the fundamental laws of economics, including supply and demand, economies of scale, and cost of capital, uncertainty about the future remains ever-present. The value of any asset ultimately is driven by the economic climate of the moment of valuation and is a function of our expectations about the firm's future business performance. For instance, any negative surprise relating to ADP’s revenue growth, margins, capital expenditures, or acquisitions will cause the value to be lower than the value being presented and any positive surprise relating to these same assumptions will cause the value to be higher.
-{: .note }
-* **Current Market Price (as of 7/21/2024):** ~$97.8 billion. {: .important } ADP appears to be slightly **overvalued** relative to its intrinsic value. Given the uncertainty and risks associated with its financial outlook and ongoing lawsuits, a significant margin of safety is required before investing.
-
-
-This valuation is based on the information available as of July 21, 2024.  Future performance may differ significantly from these projections, and the stock market may not react to company developments as anticipated.  Investors should conduct their own due diligence and analysis before making investment decisions.

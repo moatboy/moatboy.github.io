@@ -59,7 +59,6 @@ I employed a discounted cash flow (DCF) approach to value BUD, using its financi
 * **Margins:** Gradual improvement in operating margins over the next 10 years, eventually reaching 26% of revenue (in-line with current margins for Ambev, the company's Brazilian subsidiary)
 * **Cost of Capital:** 7.8 percent WACC in perpetuity for AB-Inbev overall
 
-{: .important }
 **Detailed Calculation:**
 
 1. **Forecast free cash flow (FCF) for the next 10 years.** (Calculations not shown due to limited space. Projected financial statements are shown in the attached resources).
@@ -80,7 +79,6 @@ I employed a discounted cash flow (DCF) approach to value BUD, using its financi
 | / Number of Shares         | 2,150            |
 | **Value per Share (Intrinsic)** | **$71.38**        |
 
-{: .note }
 **Caveats and Additional Considerations:**
 
 * This valuation is based on a number of assumptions that may not materialize. There is considerable uncertainty attached to the valuation of companies. The actual outcome may differ significantly from what has been laid out. Consequently, it is important to test the robustness of a valuation result. Sensitivity and scenario analysis would be employed to estimate the range of outcomes and incorporate risk.

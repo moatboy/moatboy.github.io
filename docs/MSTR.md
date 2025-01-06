@@ -115,7 +115,6 @@ Terminal Value = (After-tax operating income in year 11) * (1 - Reinvestment rat
 6. **Equity Value:** This yields an equity value of approximately $2.1 billion.
 
 
-{: .important }
 **It is critical to recognize that, because of the number of assumptions used in computing a valuation, the model’s result is only one possible picture of where the company's financials are likely to be in the coming years.**
 
 
