@@ -22,6 +22,8 @@ Rogers Corporation, now a part of DuPont, specializes in engineered materials an
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 * **Advanced Connectivity Solutions (ACS):** Providing high-frequency circuit materials, primarily serving wireless communications infrastructure such as wireless base stations. 
 * **Elastomeric Material Solutions (EMS):** Specialized elastomers, used in a wide variety of applications from automotive and aerospace to consumer products.
 * **Power Electronics Solutions (PES):**  High-performance thermal management products for power electronics, often found in electric vehicles and data centers.

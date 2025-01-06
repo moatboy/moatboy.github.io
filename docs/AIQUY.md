@@ -22,6 +22,8 @@ AIQUY Inc. operates in the dynamic field of artificial intelligence (AI), specif
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview:**
 
 * **Revenues:**  AIQUY derives its revenues from software licensing fees, subscription services, and consulting. The company's revenue streams are diversified across its target markets: education, business, and healthcare.  Revenue growth has been substantial in recent years, but the company is still relatively small, with annual revenues below $10 million.

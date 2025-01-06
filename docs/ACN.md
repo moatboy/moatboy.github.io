@@ -22,6 +22,8 @@ Accenture is a leading global professional services company, providing a broad r
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Moat Analysis and Rating:**
 
 Accenture exhibits characteristics of a narrow moat, which earns a 3/5 rating. 

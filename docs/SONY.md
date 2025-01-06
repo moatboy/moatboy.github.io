@@ -22,6 +22,8 @@ Pessimistic value: ¥10,520 B
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 Sony is a global conglomerate with operations spanning several segments:
 
 * **Game & Network Services (G&NS):** This is Sony's largest and most profitable segment. It includes PlayStation hardware and software, PlayStation Plus subscriptions, and network services.  

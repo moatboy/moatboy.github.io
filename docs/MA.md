@@ -22,6 +22,8 @@ Mastercard operates in the payment processing industry, facilitating electronic 
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Breakdown:**
 
 * **Revenues:** As noted in the company's financial statements, a significant portion of Mastercard's revenues are derived from domestic transactions, with the remainder from cross-border volume and other sources.  The company has a substantial and growing presence outside the U.S., expanding into emerging markets and leveraging the global payments network. 

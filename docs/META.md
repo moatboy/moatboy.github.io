@@ -22,6 +22,8 @@ Meta Platforms, a dominant force in social media and digital advertising, presen
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **The Business and Its Moat:**
 
 Meta's business story can be distilled down to network effects, its core strength and the source of its network effect-based moat. With billions of users across its Family of Apps (Facebook, Instagram, WhatsApp, Messenger), Meta benefits from powerful network effects. More users attract more users and businesses, creating a virtuous cycle that has propelled Meta to a dominant position. This is reflected in both its high market share in social media and digital advertising, and historically high returns on invested capital.

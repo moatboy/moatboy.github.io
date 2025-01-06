@@ -22,6 +22,8 @@ TD Bank operates as a diversified financial institution, offering a wide range o
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview:**
 
 * **Revenue Distribution:** TD's revenue is diversified across various segments, including Canadian Retail, U.S. Retail, Wholesale Banking, and Corporate. Canadian Retail typically contributes the largest share of revenue, followed by U.S. Retail. Wholesale Banking and Corporate contribute smaller portions.

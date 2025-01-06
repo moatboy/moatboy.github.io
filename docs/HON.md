@@ -22,6 +22,8 @@ Honeywell International Inc. is a global conglomerate operating in four main seg
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 * **Aerospace:** Providing products, software, and services for commercial, defense, and space industries. Key offerings include aircraft engines, auxiliary power units, avionics, environmental control systems, and more.
 * **Honeywell Building Technologies (HBT):** A global provider of building products, software, solutions, and technologies, primarily for commercial buildings. Products include control systems for heating, ventilation, and air conditioning (HVAC), security, fire protection, and energy management.
 * **Performance Materials and Technologies (PMT):** A global leader in developing and manufacturing high-performance chemicals, specialty materials, process technologies, and automation solutions for a variety of industries. This segment serves the oil and gas, refining, petrochemical, pulp and paper, industrial gas, electronics, and other industries.

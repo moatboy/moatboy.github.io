@@ -22,6 +22,8 @@ Microsoft is a technology behemoth, dominating several key markets including ope
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Moat Analysis:**
 
 Microsoft possesses a formidable moat, primarily driven by a combination of factors that create substantial barriers to entry and switching costs. These include:

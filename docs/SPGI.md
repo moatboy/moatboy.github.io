@@ -22,6 +22,8 @@ S&P Global boasts a wide moat stemming from intangible assets, high switching co
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 S&P Global operates in four key segments:

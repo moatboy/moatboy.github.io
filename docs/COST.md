@@ -22,6 +22,8 @@ Costco Wholesale operates a chain of membership-only warehouse clubs offering a 
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview:**
 
 Costco primarily generates revenue from membership fees and sales of merchandise. Its business model is based on providing high-quality products at low prices, made possible by charging annual membership fees and buying in bulk. This high-volume, low-margin approach allows Costco to negotiate favorable prices with suppliers and pass the savings on to its members.

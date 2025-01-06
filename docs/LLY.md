@@ -22,6 +22,8 @@ Eli Lilly and Company is a global pharmaceutical company that develops, manufact
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 LLY focuses on developing and commercializing innovative medicines in various therapeutic areas, including diabetes, immunology, oncology, and neuroscience.  The company's success is heavily reliant on research and development (R&D), which is a high-risk, high-reward endeavor. LLY faces intense competition from other large multinational pharmaceutical companies, as well as smaller, specialized biotech firms. Patents protect many of the company's key products, but these patents have finite lives, and generic competition eventually emerges.

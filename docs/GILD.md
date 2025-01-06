@@ -22,6 +22,8 @@ Gilead Sciences is a biopharmaceutical company specializing in the discovery, de
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 * **Revenues Distribution:** Gilead's revenue comes primarily from antiviral medications, with HIV and hepatitis C (HCV) products being its key revenue drivers. The remaining revenues are from other antiviral products, such as those for the treatment of influenza and COVID-19. It operates across the globe with a geographic split between Americas, Europe, and Asia. The Americas region contributes the highest percentage of Gilead's revenue, followed by Europe and Japan.

@@ -22,6 +22,8 @@ Wells Fargo is a leading financial services company offering banking, mortgage, 
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview:**
 
 * **Consumer Banking and Lending:** This segment provides traditional banking services, including checking and savings accounts, credit cards, auto loans, and mortgages, to individual consumers.

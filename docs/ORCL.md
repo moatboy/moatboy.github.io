@@ -22,6 +22,8 @@ Oracle is a multinational computer technology corporation headquartered in Austi
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview:**
 
 Oracle operates in three primary segments:

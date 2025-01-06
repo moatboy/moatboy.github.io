@@ -22,6 +22,8 @@ Shopify operates in the e-commerce platform industry, providing software and ser
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview:**
 
 * **Revenues Distribution:** Shopify generates revenue from two primary sources: Subscription Solutions (recurring fees for platform access) and Merchant Solutions (transactional fees, payment processing, shipping, etc.). Merchant Solutions have been growing faster, exceeding Subscription Solutions revenue in recent years.

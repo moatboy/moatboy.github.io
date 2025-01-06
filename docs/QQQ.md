@@ -22,6 +22,8 @@ Invesco QQQ Trust, Series 1 (QQQ) is an exchange-traded fund (ETF) that tracks t
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Moat Analysis:**
 
 While the companies *within* the Nasdaq-100 may possess moats of varying strength (e.g., Microsoft, Apple), the QQQ ETF itself has virtually no moat. Assigning a moat rating of 1/5 reflects this weakness.

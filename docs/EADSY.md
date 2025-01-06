@@ -22,6 +22,8 @@ EADSY, or Expedia Group, Inc., is a global travel platform operating a portfolio
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview:**
 
 * **Revenues:** EADSY generates revenue primarily through commissions earned on travel bookings (hotel rooms, flights, rental cars, etc.) as well as advertising. A small portion of their revenues comes from other sources, including transaction fees and subscription revenues.

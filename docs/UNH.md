@@ -22,6 +22,8 @@ UnitedHealth Group Incorporated is a diversified health care company dedicated t
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Description:**
 
 * **UnitedHealthcare:** This segment offers a wide range of health benefit plans and services to individuals, employers, and government programs.  It covers all aspects of the health insurance value chain, from insurance itself to administering plans to managing networks of providers. Within UnitedHealthcare, they offer different products and services for different consumers, including individuals, small businesses, large businesses, and federal/state governments.

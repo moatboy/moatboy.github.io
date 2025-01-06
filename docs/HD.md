@@ -22,6 +22,8 @@ The Home Depot is the world's largest home improvement retailer, offering a wide
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Moat Analysis**
 
 Home Depot exhibits some characteristics of a moat, though it falls short of a truly dominant, unassailable advantage. We assign a rating of **3 out of 5**.

@@ -22,6 +22,8 @@ Adobe is a dominant player in the creative software industry. Its products, incl
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Moat Analysis**
 
 Adobe's moat stems primarily from high switching costs and network effects, which are unlikely to disappear anytime soon.  The complexity and integration of its products make it difficult and costly for users to switch to alternatives. This is especially true for creative professionals who have built their workflows around Adobe's software.

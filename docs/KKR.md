@@ -22,6 +22,8 @@ KKR is a leading global investment firm that offers alternative asset management
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 ### Business Overview
 
 KKR's business model is built around earning fees for managing investor funds, as well as making strategic investments and generating profits. Their main sources of revenue are management fees (charged annually as a percentage of assets under management) and transaction fees (charged when KKR acquires, sells or restructures investments on behalf of its funds), though these fees can vary in their terms. In addition, when KKR deploys its own capital, it captures the economic upside (through earnings and appreciation) or the downside (through losses and impairment) by holding its stake for longer time periods.

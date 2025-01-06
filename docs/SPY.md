@@ -22,6 +22,8 @@ The SPDR S&P 500 ETF Trust (SPY) is an exchange-traded fund (ETF) that tracks th
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Moat Analysis and Rating:**
 
 SPY, being an index ETF, *does not have a moat*.  A moat, as described by Pat Dorsey in "The Little Book That Builds Wealth", refers to structural characteristics inherent to a *business* that allow it to fend off competitors and earn excess profits over a long period.  SPY itself is not a business; it's an investment vehicle that holds a basket of businesses.  While many of the *underlying companies* in SPY *may* have moats (e.g., Microsoft, Google, etc.), the ETF structure itself provides no competitive advantage. Anyone can create a similar S&P 500 index fund, and competition among ETF providers keeps fees low.  Therefore, SPY receives a moat rating of **0/5**.  

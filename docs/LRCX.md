@@ -22,6 +22,8 @@ Lam Research Corporation designs, manufactures, markets, refurbishes, and servic
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview:**
 
 * **Revenues Distribution:** LRCX operates globally, with a substantial portion of its revenues coming from Asia. The remaining revenue comes from the United States, Europe, and South Korea. 

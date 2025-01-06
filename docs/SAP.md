@@ -23,6 +23,8 @@ SAP is a multinational software corporation based in Walldorf, Germany. It is th
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
+
+
 **Business Overview:**
 
 SAP's core business is its ERP software, offered in both on-premise and cloud-based versions.  The company has successfully transitioned a significant portion of its business to the cloud, driving recurring revenue and higher margins. Its products include solutions for a wide range of business functions, categorized into various segments, such as Customer Experience, SAP Business Technology Platform, and Intelligent Spend Management. SAP also offers industry-specific cloud solutions and an extensive partner ecosystem.

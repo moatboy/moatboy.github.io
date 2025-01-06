@@ -22,6 +22,8 @@ Lowe's Companies, Inc. is a major home improvement retailer, operating primarily
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 * **Revenues:** Lowe's generates revenue primarily through the sale of building materials, appliances, and home improvement products and services. A small but growing component is its installation services. Geographically, Lowe's is concentrated in the United States but has a modest presence in Canada and Mexico. Revenue growth has slowed in recent years, reflecting market maturity.

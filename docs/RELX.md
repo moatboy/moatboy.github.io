@@ -22,6 +22,8 @@ RELX PLC, formerly Reed Elsevier, is a global provider of information-based anal
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 * **Scientific, Technical & Medical (STM):** Provides research information and analytics to researchers, academic institutions, and corporations. This segment benefits from network effects and high switching costs.
 * **Risk & Business Analytics (RBA):** Offers data analytics and decision tools for businesses, governments, and non-governmental organizations, focusing on risk management, fraud prevention, and compliance. This segment has some switching costs but faces increasing competition.
 * **Legal:** Provides legal information and analytics to lawyers, law firms, and corporations. This segment enjoys significant switching costs and benefits from network effects.

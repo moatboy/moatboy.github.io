@@ -22,6 +22,8 @@ Sanofi is a global biopharmaceutical company specializing in pharmaceuticals, va
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 * **Revenues Distribution (2022):**

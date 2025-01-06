@@ -22,6 +22,8 @@ Blackstone is one of the world's largest alternative asset managers, specializin
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview:**
 
 Blackstone operates across four main segments:

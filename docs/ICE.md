@@ -22,6 +22,8 @@ Intercontinental Exchange (ICE) operates a network of regulated exchanges and cl
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 * **Exchanges:** This segment constitutes the majority of ICE's revenues and profits, facilitating the trading and clearing of various financial and commodity contracts, including futures and options. The majority of the trading volume comes from energy-related contracts, though agricultural products and other commodities make up a smaller portion. Key exchanges include the New York Stock Exchange (NYSE), NYSE American, and various European exchanges.
 * **Fixed Income and Data Services:** This segment provides pricing, reference data, analytics, and execution services across fixed income and other related markets.  ICE also licenses indexes including the MSCI index. This part of the business benefits from strong recurring revenue.
 * **Mortgage Technology:** This segment provides a technology platform that offers customers comprehensive digital workflow tools across the mortgage lifecycle. Revenues here primarily come from origination and closing of U.S. residential mortgages. ICE acquired Ellie Mae in 2020, significantly expanding its mortgage business. 

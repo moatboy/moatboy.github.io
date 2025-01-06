@@ -22,6 +22,8 @@ Applied Materials supplies equipment for producing semiconductor chips, display 
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 * **Revenues Distribution:** As of 2023, roughly 68% of AMAT's revenue comes from Semiconductor Systems, 20% from Applied Global Services, and 12% from Display and Adjacent Markets.

@@ -22,6 +22,8 @@ Chipotle Mexican Grill operates a chain of fast-casual restaurants specializing 
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 * **Revenues:** CMG's revenue primarily comes from its restaurant operations, divided into food, beverage, and other (delivery and convenience fees, restaurant royalties, and merchandise sales). As of December 31, 2022, restaurant sales accounted for approximately 99% of CMG's total revenue. The remaining 1% is attributed to the "Other" category. Over the past five years, CMG has witnessed substantial revenue growth, with a compound annual growth rate of 11.7% in revenues over 2018-2022. CMG's revenue grew 17.7% year over year in 2022 despite the ongoing economic slowdown and increase in input prices. Its focus on quality ingredients and premium menu offerings allows it to command higher prices.

@@ -22,6 +22,8 @@ BlackRock, the world's largest asset manager, operates primarily in the financia
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 * **Investment advisory, administration fees, and performance fees:** These constitute the bulk of BlackRock's revenue, stemming from managing various investment products for institutional and retail clients.  A significant portion comes from passively managed index funds and ETFs.  These fees are recurring and relatively stable.
 * **Securities lending revenue:**  BlackRock generates revenue by lending securities to other market participants. This is dependent on market activity and can be more volatile.
 * **Technology services revenue:**  This segment is much smaller and includes Aladdin, a risk management platform, and other software solutions.

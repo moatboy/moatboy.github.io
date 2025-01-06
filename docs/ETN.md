@@ -22,6 +22,8 @@ Eaton Corporation plc is a global power management company that provides energy-
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 * **Electrical Americas:** This segment serves customers primarily in North and South America, providing a diverse range of electrical products and services, including electrical components, industrial controls, power distribution and control equipment, residential products, and lighting. It focuses on providing electrical power management solutions for buildings, utilities, and data centers.

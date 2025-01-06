@@ -22,6 +22,8 @@ Goldman Sachs is a leading global investment banking, securities, and investment
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 * **Global Banking & Markets:** This segment provides a wide range of financial services to corporations, financial institutions, governments, and other investors. Services include financial advisory, underwriting, sales and trading, and securities services.

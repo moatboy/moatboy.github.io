@@ -22,6 +22,8 @@ Rio Tinto is a diversified mining and metals company with operations across the 
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 Rio Tinto's business can be broadly categorized into the following product groups:

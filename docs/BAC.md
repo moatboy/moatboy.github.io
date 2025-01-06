@@ -22,6 +22,8 @@ Bank of America is a multinational investment bank and financial services compan
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 * **Consumer Banking:** This segment provides traditional banking services to individuals and small businesses, including deposit accounts, mortgages, and credit cards.  This is a highly competitive segment, with low switching costs for most products.

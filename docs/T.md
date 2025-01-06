@@ -22,6 +22,8 @@ AT&T is a major telecommunications company operating in the United States and gl
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 * **Communications:** This segment accounts for the vast majority of AT&T's revenue and profit, encompassing mobility, wireless, consumer wireline, business wireline, and Mexico wireless services. It offers network access, voice, data, video, and other communications services.
 * **Latin America:** This segment provides wireless services in Mexico and video entertainment in several countries in Latin America and the Caribbean. Its size is considerably smaller than the U.S. operations.
 * **WarnerMedia (now Warner Bros. Discovery):** This segment's operations are based on premium entertainment, news, and sports content across a broad range of platforms.  This segment was spun-off and merged with Discovery Inc in 2022, and AT&T now holds a minority stake.

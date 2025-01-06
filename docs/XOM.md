@@ -22,6 +22,8 @@ ExxonMobil is one of the largest publicly traded international integrated oil an
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 ExxonMobil's business is fundamentally tied to the cyclical nature of commodity prices. The upstream segment, though the most profitable, is highly sensitive to fluctuations in oil and gas prices. Downstream and chemical products, while also impacted by commodity prices, provide some degree of counter-cyclical stability.

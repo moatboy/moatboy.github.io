@@ -22,6 +22,8 @@ BHP is a leading global resources company, producing iron ore, copper, metallurg
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 BHP's principal revenue sources are iron ore (66%), copper (17%), metallurgical coal (10%), and nickel (6%). Its potash operations are still developing. The majority of its operations and revenues are from Australia (63%), followed by North America (22%), South America (12%), and Asia (2%).

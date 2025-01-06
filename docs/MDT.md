@@ -22,6 +22,8 @@ Medtronic operates in the medical technology industry, specifically in the Cardi
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview:**
 
 * **Revenue Distribution:** Medtronic's revenues are fairly evenly distributed across geographies. In fiscal 2023, the U.S. accounted for about 53% of revenue, and non-U.S. developed markets accounted for 35%. Revenues are well diversified among business units, with Cardiac and Vascular Group and Minimally Invasive Therapies Group representing over half of total sales in 2023.

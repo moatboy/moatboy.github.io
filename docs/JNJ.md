@@ -22,6 +22,8 @@ Johnson & Johnson is a multinational corporation engaged in the research, develo
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 * **Consumer Health:** This segment offers a diverse portfolio of products in the over-the-counter drug, skin care, baby care, oral care, wound care, and women's health categories.  Many of these are well-established brands like Band-Aid, Neutrogena, and Tylenol. This segment is exposed to competition from both branded and private-label competitors, but the strong brand names offer some insulation.

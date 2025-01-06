@@ -22,6 +22,8 @@ AstraZeneca is a global biopharmaceutical company focused on the discovery, deve
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Moat Analysis:**
 
 AstraZeneca's moat stems primarily from a combination of intangible assets (specifically, patents) and the research & development (R&D) process for creating new drugs.

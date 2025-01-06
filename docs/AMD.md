@@ -22,6 +22,8 @@ Advanced Micro Devices, Inc. (AMD) is a global semiconductor company that develo
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Moat Analysis**
 
 While AMD has made significant strides in recent years, a strict moat assessment reveals a narrow moat, assigned a rating of **2 out of 5**. The primary source of AMD's competitive advantage lies in its **innovation**. The company has demonstrated an ability to design and produce high-performance chips, particularly in the server and GPU markets, that compete effectively with industry leaders.  This has translated into substantial market share gains and improved profitability. However, the highly competitive and cyclical nature of the semiconductor industry significantly limits the durability of this advantage.

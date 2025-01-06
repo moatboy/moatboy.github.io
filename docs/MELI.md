@@ -22,6 +22,8 @@ MercadoLibre operates a dominant e-commerce and fintech platform in Latin Americ
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview:**
 
 MercadoLibre's business can be segmented into two primary parts:

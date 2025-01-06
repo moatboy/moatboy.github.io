@@ -22,6 +22,8 @@ Analog Devices designs, manufactures, and markets a broad portfolio of integrate
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview and Discussion**
 
 * **Revenues Distribution (FY23):** Industrial (59%), Automotive (22%), Communications (11%), and Consumer (8%).  Note that Analog Devices recently broadened its disclosure to include a fifth end market, called "Healthcare".

@@ -22,6 +22,8 @@ Spotify is a music streaming service with a dual revenue model: premium subscrip
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 * **Revenues:** Spotify's revenues are generated from two primary sources: premium subscriptions and advertising. Premium revenue accounts for the vast majority of revenue, though ad revenue is growing faster but from a smaller base. Key recent revenue trends include:

@@ -22,6 +22,8 @@ Comcast is a global media and technology company with two primary businesses: Ca
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview:**
 
 * **Cable Communications:** This segment provides high-speed internet, video, voice, wireless, and business services in the United States and, through Sky, in Europe.  It is the largest cable provider in the United States, serving both residential and business customers. Revenue comes from high-speed internet access, video services, voice services, advertising, and business services. This is Comcast's largest and most profitable business segment, benefiting from high switching costs associated with bundled services and economies of scale in its cable network. However, competition is heating up from both traditional telcos and new entrants offering fiber-based services and streaming video.

@@ -22,6 +22,8 @@ Bristol-Myers Squibb is a global biopharmaceutical company focusing on discoveri
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview:**
 
 * **Revenues Distribution:** BMY operates globally, with the U.S. comprising roughly half of its revenues (55% in 2023), and international markets accounting for the remainder. Within its product portfolio, its legacy brands, which include established blockbusters like Eliquis, Opdivo, and Revlimid, generate a substantial portion of its revenues. Newer drugs such as Zeposia are contributing to its growing product revenues. The relative contribution of each product, though, can fluctuate substantially across time, as patents expire and new drugs hit the market.

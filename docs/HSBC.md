@@ -22,6 +22,8 @@ HSBC Holdings plc is a global banking and financial services company headquarter
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 * **Wealth and Personal Banking:** This segment provides retail banking, wealth management, insurance, and asset management services to individuals and small businesses.
 * **Commercial Banking:** This segment provides banking services to small, medium, and large corporations, as well as financial institutions.
 * **Global Banking and Markets:** This segment provides investment banking, sales, trading, and research services to large corporations, financial institutions, and governments.

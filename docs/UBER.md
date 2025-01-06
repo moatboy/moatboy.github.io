@@ -22,6 +22,8 @@ Uber Technologies operates a technology platform for ride-hailing, food delivery
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview:**
 
 * **Segments:** Uber's business is primarily divided into three segments:

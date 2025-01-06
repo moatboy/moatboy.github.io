@@ -22,6 +22,8 @@ American Tower is a real estate investment trust (REIT) that owns and operates w
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 * **Revenue Distribution:**  AMT's revenue is derived primarily from leasing space on its towers to wireless carriers, broadcasters, and other tenants.  Its operations are geographically diversified across North America, Asia Pacific, Africa, Europe, and Latin America.  Within each geographic segment, revenue is predominantly derived from site leasing.  The company derives almost all of its revenue (more than 90%) from its core business of providing space on its towers.

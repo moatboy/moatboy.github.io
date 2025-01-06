@@ -22,6 +22,8 @@ T-Mobile US, Inc. is a major wireless communications services provider in the Un
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Moat Analysis**
 
 While T-Mobile has exhibited strong growth and improved profitability, its moat is narrow, earning a rating of **2 out of 5**.

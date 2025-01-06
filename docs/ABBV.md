@@ -22,6 +22,8 @@ AbbVie is a global, research-based biopharmaceutical company.  The company devel
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview and Competitive Advantages:**
 
 AbbVie operates in a highly regulated industry with high research and development costs and long lead times for new product approvals. The company has successfully developed and launched several blockbuster drugs (drugs with over $1 billion in annual sales). However, the biopharmaceutical industry also faces intense competition, patent expirations, and pricing pressures.

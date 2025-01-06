@@ -22,6 +22,8 @@ JPMorgan Chase & Co. is a multinational financial services firm offering a wide 
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview:**
 
 JPMorgan Chase operates through the following business segments:

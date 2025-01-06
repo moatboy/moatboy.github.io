@@ -22,6 +22,8 @@ Sherwin-Williams is a leading global manufacturer and distributor of paints, coa
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 * **Revenues Distribution (2023):** The Americas Group accounts for about 75% of total sales. Consumer Brands, Performance Coatings, and Administrative make up the remaining 25%.

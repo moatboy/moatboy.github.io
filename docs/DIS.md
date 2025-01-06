@@ -22,6 +22,8 @@ The Walt Disney Company is a global entertainment conglomerate with operations s
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Moat Analysis and Rating (3/5):**
 
 Disney possesses elements of a narrow moat, primarily driven by **intangible assets** (brands and franchises) and **switching costs** in some segments. However, several factors limit the moat's width and sustainability, justifying a cautious rating of 3/5:

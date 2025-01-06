@@ -22,6 +22,8 @@ Caterpillar is a leading global manufacturer of construction and mining equipmen
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Moat Analysis:**
 
 Caterpillar benefits from several sources of competitive advantage, contributing to its moat:

@@ -22,6 +22,8 @@ IBM, a venerable technology company, has transitioned from a hardware-centric bu
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Moat Analysis:**
 
 IBM's moat is narrow and weakening, earning a rating of **2 out of 5**.

@@ -22,6 +22,8 @@ Cisco Systems is a multinational technology conglomerate specializing in network
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 * **Revenue Distribution (as of July 29, 2023):**
     * **Product:** $8.9 billion (63% of total revenue) primarily from Secure, Agile Networks; Internet for the Future; Hybrid Work; End-to-End Security; Optimized Application Experiences.
     * **Service:** $5.3 billion (37% of total revenue) primarily from Subscription-based and other recurring offers, including technical support and advanced services.

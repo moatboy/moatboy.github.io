@@ -22,6 +22,8 @@ Chevron, a global energy company, is engaged in oil and natural gas exploration,
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Description:**
 
 Chevron's business is largely divided into two segments: Upstream (exploration and production) and Downstream (refining, marketing, chemicals, and other).  The Upstream segment focuses on finding and extracting crude oil and natural gas, while the Downstream segment refines crude oil into petroleum products such as gasoline, diesel, and jet fuel, and markets these products globally.  Chevron also manufactures and markets base oils, lubricants, and additives.  Its chemicals business produces and markets petrochemicals such as ethylene, propylene, polyethylene, aromatics, and additives, which are primarily derived from crude oil and natural gas.  Chevron is also actively pursuing lower-carbon energy solutions, including renewable fuels, hydrogen, carbon capture, utilization, and storage.  The company generates the bulk of its revenues from the sale of crude oil and refined products, although it has made significant investments in its Downstream chemical and other businesses.

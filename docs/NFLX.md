@@ -22,6 +22,8 @@ Netflix is a leading global streaming entertainment service. Its primary busines
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Moat Analysis:**
 
 Netflix benefits from several sources of competitive advantage, contributing to its moat. Applying Dorsey's framework from "The Little Book that Builds Wealth":

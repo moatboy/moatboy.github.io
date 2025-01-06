@@ -22,6 +22,8 @@ Berkshire Hathaway is a sprawling conglomerate with businesses in insurance, rai
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 Berkshire's business model is unique.  Unlike typical conglomerates, which often suffer from a lack of focus and managerial inefficiencies, Berkshire operates under a decentralized structure.  Buffett and Munger allocate capital to subsidiary businesses, acquire new businesses, and act as stewards of capital for their shareholders, but they do not involve themselves in the day-to-day operations of their businesses. This hands-off approach empowers managers and fosters entrepreneurialism, which can be a significant competitive advantage.

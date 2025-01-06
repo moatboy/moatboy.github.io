@@ -22,6 +22,8 @@ Vertex Pharmaceuticals is a biotechnology company focused on developing and comm
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 * **Revenues:** Vertex derives almost all its revenue from CF drugs. This concentration represents a significant risk, as the company is dependent on the success of its CF franchise and on expanding its pipeline into other therapeutic areas. Revenue growth has been slowing as the CF market matures, though the company continues to introduce new drugs for different CF mutations.

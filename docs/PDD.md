@@ -22,6 +22,8 @@ PDD Holdings Inc. operates a portfolio of e-commerce platforms, including Pinduo
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview:**
 
 * **Revenues Distribution:** PDD generates revenue primarily from online marketing services and transaction services, followed by merchandise sales. Online marketing services include revenues from promoting products and displaying advertisements on its platform. Transaction services primarily include revenues from providing payment processing, order fulfillment, and other merchant support services. Merchandise sales represent revenues from Pinduoduo selling directly to consumers.

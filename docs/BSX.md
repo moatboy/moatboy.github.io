@@ -23,6 +23,8 @@ Boston Scientific is a global developer, manufacturer, and marketer of medical d
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
+
+
 **Business Overview**
 
 * **Revenues Distribution (2022):**

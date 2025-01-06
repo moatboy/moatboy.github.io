@@ -22,6 +22,8 @@ Raytheon Technologies (RTX) is a prominent aerospace and defense company formed 
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 * **Collins Aerospace:** Provides primarily commercial aircraft engines and related aftermarket services.
 * **Pratt & Whitney:** Manufactures and services military and commercial aircraft engines and auxiliary power units.
 * **Raytheon Intelligence & Space:**  Offers systems, software, and sensors for military, space, and other government and commercial needs.

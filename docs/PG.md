@@ -22,6 +22,8 @@ Procter & Gamble (PG) is a consumer goods giant with a diverse portfolio of well
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 P&G operates on a global scale, selling its products in virtually every country around the world. Its brand portfolio includes iconic names like Gillette, Tide, Pampers, Crest, Olay, and many others. This vast brand portfolio allows the company to cater to a wide range of consumer needs across different demographics and geographies.

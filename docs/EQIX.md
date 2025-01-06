@@ -22,6 +22,8 @@ Equinix operates in the data center industry, owning and operating hundreds of I
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview:**
 
 * **Revenues Distribution:** Equinix's revenues primarily come from colocation (providing space, power, and cooling in its data centers), interconnection (allowing customers to connect with each other and various network service providers), and related services (such as managed IT services).  The Americas region generates the lion's share of revenues, followed by EMEA and Asia-Pacific. 

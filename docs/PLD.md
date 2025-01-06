@@ -22,6 +22,8 @@ Prologis, Inc. is a real estate investment trust (REIT) that acquires, develops,
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 * **Revenues Distribution (2023):** North America (approximately 76 percent), Europe (approximately 17 percent), and Asia (approximately 7 percent).  Note that these proportions can fluctuate from year to year.

@@ -22,6 +22,8 @@ Chubb is a global insurance and reinsurance company offering a broad range of pr
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 * **Revenues Distribution (2023):**  Chubb's revenue is diversified across its business segments. The North America Commercial P&C segment comprises 45% of its net premiums earned, followed by North America Personal P&C at 15%, Overseas General at 20%, Global Reinsurance at 9%, North America Agricultural at 7%, and Life Insurance at 4%. Geographically, North America represents close to 60% of its net premiums written, while the rest are international, with Europe being the largest international source of revenues. 

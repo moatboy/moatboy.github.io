@@ -22,6 +22,8 @@ HDFC Bank is a leading private sector bank in India, offering a wide range of fi
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Revenue Distribution (As of FY24):**
 
 * **Retail Banking:** ~54% (primarily individual customers, home loans, auto loans, personal loans, credit cards)

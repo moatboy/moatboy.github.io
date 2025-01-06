@@ -22,6 +22,8 @@ Rio Tinto is a diversified mining and metals company headquartered in London, wi
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 * **Revenues Distribution (2023):**  Iron ore (55%), Aluminum (17%), Copper (9%), Minerals (14%), Energy (5%). This distribution is not materially different from what has existed over the past decade.

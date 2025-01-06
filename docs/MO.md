@@ -22,6 +22,8 @@ Altria Group, a dominant player in the U.S. tobacco industry, possesses a narrow
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 * **Revenues:** Altria generates revenue predominantly from the sale of smokeable products (cigarettes and cigars), oral tobacco products (moist snuff, snus, and dissolvable products), and wine.  The smokeable products segment is by far the largest, with Marlboro commanding a significant share of the U.S. cigarette market. Oral tobacco has been a growth driver in recent years. The wine business is relatively small.  As of December 2023, Altria generates revenues of approximately $21 billion annually.

@@ -22,6 +22,8 @@ Fiserv is a leading provider of financial technology solutions, primarily servin
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview**
 
 * **Revenue Distribution:** Fiserv derives a majority of its revenue (approximately 70%) from recurring sources, with the bulk coming from its core business of providing technology infrastructure for financial institutions. Within this segment, account processing and payment processing contribute roughly equally. A smaller portion of revenue stems from merchant solutions, primarily directed at small and medium-sized businesses.

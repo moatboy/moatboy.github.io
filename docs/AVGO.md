@@ -22,6 +22,8 @@ Broadcom Inc. is a global technology leader that designs, develops, and supplies
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 * **Data Center:** Networking, compute, and storage
 * **Networking:** Broadband access, campus/metro ethernet, carrier ethernet, enterprise, and set-top box
 * **Wireless:** Wireless and mobile devices

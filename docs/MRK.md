@@ -22,6 +22,8 @@ Pessimistic value: $205 B
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+
+
 **Business Overview and Moat Analysis**
 
 Merck faces intense competition, particularly from other large pharmaceutical firms with significant R&D capabilities.  Product patents provide a temporary window of competitive advantage, allowing for premium pricing for new drugs. However, patent expiration generally leads to a rapid and significant decrease in sales as generic drugs enter the market. Brand recognition and customer loyalty can mitigate these sales declines, but only partially. Therefore, a key source of a pharmaceutical firm's moat, and a significant barrier to entry for most pharmaceutical firms, is its drug pipeline.
