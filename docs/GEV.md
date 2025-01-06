@@ -27,7 +27,8 @@ GE Vernova (GEV) is a global leader in power generation technologies, with opera
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 
-> The company seems to be at its peak in terms of market penetration: They're in the mature part of the product life cycle. {: .warning }
+> The company seems to be at its peak in terms of market penetration: They're in the mature part of the product life cycle.
+{: .warning }
 
 ### Business Overview
 
@@ -85,7 +86,8 @@ A discounted cash flow (DCF) valuation was performed using the following assumpt
 * **Probability of Failure:** 10% (Given industry dynamics and new market entrant challenges)
 * **Liquidation Value:** 50% of book value of assets
 
-> Although R&D is expensed, as it is at US companies, for valuation purposes, it should be capitalized to gain greater insight into performance and profitability. We are already familiar with the impact of capitalization... {: .note }
+> Although R&D is expensed, as it is at US companies, for valuation purposes, it should be capitalized to gain greater insight into performance and profitability. We are already familiar with the impact of capitalization...
+{: .note }
 
 **Calculations:**
 

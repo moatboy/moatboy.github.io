@@ -79,7 +79,9 @@ Overall, ConocoPhillips's competitive advantages are not as strong or durable as
 
 **Results:**
 
-Based on these pessimistic assumptions, the estimated intrinsic value of ConocoPhillips is **$107.87 billion**, or **$87.79** per share.  This is somewhat below the current market price, but within a reasonable range, given the uncertainties of the commodity business. {: .warning }It is important to note that this valuation is highly dependent on the price of oil and gas, and a change in the commodity cycle could change the valuation significantly. Also, be certain that if a firm or industry has historically generated returns below the cost of capital, its future value may not be all that attractive—the odds of the firm or industry turning around are not that great, even if you have a very clever management team. Finally, remember that this valuation gives you only a point estimate of ConocoPhillips's value today, but we recommend constructing a value range as we've done here, using at least three different scenarios. {: .warning }
+Based on these pessimistic assumptions, the estimated intrinsic value of ConocoPhillips is **$107.87 billion**, or **$87.79** per share.  This is somewhat below the current market price, but within a reasonable range, given the uncertainties of the commodity business.
+{: .warning }It is important to note that this valuation is highly dependent on the price of oil and gas, and a change in the commodity cycle could change the valuation significantly. Also, be certain that if a firm or industry has historically generated returns below the cost of capital, its future value may not be all that attractive—the odds of the firm or industry turning around are not that great, even if you have a very clever management team. Finally, remember that this valuation gives you only a point estimate of ConocoPhillips's value today, but we recommend constructing a value range as we've done here, using at least three different scenarios.
+{: .warning }
 
 **Additional Notes:**
 

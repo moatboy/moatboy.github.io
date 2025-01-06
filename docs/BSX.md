@@ -51,7 +51,8 @@ Boston Scientific's moat is narrow, primarily stemming from intangible assets (b
 * **Switching Costs:**  Once physicians become familiar and adept at using a medical device, they are often reluctant to switch to another device, even if a competitor offers similar features and a lower price.  This inertia can create switching costs for some of Boston Scientific's devices, especially those that are implanted in patients. However, the strength of these switching costs is limited by the continuous introduction of innovative devices and technologies, which frequently induce physicians to switch between devices for the benefit of their patients.  
 * **Other Sources of Moat:** Boston Scientific does benefit from economies of scale, particularly in its manufacturing and distribution activities, allowing it to offer its products at competitive prices. It also benefits from patents and regulatory approvals, giving its new products a period of exclusivity.  However, the relatively short life cycle of many of these products due to continuous product innovation limits the durability of these sources of moat.
 
-> {: .warning } **Moat Rating Justification:** Due to continuous product innovation and competition in most of Boston Scientific's business segments, its moat is unlikely to last for decades and is therefore classified as narrow (2/5). Given the company's high level of debt and the importance of acquisitions in the company's revenue growth trajectory, Boston Scientific appears to be a vulnerable firm with a narrow moat, and there is a possibility that its moat will continue to decline in the years to come.
+>
+{: .warning } **Moat Rating Justification:** Due to continuous product innovation and competition in most of Boston Scientific's business segments, its moat is unlikely to last for decades and is therefore classified as narrow (2/5). Given the company's high level of debt and the importance of acquisitions in the company's revenue growth trajectory, Boston Scientific appears to be a vulnerable firm with a narrow moat, and there is a possibility that its moat will continue to decline in the years to come.
 
 **Valuation**
 
@@ -74,7 +75,8 @@ For valuation, we will use a discounted cash flow (DCF) model with a 10-year exp
 * **Terminal Value:** Based on 3% perpetual growth (conservative) and 10% cost of capital.
 * **Probability of Failure:** 5% (conservative).
 
-> {: .important } **Valuation Methodology:**
+>
+{: .important } **Valuation Methodology:**
 We forecast revenues for the next 10 years, then operating expenses as a percentage of revenues to arrive at operating income. Operating cash taxes are calculated as a percentage of EBIT. Reinvestment is computed by using a variation of the key driver formula. Free cash flow (FCF) is then equal to after-tax operating income less reinvestment. The continuing value after the 10th year is based on terminal free cash flows discounted back to year 10 using cost of capital. The value of operations is the present value of the free cash flows during the 10-year explicit forecast period plus the present value of the continuing value. Enterprise value is the value of operations plus excess cash and non-operating assets.  Finally, equity value is equal to enterprise value less non-equity claims.
 
 **DCF Valuation Table (in $ millions):**
@@ -90,17 +92,20 @@ We forecast revenues for the next 10 years, then operating expenses as a percent
 | Continuing Value |  |  |  |  |  |  | 28,756 |
 | **Total Value of Operations** |  |  |  |  |  |  | **63,855** |
 
-> {: .note }  The FCF for the terminal years and the continuing value would be higher with more optimistic assumptions about margins, revenue growth, or reinvestment.
+>
+{: .note }  The FCF for the terminal years and the continuing value would be higher with more optimistic assumptions about margins, revenue growth, or reinvestment.
 
 **Valuation Adjustments:**
 
 * **Cash & Marketable Securities:** $4,765 Million (from balance sheet).
 * **Debt:** $24,000 Million (from balance sheet).
 
-> {: .note } **Calculation of Value per Share:**  Equity Value = Value of Operations + Cash - Debt = $63,855 + $4,765 - $24,000 = $44,620 Million. Estimated Shares Outstanding (assuming no share buybacks/issuance) = 1,493 million. Value per Share = $44,620 / 1,493 = $29.90 per share. This is lower than the stock price of Boston Scientific as of early August 2024 but it should be noted that the equity value needs to be adjusted for the effects of options grants and acquisitions.
+>
+{: .note } **Calculation of Value per Share:**  Equity Value = Value of Operations + Cash - Debt = $63,855 + $4,765 - $24,000 = $44,620 Million. Estimated Shares Outstanding (assuming no share buybacks/issuance) = 1,493 million. Value per Share = $44,620 / 1,493 = $29.90 per share. This is lower than the stock price of Boston Scientific as of early August 2024 but it should be noted that the equity value needs to be adjusted for the effects of options grants and acquisitions.
 For options, we value the employee stock options using the Black-Scholes methodology, yielding an aggregate options value of roughly $2,257 million. To estimate equity value, deduct the aggregate options value from enterprise value ($63,855- $2,257). To account for acquisitions, we sum noncontrolling interests with current-year equity value.  For simplicity, the purchase price is used as a proxy for the current value. We apply an average 15 percent discount (typical for consumer staples). Total Equity Value = Value of Operations + Cash + Minority Interests + Excess Cash - Debt - Options Value = $63,855 + 4,765+1,450+ 1,450-24,000-2,257 = $49.263 Billion. Number of Shares Outstanding = 1,642 million. Value per Share = $49,263 Billion / 1,642 = $30.00
 
 **Final Valuation**
 
-> {: .highlight } **Estimated Equity Value:** $67.8 Billion (based on a share price of ~$42.50/share)
+>
+{: .highlight } **Estimated Equity Value:** $67.8 Billion (based on a share price of ~$42.50/share)
 > This values reflects a modest premium relative to the DCF valuation, but well below recent highs, reflecting considerable uncertainty.

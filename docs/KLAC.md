@@ -52,7 +52,8 @@ KLA benefits from several sources of competitive advantage that create high barr
 
 **Valuation:**
 
-> **Assumptions for a Base Case (Business as Usual):** {: .important }
+> **Assumptions for a Base Case (Business as Usual):**
+{: .important }
 
 | Variable         | Input |
 |-----------------|-------|
@@ -64,9 +65,11 @@ KLA benefits from several sources of competitive advantage that create high barr
 | Cost of Debt | 5% |
 | Debt/Equity | 0.3 |
 
-{: .note } We are choosing to value the firm using an explicit, 10-year DCF model, which allows us to better see the intertemporal dynamics of value creation that a company exhibits, allowing us to better integrate the company's dynamics and current performance into its business economics. {: .important }
+{: .note } We are choosing to value the firm using an explicit, 10-year DCF model, which allows us to better see the intertemporal dynamics of value creation that a company exhibits, allowing us to better integrate the company's dynamics and current performance into its business economics.
+{: .important }
 
-> **Calculations:** {: .important }
+> **Calculations:**
+{: .important }
 
 1. **Terminal Value:** Assuming a steady state where the company's revenue growth will converge on the nominal growth rate of the US economy (say 3% annual), we can estimate the terminal value.  We will assume a return on capital declining to cost of capital (10%) by year 10.
 
@@ -109,19 +112,24 @@ KLA benefits from several sources of competitive advantage that create high barr
     Value/Share = $327,590.54 / 1,235 = $265.18
     ```
 
-> **Therefore, based on this base-case, DCF valuation, KLA is worth approximately $370 billion.** {: .important }
-> **This represents a modest potential upside of about 15% from the last closing price of KLA's stock.** {: .warning }
+> **Therefore, based on this base-case, DCF valuation, KLA is worth approximately $370 billion.**
+{: .important }
+> **This represents a modest potential upside of about 15% from the last closing price of KLA's stock.**
+{: .warning }
 
-> **Given the inherent uncertainty associated with any valuation, and the current volatility in semiconductor markets, as well as macroeconomic uncertainties, I urge investors to proceed with caution.** {: .warning }
+> **Given the inherent uncertainty associated with any valuation, and the current volatility in semiconductor markets, as well as macroeconomic uncertainties, I urge investors to proceed with caution.**
+{: .warning }
 
 
 **Additional Considerations:**
 
-> **Sensitivity Analysis:** A complete sensitivity analysis requires considering how the output changes for a wide range of inputs, and it requires a comprehensive set of financial projections for individual drivers. Such as revenue growth, profit margins, reinvestment rate and cost of capital, etc. to address sensitivity. {: .important }
+> **Sensitivity Analysis:** A complete sensitivity analysis requires considering how the output changes for a wide range of inputs, and it requires a comprehensive set of financial projections for individual drivers. Such as revenue growth, profit margins, reinvestment rate and cost of capital, etc. to address sensitivity.
+{: .important }
 
 * **Downside Scenario:** If revenue growth were to be just 1%, the discounted cash flows would be much lower and the terminal value would decline dramatically.  If KLA’s margins came under further pressure from increased competition, this would also materially lower the value of the business. In a severe downside scenario, the value would be less than half of the base case. 
 
->**Other Valuation Methods:** As an additional cross-check, relative valuations can be applied. {: .important }
+>**Other Valuation Methods:** As an additional cross-check, relative valuations can be applied.
+{: .important }
 
 * In addition to the valuation based on discounted cash flows, I also compared the valuation with comparable companies and estimated the implied market-value-to-capital ratio as well as the market value derived from recent share prices. The resulting valuations are similar to the DCF-based valuation. {: .note}
 

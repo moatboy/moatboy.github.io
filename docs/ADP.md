@@ -73,7 +73,9 @@ A discounted cash flow (DCF) model has been used to value ADP.  A five-year expl
 **Valuation Conclusion**
 
 * **Fair Value:** $87.6 billion. This valuation of ADP is based on the preceding explicit forecasts. It is sensitive to several assumptions, some more than others, as sensitivity analysis in the spreadsheet model will show. It is important to note that although valuations are based on the fundamental laws of economics, including supply and demand, economies of scale, and cost of capital, uncertainty about the future remains ever-present. The value of any asset ultimately is driven by the economic climate of the moment of valuation and is a function of our expectations about the firm's future business performance. For instance, any negative surprise relating to ADP’s revenue growth, margins, capital expenditures, or acquisitions will cause the value to be lower than the value being presented and any positive surprise relating to these same assumptions will cause the value to be higher.
-* **Current Market Price (as of 7/21/2024):** ~$97.8 billion. {: .important } ADP appears to be slightly **overvalued** relative to its intrinsic value. {: .note }Given the uncertainty and risks associated with its financial outlook and ongoing lawsuits, a significant margin of safety is required before investing.
+* **Current Market Price (as of 7/21/2024):** ~$97.8 billion.
+{: .important } ADP appears to be slightly **overvalued** relative to its intrinsic value.
+{: .note }Given the uncertainty and risks associated with its financial outlook and ongoing lawsuits, a significant margin of safety is required before investing.
 
 
 This valuation is based on the information available as of July 21, 2024.  Future performance may differ significantly from these projections, and the stock market may not react to company developments as anticipated.  Investors should conduct their own due diligence and analysis before making investment decisions.

@@ -114,4 +114,10 @@ for input_file in docs:
         file.write("\n\n")
 
         for line in lines[ltr:]:
+            line = line.replace(" {: .highlight }", "\n{: .highlight }")
+            line = line.replace(" {: .note }", "\n{: .note }")
+            line = line.replace(" {: .new }", "\n{: .new }")
+            line = line.replace(" {: .important }", "\n{: .important }")
+            line = line.replace(" {: .warning }", "\n{: .warning }")
+
             file.write(line)

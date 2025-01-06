@@ -44,7 +44,8 @@ While Chipotle benefits from some brand strength and customer loyalty, these att
 * **Cost Advantage:** CMG does not have a significant cost advantage.  Its focus on high-quality ingredients limits its ability to compete on price with many lower-cost alternatives.
 * **Scale:** Scale does offer some protection against competitors, especially in terms of distribution.  CMG’s national-level distribution network gives it some cost advantages and negotiating leverage with suppliers. However, this is not sufficient to create a wide moat. Further, CMG’s scale is much smaller than incumbents, such as McDonald’s.
 
-> {: .note } Given the limited brand strength, minimal switching costs, lack of network effect and cost advantages, and modest scale advantages, Chipotle is assigned a narrow moat rating of 2 out of 5. This reflects the competitive nature of the industry and the risk of disruption from competitors. This pessimistic view is taken because economic moats are more often fleeting than lasting.
+>
+{: .note } Given the limited brand strength, minimal switching costs, lack of network effect and cost advantages, and modest scale advantages, Chipotle is assigned a narrow moat rating of 2 out of 5. This reflects the competitive nature of the industry and the risk of disruption from competitors. This pessimistic view is taken because economic moats are more often fleeting than lasting.
 
 **Valuation**
 
@@ -128,7 +129,8 @@ $Discounted \ Terminal \ Value = 4,946/1.098^{10} = \$1,910$ million
 * **Risks:** A good management must be willing to forgo easy short-term returns if they come at the expense of putting the company on a sound financial footing.  CMG's high reliance on delivery services raises risks concerning order fulfillment and fulfillment costs. This also impacts the customer’s experience due to increased delivery costs and longer delivery times. CMG's sensitivity to economic downturns and to food input prices is also a major risk for the company going forward.
 * **Capital Allocation:** The company is generating substantial free cash flows, and repurchasing shares and paying special dividends. However, management’s biggest investments have been toward stock buybacks and dividends.  It has purchased $1.004bn worth of company shares over the past year. (This represents over 31% of its market capitalization.) CMG has the funds to make large investments in its business, but instead, it throws the excess profits at a questionable line of business with no moat.
 
-> {: .warning } In conclusion, while Chipotle has a recognizable brand and a loyal customer base, its lack of a durable competitive advantage and current overvaluation make it an unattractive investment at current prices. The company's future success hinges on its ability to maintain margins in the face of rising competition and changing consumer preferences, as well as management's ability to allocate capital effectively.
+>
+{: .warning } In conclusion, while Chipotle has a recognizable brand and a loyal customer base, its lack of a durable competitive advantage and current overvaluation make it an unattractive investment at current prices. The company's future success hinges on its ability to maintain margins in the face of rising competition and changing consumer preferences, as well as management's ability to allocate capital effectively.
 
 
 This analysis is based on publicly available information and should not be considered financial advice.  Additional due diligence and independent research are recommended before making any investment decisions.
