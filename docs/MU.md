@@ -13,7 +13,7 @@ Moat: 2/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $44.9 billion
+Pessimistic value: $44.9 B
 
 Micron Technology operates in the highly competitive and cyclical semiconductor memory and storage industry. While the company has achieved periods of high profitability, these have been largely driven by industry-wide supply and demand dynamics, rather than a durable competitive advantage. As such, assigning a narrow moat rating is generous, with a high likelihood of it shrinking further.
 {: .fs-6 .fw-300 }

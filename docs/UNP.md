@@ -13,7 +13,7 @@ Moat: 2/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $92.23 billion
+Pessimistic value: $92.23 B
 
 Union Pacific (UNP) is a Class I freight railroad operating in the western two-thirds of the United States.  It is one of only seven Class I railroads in North America, indicative of the consolidated nature of the industry.  Its primary business involves providing and managing the infrastructure and rolling stock for freight transportation, serving a diverse array of industries.
 {: .fs-6 .fw-300 }

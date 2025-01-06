@@ -13,7 +13,7 @@ Moat: 2/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $11.7 billion
+Pessimistic value: $11.7 B
 
 AT&T is a major telecommunications company operating in the United States and globally. Its business segments comprise of:
 {: .fs-6 .fw-300 }

@@ -13,7 +13,7 @@ Moat: 3/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $121.2 billion
+Pessimistic value: $121.2 B
 
 Applied Materials supplies equipment for producing semiconductor chips, display manufacturing, and related industries. It derives the bulk of its revenues, approximately two-thirds, from semiconductor equipment. The remaining revenue streams come from AGS (Applied Global Services), providing consulting and related services, and Display and Adjacent Markets.
 {: .fs-6 .fw-300 }

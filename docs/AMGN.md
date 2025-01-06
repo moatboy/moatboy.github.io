@@ -13,7 +13,7 @@ Moat: 3/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $107 billion
+Pessimistic value: $107 B
 
 Amgen is a leading biotechnology company focusing on human therapeutics. They develop, manufacture, and market a diverse range of medicines for various serious illnesses, including cardiovascular disease, oncology, bone health, nephrology, neuroscience, and inflammation.
 {: .fs-6 .fw-300 }

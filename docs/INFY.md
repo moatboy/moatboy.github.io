@@ -13,7 +13,7 @@ Moat: 2/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $63.5 billion
+Pessimistic value: $63.5 B
 
 Infosys Limited is a global technology services company providing consulting, technology, outsourcing, and next-generation digital services. Its core business is providing IT services to businesses around the world.
 {: .fs-6 .fw-300 }

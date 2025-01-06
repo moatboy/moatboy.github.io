@@ -13,7 +13,7 @@ Moat: 2/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $82.2 billion
+Pessimistic value: $82.2 B
 
 TJX Companies operates off-price apparel and home fashions retail stores under various banners, including T.J. Maxx, Marshalls, HomeGoods, Sierra, and Homesense.
 {: .fs-6 .fw-300 }

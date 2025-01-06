@@ -13,7 +13,7 @@ Moat: 3/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $97 billion
+Pessimistic value: $97 B
 
 Starbucks, a globally recognized coffeehouse chain, operates primarily in the U.S. (64%), followed by China (17%), and other international markets (19%). The company derives its revenue primarily from company-operated stores (85%), and licensed stores account for the remaining portion. Starbucks is clearly a successful and recognizable brand, and it has dominated the U.S. specialty-coffee market for more than a generation. However, recent financials show that it is facing headwinds. Its growth rate is not what it used to be, and although its revenues are substantial, so is its net debt and its return on invested capital (ROIC) is under pressure.
 {: .fs-6 .fw-300 }

@@ -13,7 +13,7 @@ Moat: 4/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $103.2 billion
+Pessimistic value: $103.2 B
 
 S&P Global boasts a wide moat stemming from intangible assets, high switching costs, and network effects across its four business segments.
 {: .fs-6 .fw-300 }

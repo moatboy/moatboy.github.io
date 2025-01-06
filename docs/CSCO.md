@@ -13,7 +13,7 @@ Moat: 3/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $48.4 billion
+Pessimistic value: $48.4 B
 
 Cisco Systems is a multinational technology conglomerate specializing in networking hardware, software, and telecommunications equipment.  The company operates across various segments, broadly categorized as Products and Services.
 

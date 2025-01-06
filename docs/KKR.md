@@ -13,7 +13,7 @@ Moat: 2/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $43.2 billion
+Pessimistic value: $43.2 B
 
 KKR is a leading global investment firm that offers alternative asset management and capital markets services across a range of strategies, including private equity, credit and liquid strategies, real estate, infrastructure, and strategic partnerships.  As of December 31, 2023, the firm had $556.5 billion in assets under management (AUM), making it one of the world's largest alternative asset managers.
 {: .fs-6 .fw-300 }

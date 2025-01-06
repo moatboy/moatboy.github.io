@@ -13,7 +13,7 @@ Moat: 4/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $88.5 billion
+Pessimistic value: $88.5 B
 
 American Tower is a real estate investment trust (REIT) that owns and operates wireless and broadcast communications infrastructure, primarily consisting of towers and other structures.
 {: .fs-6 .fw-300 }

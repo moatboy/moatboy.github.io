@@ -13,7 +13,7 @@ Moat: 2/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $144 million
+Pessimistic value: $144 M
 
 AIQUY Inc. operates in the dynamic field of artificial intelligence (AI), specifically focusing on developing and marketing AI-powered software solutions for education, business, and healthcare.  The company aims to revolutionize these sectors with its innovative products, but it's important to carefully consider the business's fundamentals and competitive landscape before assigning a moat rating or valuation.
 {: .fs-6 .fw-300 }

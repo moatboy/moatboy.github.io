@@ -13,7 +13,7 @@ Moat: 2/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $70 billion
+Pessimistic value: $70 B
 
 Gilead Sciences is a biopharmaceutical company specializing in the discovery, development, and commercialization of innovative medicines. While it once held a dominant position in the HIV market, increased competition and patent expirations have led to a decline in revenues and profits.
 {: .fs-6 .fw-300 }

@@ -13,7 +13,7 @@ Moat: 3/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $117.3 billion
+Pessimistic value: $117.3 B
 
 TD Bank operates as a diversified financial institution, offering a wide range of financial products and services to personal, commercial, and corporate clients across North America. It is one of the largest banks in Canada and has a significant presence in the United States.
 {: .fs-6 .fw-300 }

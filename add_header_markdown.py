@@ -38,7 +38,7 @@ def parse_md_file(input_file):
         title, ticker, moat, valuation, scale = match.groups()
         formatted_valuation = f"{valuation} {scale}"
     elif len(match.groups()) == 4:
-        title, ticker, moat, valuation, scale = match.groups()
+        title, ticker, moat, valuation = match.groups()
         formatted_valuation = f"{valuation}"
     else:
         return
@@ -71,7 +71,7 @@ Moat: {moat}/5
 
 {{: .label .label-yellow }}
 
-Pessimistic value: {valuation.replace("Trillion", "T").replace("Billion", "B"). replace("Million", "M")}
+Pessimistic value: {valuation.replace("Trillion", "T").replace("Billion", "B"). replace("Million", "M").replace("million", "M").replace("billion", "B").replace("trillion", "T")}
 
 {description}
 {{: .fs-6 .fw-300 }}

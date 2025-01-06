@@ -13,7 +13,7 @@ Moat: 2/5
 
 {: .label .label-yellow }
 
-Pessimistic value: €122 billion
+Pessimistic value: €122 B
 
 TotalEnergies SE, formerly Total S.A., is a French multinational integrated energy and petroleum company. It operates in all segments of the oil and gas industry, including exploration and production, refining, chemicals, marketing and services, and power generation.
 {: .fs-6 .fw-300 }

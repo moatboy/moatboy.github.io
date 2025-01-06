@@ -13,7 +13,7 @@ Moat: 2/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $81.7 billion
+Pessimistic value: $81.7 B
 
 Rio Tinto is a diversified mining and metals company headquartered in London, with its main listing on the London Stock Exchange. It also has listings on the New York Stock Exchange, the Australian Securities Exchange, and the Botswana Stock Exchange. The company has significant operations in Australia and Canada. It is organized into the following product groups: iron ore, aluminum, copper, minerals, and energy.
 {: .fs-6 .fw-300 }

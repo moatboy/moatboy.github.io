@@ -13,7 +13,7 @@ Moat: 2/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $30.4 billion
+Pessimistic value: $30.4 B
 
 Marvell Technology is a fabless semiconductor company specializing in data infrastructure, which includes networking, storage, and custom ASICs (Application-Specific Integrated Circuits).
 {: .fs-6 .fw-300 }

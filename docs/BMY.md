@@ -13,7 +13,7 @@ Moat: 2/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $120 billion
+Pessimistic value: $120 B
 
 Bristol-Myers Squibb is a global biopharmaceutical company focusing on discovering, developing, licensing, manufacturing, marketing, distributing, and selling innovative medicines. They specialize in therapeutic areas such as oncology, hematology, immunology, and cardiovascular disease.
 {: .fs-6 .fw-300 }

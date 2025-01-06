@@ -13,7 +13,7 @@ Moat: 2/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $85.12 billion
+Pessimistic value: $85.12 B
 
 Charles Schwab is a savings and loan company, predominantly focused on discount brokerage services for individual investors. SCHW generates revenue through net interest income (NII), asset management and administration fees (AM&A), and trading revenue.
 {: .fs-6 .fw-300 }

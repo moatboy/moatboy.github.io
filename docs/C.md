@@ -13,7 +13,7 @@ Moat: 2/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $46.2 billion
+Pessimistic value: $46.2 B
 
 Citigroup is a global financial services company operating across a wide range of businesses including consumer banking, investment banking, wealth management, trading, markets, and securities services.
 {: .fs-6 .fw-300 }

@@ -13,7 +13,7 @@ Moat: 2/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $107.87 billion
+Pessimistic value: $107.87 B
 
 ConocoPhillips is an independent E&P company headquartered in Houston, Texas. Its primary business is exploring for, producing, transporting, and marketing crude oil, bitumen, natural gas, and natural gas liquids (NGLs) worldwide.
 {: .fs-6 .fw-300 }

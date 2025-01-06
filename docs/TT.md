@@ -13,7 +13,7 @@ Moat: 2/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $14.4 billion
+Pessimistic value: $14.4 B
 
 Trane Technologies is a global climate innovator focused on creating comfortable and sustainable indoor environments. Its portfolio spans heating, ventilation, and air conditioning (HVAC) systems, as well as transport refrigeration.
 {: .fs-6 .fw-300 }

@@ -13,7 +13,7 @@ Moat: 3/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $62.73 billion
+Pessimistic value: $62.73 B
 
 Vertex Pharmaceuticals is a biotechnology company focused on developing and commercializing therapies for serious diseases, most notably cystic fibrosis (CF).  While the company currently has a dominant position in the CF market, this analysis suggests that its moat may not be as wide as some believe.
 {: .fs-6 .fw-300 }
