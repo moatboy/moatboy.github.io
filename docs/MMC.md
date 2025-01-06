@@ -48,7 +48,7 @@ MMC exhibits a narrow moat, primarily based on intangible assets and switching c
 * **Switching Costs:** Clients, especially large multinational corporations, often develop long-term relationships with their insurance brokers and consultants. Switching providers can be disruptive and time-consuming, as it requires significant effort to establish new relationships, transfer data and systems, and learn new processes. 
 
 {: .note }
->  The nature of MMC’s business creates stickiness, which translates into a competitive advantage.
+The nature of MMC’s business creates stickiness, which translates into a competitive advantage.
 
 MMC's moat is not impregnable. New competitors continue to enter the consulting market, and clients are cost-conscious. Therefore, MMC’s moat is given a rating of 3 out of 5. It is a good moat but not an exceptional one.
 
@@ -109,12 +109,12 @@ To value MMC, a discounted cash flow (DCF) model is used. This model estimates t
    ```
 
 {: .warning }
->  Due to the fact that the company has considerable investments in other companies, which are accounted for using the equity method, we did not include the financial statements of these companies. Doing so, would reduce shareholder's equity from $20.2 billion down to $11.7 billion, which has significant valuation implications.
+Due to the fact that the company has considerable investments in other companies, which are accounted for using the equity method, we did not include the financial statements of these companies. Doing so, would reduce shareholder's equity from $20.2 billion down to $11.7 billion, which has significant valuation implications.
 
 Given the stable business model, strong market position, and history of value creation, the fair value of Marsh & McLennan is estimated to be approximately $41 per share, or $20.2 Billion in total equity, which is close to the market price at the time of the analysis.
 
 Given the complexity of valuing professional services companies, this valuation is approximate, and sensitivity analysis is recommended to assess the impact of changes in key assumptions. We have slightly moderated margins and have assigned a lower growth rate than market growth,  which can be justified given increasing competition and global economic uncertainties.
 
 {: .important }
->  This valuation is based upon information as of July 2024 and needs to be updated on the latest data and assumptions to be used as a realistic guidance for investors.
+This valuation is based upon information as of July 2024 and needs to be updated on the latest data and assumptions to be used as a realistic guidance for investors.
 

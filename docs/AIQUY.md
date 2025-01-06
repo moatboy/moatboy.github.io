@@ -41,13 +41,13 @@ AIQUY's moat rating of 2 out of 5 reflects a narrow moat based primarily on **in
 * **Intangible Assets:** AIQUY's brand recognition is growing within its niche markets, and the company's AI technology demonstrates innovation and effectiveness.  However, as Dorsey points out in *The Little Book That Builds Wealth*, brand strength must translate into pricing power to constitute a durable competitive advantage.  Currently, there is limited evidence of such pricing power.  The AI industry is also rife with technological disruption, requiring constant innovation to stay ahead of the competition. 
 
 {: .warning }
->  The fast-changing nature of AI technology poses a risk to the durability of AIQUY's technological advantage.
+The fast-changing nature of AI technology poses a risk to the durability of AIQUY's technological advantage.
 
 
 * **Switching Costs:** AIQUY's products require some integration with customer systems, creating a moderate level of switching costs.  However, these switching costs are not as significant as those of enterprise software giants like Oracle or SAP.  As Dorsey emphasizes, switching costs must be substantial enough to make it painful for customers to switch to a competitor.
 
 {: .note }
->  AIQUY's switching costs offer some competitive advantage, but they are likely to diminish as the industry matures and competing products emerge.
+AIQUY's switching costs offer some competitive advantage, but they are likely to diminish as the industry matures and competing products emerge.
 
 
 * **Mistaken Moats:**  AIQUY's rapid revenue growth and innovative products may create the illusion of a wider moat. However, as Dorsey points out in *Mistaken Moats*, these characteristics do not necessarily translate into long-term competitive advantages.  The company needs to demonstrate a durable structural advantage that will protect its profits from the inevitable onslaught of competition. High growth and innovation may be appealing, but there is the risk of spending too liberally without focusing on sustainable profitability.
@@ -65,7 +65,7 @@ Using a **discounted cash flow (DCF)** model with a pessimistic outlook, the est
 * **Failure Rate:** Due to the risk of failure for a young company, we reduce the value of operating assets by 25%. 
 
 {: .important }
->  This valuation is based on a pessimistic scenario.  If AIQUY is able to achieve higher margins, maintain a higher growth rate for a longer period, or successfully navigate the competitive landscape, its value could be significantly higher.
+This valuation is based on a pessimistic scenario.  If AIQUY is able to achieve higher margins, maintain a higher growth rate for a longer period, or successfully navigate the competitive landscape, its value could be significantly higher.
 
 
 **DCF Calculation:**
@@ -78,7 +78,7 @@ Using a **discounted cash flow (DCF)** model with a pessimistic outlook, the est
 6. **Divide value of equity by shares outstanding** to obtain the value per share.
 
 {: .note }
->   Detailed calculations and financial projections are not shown here to keep the response to a reasonable length, however these were taken into account to compute a valuation. Please see the provided files for full calculations.
+ Detailed calculations and financial projections are not shown here to keep the response to a reasonable length, however these were taken into account to compute a valuation. Please see the provided files for full calculations.
 
 
 **Conclusion:**

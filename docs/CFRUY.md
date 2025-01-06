@@ -43,7 +43,7 @@ Carrefour has some characteristics that could contribute to a narrow moat, but i
 * **E-commerce:** Carrefour is investing in its e-commerce capabilities, but it faces strong competition from established online retailers such as Amazon, and also from local, digitally native players.  E-commerce growth brings its own challenges of logistics, user experience, and last mile delivery which may negate cost advantages.
 
 {: .warning }
->  **Rating Justification:** While scale and private label brands provide some competitive advantages, these are not strong enough to create a wide moat.  The grocery industry is fiercely competitive, and Carrefour's thin margins suggest limited pricing power.  Its e-commerce efforts, while necessary, face significant hurdles.  A rating of 2 / 5 reflects a narrow moat that is potentially weakening in the face of increasing competition.
+**Rating Justification:** While scale and private label brands provide some competitive advantages, these are not strong enough to create a wide moat.  The grocery industry is fiercely competitive, and Carrefour's thin margins suggest limited pricing power.  Its e-commerce efforts, while necessary, face significant hurdles.  A rating of 2 / 5 reflects a narrow moat that is potentially weakening in the face of increasing competition.
 
 **Valuation (€14.6 Billion):**
 
@@ -74,8 +74,8 @@ Value of equity = Value of operating assets + Cash + Marketable Securities + Min
 = €59.562 billion + €0.4 billion + €2.7 Billion − €11.4 billion = €51.262 billion.
 
 {: .note }
->  **Simplified Version:**  This is a simplified version of the DCF model, assuming a constant level of after-tax operating income during the explicit forecast period to make the computations easier to follow.  A more complete model with changing margins would likely yield a higher valuation. More detailed assumptions would also lead to a different number but for the purpose of providing an approximation, and a pessimistic one at that, this version will do.
+**Simplified Version:**  This is a simplified version of the DCF model, assuming a constant level of after-tax operating income during the explicit forecast period to make the computations easier to follow.  A more complete model with changing margins would likely yield a higher valuation. More detailed assumptions would also lead to a different number but for the purpose of providing an approximation, and a pessimistic one at that, this version will do.
 
 
 {: .important }
->  **Disclaimer:** This valuation is based on a set of assumptions and is subject to change.  It is essential to conduct your own due diligence and develop your own scenarios and forecasts before making any investment decisions.  Furthermore, the grocery sector is particularly sensitive to changes in customer spending.
+**Disclaimer:** This valuation is based on a set of assumptions and is subject to change.  It is essential to conduct your own due diligence and develop your own scenarios and forecasts before making any investment decisions.  Furthermore, the grocery sector is particularly sensitive to changes in customer spending.

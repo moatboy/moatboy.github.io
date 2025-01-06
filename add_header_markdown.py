@@ -129,6 +129,7 @@ for input_file in docs:
                     print(f"{correct_callout} detected.")
                     # Remove the callout from the line and prepend the normalized callout
                     modified_line = f"{correct_callout}\n{line.replace(callout, '').strip()}\n"
+                    modified_line = modified_line.replace(">  ", "")
                     break  # Exit the loop after finding the first matching callout
 
             file.write(modified_line)  # Write the modified line once, outside the callout loop

@@ -45,7 +45,7 @@ Lowe's has a narrow moat, primarily derived from economies of scale and customer
 3. **Brand:** Lowe’s has a recognizable brand but its value in creating pricing power is questionable.
 
 {: .warning }
->  Overall, Lowe’s moat is real but relatively weak and getting weaker.  Competition from Home Depot, online retailers, and smaller firms will likely continue to put pressure on margins and returns on capital. A rating of 2/5 reflects this increasingly competitive landscape.
+Overall, Lowe’s moat is real but relatively weak and getting weaker.  Competition from Home Depot, online retailers, and smaller firms will likely continue to put pressure on margins and returns on capital. A rating of 2/5 reflects this increasingly competitive landscape.
 
 
 **Valuation**
@@ -78,7 +78,7 @@ Where:
 * WACC = Weighted average cost of capital
 
 {: .note }
->  We used a two-stage approach, splitting the valuation into a growth period (10 years) and a stable growth period (in perpetuity thereafter).
+We used a two-stage approach, splitting the valuation into a growth period (10 years) and a stable growth period (in perpetuity thereafter).
 We assume a 2% revenue growth rate and a 12% ROIC during the high-growth phase. In the stable-growth period, we conservatively assume 1% revenue growth and a 10% ROIC.
 
 For brevity's sake, only the stable-growth valuation is shown here:
@@ -94,7 +94,7 @@ Equity Value = $13.52 + $22.77 - $37.41 = -$1.12 Billion
 ```
 
 {: .warning }
->  Given the conservative assumptions used in this DCF model, we arrive at an equity value of -$1.12 billion.  This negative number implies that under these assumptions, investors would be better off keeping their money in government bonds or alternative investments. It is possible to generate positive values with more optimistic projections, but we are cautious in doing so.
+Given the conservative assumptions used in this DCF model, we arrive at an equity value of -$1.12 billion.  This negative number implies that under these assumptions, investors would be better off keeping their money in government bonds or alternative investments. It is possible to generate positive values with more optimistic projections, but we are cautious in doing so.
 
 **Valuation Range**
 
@@ -108,7 +108,7 @@ To assess a range of possible outcomes, we performed sensitivity analyses and cr
 The results are summarized below.
 
 {: .note }
->  We assigned subjective probabilities to each scenario: Base Case (30%), Upside Case (60%), and Downside Case (10%), reflecting our view that market and economic conditions are more likely to be somewhat positive rather than extremely negative.
+We assigned subjective probabilities to each scenario: Base Case (30%), Upside Case (60%), and Downside Case (10%), reflecting our view that market and economic conditions are more likely to be somewhat positive rather than extremely negative.
 
 
 | Scenario     | Equity Value | Probability |

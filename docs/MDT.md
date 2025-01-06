@@ -39,11 +39,11 @@ Medtronic's moat rating of 3/5 reflects a narrow moat stemming from a combinatio
 
 1. **Switching Costs:** Medtronic benefits from moderately high switching costs, particularly in its implantable devices segment. Once a physician is trained on and comfortable using a specific Medtronic device, they are less likely to switch to a competitor's product due to the time and resources required to learn a new system. Additionally, hospitals have an incentive to standardize on a single supplier to streamline training, maintenance, and procurement, which further entrenches Medtronic's position. 
 {: .warning }
->  However, these switching costs are not absolute, as new technologies and products from competitors can induce physicians and hospitals to change vendors.
+However, these switching costs are not absolute, as new technologies and products from competitors can induce physicians and hospitals to change vendors.
 2. **Intangible Assets:** Medtronic owns a large portfolio of patents, which offer some protection for its innovative products and technologies. However, as with any patent-driven moat, this strength has limitations. The average patent life is finite, and competitors can often design around existing patents with some effort.
 3. **Economies of Scale:** Medtronic's large size enables it to invest heavily in research and development, creating a pipeline of new products. The company also benefits from scale in manufacturing and distribution, lowering costs relative to smaller competitors.
 {: .warning }
->  However, the company has made a few acquisitions at extremely high premiums that are less likely to generate excess returns.
+However, the company has made a few acquisitions at extremely high premiums that are less likely to generate excess returns.
 
 **Valuation:**
 
@@ -81,4 +81,4 @@ The valuations from these two additional scenarios provided a range of $113 bill
 Based on the DCF model and sensitivity analysis, a conservative estimate of Medtronic's fair value is approximately $120 billion. While Medtronic's business fundamentals are decent, the increased competition, margin pressure, and uncertainties surrounding industry dynamics warrant a conservative approach to valuation. The current market valuation of $140 billion appears to be slightly rich, although not ridiculously so.
 
 {: .note }
->  This valuation is based on the information available at the time of this analysis and is subject to change. It's important to note that valuations are inherently imprecise and should be used as a starting point for further investigation and not a definitive statement of a company's "true" value. Investors should undertake their own due diligence and formulate their own informed conclusions before making investment decisions.
+This valuation is based on the information available at the time of this analysis and is subject to change. It's important to note that valuations are inherently imprecise and should be used as a starting point for further investigation and not a definitive statement of a company's "true" value. Investors should undertake their own due diligence and formulate their own informed conclusions before making investment decisions.

@@ -58,7 +58,7 @@ BMY's moat derives primarily from **intangible assets**, specifically its patent
 
 
 {: .note }
->  DCF is the most appropriate valuation method for businesses with long and stable histories, and provides the best measure of long-term intrinsic value.
+DCF is the most appropriate valuation method for businesses with long and stable histories, and provides the best measure of long-term intrinsic value.
 
 
 **Key Assumptions:**
@@ -100,7 +100,7 @@ BMY's moat derives primarily from **intangible assets**, specifically its patent
 
 5. **Value of Equity:** 
 {: .note }
->  I have not included any adjustments for non-operating assets for simplicity. However, you should include such adjustments to accurately measure the value of equity.
+I have not included any adjustments for non-operating assets for simplicity. However, you should include such adjustments to accurately measure the value of equity.
 
 
 I assumed zero value for nonoperating assets and subtract out the debt to arrive at the value of equity.
