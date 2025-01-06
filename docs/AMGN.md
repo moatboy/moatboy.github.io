@@ -46,6 +46,7 @@ Amgen has built its moat primarily on intangible assets (patents) and cost advan
 
 <aside>
 {: .warning }
+
 **Potential Moat Erosion:** Amgen's moat has been gradually eroding over time because of increasing competition from biosimilars and the fact that patents expire on the company's blockbuster drugs. In fact, most of the largest pharmaceutical firms rate no better than a narrow economic moat on Morningstar's scale. For these reasons, the moat rating is likely to decline further to 2 / 5 over the coming decade as more drugs go off patent.
 </aside>
 
@@ -56,6 +57,7 @@ The valuation is based on a discounted cash flow (DCF) analysis using the key va
 
 <aside>
 {: .note }
+
 We've also generated financial forecasts, discounted the resulting cash flows using discounted cash flow (DCF) and economic profit (EP) analysis, and developed intrinsic valuations for Amgen at the end of 2008, 2015, 2017, and 2019. Then, to triangulate the results, we've used comparable multiples, primarily based on comparable large-cap pharmaceutical firms in the US and Europe, specifically focusing on ROIC. This analysis revealed that although markets are inefficient, the DCF results accurately forecast Amgen's performance over the next 10 years.
 </aside>
 
@@ -82,6 +84,7 @@ Our pessimistic base-case valuation for Amgen is approximately **$107 billion**.
 
 <aside>
 {: .important }
+
 **Sensitivity Analysis:** As with all valuations, this is a single-point estimate. A sensitivity analysis using a ±10% deviation on revenue growth, margins, and the cost of capital yields a wide range of values from $82 billion to $147 billion for enterprise value. This valuation does not consider the potential for growth from future products, the potential of acquisitions, nor does it incorporate any unusual accounting issues that may affect the quality of my projections.
 </aside>
 
@@ -89,6 +92,7 @@ Our pessimistic base-case valuation for Amgen is approximately **$107 billion**.
 
 <aside>
 {: .important }
+
 **Further Considerations:**
 
 

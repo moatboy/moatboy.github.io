@@ -50,6 +50,7 @@ ICICI Bank's operating margins have been relatively stable over the past five ye
 **Moat Analysis**
 
 {: .note }
+
 ICICI Bank's moat primarily stems from intangible assets (brand name and customer relationships) and economies of scale.
 
 * **Intangible Assets:** ICICI Bank is a well-known brand in India, giving it an advantage in attracting and retaining customers. The brand, however, does not translate into strong pricing power, as banking products are relatively commoditized.  Customer relationships are an important asset for retail banks, but switching costs for banking customers are generally low.  Technological innovation is making it easier for new banks to enter the market and compete with incumbents for customers.
@@ -66,6 +67,7 @@ Based on these factors, ICICI Bank earns a narrow moat rating of 2.  This rating
 **Valuation**
 
 {: .important }
+
 We have conducted a discounted cash flow (DCF) valuation of ICICI Bank using a business-as-usual scenario and a more pessimistic scenario. The business-as-usual scenario assumes moderate growth, stable margins, and returns on capital broadly in line with current levels. The pessimistic scenario assumes slower growth and a lower return on capital.  The valuation is based upon a five-year explicit forecast horizon, using annual data.
 
 **Key Valuation Assumptions**

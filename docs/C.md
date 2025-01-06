@@ -51,6 +51,7 @@ Citigroup's margins and ROIC (Return on Invested Capital) have been under pressu
 Citigroup's competitive advantages are limited. Its universal banking model, once a source of strength, is now less of a differentiator as other large banks offer similar services.  Its global footprint gives it some advantages, but these are offset by increased complexity and risks.  Brand name and customer relationships do provide some customer stickiness, but not enough to insulate Citi from competitive pressures.  Therefore, it is not surprising that Citi's market capitalization and its overall returns have underperformed relative to several peers.
 
 {: .note }
+
 >  Citigroup's moat is rated as narrow (2/5), reflecting the limited durability of its competitive advantages.  The banking sector is highly competitive, and technological, regulatory, and competitive pressures may erode Citi's advantages relatively quickly. Its moat is dependent on capitalizing further on improving existing business performance and expanding into global markets, especially in emerging markets.
 **Valuation**
 
@@ -95,6 +96,8 @@ Total Equity Value = $16,568.81 + $204,718.35
 Total Equity Value = $221,287.16 million
 ```
 {: .highlight }
+
  Note: I have used Citigroup's latest 10K (2021) for valuation purposes. I have not taken into account any future share repurchases. If Citigroup continues buybacks, its current valuation and share price are probably not sustainable, but rather merely a reflection of those buybacks.
 {: .warning }
+
 >  Based on this valuation, Citigroup's intrinsic value per share (assuming a 5.2 percent failure rate) is approximately $72.65 per share (see computations of other valuation variables in provided resource). Assuming the company's share price is undervalued at $46 (at time of valuation, June 2021), this valuation result suggests it may not be as undervalued as it seems, and therefore, it is recommended that an investor wait for a better entry point into the stock.

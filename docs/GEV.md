@@ -28,6 +28,7 @@ GE Vernova (GEV) is a global leader in power generation technologies, with opera
 
 
 {: .warning }
+
 > The company seems to be at its peak in terms of market penetration: They're in the mature part of the product life cycle. 
 ### Business Overview
 
@@ -86,6 +87,7 @@ A discounted cash flow (DCF) valuation was performed using the following assumpt
 * **Liquidation Value:** 50% of book value of assets
 
 {: .note }
+
 > Although R&D is expensed, as it is at US companies, for valuation purposes, it should be capitalized to gain greater insight into performance and profitability. We are already familiar with the impact of capitalization... 
 **Calculations:**
 
@@ -115,5 +117,6 @@ A discounted cash flow (DCF) valuation was performed using the following assumpt
 **Fair Value per Share:** The equity value was divided by the number of shares outstanding, yielding $12.18 per share. 
 
 {: .important }
+
 
 Based on these calculations, the fair value of GEV is estimated to be $8.12 Billion.  This represents a discount to the recent spin-off valuation. Given the uncertainty surrounding GEV's future performance and the competitive industry landscape, this more conservative valuation is warranted. Investors should proceed with caution and only purchase shares at a substantial discount to this estimated value.

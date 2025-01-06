@@ -73,6 +73,7 @@ Adding in cash and subtracting debt yields an equity value for VRTX of approxima
 **Sensitivity Analysis**
 
 {: .warning }
+
 A sensitivity analysis was performed on key assumptions, specifically revenue growth and operating margin. A 1% change in revenue growth or a 1% change in margin could have a substantial impact on the valuation, emphasizing the importance of developing robust, multi-year forecasts.  
 **Additional Considerations:**
 

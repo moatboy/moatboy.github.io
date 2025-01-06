@@ -58,6 +58,7 @@ PANW's moat is rated a 3 out of 5 due to the following:
 
 <br>
 {: .note }
+
  We will perform a discounted cash flow (DCF) valuation using the key value driver formula, as described in “Valuation”. We use this simplified model despite its limitations for several reasons. First, there is less ambiguity in communicating using the model. Second, many valuation spreadsheet models employ a similar formula, making it easier to compare and contrast with the valuations of other business or financial advisors. Finally, research shows that this simplified model generates results that are close to the best-practice DCF model.
 
 **Assumptions:**
@@ -79,11 +80,13 @@ PANW's moat is rated a 3 out of 5 due to the following:
 >Terminal Value = [FCFF in terminal year *(1+growth rate)] / (Cost of capital - growth rate). 
 <br>
 {: .important }
+
  Note: We use the continuing-value formula for free cash flows at the end of a growth period. This calculation produces the same value as the perpetuity growth model. However, when modeling expected cash flows for a firm in a high-inflation country, using this key-value-driver formula is easier than using the perpetuity growth model because the latter requires an estimate for the terminal year.
 3. **Discount FCFF and terminal value back to present value using the cost of capital.**  
 
 <br>
 {: .new }
+
  The resulting enterprise value of operations is $57,078 million. Deduct the company's current net debt (Total Debt - Cash and cash equivalents = $1,824 million) and add its nonoperating assets ($8,097 million, from its annual report) to arrive at the value of equity. The value of equity is $63,351 million.
 
 <br>

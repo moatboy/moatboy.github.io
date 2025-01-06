@@ -38,8 +38,11 @@ Sherwin-Williams is a leading global manufacturer and distributor of paints, coa
 Sherwin-Williams' moat stems primarily from a combination of factors, earning it a 3/5 rating.
 
 {: .important }
+
 1. **Brand:**  While not as powerful as a consumer brand like Coca-Cola, Sherwin-Williams enjoys strong brand recognition and loyalty among professional painters.  This provides pricing power and reduces customer churn, although retail customers are more price-sensitive.  {: .important }
+
 2. **Distribution:** The company's vast network of company-operated stores offers convenience and service for professional customers.  This makes it difficult for smaller players to compete, especially with the added benefit of local inventory management. {: .warning }
+
 3. **Switching Costs:**  For professional painters, switching costs exist due to established relationships with sales representatives, color-matching systems, and integrated supply chains. These costs, however, are relatively low, and competition can erode them by offering discounts or incentives. 4. **Scale:**  Sherwin-Williams benefits from economies of scale in areas like purchasing and distribution. However, the paint industry allows for significant cost advantages from local or regional sourcing, which reduces the scale advantage available at the national or global level.
 5. **Intangible Assets:**  While the brand plays a role, Sherwin-Williams does not possess other significant intangible assets, like patents, that create a lasting competitive advantage.
 
@@ -96,6 +99,7 @@ To value Sherwin-Williams, a discounted cash flow (DCF) model is used, with a 10
 
 
 {: .warning }
+
 Therefore, with a conservative outlook and using a DCF model, I estimate a fair value of approximately **$62.26 Billion** for Sherwin-Williams. The assumptions are on the more pessimistic end given the maturing market the company operates in, the pressure on margins, increasing competition, and the risks related to future acquisitions. The stock may seem overvalued based on current pricing, but this is driven by recent growth and investor enthusiasm for the overall market. 
 **Additional Considerations:**
 

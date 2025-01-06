@@ -62,6 +62,7 @@ A DCF model was constructed to estimate the intrinsic value of Arista Networks u
 * **Cost of Capital (WACC):** We use a cost of equity of 9% (risk-free rate of 3.5%, equity risk premium of 5%, and unlevered beta of 0.70) and a cost of debt of 4.2% (based on Arista's bond rating). We use current capital structure of 25% debt and 75% equity.
 
 {: .note }
+
 All of the above assumptions are at 2024 levels and not at the latest date of financial reporting and will probably be re-estimated using the financials with the most recent annual results. 
 
 **DCF Calculations**
@@ -78,6 +79,7 @@ All of the above assumptions are at 2024 levels and not at the latest date of fi
 6. **Value per Share:** Dividing the equity value by the number of shares outstanding yields the value per share: $82.12.
 
 {: .important }
+
 Refer to the spreadsheet for all year-by-year calculations.
 
 **Sensitivity Analysis & Scenarios**

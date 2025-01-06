@@ -56,6 +56,7 @@ PayPal benefits from a combination of network effects and switching costs, givin
 * **Switching Costs:** For merchants, integrating with PayPal involves some initial investment in time and resources. Switching to a competitor's platform entails similar costs and the potential disruption of existing payment processes. This friction creates stickiness on the merchant side. On the consumer side, although there are fewer hard switching costs, habit and the convenience of using existing linked accounts and stored payment information create some inertia.
 
 {: .important }
+
 > **Moat Rating Justification:** Although network effects and switching costs provide some competitive advantage, I am assigning a more conservative moat rating of 3/5 due to the following factors: (1) Intense competition in the digital payments space erodes the strength of PayPal’s network effects, and (2) Consumer switching costs are relatively low, making customer retention more challenging, (3) PayPal's revenue growth has moderated significantly over the last few years.
 
 **Valuation**
@@ -85,6 +86,7 @@ I prefer to employ an enterprise DCF model. This means we value first the firm (
     * Beta: 1.25 (based on historical data, with modest adjustment to reflect increased competition and volatility)
 
 {: .note }
+
 > Cost of Equity = Risk-free Rate + Beta \* Equity Risk Premium
 > Cost of Equity = 4% + 1.25 \* 5% = 10.25%
 
@@ -93,6 +95,7 @@ I prefer to employ an enterprise DCF model. This means we value first the firm (
 
 
 {: .note }
+
 > WACC = (Cost of Equity \* Equity/Value) + (Cost of Debt \* (1 - Tax Rate) \* Debt/Value)
 > Current market value of equity = $80 Billion
 > Value = Market Value of Equity + Debt  = $80B + $20B = $100 Billion
@@ -100,6 +103,7 @@ I prefer to employ an enterprise DCF model. This means we value first the firm (
 > After rounding: WACC = 9%
 
 {: .warning }
+
 > I use 9% as a slightly conservative, round number and the recent increases in interest rates and current uncertain market environment. There is uncertainty surrounding these numbers and you should come up with your own estimates of cost of capital for the firm.
 
 
@@ -107,11 +111,13 @@ I prefer to employ an enterprise DCF model. This means we value first the firm (
 **Calculating Reinvestment Rate**
 {: .important }
 
+
 > Reinvestment Rate = Stable Growth Rate / ROIC
 
 We estimate PayPal’s ROIC to be 12% and stable growth at 3%. Therefore, the reinvestment rate in stable growth is:
 
 {: .note }
+
 > Reinvestment Rate = 3% / 12% = 25%
 
 **Calculating Free Cash Flow (FCFF)**
@@ -122,6 +128,7 @@ We assume FCFF will grow at 5% over the next 5 years and then 3% in stable growt
 **Calculating Continuing Value**
 {: .important }
 
+
 > Continuing Value =  FCFF<sub>T+1</sub> / (WACC - g)
 
 Where FCFF<sub>T+1</sub> is the Free Cash Flow to Firm in the first year of the continuing value period. 
@@ -129,11 +136,13 @@ Where FCFF<sub>T+1</sub> is the Free Cash Flow to Firm in the first year of the 
 Based on our assumptions, PayPal’s continuing value at the end of year 10 is:
 
 {: .note }
+
 > CV = ($5.1 \* 1.05<sup>10</sup> \* 1.03) / (0.09 - 0.03) =  $14.5 Billion approximately
 
 **Calculating Enterprise Value**
 
 {: .important }
+
 >  Enterprise Value = Present Value of FCFF (Years 1-10) + Present Value of Continuing Value
 > PV(FCFF<sub>1-10</sub>) = $25 Billion (approximation based on discount tables)
 > PV(CV) = $14.5 / 1.09<sup>10</sup> = $6.2 Billion
@@ -148,6 +157,7 @@ Based on our assumptions, PayPal’s continuing value at the end of year 10 is:
 > Equity Value = Enterprise Value + Excess Cash – Debt - Minority Interests – Value of Equity Options.
 
 {: .note }
+
 > Assuming negligible minority interest and equity options for the sake of simplicity in estimation.
 > Excess cash =  $5 Billion (from 2023 balance sheet)
 > Debt =  $20 Billion (from 2023 balance sheet)
@@ -159,6 +169,7 @@ Based on our assumptions, PayPal’s continuing value at the end of year 10 is:
 > Value per Share = $16.2 Billion / 813 million = $20
 
 {: .warning }
+
 Given PayPal's price of about $65 per share, the stock looks quite overvalued based on this simple DCF model. 
 **Alternative Valuation Approach: Multiple Based Valuation**
 
@@ -170,10 +181,12 @@ At the end of 2023, based on publicly available data, PayPal’s enterprise valu
 
 
 {: .note }
+
 > The trailing twelve months median EV/EBITDA multiple for U.S. Software companies is 13.1 (approximately), based upon a large sample provided by Siblis Research, New Constructs, and S&P Capital IQ
 > PayPal therefore trades at a discount to the median of its peers.
 
 {: .important }
+
 However, as we demonstrated earlier with the DCF-based intrinsic valuation approach, given its current growth rate, margins, and cost of capital, PayPal trades at a premium to the average firm. So, given the evidence presented in the preceding chapters, you will find that I, like Einstein, still contend that P/E ratios, Price/Book Value ratios, and price/earnings-growth ratios are an illusion. 
 
 **Conclusion**

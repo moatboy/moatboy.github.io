@@ -42,6 +42,7 @@ SCHW has a *narrow* moat, rating 2/5, based on *switching costs* and *network ef
 
 <aside>
 {: .warning }
+
 SCHW's moat is under pressure from competitors offering lower costs and increased digital convenience. The network effects are not as powerful as in other industries, and switching costs are decreasing. Further analysis is needed to monitor potential moat erosion.
 </aside>
 
@@ -77,8 +78,10 @@ SCHW's moat is under pressure from competitors offering lower costs and increase
 
 <aside>
 {: .note }
+
 Free Cash Flow to Firm: (Operating Income * (1 - Tax Rate)) - Reinvestment
 {: .important }
+
 Terminal Value: (EBIT (1-Tax Rate) * (1 - Reinvestment Rate)) / (Cost of Capital - Stable Growth Rate)
 </aside>
 
@@ -92,6 +95,7 @@ Terminal Value: (EBIT (1-Tax Rate) * (1 - Reinvestment Rate)) / (Cost of Capital
 
 <aside>
 {: .note }
+
 Equity Value = Value of Operating Assets + Cash - Debt
 </aside>
 

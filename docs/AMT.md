@@ -88,6 +88,7 @@ Given the available information from the annual reports, a Discounted Cash Flow 
 
 
 {: .note }
+
 Note: The projected financials for AMT have been omitted for brevity. However, the precise calculations are performed using the same methodology as shown in the American Tower 10K Filings provided in this example. Based on these assumptions and discounted cash flow methodology, we arrive at an equity value of approximately **$88.5 billion** for AMT, resulting in an estimated per-share price of ~$184.41 (assuming 479,729,000 shares outstanding).
 
 **Conclusion**

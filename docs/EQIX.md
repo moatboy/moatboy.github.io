@@ -49,6 +49,7 @@ Equinix's Business Segments
 * **Location Advantages:**  Equinix's facilities are strategically situated in key global markets close to population centers and important internet exchanges. These locations offer tangible advantages to customers seeking low latency and optimal connectivity.  Replicating this geographic advantage would require massive capital investment and time, creating a barrier to entry.
 
 {: .warning }
+
 While Equinix possesses a strong moat, industry-wide commoditization pressure and intensifying competition remain ongoing concerns.  Technological advancements also necessitate continuous reinvestment and innovation to maintain its leadership position.
 
 **Valuation:**
@@ -89,6 +90,7 @@ Equinix’s Consolidated Statements of Cash Flows for the Year Ended December 31
 Based on our DCF model, with the conservative assumptions detailed above, we arrive at an enterprise value of approximately $62 billion.  Subtracting the current market value of debt and other liabilities and adding back cash and marketable securities, we obtain a total equity value of roughly $50 billion.  
 
 {: .important }
+
 This represents a more **conservative valuation** than current market prices, providing a margin of safety given the inherent uncertainty surrounding the company's future growth and the evolving competitive landscape.  The valuation is sensitive to changes in growth and margin assumptions.
 
 **Disclaimer:** This is a simplified illustration.  A more thorough valuation would necessitate a far deeper dive into individual company filings, segment-level performance, industry dynamics, and a robust scenario analysis encompassing various growth, margin, and risk scenarios. This valuation should be used for educational purposes only and not as investment advice.

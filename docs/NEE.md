@@ -39,6 +39,7 @@ NextEra Energy, Inc. operates as a vertically integrated electric power and ener
 NEE's moat earns a rating of 2 out of 5, indicating a narrow moat.
 
 {: .warning }
+
  This rating reflects a pessimistic and skeptical outlook, emphasizing the challenges and vulnerabilities in NEE's business model.
 **Justification for Moat Rating:**
 
@@ -66,6 +67,7 @@ A discounted cash flow (DCF) model is used to value NEE, with a pessimistic bias
 * **Terminal Value:** We assume a perpetual growth rate of 2.5% in line with US economic growth and a terminal year return on capital of 8%.
 
 {: .note }
+
  All assumptions used are available in the provided documents and represent a pessimistic view of the company’s performance.
 **Valuation Calculations:**
 
@@ -83,12 +85,14 @@ Terminal Value = (FCFF * (1+g)) / (WACC - g)
 6. **Divide by Shares Outstanding:** Divide the equity value by the number of shares outstanding to arrive at the value per share.
 
 {: .important }
+
  The detailed financial projections and valuation calculations can be found in the tables and spreadsheets (attached files - these numbers are based upon company filings, and reasonable approximations).
 **Valuation Results:**
 
 Based on these pessimistic assumptions, the estimated value of NEE’s equity is approximately $115 billion.  This represents a modest discount to the current market value, suggesting that the market may be slightly overvaluing the company.  
 
 {: .highlight }
+
  This valuation reinforces a skeptical outlook. Even with its strong position in the renewables sector, NEE faces a number of headwinds that could negatively impact its future performance.
 **Additional Considerations:**
 
