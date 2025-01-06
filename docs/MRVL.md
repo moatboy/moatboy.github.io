@@ -22,7 +22,6 @@ Marvell Technology is a fabless semiconductor company specializing in data infra
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview:**
 
 * **Revenue Distribution:** Marvell's revenue is heavily concentrated in the networking segment (about 80%), followed by storage (about 15%), and custom ASICs (about 5%).  Within networking, a significant portion comes from cloud computing providers. Geographically, the company is very globally diversified, with significant exposure to Asia, especially China.  See Exhibit 3 from Morgan Stanley's "Industry Analysis - Lay of the Land".

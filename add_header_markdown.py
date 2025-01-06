@@ -36,7 +36,7 @@ def parse_md_file(input_file):
 
     if len(match.groups()) == 5:
         title, ticker, moat, valuation, scale = match.groups()
-        formatted_valuation = f"{valuation} {scale}"
+        formatted_valuation = f"{valuation} {scale}" if scale is not None else f"{valuation}"
     elif len(match.groups()) == 4:
         title, ticker, moat, valuation = match.groups()
         formatted_valuation = f"{valuation}"
@@ -47,11 +47,11 @@ def parse_md_file(input_file):
 
     # Extract description from the second line
     description = lines[2].strip()
-    ltr = 3
+    ltr = 3 if lines[3] is not "\n" else 4
 
     if len(description.split()) < 5:
-        description = lines[4]
-        ltr = 5
+        description = lines[4].strip()
+        ltr = 5 if lines[5] is not "\n" else 6
 
     return title, ticker, int(moat), formatted_valuation, description, ltr
 

@@ -22,7 +22,6 @@ McDonald's is a quick-service restaurant company with over 40,000 restaurants gl
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview**
 
 McDonald's operates in a highly competitive industry. While its core business is in mature markets with increasing saturation, the firm maintains solid financial results. The company also operates in emerging markets, which provides growth opportunities.  Key aspects of its business include:

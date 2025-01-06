@@ -22,7 +22,6 @@ ADP is a leading provider of human capital management (HCM) solutions, primarily
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview**
 
 * **Revenues:** ADP's revenues primarily come from fees paid by employers to process payroll and provide other HCM solutions.  They also generate revenues from commissions on insurance products and fees from retirement plan administration.

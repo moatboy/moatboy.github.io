@@ -22,7 +22,6 @@ Amgen is a leading biotechnology company focusing on human therapeutics. They de
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview**
 
 * **Revenues:** Amgen derives its revenues primarily from product sales globally, with the United States being its largest market followed by other regions like Europe and Asia Pacific. In 2022, Amgen had product sales of over $26 billion, with the largest contributors being products like Enbrel, Prolia, Aranesp, Xgeva, and Otezla. A comprehensive geographic breakdown can be found in their 10K.

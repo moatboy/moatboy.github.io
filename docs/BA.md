@@ -22,7 +22,6 @@ Boeing is one of the two dominant players in the global duopoly for commercial a
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 * **Increased competition:** While the duopoly reduces competition significantly, Boeing faces increasingly fierce competition from smaller manufacturers in specific segments (e.g., Embraer in regional jets) and from Chinese manufacturers over the long term.
 * **Dependence on government contracts:** A significant proportion of Boeing's revenues come from U.S. government contracts, particularly in its Defense, Space & Security (BDS) segment. This exposes the company to the vagaries of political winds, and makes long-term revenue visibility more difficult. It also creates additional accounting complexities.
 * **Operational missteps:** Boeing has faced several recent operational challenges, including the 737 MAX groundings, which have tarnished its reputation, increased costs, and led to customer distrust. These issues have weakened its moat.

@@ -22,7 +22,6 @@ GE Vernova (GEV) is a global leader in power generation technologies, with opera
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 > The company seems to be at its peak in terms of market penetration: They're in the mature part of the product life cycle. {: .warning }
 
 ### Business Overview

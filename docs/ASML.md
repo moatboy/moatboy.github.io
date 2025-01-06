@@ -22,7 +22,6 @@ ASML Holding N.V. is a Dutch multinational company that specializes in the devel
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview:**
 
 ASML's business is divided into three primary segments:

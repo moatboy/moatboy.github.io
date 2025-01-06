@@ -22,7 +22,6 @@ TJX Companies operates off-price apparel and home fashions retail stores under v
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview**
 
 * **Revenues:** TJX generates the majority of its revenue in the U.S. (approximately 80%), with the remaining revenue coming from Canada and International segments, split equally between Europe and Australia. The company owns over 4,800 stores worldwide, including 1,350 in the U.S.

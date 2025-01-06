@@ -22,7 +22,6 @@ ConocoPhillips is an independent E&P company headquartered in Houston, Texas. It
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview:**
 
 * **Revenues Distribution:** ConocoPhillips operates in several geographic regions: Alaska, Lower 48 (U.S.), Canada, Europe, Middle East & North Africa, Asia Pacific, and Other International. The Lower 48 and Alaska segments contribute the most to total revenues, while international operations (primarily Europe and Asia Pacific) provide the remainder.  Their revenue mix is almost entirely commodity-based, heavily dependent on oil and natural gas prices.

@@ -22,7 +22,6 @@ KLA Corporation is a leading supplier of process control and yield management so
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 * Packaging
 * Printed circuit boards
 * Data storage

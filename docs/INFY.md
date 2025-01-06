@@ -22,7 +22,6 @@ Infosys Limited is a global technology services company providing consulting, te
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview**
 
 * **Revenues Distribution (FY24):** North America (60.8%), Europe (23.7%), Rest of World (15.5%).

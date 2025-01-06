@@ -22,7 +22,6 @@ NextEra Energy, Inc. operates as a vertically integrated electric power and ener
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview**
 
 * **Revenues:** NEE's revenue streams come primarily from regulated electric utility sales (Florida Power & Light, FPL, its main subsidiary), and increasingly from its renewable energy generation and storage subsidiary (NextEra Energy Resources, NEER). FPL serves a large customer base within Florida, providing a stable revenue base but limiting growth potential. NEER, while smaller, exhibits higher growth thanks to the burgeoning renewables sector. Revenue distribution is roughly 70% FPL and 30% NEER. 

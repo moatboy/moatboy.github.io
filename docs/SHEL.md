@@ -22,7 +22,6 @@ Royal Dutch Shell plc is a global group of energy and petrochemical companies. I
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Moat Analysis**
 
 Shell's moat rating is a modest **2 out of 5**. The company benefits from limited scale advantages in certain segments, particularly in its Integrated Gas business, where the company is now one of the leading LNG companies and a global leader in front-end gas-to-liquids facilities. Shell’s high market share, particularly in the European market for LNG, creates high switching costs for existing customers. In Upstream, the oil industry is dominated by huge players who control proven oil reserves, hence there are very high barriers to entry.

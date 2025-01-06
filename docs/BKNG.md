@@ -22,7 +22,6 @@ Booking Holdings, formerly known as The Priceline Group, operates a portfolio of
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview:**
 
 * **Revenues Distribution:**  Booking.com is the dominant revenue driver, contributing approximately 85% of total revenues. The remaining revenues come primarily from agency, merchant, advertising, and other services related to accommodation reservations on their various platforms. Revenue is generated globally with a strong presence in the US and Europe, followed by Asia and other regions.

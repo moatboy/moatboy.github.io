@@ -22,7 +22,6 @@ Procter & Gamble (P&G) is a consumer products giant with a wide moat derived pri
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview:**
 
 * **Revenues Distribution:** P&G operates globally, with a fairly balanced geographical footprint. North America typically contributes the largest share of revenue, followed by other developed markets and emerging markets. Its product portfolio spans a broad range of categories, including beauty, grooming, health care, fabric & home care, and baby, feminine & family care.  No single product or category represents an excessive concentration.

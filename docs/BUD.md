@@ -22,7 +22,6 @@ Anheuser-Busch InBev (BUD) is the world's largest brewer, with a dominant global
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview:**
 
 * **Revenues Distribution:** BUD operates globally, with significant market share in North America, Latin America, Europe, Middle East, and Africa, and Asia Pacific.  Its geographic mix has remained relatively stable in recent years. The company's revenues are predominantly derived from sales of beer, both from its own brands and those it produces under license.  A small portion of revenue is attributable to non-alcoholic beverages.

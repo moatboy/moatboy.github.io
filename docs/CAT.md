@@ -16,14 +16,12 @@ Moat: 3/5
 Pessimistic value: $102 B
 
 Caterpillar is a leading global manufacturer of construction and mining equipment, diesel and natural gas engines, industrial gas turbines, and diesel-electric locomotives.  The company operates through three primary segments: Construction Industries, Resource Industries, and Energy & Transportation. CAT sells its products through a worldwide network of independent dealers, providing a significant competitive advantage in terms of distribution and service.
-
 {: .fs-6 .fw-300 }
 
 ---
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Moat Analysis:**
 
 Caterpillar benefits from several sources of competitive advantage, contributing to its moat:

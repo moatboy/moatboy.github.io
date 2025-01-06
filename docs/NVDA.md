@@ -22,7 +22,6 @@ NVIDIA is a dominant player in the growing accelerated computing industry, with 
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview and Competitive Advantages:**
 
 NVIDIA's primary business is designing and manufacturing GPUs, the processing brains that drive a diverse array of applications across high-growth markets.  These markets include:

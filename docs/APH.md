@@ -22,7 +22,6 @@ Amphenol Corporation is a global leader in the design, manufacture, and marketin
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview**
 
 * **Revenues Distribution (2022):**  The company operates globally, with a significant portion of its revenues derived from the United States (53%), followed by the Asia-Pacific region (26%), and Europe (21%).  Within these regions, it serves a diverse set of industries, making it less dependent on any single customer or industry.  Amphenol provides more details in its annual and quarterly reports, which can be found on the company website and on the SEC website.

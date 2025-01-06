@@ -22,7 +22,6 @@ Trane Technologies is a global climate innovator focused on creating comfortable
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview:**
 
 * **Revenues Distribution (2023):** The company operates in four reportable segments: Americas Commercial HVAC (48% of revenues), EMEA Commercial HVAC (20%), Americas Residential HVAC (18%), and Transport Refrigeration (14%). 

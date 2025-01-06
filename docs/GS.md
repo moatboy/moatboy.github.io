@@ -13,7 +13,7 @@ Moat: 2/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $274 None
+Pessimistic value: $274
 
 Goldman Sachs is a leading global investment banking, securities, and investment management firm. It operates through four business segments: Global Banking & Markets, Asset & Wealth Management, Platform Solutions, and Consumer & Wealth Management.
 {: .fs-6 .fw-300 }
@@ -22,7 +22,6 @@ Goldman Sachs is a leading global investment banking, securities, and investment
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview**
 
 * **Global Banking & Markets:** This segment provides a wide range of financial services to corporations, financial institutions, governments, and other investors. Services include financial advisory, underwriting, sales and trading, and securities services.

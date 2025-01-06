@@ -16,14 +16,12 @@ Moat: 3/5
 Pessimistic value: $120 B
 
 Netflix is a leading global streaming entertainment service. Its primary business is providing subscription-based video streaming, allowing members access to a vast library of movies and TV shows on various devices. Netflix operates in nearly every country globally, generating revenue from paid memberships. The company has increasingly invested in original content creation and acquisition, which has been a significant driver of subscriber growth and brand building.  While DVD-by-mail remains a small component of the business in the U.S., streaming is the dominant force in its operations and revenue.
-
 {: .fs-6 .fw-300 }
 
 ---
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Moat Analysis:**
 
 Netflix benefits from several sources of competitive advantage, contributing to its moat. Applying Dorsey's framework from "The Little Book that Builds Wealth":

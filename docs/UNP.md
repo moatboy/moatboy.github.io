@@ -22,7 +22,6 @@ Union Pacific (UNP) is a Class I freight railroad operating in the western two-t
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview**
 
 * **Revenue Distribution (2023):**  Freight revenue is segmented into Agricultural Products (11%), Automotive (10%), Chemicals and Specialized Products (13%), Coal (4%), Energy Resources (8%), Industrial Products (26%), Intermodal (18%), Premium (9%), and Other (1%).[^1]

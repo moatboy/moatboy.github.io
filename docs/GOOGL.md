@@ -22,7 +22,6 @@ Alphabet, the parent company of Google, is a dominant force in the digital adver
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **The Business**
 
 Alphabet's business model is anchored in two primary segments:

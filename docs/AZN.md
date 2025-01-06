@@ -16,14 +16,12 @@ Moat: 3/5
 Pessimistic value: $160 B
 
 AstraZeneca is a global biopharmaceutical company focused on the discovery, development, and commercialization of prescription medicines in Oncology, Cardiovascular, Renal & Metabolism (CVRM), Respiratory & Immunology, and other therapy areas. They operate in a highly competitive industry, with major players like Pfizer, Novartis, and Roche, demanding constant innovation to stay ahead of rivals.
-
 {: .fs-6 .fw-300 }
 
 ---
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Moat Analysis:**
 
 AstraZeneca's moat stems primarily from a combination of intangible assets (specifically, patents) and the research & development (R&D) process for creating new drugs.

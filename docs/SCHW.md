@@ -22,7 +22,6 @@ Charles Schwab is a savings and loan company, predominantly focused on discount 
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview**
 
 * **Revenue Distribution:** As of Q1 2024, SCHW's revenue primarily stems from NII (60%), followed by AM&A (32%) and trading revenue (8%).

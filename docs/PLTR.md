@@ -16,7 +16,6 @@ Moat: 2/5
 Pessimistic value: $8.12 B
 
 
-
 {: .fs-6 .fw-300 }
 
 ---

@@ -22,7 +22,6 @@ Walmart is the world's largest retailer, operating a vast network of discount st
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview:**
 
 Walmart's primary business segments are Walmart U.S. (which includes its U.S. stores and e-commerce operations) and Walmart International (which includes its retail operations in various countries outside the U.S.). Sam's Club, a membership-based warehouse club, is a separate, albeit much smaller, business segment.  

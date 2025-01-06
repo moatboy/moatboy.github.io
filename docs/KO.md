@@ -22,7 +22,6 @@ Coca-Cola is a global beverage giant, best known for its namesake soft drink. Th
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Moat Analysis**
 
 Coca-Cola's wide moat stems from several sources, justifying a 4/5 rating:

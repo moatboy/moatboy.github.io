@@ -22,7 +22,6 @@ Novo Nordisk, a global healthcare company based in Denmark, specializes in diabe
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview:**
 
 Novo Nordisk operates within a specific niche of the healthcare market, focusing primarily on diabetes care. Its product portfolio includes insulins, GLP-1 receptor agonists, and other diabetes-related medications. The firm also has a smaller presence in obesity care, hemophilia treatment, and growth hormone therapy. Geographically, Novo Nordisk generates a significant portion of its revenue from North America and Europe.

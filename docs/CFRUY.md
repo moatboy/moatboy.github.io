@@ -22,7 +22,6 @@ Carrefour is a French multinational retailer and wholesaler, primarily operating
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview:**
 
 * **Revenues Distribution (2022):**  France (47%), Europe excluding France (27%), Latin America (17%), and Other (9%).  The majority of Carrefour's revenue comes from its traditional brick-and-mortar stores, although its online presence is growing.

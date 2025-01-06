@@ -22,7 +22,6 @@ United Parcel Service, Inc. (UPS) is a global package delivery company and a lea
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview**
 
 * **U.S. Domestic Package:** This segment offers time-definite delivery of letters and packages within the United States. It leverages a vast ground and air network, serving every address in the country.

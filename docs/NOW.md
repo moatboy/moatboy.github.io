@@ -22,7 +22,6 @@ ServiceNow is a leading provider of cloud-based workflow automation software for
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview:**
 
 ServiceNow primarily caters to large enterprises, offering a broad array of modules that integrate into a unified platform. This platform approach offers significant advantages to its customers, including improved workflow automation, reduced silos, and increased efficiency. The company's subscription-based business model generates recurring revenue, contributing to its financial stability. It primarily operates in North America, Europe, Middle East, and Africa (EMEA), Asia Pacific and Japan (APJ).

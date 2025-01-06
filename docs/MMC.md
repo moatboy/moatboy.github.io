@@ -22,7 +22,6 @@ Marsh & McLennan Companies, Inc. is a global professional services firm providin
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 1. **Risk & Insurance Services:** This segment, generating approximately 56% of MMC's 2022 revenue,  provides advice and solutions related to risk management through insurance and reinsurance broking. They offer expertise in placement, claims advocacy, and other risk and insurance advisory work. This segment primarily serves large multinational businesses, public and private institutions, and middle-market companies throughout the world. It operates through Marsh (insurance and reinsurance broking) and Guy Carpenter (reinsurance intermediary).
 
 2. **Consulting:** This segment, representing approximately 44% of MMC's 2022 revenue, offers consulting services through Mercer and Oliver Wyman Group. Mercer's focus is on human resources and related financial advice and services, while Oliver Wyman specializes in management, economic, and brand consulting. They primarily serve large multinational corporations, governments, and private and not-for-profit organizations, offering them expertise in talent, health, retirement, and investments. This segment's revenues come primarily from fees for services.

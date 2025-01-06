@@ -13,7 +13,7 @@ Moat: 2/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $7.2 None
+Pessimistic value: $7.2
 
 Rogers Corporation, now a part of DuPont, specializes in engineered materials and components. While it was previously publicly traded, it is no longer listed following its acquisition.  During its time as a standalone entity, the company operated across several diverse business segments, a factor that complicates moat analysis. The core businesses that Rogers operated in can be roughly categorized as:
 {: .fs-6 .fw-300 }
@@ -22,7 +22,6 @@ Rogers Corporation, now a part of DuPont, specializes in engineered materials an
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 * **Advanced Connectivity Solutions (ACS):** Providing high-frequency circuit materials, primarily serving wireless communications infrastructure such as wireless base stations. 
 * **Elastomeric Material Solutions (EMS):** Specialized elastomers, used in a wide variety of applications from automotive and aerospace to consumer products.
 * **Power Electronics Solutions (PES):**  High-performance thermal management products for power electronics, often found in electric vehicles and data centers.

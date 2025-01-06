@@ -22,7 +22,6 @@ Palo Alto Networks is a leading cybersecurity company that offers a platform app
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview:**
 
 * **Revenues Distribution:** PANW generates revenue primarily from product sales and subscriptions and support. Product revenue includes physical and virtual firewall appliances, while subscriptions and support revenue comes from threat prevention, URL filtering, DNS security, and threat intelligence.  A larger portion of the product sales (59.8% in 2023) is derived from physical firewall appliances, and a growing part (40.2% in 2023) from virtual appliances. Subscriptions represent the majority of total revenue and are growing rapidly. Geographically, PANW has a global presence, with revenues diversified across the Americas, EMEA, and the Asia Pacific regions.

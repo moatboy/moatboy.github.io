@@ -16,14 +16,12 @@ Moat: 3/5
 Pessimistic value: $50.1 B
 
 ARM Holdings is a leading semiconductor and software design company based in the United Kingdom. The company's primary business is licensing its intellectual property (IP), primarily in the form of central processing units (CPUs) and related technologies, to a diverse range of customers, including system companies, semiconductor manufacturers, original equipment manufacturers (OEMs), and software vendors.  ARM's business model is centered around licensing fees and royalties received from its licensees.
-
 {: .fs-6 .fw-300 }
 
 ---
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 * **Revenue Distribution (2023):**
     * Licensing: 27%
     * Royalty: 73%

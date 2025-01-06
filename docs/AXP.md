@@ -22,7 +22,6 @@ American Express is a global payments company. Its business activities are organ
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Moat Analysis**
 
 American Express possesses a narrow moat, primarily stemming from its brand and network effect in its card business.

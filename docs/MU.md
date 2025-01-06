@@ -22,7 +22,6 @@ Micron Technology operates in the highly competitive and cyclical semiconductor 
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview:**
 
 * **Products:** Micron primarily manufactures DRAM (dynamic random-access memory) and NAND (flash memory), essential components for computing devices. These products are commodity-like, meaning differentiation is based primarily on performance, capacity, and price.

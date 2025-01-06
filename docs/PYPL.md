@@ -16,14 +16,12 @@ Moat: 3/5
 Pessimistic value: $80 B
 
 PayPal operates a two-sided platform connecting merchants and consumers in the digital payments space. Its key business segments are:
-
 {: .fs-6 .fw-300 }
 
 ---
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 * **Merchant Services:** This segment generates revenue by facilitating transactions for merchants, primarily through transaction fees, Braintree subscription fees, and other value-added services. Key performance indicators include total payment volume (TPV), transactions, and revenue per transaction.
 * **Consumer Services:** This segment generates revenue from consumer account activity, primarily through peer-to-peer (P2P) payments via Venmo and other services, interest on customer accounts, and other value-added services.
 

@@ -22,7 +22,6 @@ Intuit is a leading provider of financial management and tax preparation softwar
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview and Competitive Advantages (Moat)**
 
 Intuit benefits from several durable competitive advantages that earn it a wide moat rating.  These advantages work together to create high barriers to entry and allow the firm to generate excess returns on capital.

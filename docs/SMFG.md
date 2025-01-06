@@ -23,7 +23,6 @@ SMFG, a leading financial services group in Japan, operates primarily through th
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
-
 **Business Overview**
 
 * **Revenue Distribution:** SMFG's revenue primarily comes from interest income (Net interest income), fee and commission income, and net trading income. Net interest income, a significant portion of which comes from loans and other interest-bearing assets, represents a majority of its income.  Fee and commission income arises from brokerage, transaction advisory, and asset management services, while net trading income is derived from trading activities in financial instruments. The company's segment data reveals significant diversification across these three revenue sources, with wholesale banking being the largest contributor. 

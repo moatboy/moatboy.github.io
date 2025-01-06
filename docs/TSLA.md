@@ -22,7 +22,6 @@ Tesla's core business is the design, development, manufacturing, lease, and sale
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview:**
 
 Tesla operates in several interconnected businesses, creating opportunities for potential synergies as well as exposing the firm to different risks. Its primary segments are:

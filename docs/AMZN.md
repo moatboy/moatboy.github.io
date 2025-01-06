@@ -22,7 +22,6 @@ Amazon's dominance in online retail, cloud services (AWS), and its growing prese
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview and Discussion of Moat**
 
 Amazon's business model is multi-faceted.  It operates as a retailer, a marketplace provider, a cloud service provider, an

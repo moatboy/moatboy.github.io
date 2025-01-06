@@ -22,7 +22,6 @@ Thermo Fisher Scientific is a leading provider of scientific research services, 
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Description:**
 
 Thermo Fisher operates through four primary business segments:

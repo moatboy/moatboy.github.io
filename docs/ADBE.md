@@ -16,14 +16,12 @@ Moat: 4/5
 Pessimistic value: $150 B
 
 Adobe is a dominant player in the creative software industry. Its products, including Creative Cloud (Photoshop, Illustrator, Premiere Pro) and Document Cloud (Acrobat, Sign), are deeply embedded in creative workflows worldwide. This deep integration translates to substantial switching costs, a key component of Adobe's wide moat.  The company operates on a subscription model, providing recurring revenue and enhancing profitability.  Its primary customer base includes individuals, small and medium-sized businesses, and large enterprises across diverse sectors, creating a resilient revenue stream. While primarily a software provider, Adobe also derives revenue from publishing and advertising, although these segments contribute a much smaller portion of overall revenue.
-
 {: .fs-6 .fw-300 }
 
 ---
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Moat Analysis**
 
 Adobe's moat stems primarily from high switching costs and network effects, which are unlikely to disappear anytime soon.  The complexity and integration of its products make it difficult and costly for users to switch to alternatives. This is especially true for creative professionals who have built their workflows around Adobe's software.

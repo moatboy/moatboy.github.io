@@ -16,14 +16,12 @@ Moat: 3/5
 Pessimistic value: $120 B
 
 Royal Bank of Canada (RY) is a diversified financial institution offering personal and commercial banking, wealth management, insurance, investor services, and capital markets products and services.  Its operations span Canada, the United States, and other international markets.
-
 {: .fs-6 .fw-300 }
 
 ---
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 * **Revenue Distribution (2023):**
     * Personal & Commercial Banking: 53%
     * Wealth Management: 22%

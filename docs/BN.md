@@ -22,7 +22,6 @@ Brookfield Asset Management is a global alternative asset manager with approxima
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview**
 
 * **Revenues Distribution:** Brookfield's revenue streams are diversified across its core business segments. Fee-related earnings, the largest and most stable component, are derived from management fees on AUM. Carried interest is earned when fund performance exceeds certain hurdles, and disposition gains/losses arise from the sale of assets.

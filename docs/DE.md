@@ -22,7 +22,6 @@ Deere & Company, commonly known as John Deere, is a leading manufacturer of agri
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview**
 
 * **Revenues Distribution:** Deere's revenues are derived from three main segments:

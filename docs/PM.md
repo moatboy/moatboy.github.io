@@ -22,7 +22,6 @@ Philip Morris International (PM) is a leading international tobacco company, sel
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Description:**
 
 PM's business is primarily focused on the manufacture, marketing, and sale of cigarettes and other nicotine-containing products. It operates in a highly regulated environment with significant variations across jurisdictions. These variations impact advertising, promotions, pricing, and product offerings.  The company has four primary geographical segments:

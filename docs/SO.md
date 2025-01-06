@@ -22,7 +22,6 @@ The Southern Company is a regulated utility holding company serving customers in
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview:**
 
 * **Revenues Distribution:**  The majority of SO's revenue comes from its regulated electric utility business (roughly 80%), with the remaining portion derived from natural gas distribution. Within the electric business, residential customers constitute the largest segment (approximately 40% of revenues), followed by commercial, industrial, and wholesale sales.  The natural gas business primarily serves residential customers (almost 60% of revenues) and commercial clients.

@@ -22,7 +22,6 @@ MicroStrategy is a business intelligence software company providing enterprise a
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview**
 
 * **Revenues:** MicroStrategy generates revenue primarily through product licenses, subscription services, and consulting.  A significant portion of its revenue stems from product licenses. Revenue distribution has been roughly stable over the last five years, with product licenses remaining the largest source. There has been a shift in business model as more of its software has been packaged as a service; This has lead to changes in accounting rules, specifically around the recognition of revenue. Its 2023 filings state that while the company has improved software sales growth, they have not produced a significant amount of earnings, and so they have made a substantial investment into Bitcoin, leading to a cryptocurrency business segment. 

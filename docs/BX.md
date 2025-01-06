@@ -13,7 +13,7 @@ Moat: 3/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $88 None
+Pessimistic value: $88
 
 Blackstone is one of the world's largest alternative asset managers, specializing in private equity, real estate, credit & insurance, and hedge fund solutions.  Their business model involves raising capital from investors (limited partners) to invest in a portfolio of assets within specific investment strategies. They generate revenue through management and advisory fees, typically a percentage of assets under management, and a share of profits (carried interest or performance allocation).
 {: .fs-6 .fw-300 }
@@ -22,7 +22,6 @@ Blackstone is one of the world's largest alternative asset managers, specializin
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview:**
 
 Blackstone operates across four main segments:

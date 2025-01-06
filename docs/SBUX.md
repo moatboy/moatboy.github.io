@@ -22,7 +22,6 @@ Starbucks, a globally recognized coffeehouse chain, operates primarily in the U.
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview:**
 
 * **Revenues:** Starbucks' revenues have grown steadily, though growth has slowed in recent years. The company has reached near-market saturation in the U.S., and its Chinese market, while substantial, is slowing and facing increasing competition. {: .warning } Revenue growth was 13% in 2019 and approximately 3% in 2020 and 2021. The annual growth rate was 17% between 2020 and 2023.

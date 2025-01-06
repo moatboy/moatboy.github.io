@@ -22,7 +22,6 @@ Fomento Económico Mexicano, S.A.B. de C.V. (FMX) operates as a holding company.
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview:**
 
 * **Coca-Cola FEMSA:** This segment bottles, distributes, and markets Coca-Cola products in several Latin American countries, including Mexico, Brazil, Colombia, and Argentina. It is the largest Coca-Cola bottler globally by sales volume and contributes the most significant portion of FMX’s revenue. This segment also faces challenges such as maintaining and growing its market share against rivals such as PepsiCo and local players, effectively managing sugar and other raw materials costs and inventory, and navigating various regulatory restrictions.

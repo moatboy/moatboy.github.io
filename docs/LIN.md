@@ -22,7 +22,6 @@ Linde plc is a leading global industrial gas and engineering company. Its primar
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview:**
 
 Linde operates through two main segments:

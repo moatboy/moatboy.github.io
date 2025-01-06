@@ -22,7 +22,6 @@ Stryker Corporation is a leading medical technology company that designs, manufa
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview:**
 
 * **Revenues Distribution:** Stryker operates in three primary segments: MedSurg, Neurotechnology and Spine, and Orthopaedics. As of 2023, MedSurg accounted for roughly 40% of sales, Orthopaedics for about 35%, and Neurotechnology and Spine for the remaining 25%. Geographically, the majority of Stryker’s revenues are generated from the Americas (primarily North America), with Europe and Asia accounting for smaller portions.

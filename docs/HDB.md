@@ -16,14 +16,12 @@ Moat: 3/5
 Pessimistic value: ₹7.5 T
 
 HDFC Bank is a leading private sector bank in India, offering a wide range of financial products and services across various customer segments, including retail, wholesale, treasury, and other banking services.  Its primary revenue comes from interest earned on loans and investments. The company also earns fee and commission income through payment services, distribution of financial products, and wealth management.
-
 {: .fs-6 .fw-300 }
 
 ---
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Revenue Distribution (As of FY24):**
 
 * **Retail Banking:** ~54% (primarily individual customers, home loans, auto loans, personal loans, credit cards)

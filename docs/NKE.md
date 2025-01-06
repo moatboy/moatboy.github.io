@@ -22,7 +22,6 @@ Nike's brand power is undeniable, but its competitive advantages are showing sig
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 ### Business Overview
 
 **Revenues Distribution:** Nike operates globally, with revenues coming from North America (approximately 40%), Europe, Middle East, and Africa (approximately 30%), Greater China (approximately 15%), Asia Pacific & Latin America (approximately 10%), and Global Brand Divisions/Converse/Corporate (approximately 5%). The company sells its products through its own retail stores (NKE Direct) and also via wholesale partners.

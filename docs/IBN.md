@@ -22,7 +22,6 @@ ICICI Bank is a large Indian multinational bank and financial services company. 
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview**
 
 ICICI Bank operates through four segments: Retail Banking, Wholesale Banking, Treasury, and Other Banking. 

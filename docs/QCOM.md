@@ -22,7 +22,6 @@ Qualcomm is a leading designer and supplier of digital wireless telecommunicatio
 
 {: .warning } 
 >The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
 **Business Overview:**
 
 * **QCT (Chipsets):** This segment designs and manufactures integrated circuits and system software for wireless devices, including smartphones, tablets, and automotive applications. QCT faces intense competition from other chipset manufacturers like MediaTek, Samsung, and Apple itself (for some of its own chips).  The segment's profitability is cyclical and can be impacted by changes in demand and pricing pressures.
