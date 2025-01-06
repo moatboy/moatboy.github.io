@@ -75,7 +75,6 @@ A discounted cash flow (DCF) analysis was conducted using a 10-year explicit for
 </aside>
 
 {: .warning }
-
 **Important Considerations:**
 
 * **Substantial Uncertainty:**  This valuation is highly sensitive to assumptions about future growth, profitability, and competition. The Chinese regulatory environment adds a layer of unpredictability.

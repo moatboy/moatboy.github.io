@@ -43,8 +43,7 @@ AMAT's moat stems from a combination of factors:
 3. **Economies of Scale:** The semiconductor and display industries require large capital investments in R&D, manufacturing, and distribution networks. AMAT's global scale and extensive resources give it an advantage over smaller competitors in amortizing these fixed costs over a large revenue base.
 
 {: .warning }
-
-> > Although, AMAT ranks high on all four characteristics of a moat, skepticism is warranted. While intangible assets and switching costs are durable, technological advancements could erode these advantages. The cyclical nature of the industry warrants close monitoring. Moreover, size is a necessary but not sufficient condition for sustainable profitability, and competition for a share of industry profits is likely to increase further. Therefore, AMAT is assigned a Moat Rating of **3 out of 5**, suggesting a narrow moat. This implies that its competitive advantages are likely to last for 10 years, but bear close watching.
+>> Although, AMAT ranks high on all four characteristics of a moat, skepticism is warranted. While intangible assets and switching costs are durable, technological advancements could erode these advantages. The cyclical nature of the industry warrants close monitoring. Moreover, size is a necessary but not sufficient condition for sustainable profitability, and competition for a share of industry profits is likely to increase further. Therefore, AMAT is assigned a Moat Rating of **3 out of 5**, suggesting a narrow moat. This implies that its competitive advantages are likely to last for 10 years, but bear close watching.
 
 **Valuation**
 
@@ -83,8 +82,7 @@ Value of Operating Assets = Sum of Present Values = $72.2 billion
 4. **Fair Value of Equity:** Value of Operating Assets + Cash - Debt = $121.2 billion
 
 {: .note }
-
-> > This valuation incorporates several pessimistic assumptions and omits cash buybacks for the foreseeable future.  It is likely closer to AMAT’s intrinsic value under a bear case.  This is appropriate given the current uncertainties in the semiconductor industry. 
+>> This valuation incorporates several pessimistic assumptions and omits cash buybacks for the foreseeable future.  It is likely closer to AMAT’s intrinsic value under a bear case.  This is appropriate given the current uncertainties in the semiconductor industry. 
 
 **Conclusion**
 
@@ -92,5 +90,4 @@ AMAT has a narrow moat based on intangible assets, switching costs, and economie
 
 
 {: .important }
-
-> > ***Disclaimer:** This analysis is based on publicly available information and should not be construed as financial advice. Always conduct your own research before making investment decisions.*
+>> ***Disclaimer:** This analysis is based on publicly available information and should not be construed as financial advice. Always conduct your own research before making investment decisions.*

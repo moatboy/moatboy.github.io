@@ -62,7 +62,6 @@ I employed a discounted cash flow (DCF) model to estimate UNP's intrinsic value,
 **Key Valuation Assumptions and Calculations**
 
 {: .note }
-
 All figures are in $ billions, unless otherwise stated.
 
 * **Revenue Growth:**  

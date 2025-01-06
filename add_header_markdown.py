@@ -116,10 +116,12 @@ for input_file in docs:
         callouts = ['{: .highlight }', '{: .note }', '{: .new }', '{: .important }', '{: .warning }']
 
         for line in lines[ltr:]:
+            modified_line = line  # Start with the original line
+
             for callout in callouts:
                 if callout in line:
                     print(f"{callout} detected.")
-                    line = line.strip().replace(callout, "")
-                    line = callout + "\n\n" + line
+                    # Remove the callout from the line and prepend the callout
+                    modified_line = f"{callout}\n{line.replace(callout, '').strip()}"
 
-            file.write(line)
+            file.write(modified_line)  # Write the modified line once, outside the callout loop

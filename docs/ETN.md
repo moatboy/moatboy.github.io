@@ -62,8 +62,7 @@ For valuation, we will use a discounted cash flow (DCF) model using free cash fl
 * **Operating Margin:** We assume a decline in operating margin from the current 17% to 16% by 2027 reflecting increased competition, falling prices, and rising costs.  
 * **Reinvestment Rate:**  Based on Eaton's historical financials, we assume a reinvestment rate of 10 percent.
 {: .note }
-
-* **Cost of Capital (WACC):** We calculate a WACC of 7.5 percent using a risk-free rate of 4 percent, an equity risk premium of 4.5%, a beta of 0.85, a before-tax cost of debt of 5.5%, and a target debt ratio of 20%.  For detailed calculations, see appendix.  
+* **Cost of Capital (WACC):** We calculate a WACC of 7.5 percent using a risk-free rate of 4 percent, an equity risk premium of 4.5%, a beta of 0.85, a before-tax cost of debt of 5.5%, and a target debt ratio of 20%.  For detailed calculations, see appendix.
 **Calculations:**
 
 1. **Free Cash Flow (FCFF):** We calculate annual free cash flows for the next 10 years using our revenue, margin, and reinvestment rate assumptions. 
@@ -72,8 +71,7 @@ For valuation, we will use a discounted cash flow (DCF) model using free cash fl
 4. **Equity Value:** We subtract net debt, which is estimated as 20% of its present enterprise value from the enterprise value. We are ignoring other non-operating assets for ease of calculation, but note that these would increase equity value.
 5. **Value per Share:** We divide the equity value by the number of shares outstanding, approximately 432 million, to arrive at a value per share.  
 {: .warning }
-
-6. **Probability Weighting:** Given the uncertainties about Eaton's business, we introduce a probability adjustment reflecting the risk of bankruptcy for distressed companies with higher leverage. Based on the current bond rating of BBB+, we estimate a probability of distress of 2.7% over the next 10 years and assume that in the case of distress the firm will be sold for half its current value.  We assign 97.3% probability to the business continuing as a going concern. 
+6. **Probability Weighting:** Given the uncertainties about Eaton's business, we introduce a probability adjustment reflecting the risk of bankruptcy for distressed companies with higher leverage. Based on the current bond rating of BBB+, we estimate a probability of distress of 2.7% over the next 10 years and assume that in the case of distress the firm will be sold for half its current value.  We assign 97.3% probability to the business continuing as a going concern.
 
 **Valuation Results:**
 

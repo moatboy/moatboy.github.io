@@ -59,7 +59,6 @@ However, this rating is tempered by some key considerations:
 * **Regulation:** The regulatory environment for exchanges is complex, and changes to regulations can impact ICE's business model and profitability.
 
 {: .note }
-
 Given these factors, a moat rating of 3/5, while decent, reflects a relatively pessimistic view. It would be higher if the aforementioned concerns were less pronounced. The rating is justified by ICE's market-leading position and the industry's inherent defensiveness.
 
 **Valuation**

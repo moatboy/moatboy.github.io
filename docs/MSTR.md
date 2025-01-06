@@ -39,10 +39,8 @@ MicroStrategy is a business intelligence software company providing enterprise a
 MicroStrategy's narrow moat rating of 2 out of 5 is based on a combination of intangible assets (brand name) and switching costs (for its enterprise customers).
 
 {: .warning }
-
-* **Intangible Assets:** MicroStrategy has a well-known brand name in the business intelligence space, particularly among larger enterprises.  However, this brand recognition is not as powerful as that of the industry giants.  While its brand does create customer loyalty among a subset of customers, it does not translate into strong pricing power.  While a brand is valuable to the degree that it allows for value creation, it is hard to argue that MicroStrategy enjoys anything more than a minor premium as a result of its brand alone. {: .warning }
-
-* **Switching Costs:**  MicroStrategy's enterprise software, being a complex system that integrates deeply into client workflows, does create some switching costs. The transfer of data and retraining required to shift to a competing product can be disruptive and expensive.  However, these switching costs are not as high as in some other software segments, and with the rise of cloud-based solutions and increasing standardization, switching costs are weakening. 
+* **Intangible Assets:** MicroStrategy has a well-known brand name in the business intelligence space, particularly among larger enterprises.  However, this brand recognition is not as powerful as that of the industry giants.  While its brand does create customer loyalty among a subset of customers, it does not translate into strong pricing power.  While a brand is valuable to the degree that it allows for value creation, it is hard to argue that MicroStrategy enjoys anything more than a minor premium as a result of its brand alone.{: .warning }
+* **Switching Costs:**  MicroStrategy's enterprise software, being a complex system that integrates deeply into client workflows, does create some switching costs. The transfer of data and retraining required to shift to a competing product can be disruptive and expensive.  However, these switching costs are not as high as in some other software segments, and with the rise of cloud-based solutions and increasing standardization, switching costs are weakening.
 Other potential sources of competitive advantage, such as network effects or cost advantages, are not sufficiently present for MicroStrategy. 
 
 * **Network Effects:**  While some network effects could potentially exist, they are not strong enough to constitute a moat.
@@ -106,8 +104,7 @@ Terminal Value = (After-tax operating income in year 11) * (1 - Reinvestment rat
 
 
 {: .note }
-
-4. **Nonoperating Assets:** Since MicroStrategy holds substantial amounts of bitcoin, we consider Bitcoin as nonoperating assets, and value them at $1.4 billion based on its most recent valuation (June 30, 2023). 
+4. **Nonoperating Assets:** Since MicroStrategy holds substantial amounts of bitcoin, we consider Bitcoin as nonoperating assets, and value them at $1.4 billion based on its most recent valuation (June 30, 2023).
 
 5. **Debt:** Subtract the market value of debt (long-term and short-term)  ($0.6 billion) from the value of operating assets + nonoperating assets.
 
@@ -116,10 +113,8 @@ Terminal Value = (After-tax operating income in year 11) * (1 - Reinvestment rat
 
 
 {: .important }
-
- **It is critical to recognize that, because of the number of assumptions used in computing a valuation, the model’s result is only one possible picture of where the company's financials are likely to be in the coming years.**
+**It is critical to recognize that, because of the number of assumptions used in computing a valuation, the model’s result is only one possible picture of where the company's financials are likely to be in the coming years.**
 
 
 {: .warning }
-
-This valuation does not take into account the potential for long-term changes in profitability or changes in the price of Bitcoin. The actual stock market value of MicroStrategy will likely deviate from this estimate, reflecting factors such as market sentiment, changes in financial and strategic projections, and unforeseen and unavoidable events.  Given the volatility associated with the company's Bitcoin holdings and the speculative nature of the industry, **this valuation should be viewed with extreme caution.** 
+This valuation does not take into account the potential for long-term changes in profitability or changes in the price of Bitcoin. The actual stock market value of MicroStrategy will likely deviate from this estimate, reflecting factors such as market sentiment, changes in financial and strategic projections, and unforeseen and unavoidable events.  Given the volatility associated with the company's Bitcoin holdings and the speculative nature of the industry, **this valuation should be viewed with extreme caution.**

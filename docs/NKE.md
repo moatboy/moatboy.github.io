@@ -40,11 +40,9 @@ Nike's brand power is undeniable, but its competitive advantages are showing sig
 Nike’s moat rests primarily on its brand. The swoosh logo is globally recognized and conveys quality, performance, and status. This allows Nike to charge premium prices for its products. However, the strength of this brand is not as formidable as it once was.  Several factors contribute to this assessment:
 
 {: .warning }
-
-* **Increased Competition:**  Competitors like Adidas and Under Armour have stepped up their game, developing their own strong brands and innovative products, chipping away at Nike's market share and pricing power.  * **Shifting Consumer Preferences:** Consumer tastes are fickle, and Nike’s reliance on brand cachet is being challenged by the rise of smaller, more niche brands that cater to specific consumer segments. {: .warning}
+* **Increased Competition:**  Competitors like Adidas and Under Armour have stepped up their game, developing their own strong brands and innovative products, chipping away at Nike's market share and pricing power.* **Shifting Consumer Preferences:** Consumer tastes are fickle, and Nike’s reliance on brand cachet is being challenged by the rise of smaller, more niche brands that cater to specific consumer segments. {: .warning}
 {: .note }
-
-* **Dependence on Endorsements:** While endorsements still play a significant role, they can be fickle and expensive.  A negative event surrounding a key athlete could tarnish the brand's image.  * **Manufacturing Challenges:**  Nike has faced scrutiny for its manufacturing practices, particularly in developing countries.  These issues could potentially impact consumer perceptions of the brand. {: .note}
+* **Dependence on Endorsements:** While endorsements still play a significant role, they can be fickle and expensive.  A negative event surrounding a key athlete could tarnish the brand's image.* **Manufacturing Challenges:**  Nike has faced scrutiny for its manufacturing practices, particularly in developing countries.  These issues could potentially impact consumer perceptions of the brand. {: .note}
 
 While Nike possesses a large scale distribution network, this advantage doesn't translate to a moat because scaling is not unique to Nike. Other large companies have similar networks, making it easy for competitors to match and undercut Nike. Other factors often cited as sources of competitive advantage, such as technology or efficient operations, are not sufficient to create a long-lasting moat. These advantages are easily replicable, and competitors are constantly innovating. 
 
@@ -60,18 +58,13 @@ Considering these factors, a moat rating of 3/5 seems justified. The brand still
 
 * **Revenue Growth:** 2% annually for the next five years, then 0% thereafter.
 {: .important }
-
-> This reflects the pessimism about sector growth and assumes Nike's market share stabilizes. The company’s long-term revenue growth rate has been around 7 percent. * **Operating Margin:** 15% for the next ten years.  
+> This reflects the pessimism about sector growth and assumes Nike's market share stabilizes. The company’s long-term revenue growth rate has been around 7 percent.* **Operating Margin:** 15% for the next ten years.  
 {: .important }
-
-> Current margins are around 17%.  This assumes some margin pressure due to rising costs and increased competition. {: .important }
-
-* **Tax Rate:** 25%  {: .important }
-
-* **Reinvestment Rate:** 30% during the high-growth period, dropping to 0% after 10 years.  * **Cost of Capital:** 9%. Based on current Beta of 0.92 (using historical 60-month, rolled using MSCI ACWI), risk-free rate of 3.8% (10-year US Treasury Bond), equity risk premium of 5%, cost of debt of 4.5% (based on NKE’s bond issuances).  
+> Current margins are around 17%.  This assumes some margin pressure due to rising costs and increased competition.{: .important }
+* **Tax Rate:** 25%{: .important }
+* **Reinvestment Rate:** 30% during the high-growth period, dropping to 0% after 10 years.* **Cost of Capital:** 9%. Based on current Beta of 0.92 (using historical 60-month, rolled using MSCI ACWI), risk-free rate of 3.8% (10-year US Treasury Bond), equity risk premium of 5%, cost of debt of 4.5% (based on NKE’s bond issuances).  
 {: .important }
-
-> This is a critical variable, and a slightly higher cost of capital would significantly reduce the valuation. 
+> This is a critical variable, and a slightly higher cost of capital would significantly reduce the valuation.
 **Calculations:**
 1. **FCF from Operations:**
    First, calculate after-tax operating income, accounting for the reinvestment rate:
@@ -83,8 +76,7 @@ Considering these factors, a moat rating of 3/5 seems justified. The brand still
    Assuming the terminal year is 10, and a terminal growth rate of 0% and cost of capital of 9%, we estimate that Nike's terminal value at the end of year 10 will be $61.858 Billion.
 3. **Present Value of Future Cash Flows:**
 {: .note }
-
-Discount the future free cash flows from operations for the first 10 years, and the terminal value back to the present at a discount rate of 9% (see `Table 5.6` for illustration).  4. **Enterprise Value:**  Sum the present values of the future free cash flows from operations and the terminal value to get the enterprise value (the total value of the company). This yields a value of $63.4 Billion.
+Discount the future free cash flows from operations for the first 10 years, and the terminal value back to the present at a discount rate of 9% (see `Table 5.6` for illustration).4. **Enterprise Value:**  Sum the present values of the future free cash flows from operations and the terminal value to get the enterprise value (the total value of the company). This yields a value of $63.4 Billion.
 5. **Value of Equity:**  To derive the total value to equity investors, make the following adjustments:
     * **Excess Cash:** Adding back Nike's excess cash of $11.233 Billion.
     * **Debt:** Subtracting the market value of the debt of $12.968 Billion.
@@ -93,6 +85,5 @@ Discount the future free cash flows from operations for the first 10 years, and 
 
 **Total value to equity investors:**  $50 Billion.
 {: .important }
-
-> Note: The stock price can fluctuate wildly, especially for companies in the cyclical retail sector.  This discounted cash flow valuation only provides a snapshot of the underlying business at this point in time and doesn't guarantee future stock market performance. 
+> Note: The stock price can fluctuate wildly, especially for companies in the cyclical retail sector.  This discounted cash flow valuation only provides a snapshot of the underlying business at this point in time and doesn't guarantee future stock market performance.
 This valuation suggests that Nike is currently fairly valued.  Given the industry headwinds and the increased competition, there is little margin of safety at the current price.  A more pessimistic outlook for growth or margins could easily result in a lower valuation.

@@ -69,7 +69,6 @@ A discounted cash flow (DCF) valuation is appropriate for Micron. Given the cycl
 <ins>**Valuation Output for Micron Technology**</ins>
 {: .highlight }
 
-
 Micron's **Enterprise Value** is estimated to be **$53.1 billion**.
 <br>Subtracting the market value of debt ($8.2 Billion) and other non-equity claims (estimated at $0 million), gives an equity value of **$44.9 billion**, or $64 per share.
 
@@ -85,7 +84,6 @@ Additional scenarios, incorporating more pessimistic outcomes for growth and mar
 
 <ins>Micron's current valuation appears slightly high given the cyclicality of its earnings, its commodity-like products, and intense competition. While the company is currently performing well, its future is uncertain, and its lack of a durable competitive advantage makes it a risky investment</ins>
 {: .warning }
-
 
 
 Therefore, at a price significantly below the calculated fair value, Micron might be worth considering, reflecting its potential for higher returns in the next year. However, the company's long-term outlook is clouded by the challenges inherent in the semiconductor industry.  Conservative investors should demand a substantial margin of safety.

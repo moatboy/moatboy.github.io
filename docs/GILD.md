@@ -68,7 +68,6 @@ Terminal Value = ($4,940 * (1 - 0.10)) / (0.075 - 0.03) = $98,464 million
 **Calculations:**
 {: .highlight }
 
-
 * **Free Cash Flow:** Free cash flow to the firm (FCFF) is the after-tax operating income minus the net capital expenditures and working capital needs of the firm. It is the cash flow available to all providers of capital to the firm, regardless of capital structure. We first obtain FCFF for years 2024 to 2033 by using the equation: FCFF = Revenue * Operating Margin * (1 - Tax rate) * (1 - Reinvestment Rate).
 * **Present Value of Free Cash Flow:** We then discount these cash flows at the cost of capital to arrive at their present value.
 * **Present Value of Terminal Value:** We discount the terminal value by the cost of capital to arrive at its present value as of today.
@@ -83,7 +82,6 @@ Terminal Value = ($4,940 * (1 - 0.10)) / (0.075 - 0.03) = $98,464 million
 Based on these assumptions and calculations, the enterprise value (the value of the operating assets) of Gilead Sciences is estimated to be about $70 billion, which translates to about $53 per share. This assumes that the firm will continue to operate as a going concern.
 
 {: .important }
-
 >   Given the uncertainty and competition in the pharmaceutical and biotechnology industry, we have used fairly conservative assumptions to build a margin of safety into the valuation.
 **Additional Considerations**
 
@@ -92,7 +90,6 @@ Based on these assumptions and calculations, the enterprise value (the value of 
 * **Management:** Gilead's management team has a strong track record. However, it is always possible that management could make mistakes that could hurt the company's future performance.  A skeptical and pessimistic outlook leads to being conservative about management quality.
 
 {: .warning }
-
 >  The pharmaceutical industry is complex and inherently risky. The valuation is based on conservative assumptions, but it is still possible that the actual results could be significantly different from the estimated value.
 **Suggested Books:**
 

@@ -65,7 +65,6 @@ Intel's moat rating is **2 out of 5**, reflecting a **narrow moat**. While the c
 **Calculations:**
 
 {: .highlight }
-
 1. **Forecast Period (Years 1-10):** Project revenues, operating income, taxes, and free cash flow (FCF) based on the growth and margin assumptions. 
 2. **Terminal Value (Year 11 onwards):** Calculate the terminal value using the perpetuity growth method:  
 >Terminal Value = (FCF in Year 11 * (1 + Terminal Growth Rate)) / (WACC - Terminal Growth Rate)
@@ -79,7 +78,6 @@ Intel's moat rating is **2 out of 5**, reflecting a **narrow moat**. While the c
 Based on our DCF model and conservative assumptions, we estimate a fair value for Intel of approximately **$115 billion**, or roughly **$20 per share**. This is substantially lower than some analysts' estimates, reflecting our pessimistic outlook for the company's long-term growth and profitability.
 
 {: .note }
-
 **Important Note:** This valuation is based on a number of assumptions that can and will change. The actual results obtained by the company may diverge significantly from our current estimates, making it advisable to reexamine the value and recalculate over time. 
 
 Furthermore, there are inherent biases and limitations in any valuation model. The output of the valuation, therefore, is at best a fair and reasonable approximation and should not be taken as an exact or accurate number.

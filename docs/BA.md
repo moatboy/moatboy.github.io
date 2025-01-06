@@ -77,7 +77,6 @@ A discounted cash flow (DCF) valuation was performed using a 10-year forecast pe
 
 {: .highlight }
 
-
 **Example Calculation (Base Case - Year 1)**
 
 * Revenue: $81.8 Billion

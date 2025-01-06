@@ -41,7 +41,6 @@ The mining industry is cyclical, with commodity prices significantly impacting r
 
 * **Margins:** BHP's margins have been under pressure in the latest financial years. 
 {: .warning }
-
 For FY2024, the company's EBITDA margin of 55.9% was lower than its adjusted historical average of 60.9%. However, compared to the medians reported for other mining companies, this margin is still high, suggesting potential for strong profitability.
 * **ROIC:** Return on invested capital has been strong but volatile, with a median of 21% over the past decade. This high median indicates the potential for value creation.
 
@@ -71,7 +70,6 @@ To value BHP, a Discounted Cash Flow (DCF) analysis was performed, using data fr
 * **Probability of failure:** 5%
 
 {: .highlight }
-
 All assumptions are calibrated using historical data from BHP's annual reports.
 
 **Free Cash Flow to Firm (FCFF)** and **Present Value of Operating Assets** calculations, considering the reinvestment rate, are presented below for years 1–10.
@@ -105,5 +103,4 @@ $Value/share = \$115.79$
 
 
 {: .important }
-
 This valuation is based on several assumptions and should be used as a starting point for further analysis. Actual results may vary widely, especially for a cyclical commodity company. Furthermore, the stock market can overreact or underreact to news and earnings releases. This report is not a recommendation to buy or sell BHP stock.

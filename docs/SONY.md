@@ -80,7 +80,6 @@ I will use a **discounted cash flow (DCF)** model to value Sony. Given the congl
 * **Failure risk:** I account for the probability of failure in each of Sony’s businesses, discounting the cash flows from the core operation.  Given that Sony has been in existence as a business since the early 1940s, the likelihood of failure is relatively low. The appropriate failure rate has been derived from failure rates of companies of similar sizes. The failure probability is assessed by bond rating.  Thus, the bond rating at the time of the valuation would imply that Sony is likely to continue to exist in the future. As a result, we treat this risk as non-material.
 
 {: .warning }
-
 **Important Note:** The DCF Model is extremely sensitive to the assumptions made about the future.  Small changes in the forecast assumptions, such as revenue growth or cost of capital, can dramatically alter the valuation.  Uncertainty about product demand, technological disruptions, and macroeconomic uncertainty (inflation, recession, interest rates, etc.) create a high degree of risk surrounding this valuation. Given the complexity and uncertainty surrounding valuation of any company, particularly a multi-segment, global conglomerate like Sony, a significant margin of safety is needed when making investment decisions. 
 
 
