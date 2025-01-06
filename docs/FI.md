@@ -4,7 +4,7 @@ layout: default
 nav_order: 113
 ---
 
-# Fiserv, Inc. Inc.
+# Fiserv, Inc.
 {: .fs-9 }
 
 {: .label .label-purple }

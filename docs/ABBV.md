@@ -4,7 +4,7 @@ layout: default
 nav_order: 27
 ---
 
-# AbbVie Inc. Inc.
+# AbbVie Inc.
 {: .fs-9 }
 
 {: .label .label-purple }

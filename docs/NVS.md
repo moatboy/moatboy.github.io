@@ -4,7 +4,7 @@ layout: default
 nav_order: 53
 ---
 
-# Novartis AG Inc.
+# Novartis AG
 {: .fs-9 }
 
 {: .label .label-purple }

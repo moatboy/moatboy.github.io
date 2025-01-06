@@ -4,7 +4,7 @@ layout: default
 nav_order: 154
 ---
 
-# Moody's Corporation Inc.
+# Moody's Corporation
 {: .fs-9 }
 
 {: .label .label-purple }

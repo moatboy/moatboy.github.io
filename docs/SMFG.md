@@ -4,7 +4,7 @@ layout: default
 nav_order: 136
 ---
 
-# Sumitomo Mitsui Financial Group, Inc. Inc.
+# Sumitomo Mitsui Financial Group, Inc.
 {: .fs-9 }
 
 {: .label .label-purple }

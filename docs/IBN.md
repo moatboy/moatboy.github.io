@@ -4,7 +4,7 @@ layout: default
 nav_order: 119
 ---
 
-# ICICI Bank Limited Inc.
+# ICICI Bank Limited
 {: .fs-9 }
 
 {: .label .label-purple }

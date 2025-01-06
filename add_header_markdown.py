@@ -62,7 +62,7 @@ layout: default
 nav_order: {nav_order_dict[ticker]}
 ---
 
-# {title} Inc.
+# {title}
 {{: .fs-9 }}
 
 {{: .label .label-purple }}

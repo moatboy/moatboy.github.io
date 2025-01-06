@@ -4,7 +4,7 @@ layout: default
 nav_order: 98
 ---
 
-# EADSY Inc.
+# EADSY
 {: .fs-9 }
 
 {: .label .label-purple }

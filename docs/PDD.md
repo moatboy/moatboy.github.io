@@ -4,7 +4,7 @@ layout: default
 nav_order: 86
 ---
 
-# PDD Holdings Inc. Inc.
+# PDD Holdings Inc.
 {: .fs-9 }
 
 {: .label .label-purple }

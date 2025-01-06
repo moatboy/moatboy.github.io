@@ -4,7 +4,7 @@ layout: default
 nav_order: 150
 ---
 
-# Trane Technologies Inc.
+# Trane Technologies
 {: .fs-9 }
 
 {: .label .label-purple }

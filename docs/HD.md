@@ -4,7 +4,7 @@ layout: default
 nav_order: 21
 ---
 
-# The Home Depot Inc.
+# The Home Depot
 {: .fs-9 }
 
 {: .label .label-purple }

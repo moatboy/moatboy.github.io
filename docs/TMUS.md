@@ -4,7 +4,7 @@ layout: default
 nav_order: 33
 ---
 
-# T-Mobile US, Inc. Inc.
+# T-Mobile US, Inc.
 {: .fs-9 }
 
 {: .label .label-purple }

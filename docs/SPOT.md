@@ -4,7 +4,7 @@ layout: default
 nav_order: 135
 ---
 
-# Spotify Technology S.A. Inc.
+# Spotify Technology S.A.
 {: .fs-9 }
 
 {: .label .label-purple }

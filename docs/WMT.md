@@ -4,7 +4,7 @@ layout: default
 nav_order: 10
 ---
 
-# Walmart Inc.
+# Walmart
 {: .fs-9 }
 
 {: .label .label-purple }

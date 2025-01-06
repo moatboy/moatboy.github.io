@@ -4,7 +4,7 @@ layout: default
 nav_order: 111
 ---
 
-# Micron Technology Inc.
+# Micron Technology
 {: .fs-9 }
 
 {: .label .label-purple }

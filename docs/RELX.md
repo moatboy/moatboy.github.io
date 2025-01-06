@@ -4,7 +4,7 @@ layout: default
 nav_order: 153
 ---
 
-# RELX PLC Inc.
+# RELX PLC
 {: .fs-9 }
 
 {: .label .label-purple }

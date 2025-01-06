@@ -4,7 +4,7 @@ layout: default
 nav_order: 9
 ---
 
-# Berkshire Hathaway Inc.
+# Berkshire Hathaway
 {: .fs-9 }
 
 {: .label .label-purple }

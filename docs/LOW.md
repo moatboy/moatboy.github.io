@@ -4,7 +4,7 @@ layout: default
 nav_order: 83
 ---
 
-# Lowe's Companies, Inc. Inc.
+# Lowe's Companies, Inc.
 {: .fs-9 }
 
 {: .label .label-purple }

@@ -4,7 +4,7 @@ layout: default
 nav_order: 35
 ---
 
-# Wells Fargo & Company Inc.
+# Wells Fargo & Company
 {: .fs-9 }
 
 {: .label .label-purple }

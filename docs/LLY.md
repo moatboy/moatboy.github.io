@@ -4,7 +4,7 @@ layout: default
 nav_order: 11
 ---
 
-# Eli Lilly and Company Inc.
+# Eli Lilly and Company
 {: .fs-9 }
 
 {: .label .label-purple }

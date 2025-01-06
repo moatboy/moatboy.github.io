@@ -4,7 +4,7 @@ layout: default
 nav_order: 31
 ---
 
-# Coca-Cola Inc.
+# Coca-Cola
 {: .fs-9 }
 
 {: .label .label-purple }

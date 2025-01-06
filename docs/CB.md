@@ -4,7 +4,7 @@ layout: default
 nav_order: 118
 ---
 
-# Chubb Limited Inc.
+# Chubb Limited
 {: .fs-9 }
 
 {: .label .label-purple }

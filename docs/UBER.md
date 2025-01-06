@@ -4,7 +4,7 @@ layout: default
 nav_order: 103
 ---
 
-# Uber Technologies Inc.
+# Uber Technologies
 {: .fs-9 }
 
 {: .label .label-purple }

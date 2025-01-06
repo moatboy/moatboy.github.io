@@ -4,7 +4,7 @@ layout: default
 nav_order: 95
 ---
 
-# Eaton Corporation plc Inc.
+# Eaton Corporation plc
 {: .fs-9 }
 
 {: .label .label-purple }

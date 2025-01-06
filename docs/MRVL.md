@@ -4,7 +4,7 @@ layout: default
 nav_order: 131
 ---
 
-# Marvell Technology Inc.
+# Marvell Technology
 {: .fs-9 }
 
 {: .label .label-purple }

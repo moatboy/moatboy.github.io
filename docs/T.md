@@ -4,7 +4,7 @@ layout: default
 nav_order: 72
 ---
 
-# AT&T Inc.
+# AT&T
 {: .fs-9 }
 
 {: .label .label-purple }

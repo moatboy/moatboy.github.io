@@ -4,7 +4,7 @@ layout: default
 nav_order: 105
 ---
 
-# ConocoPhillips Inc.
+# ConocoPhillips
 {: .fs-9 }
 
 {: .label .label-purple }

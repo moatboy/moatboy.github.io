@@ -4,7 +4,7 @@ layout: default
 nav_order: 149
 ---
 
-# Brookfield Asset Management Inc.
+# Brookfield Asset Management
 {: .fs-9 }
 
 {: .label .label-purple }

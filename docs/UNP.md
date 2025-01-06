@@ -4,7 +4,7 @@ layout: default
 nav_order: 90
 ---
 
-# Union Pacific Inc.
+# Union Pacific
 {: .fs-9 }
 
 {: .label .label-purple }

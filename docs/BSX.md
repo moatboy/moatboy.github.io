@@ -4,7 +4,7 @@ layout: default
 nav_order: 97
 ---
 
-# Boston Scientific Corporation Inc.
+# Boston Scientific Corporation
 {: .fs-9 }
 
 {: .label .label-purple }

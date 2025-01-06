@@ -4,7 +4,7 @@ layout: default
 nav_order: 130
 ---
 
-# Apollo Global Management, Inc. Inc.
+# Apollo Global Management, Inc.
 {: .fs-9 }
 
 {: .label .label-purple }

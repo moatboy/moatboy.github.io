@@ -4,7 +4,7 @@ layout: default
 nav_order: 108
 ---
 
-# Vertex Pharmaceuticals Inc.
+# Vertex Pharmaceuticals
 {: .fs-9 }
 
 {: .label .label-purple }

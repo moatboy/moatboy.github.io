@@ -4,7 +4,7 @@ layout: default
 nav_order: 38
 ---
 
-# ServiceNow, Inc. Inc.
+# ServiceNow, Inc.
 {: .fs-9 }
 
 {: .label .label-purple }

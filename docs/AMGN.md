@@ -4,7 +4,7 @@ layout: default
 nav_order: 85
 ---
 
-# Amgen Inc.
+# Amgen
 {: .fs-9 }
 
 {: .label .label-purple }

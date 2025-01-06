@@ -4,7 +4,7 @@ layout: default
 nav_order: 74
 ---
 
-# Fomento Económico Mexicano Inc.
+# Fomento Económico Mexicano
 {: .fs-9 }
 
 {: .label .label-purple }

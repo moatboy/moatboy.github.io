@@ -4,7 +4,7 @@ layout: default
 nav_order: 143
 ---
 
-# PayPal Holdings, Inc. Inc.
+# PayPal Holdings, Inc.
 {: .fs-9 }
 
 {: .label .label-purple }

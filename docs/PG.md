@@ -4,7 +4,7 @@ layout: default
 nav_order: 22
 ---
 
-# Procter & Gamble Inc.
+# Procter & Gamble
 {: .fs-9 }
 
 {: .label .label-purple }

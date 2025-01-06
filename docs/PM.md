@@ -4,7 +4,7 @@ layout: default
 nav_order: 56
 ---
 
-# Philip Morris International Inc.
+# Philip Morris International
 {: .fs-9 }
 
 {: .label .label-purple }

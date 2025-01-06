@@ -4,7 +4,7 @@ layout: default
 nav_order: 87
 ---
 
-# Arista Networks Inc.
+# Arista Networks
 {: .fs-9 }
 
 {: .label .label-purple }

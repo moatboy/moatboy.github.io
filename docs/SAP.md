@@ -4,7 +4,7 @@ layout: default
 nav_order: 28
 ---
 
-# SAP Inc.
+# SAP
 {: .fs-9 }
 
 {: .label .label-purple }

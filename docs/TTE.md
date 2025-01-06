@@ -4,7 +4,7 @@ layout: default
 nav_order: 104
 ---
 
-# TotalEnergies SE Inc.
+# TotalEnergies SE
 {: .fs-9 }
 
 {: .label .label-purple }

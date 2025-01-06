@@ -4,7 +4,7 @@ layout: default
 nav_order: 39
 ---
 
-# Blackstone Inc.
+# Blackstone
 {: .fs-9 }
 
 {: .label .label-purple }

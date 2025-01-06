@@ -4,7 +4,7 @@ layout: default
 nav_order: 134
 ---
 
-# Infosys Limited Inc.
+# Infosys Limited
 {: .fs-9 }
 
 {: .label .label-purple }

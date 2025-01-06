@@ -4,7 +4,7 @@ layout: default
 nav_order: 57
 ---
 
-# Intuitive Surgical Inc.
+# Intuitive Surgical
 {: .fs-9 }
 
 {: .label .label-purple }

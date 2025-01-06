@@ -4,7 +4,7 @@ layout: default
 nav_order: 82
 ---
 
-# NextEra Energy Inc.
+# NextEra Energy
 {: .fs-9 }
 
 {: .label .label-purple }

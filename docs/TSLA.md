@@ -4,7 +4,7 @@ layout: default
 nav_order: 7
 ---
 
-# Tesla Inc.
+# Tesla
 {: .fs-9 }
 
 {: .label .label-purple }

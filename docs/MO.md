@@ -4,7 +4,7 @@ layout: default
 nav_order: 141
 ---
 
-# Altria Group Inc.
+# Altria Group
 {: .fs-9 }
 
 {: .label .label-purple }

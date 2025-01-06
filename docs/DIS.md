@@ -4,7 +4,7 @@ layout: default
 nav_order: 50
 ---
 
-# Walt Disney Inc.
+# Walt Disney
 {: .fs-9 }
 
 {: .label .label-purple }

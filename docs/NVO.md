@@ -4,7 +4,7 @@ layout: default
 nav_order: 16
 ---
 
-# Novo Nordisk Inc.
+# Novo Nordisk
 {: .fs-9 }
 
 {: .label .label-purple }

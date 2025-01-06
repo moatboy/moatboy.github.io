@@ -4,7 +4,7 @@ layout: default
 nav_order: 73
 ---
 
-# BlackRock Inc.
+# BlackRock
 {: .fs-9 }
 
 {: .label .label-purple }

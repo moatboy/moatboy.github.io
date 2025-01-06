@@ -4,7 +4,7 @@ layout: default
 nav_order: 41
 ---
 
-# PepsiCo, Inc. Inc.
+# PepsiCo, Inc.
 {: .fs-9 }
 
 {: .label .label-purple }

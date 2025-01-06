@@ -4,7 +4,7 @@ layout: default
 nav_order: 124
 ---
 
-# Anheuser-Busch InBev SA/NV Inc.
+# Anheuser-Busch InBev SA/NV
 {: .fs-9 }
 
 {: .label .label-purple }

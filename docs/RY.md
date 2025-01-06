@@ -4,7 +4,7 @@ layout: default
 nav_order: 65
 ---
 
-# Royal Bank of Canada Inc.
+# Royal Bank of Canada
 {: .fs-9 }
 
 {: .label .label-purple }

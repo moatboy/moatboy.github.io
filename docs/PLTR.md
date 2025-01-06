@@ -4,7 +4,7 @@ layout: default
 nav_order: 69
 ---
 
-# Palantir Technologies Inc.
+# Palantir Technologies
 {: .fs-9 }
 
 {: .label .label-purple }

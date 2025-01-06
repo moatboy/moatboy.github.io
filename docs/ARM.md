@@ -4,7 +4,7 @@ layout: default
 nav_order: 80
 ---
 
-# ARM Holdings plc Inc.
+# ARM Holdings plc
 {: .fs-9 }
 
 {: .label .label-purple }

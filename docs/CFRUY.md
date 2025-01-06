@@ -4,7 +4,7 @@ layout: default
 nav_order: 145
 ---
 
-# Carrefour Inc.
+# Carrefour
 {: .fs-9 }
 
 {: .label .label-purple }

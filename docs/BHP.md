@@ -4,7 +4,7 @@ layout: default
 nav_order: 101
 ---
 
-# BHP Group Limited Inc.
+# BHP Group Limited
 {: .fs-9 }
 
 {: .label .label-purple }

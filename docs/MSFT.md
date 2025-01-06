@@ -4,7 +4,7 @@ layout: default
 nav_order: 2
 ---
 
-# Microsoft Inc.
+# Microsoft
 {: .fs-9 }
 
 {: .label .label-purple }

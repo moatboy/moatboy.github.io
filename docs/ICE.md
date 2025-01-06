@@ -4,7 +4,7 @@ layout: default
 nav_order: 151
 ---
 
-# Intercontinental Exchange, Inc. Inc.
+# Intercontinental Exchange, Inc.
 {: .fs-9 }
 
 {: .label .label-purple }

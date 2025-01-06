@@ -4,7 +4,7 @@ layout: default
 nav_order: 147
 ---
 
-# Amphenol Corporation Inc.
+# Amphenol Corporation
 {: .fs-9 }
 
 {: .label .label-purple }

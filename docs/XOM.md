@@ -4,7 +4,7 @@ layout: default
 nav_order: 18
 ---
 
-# Exxon Mobil Inc.
+# Exxon Mobil
 {: .fs-9 }
 
 {: .label .label-purple }

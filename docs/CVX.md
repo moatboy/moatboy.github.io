@@ -4,7 +4,7 @@ layout: default
 nav_order: 32
 ---
 
-# Chevron Inc.
+# Chevron
 {: .fs-9 }
 
 {: .label .label-purple }

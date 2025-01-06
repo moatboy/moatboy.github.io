@@ -4,7 +4,7 @@ layout: default
 nav_order: 6
 ---
 
-# Meta Platforms, Inc. Inc.
+# Meta Platforms, Inc.
 {: .fs-9 }
 
 {: .label .label-purple }

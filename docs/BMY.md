@@ -4,7 +4,7 @@ layout: default
 nav_order: 114
 ---
 
-# Bristol-Myers Squibb Inc.
+# Bristol-Myers Squibb
 {: .fs-9 }
 
 {: .label .label-purple }

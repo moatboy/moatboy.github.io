@@ -4,7 +4,7 @@ layout: default
 nav_order: 127
 ---
 
-# Prologis Inc.
+# Prologis
 {: .fs-9 }
 
 {: .label .label-purple }

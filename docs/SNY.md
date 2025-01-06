@@ -4,7 +4,7 @@ layout: default
 nav_order: 106
 ---
 
-# Sanofi Inc.
+# Sanofi
 {: .fs-9 }
 
 {: .label .label-purple }

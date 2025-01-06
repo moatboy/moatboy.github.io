@@ -4,7 +4,7 @@ layout: default
 nav_order: 155
 ---
 
-# Intel Inc.
+# Intel
 {: .fs-9 }
 
 {: .label .label-purple }

@@ -4,7 +4,7 @@ layout: default
 nav_order: 100
 ---
 
-# Palo Alto Networks Inc.
+# Palo Alto Networks
 {: .fs-9 }
 
 {: .label .label-purple }

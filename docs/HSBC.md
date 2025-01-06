@@ -4,7 +4,7 @@ layout: default
 nav_order: 64
 ---
 
-# HSBC Holdings plc Inc.
+# HSBC Holdings plc
 {: .fs-9 }
 
 {: .label .label-purple }

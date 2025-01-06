@@ -4,7 +4,7 @@ layout: default
 nav_order: 78
 ---
 
-# Honeywell International Inc. Inc.
+# Honeywell International Inc.
 {: .fs-9 }
 
 {: .label .label-purple }

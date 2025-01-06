@@ -4,7 +4,7 @@ layout: default
 nav_order: 51
 ---
 
-# Thermo Fisher Scientific Inc.
+# Thermo Fisher Scientific
 {: .fs-9 }
 
 {: .label .label-purple }

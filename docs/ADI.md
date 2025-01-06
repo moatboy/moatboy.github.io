@@ -4,7 +4,7 @@ layout: default
 nav_order: 121
 ---
 
-# Analog Devices, Inc. Inc.
+# Analog Devices, Inc.
 {: .fs-9 }
 
 {: .label .label-purple }

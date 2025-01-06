@@ -4,7 +4,7 @@ layout: default
 nav_order: 13
 ---
 
-# Visa Inc.
+# Visa
 {: .fs-9 }
 
 {: .label .label-purple }

@@ -4,7 +4,7 @@ layout: default
 nav_order: 8
 ---
 
-# Broadcom Inc. Inc.
+# Broadcom Inc.
 {: .fs-9 }
 
 {: .label .label-purple }

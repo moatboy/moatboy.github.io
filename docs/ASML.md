@@ -4,7 +4,7 @@ layout: default
 nav_order: 29
 ---
 
-# ASML Holding N.V. Inc.
+# ASML Holding N.V.
 {: .fs-9 }
 
 {: .label .label-purple }

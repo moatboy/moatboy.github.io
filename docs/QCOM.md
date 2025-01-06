@@ -4,7 +4,7 @@ layout: default
 nav_order: 63
 ---
 
-# Qualcomm Inc.
+# Qualcomm
 {: .fs-9 }
 
 {: .label .label-purple }

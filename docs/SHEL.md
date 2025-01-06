@@ -4,7 +4,7 @@ layout: default
 nav_order: 58
 ---
 
-# Royal Dutch Shell plc Inc.
+# Royal Dutch Shell plc
 {: .fs-9 }
 
 {: .label .label-purple }

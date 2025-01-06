@@ -4,7 +4,7 @@ layout: default
 nav_order: 76
 ---
 
-# S&P Global Inc. Inc.
+# S&P Global Inc.
 {: .fs-9 }
 
 {: .label .label-purple }

@@ -4,7 +4,7 @@ layout: default
 nav_order: 94
 ---
 
-# Applied Materials, Inc. Inc.
+# Applied Materials, Inc.
 {: .fs-9 }
 
 {: .label .label-purple }

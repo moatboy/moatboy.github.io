@@ -4,7 +4,7 @@ layout: default
 nav_order: 59
 ---
 
-# Intuit Inc.
+# Intuit
 {: .fs-9 }
 
 {: .label .label-purple }

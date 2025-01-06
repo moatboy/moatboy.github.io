@@ -4,7 +4,7 @@ layout: default
 nav_order: 15
 ---
 
-# Mastercard Inc.
+# Mastercard
 {: .fs-9 }
 
 {: .label .label-purple }

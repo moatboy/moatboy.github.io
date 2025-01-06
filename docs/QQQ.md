@@ -4,7 +4,7 @@ layout: default
 nav_order: 45
 ---
 
-# Invesco QQQ Trust Inc.
+# Invesco QQQ Trust
 {: .fs-9 }
 
 {: .label .label-purple }

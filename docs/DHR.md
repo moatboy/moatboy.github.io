@@ -4,7 +4,7 @@ layout: default
 nav_order: 70
 ---
 
-# Danaher Corporation Inc.
+# Danaher Corporation
 {: .fs-9 }
 
 {: .label .label-purple }

@@ -4,7 +4,7 @@ layout: default
 nav_order: 89
 ---
 
-# Charles Schwab Inc.
+# Charles Schwab
 {: .fs-9 }
 
 {: .label .label-purple }

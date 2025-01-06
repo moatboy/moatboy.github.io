@@ -4,7 +4,7 @@ layout: default
 nav_order: 47
 ---
 
-# AstraZeneca Inc.
+# AstraZeneca
 {: .fs-9 }
 
 {: .label .label-purple }

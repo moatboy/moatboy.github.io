@@ -4,7 +4,7 @@ layout: default
 nav_order: 54
 ---
 
-# Adobe Inc.
+# Adobe
 {: .fs-9 }
 
 {: .label .label-purple }

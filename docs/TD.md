@@ -4,7 +4,7 @@ layout: default
 nav_order: 139
 ---
 
-# Toronto-Dominion Bank Inc.
+# Toronto-Dominion Bank
 {: .fs-9 }
 
 {: .label .label-purple }

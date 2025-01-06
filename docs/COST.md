@@ -4,7 +4,7 @@ layout: default
 nav_order: 20
 ---
 
-# Costco Wholesale Inc.
+# Costco Wholesale
 {: .fs-9 }
 
 {: .label .label-purple }

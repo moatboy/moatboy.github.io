@@ -4,7 +4,7 @@ layout: default
 nav_order: 37
 ---
 
-# Toyota Motor Corporation Inc.
+# Toyota Motor Corporation
 {: .fs-9 }
 
 {: .label .label-purple }

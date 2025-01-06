@@ -4,7 +4,7 @@ layout: default
 nav_order: 88
 ---
 
-# Stryker Corporation Inc.
+# Stryker Corporation
 {: .fs-9 }
 
 {: .label .label-purple }

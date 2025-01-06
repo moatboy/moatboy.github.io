@@ -4,7 +4,7 @@ layout: default
 nav_order: 99
 ---
 
-# Sony Inc.
+# Sony
 {: .fs-9 }
 
 {: .label .label-purple }

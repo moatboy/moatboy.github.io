@@ -4,7 +4,7 @@ layout: default
 nav_order: 40
 ---
 
-# Accenture Inc.
+# Accenture
 {: .fs-9 }
 
 {: .label .label-purple }

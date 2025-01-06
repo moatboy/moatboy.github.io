@@ -4,7 +4,7 @@ layout: default
 nav_order: 30
 ---
 
-# Rogers Corporation Inc.
+# Rogers Corporation
 {: .fs-9 }
 
 {: .label .label-purple }

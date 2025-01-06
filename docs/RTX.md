@@ -4,7 +4,7 @@ layout: default
 nav_order: 75
 ---
 
-# Raytheon Technologies Inc.
+# Raytheon Technologies
 {: .fs-9 }
 
 {: .label .label-purple }

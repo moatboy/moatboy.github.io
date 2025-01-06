@@ -4,7 +4,7 @@ layout: default
 nav_order: 152
 ---
 
-# Chipotle Mexican Grill Inc.
+# Chipotle Mexican Grill
 {: .fs-9 }
 
 {: .label .label-purple }

@@ -4,7 +4,7 @@ layout: default
 nav_order: 120
 ---
 
-# United Parcel Service Inc.
+# United Parcel Service
 {: .fs-9 }
 
 {: .label .label-purple }

@@ -4,7 +4,7 @@ layout: default
 nav_order: 25
 ---
 
-# Bank of America Inc.
+# Bank of America
 {: .fs-9 }
 
 {: .label .label-purple }

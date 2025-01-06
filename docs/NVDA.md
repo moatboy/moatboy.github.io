@@ -4,7 +4,7 @@ layout: default
 nav_order: 3
 ---
 
-# NVIDIA Inc.
+# NVIDIA
 {: .fs-9 }
 
 {: .label .label-purple }

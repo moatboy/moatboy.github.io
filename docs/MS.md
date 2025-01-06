@@ -4,7 +4,7 @@ layout: default
 nav_order: 48
 ---
 
-# Morgan Stanley Inc.
+# Morgan Stanley
 {: .fs-9 }
 
 {: .label .label-purple }

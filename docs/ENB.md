@@ -4,7 +4,7 @@ layout: default
 nav_order: 146
 ---
 
-# Enbridge Inc. Inc.
+# Enbridge Inc.
 {: .fs-9 }
 
 {: .label .label-purple }

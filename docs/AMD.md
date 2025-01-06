@@ -4,7 +4,7 @@ layout: default
 nav_order: 52
 ---
 
-# Advanced Micro Devices Inc.
+# Advanced Micro Devices
 {: .fs-9 }
 
 {: .label .label-purple }

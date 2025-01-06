@@ -4,7 +4,7 @@ layout: default
 nav_order: 26
 ---
 
-# Salesforce Inc.
+# Salesforce
 {: .fs-9 }
 
 {: .label .label-purple }

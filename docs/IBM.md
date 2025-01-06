@@ -4,7 +4,7 @@ layout: default
 nav_order: 44
 ---
 
-# International Business Machines Inc.
+# International Business Machines
 {: .fs-9 }
 
 {: .label .label-purple }

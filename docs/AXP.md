@@ -4,7 +4,7 @@ layout: default
 nav_order: 42
 ---
 
-# American Express Inc.
+# American Express
 {: .fs-9 }
 
 {: .label .label-purple }

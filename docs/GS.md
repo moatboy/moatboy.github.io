@@ -4,7 +4,7 @@ layout: default
 nav_order: 61
 ---
 
-# Goldman Sachs Inc.
+# Goldman Sachs
 {: .fs-9 }
 
 {: .label .label-purple }

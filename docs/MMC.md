@@ -4,7 +4,7 @@ layout: default
 nav_order: 125
 ---
 
-# Marsh & McLennan Companies, Inc. Inc.
+# Marsh & McLennan Companies, Inc.
 {: .fs-9 }
 
 {: .label .label-purple }

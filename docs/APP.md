@@ -4,7 +4,7 @@ layout: default
 nav_order: 117
 ---
 
-# AppLovin Corporation Inc.
+# AppLovin Corporation
 {: .fs-9 }
 
 {: .label .label-purple }

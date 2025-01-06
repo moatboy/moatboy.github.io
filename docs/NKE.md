@@ -4,7 +4,7 @@ layout: default
 nav_order: 112
 ---
 
-# Nike Inc.
+# Nike
 {: .fs-9 }
 
 {: .label .label-purple }

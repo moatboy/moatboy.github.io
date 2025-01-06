@@ -4,7 +4,7 @@ layout: default
 nav_order: 71
 ---
 
-# HDFC Bank Limited Inc.
+# HDFC Bank Limited
 {: .fs-9 }
 
 {: .label .label-purple }

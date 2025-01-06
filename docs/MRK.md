@@ -4,7 +4,7 @@ layout: default
 nav_order: 34
 ---
 
-# Merck & Co., Inc. Inc.
+# Merck & Co., Inc.
 {: .fs-9 }
 
 {: .label .label-purple }

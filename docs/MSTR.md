@@ -4,7 +4,7 @@ layout: default
 nav_order: 133
 ---
 
-# MicroStrategy Incorporated Inc.
+# MicroStrategy Incorporated
 {: .fs-9 }
 
 {: .label .label-purple }

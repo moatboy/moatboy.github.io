@@ -4,7 +4,7 @@ layout: default
 nav_order: 12
 ---
 
-# JPMorgan Chase & Co. Inc.
+# JPMorgan Chase & Co.
 {: .fs-9 }
 
 {: .label .label-purple }

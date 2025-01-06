@@ -4,7 +4,7 @@ layout: default
 nav_order: 62
 ---
 
-# General Electric Inc.
+# General Electric
 {: .fs-9 }
 
 {: .label .label-purple }

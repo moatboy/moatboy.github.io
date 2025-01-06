@@ -4,7 +4,7 @@ layout: default
 nav_order: 93
 ---
 
-# TJX Companies Inc.
+# TJX Companies
 {: .fs-9 }
 
 {: .label .label-purple }

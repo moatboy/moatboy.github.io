@@ -4,7 +4,7 @@ layout: default
 nav_order: 14
 ---
 
-# SPDR S&P 500 ETF Trust Inc.
+# SPDR S&P 500 ETF Trust
 {: .fs-9 }
 
 {: .label .label-purple }

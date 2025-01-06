@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-# Apple Inc.
+# Apple
 {: .fs-9 }
 
 {: .label .label-purple }

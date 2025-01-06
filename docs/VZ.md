@@ -4,7 +4,7 @@ layout: default
 nav_order: 66
 ---
 
-# Verizon Communications Inc.
+# Verizon Communications
 {: .fs-9 }
 
 {: .label .label-purple }

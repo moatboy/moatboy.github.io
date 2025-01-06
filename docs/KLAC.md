@@ -4,7 +4,7 @@ layout: default
 nav_order: 156
 ---
 
-# KLA Corporation Inc.
+# KLA Corporation
 {: .fs-9 }
 
 {: .label .label-purple }

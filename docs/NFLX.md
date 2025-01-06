@@ -4,7 +4,7 @@ layout: default
 nav_order: 23
 ---
 
-# Netflix Inc.
+# Netflix
 {: .fs-9 }
 
 {: .label .label-purple }

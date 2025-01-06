@@ -4,7 +4,7 @@ layout: default
 nav_order: 129
 ---
 
-# Lam Research Corporation Inc.
+# Lam Research Corporation
 {: .fs-9 }
 
 {: .label .label-purple }

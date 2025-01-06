@@ -4,7 +4,7 @@ layout: default
 nav_order: 92
 ---
 
-# Mitsubishi UFJ Financial Group, Inc. Inc.
+# Mitsubishi UFJ Financial Group, Inc.
 {: .fs-9 }
 
 {: .label .label-purple }

@@ -4,7 +4,7 @@ layout: default
 nav_order: 107
 ---
 
-# Rio Tinto Inc.
+# Rio Tinto
 {: .fs-9 }
 
 {: .label .label-purple }

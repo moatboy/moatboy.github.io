@@ -4,7 +4,7 @@ layout: default
 nav_order: 67
 ---
 
-# Texas Instruments Inc.
+# Texas Instruments
 {: .fs-9 }
 
 {: .label .label-purple }

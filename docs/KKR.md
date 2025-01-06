@@ -4,7 +4,7 @@ layout: default
 nav_order: 91
 ---
 
-# KKR & Co. Inc. Inc.
+# KKR & Co. Inc.
 {: .fs-9 }
 
 {: .label .label-purple }

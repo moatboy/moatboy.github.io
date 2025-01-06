@@ -4,7 +4,7 @@ layout: default
 nav_order: 116
 ---
 
-# Gilead Sciences Inc.
+# Gilead Sciences
 {: .fs-9 }
 
 {: .label .label-purple }

@@ -4,7 +4,7 @@ layout: default
 nav_order: 81
 ---
 
-# Comcast Inc.
+# Comcast
 {: .fs-9 }
 
 {: .label .label-purple }

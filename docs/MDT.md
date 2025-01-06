@@ -4,7 +4,7 @@ layout: default
 nav_order: 123
 ---
 
-# Medtronic Inc.
+# Medtronic
 {: .fs-9 }
 
 {: .label .label-purple }

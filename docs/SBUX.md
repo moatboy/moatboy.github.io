@@ -4,7 +4,7 @@ layout: default
 nav_order: 122
 ---
 
-# Starbucks Inc.
+# Starbucks
 {: .fs-9 }
 
 {: .label .label-purple }

@@ -4,7 +4,7 @@ layout: default
 nav_order: 46
 ---
 
-# Alibaba Group Inc.
+# Alibaba Group
 {: .fs-9 }
 
 {: .label .label-purple }

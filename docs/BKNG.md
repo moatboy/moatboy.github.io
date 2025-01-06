@@ -4,7 +4,7 @@ layout: default
 nav_order: 68
 ---
 
-# Booking Holdings Inc. Inc.
+# Booking Holdings Inc.
 {: .fs-9 }
 
 {: .label .label-purple }

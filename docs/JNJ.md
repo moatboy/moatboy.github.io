@@ -4,7 +4,7 @@ layout: default
 nav_order: 24
 ---
 
-# Johnson & Johnson Inc.
+# Johnson & Johnson
 {: .fs-9 }
 
 {: .label .label-purple }

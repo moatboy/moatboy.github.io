@@ -4,7 +4,7 @@ layout: default
 nav_order: 43
 ---
 
-# McDonald's Inc.
+# McDonald's
 {: .fs-9 }
 
 {: .label .label-purple }

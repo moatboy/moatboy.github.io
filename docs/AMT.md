@@ -4,7 +4,7 @@ layout: default
 nav_order: 142
 ---
 
-# American Tower Corporation Inc.
+# American Tower Corporation
 {: .fs-9 }
 
 {: .label .label-purple }

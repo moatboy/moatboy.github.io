@@ -4,7 +4,7 @@ layout: default
 nav_order: 60
 ---
 
-# Caterpillar Inc.
+# Caterpillar
 {: .fs-9 }
 
 {: .label .label-purple }

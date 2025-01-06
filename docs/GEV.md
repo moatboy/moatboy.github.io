@@ -4,7 +4,7 @@ layout: default
 nav_order: 148
 ---
 
-# GE Vernova Inc.
+# GE Vernova
 {: .fs-9 }
 
 {: .label .label-purple }

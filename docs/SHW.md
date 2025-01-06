@@ -4,7 +4,7 @@ layout: default
 nav_order: 140
 ---
 
-# Sherwin-Williams Inc.
+# Sherwin-Williams
 {: .fs-9 }
 
 {: .label .label-purple }
