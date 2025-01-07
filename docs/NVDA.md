@@ -1,21 +1,25 @@
 ---
-title: NVIDIA (NVDA)
+title: NVIDIA Corporation (NVDA)
 layout: default
 nav_order: 3
 ---
 
-# NVIDIA
+# NVIDIA Corporation
 {: .fs-9 }
 
 {: .label .label-purple }
 
-Moat: 3/5
+Moat: 4/5
+
+{: .label .label-blue }
+
+Management: 4/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $350 B
+Pessimistic value: $315 B
 
-NVIDIA is a dominant player in the growing accelerated computing industry, with a strong focus on graphics processing units (GPUs) and related platforms. While the company has established a clear leadership position in several key markets,  the evolving nature of technology and competition warrants a degree of caution.  Thus, we assign NVIDIA a narrow moat rating of 3/5, reflecting its current strength but also acknowledging potential challenges ahead.
+NVIDIA's business model, based on graphics processing units (GPUs), has evolved from a niche gaming market to a dominant force in several high-growth sectors, including data centers, professional visualization, and automotive.  This diversification, coupled with a strong track record of innovation and a capable management team, has led to its impressive financial performance.  However, a strict assessment of its moat and management necessitates a cautious, even pessimistic, perspective to avoid the pitfalls of overvaluation.
 {: .fs-6 .fw-300 }
 
 [Investor Relations](https://www.google.com/search?q=NVDA+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -24,71 +28,152 @@ NVIDIA is a dominant player in the growing accelerated computing industry, with 
 ---
 
 {: .warning } 
->The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+>The moat rating, management rating, and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 
-**Business Overview and Competitive Advantages:**
+{: .warning }
+>
+> The warning from Graham’s book always holds true: A good investment at the wrong price will inevitably lead to losses. 
 
-NVIDIA's primary business is designing and manufacturing GPUs, the processing brains that drive a diverse array of applications across high-growth markets.  These markets include:
+### Moat Analysis
 
-* **Gaming:** NVIDIA's GeForce GPUs are the dominant force in PC gaming, providing high-performance graphics and immersive experiences. The company's G-SYNC technology and GeForce Experience platform further enhance the gaming experience, creating switching costs and fostering customer loyalty.
-* **Data Center:** NVIDIA's data center platforms, powered by GPUs and its CUDA programming model, are increasingly being adopted for AI, deep learning, and high-performance computing, offering significant performance advantages over traditional CPUs. The company's data center-scale offerings, including DGX systems, cater to the growing demand for AI infrastructure and represent a potential source of a wider moat.
-* **Professional Visualization:** NVIDIA's Quadro GPUs and related platforms are used by professional designers across a variety of industries, including automotive, media, architecture, and engineering. The company's push into real-time ray tracing with the NVIDIA RTX platform could further enhance its competitive position in this market.
-* **Automotive:**  NVIDIA's DRIVE platform for autonomous vehicles (AV) is a promising but still developing market. The company is working with hundreds of partners in the automotive ecosystem, but the widespread adoption of autonomous vehicles remains uncertain, limiting the near-term potential for a wider moat.
+NVIDIA possesses a formidable moat, warranting a rating of 4 out of 5.  Its competitive advantages stem primarily from a combination of **intangible assets** and **switching costs**:
 
-NVIDIA's competitive advantages stem from:
+* **Intangible Assets (Brand):**  NVIDIA's brand has become synonymous with high performance in gaming and, increasingly, in AI and data center applications.  This brand strength translates into pricing power, as customers are willing to pay a premium for NVIDIA's products. As Phil Fisher says in *Common Stocks and Uncommon Profits*, "Does the company have products or services with sufficient market potential to make this sizable increase in sales for at least several years?", clearly, the answer for NVDA is yes and it stems from its leadership in the data center market.
+* **Switching Costs:**  In data centers, switching from NVIDIA’s GPUs requires significant reinvestment in hardware and software, retraining of personnel, and potential disruption of ongoing operations.  These costs create significant stickiness for NVIDIA's customers. As Pat Dorsey states in *The Little Book That Builds Wealth*, "Companies that make it tough for customers to use a competitor’s product or service create switching costs.”
 
-* **Technological Leadership:**  NVIDIA has been at the forefront of GPU innovation, consistently delivering performance improvements ahead of Moore's Law. This leadership is supported by substantial investments in research and development, exceeding $45 billion since its inception. However, maintaining this leadership in the face of intense competition, particularly from AMD and Intel, will be crucial for sustaining its moat.
-* **Platform Strategy:** NVIDIA's platform approach, combining hardware, software, algorithms, and services, creates a powerful ecosystem that enhances customer value and increases switching costs. The company's CUDA programming model, CUDA-X collection of libraries, and NGC software registry are key elements of this platform.
-* **Networking Effects:** NVIDIA benefits from indirect network effects. The large and growing number of developers using CUDA and NVIDIA's other software tools strengthens its platform and makes it more attractive to customers. This network effect, however, is not as powerful as the direct network effects enjoyed by platform businesses like Booking.com.
+While the network effect may not be as dominant a factor for NVIDIA as it is for companies like American Express or Microsoft, there is a nascent ecosystem developing around NVIDIA’s CUDA platform, which could strengthen its moat further over time.
 
 
-**Risks and Challenges to Moat:**
+{: .note }
+>
+> As we shall see when we discuss the right set of circumstances, network-based businesses are usually pretty durable.
 
-While NVIDIA enjoys a strong position in several markets, potential challenges and threats must be considered:
+NVIDIA does face some challenges to its moat:
 
-* **Intense Competition:**  The accelerated computing industry is fiercely competitive, with rapid technological change and evolving industry standards.  Competition from AMD and Intel in the GPU market, particularly in the data center segment, poses a significant threat to NVIDIA's moat.
-* **Dependence on Third-Party Suppliers:** NVIDIA's fabless manufacturing strategy, while cost-effective, creates dependence on third-party foundries for semiconductor wafer production.  Supply chain disruptions, or limitations in capacity, could negatively affect NVIDIA's ability to meet customer demand.
-* **Evolving Technology:** The rapid pace of technological change in the semiconductor industry requires continuous innovation and adaptation.  NVIDIA's ability to maintain its technological leadership and anticipate future market trends will be crucial for sustaining its moat.
+* **Competition:**  While NVIDIA currently dominates the high-performance GPU market, competitors like AMD and Intel are continually striving to catch up.  Sustaining its technological advantage is crucial for NVIDIA's long-term moat. This is why a 4/5 moat rating is more appropriate, rather than a 5/5.
+* **Technological Disruption:** The rapid pace of technological change in the semiconductor industry creates the risk of NVIDIA's products becoming obsolete.  Continuous innovation is necessary to maintain its competitive edge.
 
-
-**Valuation:**
-
-Based on NVIDIA's financial documents from fiscal year 2018 to fiscal year 2022 (the period is used to ensure a cycle
-of data and reflect the changes in company's financial model, pre and post Covid), and assuming a discounted cash
-flow valuation model, we arrive at a fair value estimate of $350 billion for the company as of August 2023.  This
-valuation is based on the following key assumptions:
-
-* **Revenue Growth:**  We project revenue growth of 10% annually for the next five years, declining gradually to 5%
-in perpetuity, reflecting a more pessimistic outlook given increasing competition and maturity in its core
-markets.
-* **Margins:**  We assume stable pretax operating margins of 35% after year 5, but with the very real
-possibility that a new aggressive competitor (AMD or Intel) or simply a change of management at a competitor
-can trigger a margin war that takes pre-tax operating margins down to 25%.
-* **Reinvestment Rate:** We adopt the sales/capital ratio approach. We assume that the sales to invested
-capital ratio of 3.09, the industry average.
-* **Cost of Capital:**  We start with a higher cost of equity of 12.9%, reflecting the very large amount of unrealized
-value in the company's current market capitalization of $1.1 trillion, and gradually lower it to 9.61% by year 10, to
-reflect a more moderate but still high cost of equity.
-* **Probability of Failure:**  Given NVIDIA's established position and substantial resources, we assume a low
-probability of failure (5%), with a distress sale value of 75% of estimated value.
+{: .note }
+>
+> The best analysis is that the world can be rendered moot by unforeseen changes in the competitive landscape.
 
 
-**Valuation Sensitivity:**
+### Management Analysis
 
-We acknowledge significant uncertainty around our valuation estimates, particularly regarding revenue growth
-and target operating margins.  To gauge the potential impact of these uncertainties, we conduct a sensitivity
-analysis, considering scenarios where these drivers vary.  A change in these inputs would substantially alter the
-estimated intrinsic value. For instance, if operating margins or revenue growth rates were to fall below our
-already fairly conservative estimates, the intrinsic value could be significantly lower.
+NVIDIA’s management team, led by Jensen Huang, receives a rating of 4 out of 5.  The following factors contribute to this assessment:
+
+* **History and Experience:**  Huang co-founded NVIDIA and has led the company through periods of both rapid growth and market turbulence. His long-term vision and leadership have been instrumental in NVIDIA's success. During the Q2 FY24 earnings call, Huang mentioned, "...our strategy is to extend our product portfolio with system architectures and platforms for accelerated computing...", which demonstrates his focus on growing the entire NVIDIA ecosystem.
+* **Capital Allocation Decisions:**  NVIDIA has generally made prudent capital allocation decisions, investing in R&D and making strategic acquisitions.  However, its recent acquisition of ARM Holdings is still pending regulatory approval and carries some risk.  In Q3 FY23 earnings call, Huang said, "...our acquisition of Arm Limited, is a complicated situation with lots of complications around the world..."
+* **Communication:** NVIDIA's investor relations team provides detailed financial information and communicates candidly about the company's strategy.  This transparency helps investors understand the business and its competitive landscape.
+* **Compensation:** Executive compensation is tied to company performance, which aligns management's incentives with shareholder interests.
+* **Insider Ownership:**  Huang owns a significant stake in NVIDIA, further aligning his interests with those of shareholders.
+
+One concern is the concentration of power in Jensen Huang, who serves as both President and CEO. While his leadership has been critical to NVIDIA's success, a more diversified leadership structure could mitigate the risk associated with key-person dependence.
+
+{: .important }
+>
+> More important, picking great managers is unlikely to be a useful forward-looking endeavor... The cold, hard truth is that some CEOs just have an easier job maintaining high returns on capital.
 
 
-**Conclusion:**
+### Business Overview
 
-NVIDIA's dominance in certain segments of the accelerated computing market is undeniable, and its platform
-strategy and continuous innovation provide a basis for a narrow moat. However, the industry's competitive
-dynamics and dependence on other players (suppliers, partners) introduce significant uncertainty.  While
-the market price as of August 2023 suggests an overvaluation, even at this very conservative intrinsic valuation
-estimate, the company's long-term prospects, particularly in AI and data centers, cannot be ignored.  A long-
-term investor with a high tolerance for risk and patience for market volatility may find NVIDIA to be a compelling
-investment opportunity, albeit one with significant risks.
+NVIDIA operates through two segments: Compute & Networking and Graphics. 
+
+* **Compute & Networking:** This segment generates the majority of NVIDIA's revenue, driven by the demand for its data center GPUs. In Q2 FY24 earnings call, Huang said, "Data center compute revenue nearly doubled year-over-year, reflecting the rapid adoption of Hopper and Ampere architecture GPUs for generative AI and large language models."
+* **Graphics:** This segment includes GPUs for gaming and professional visualization.
+* **Revenue Distribution:** Primarily generated from sales to customers within partner network and concentration sales. A significant amount of revenue is dependent upon only a limited number of customers, partners, and distributors.
+
+Key trends affecting NVIDIA’s business include:
+
+* **Growth of AI and Data Centers:**  The increasing demand for AI and data center solutions is fueling demand for NVIDIA's high-performance GPUs.
+* **Gaming Market Dynamics:** The gaming market, while cyclical, continues to be a significant driver of NVIDIA's revenue.
+* **Automotive Market Expansion:**  NVIDIA is leveraging its GPU technology for the automotive market, particularly for autonomous driving solutions.
+* **Competition:** While NVIDIA is the dominant player in the high-performance GPU market, competition from companies like AMD and Intel remains a factor.
+
+
+### Valuation
+
+{: .note }
+>
+> Buying a stock without close attention to valuation is like buying a car without looking at the sticker price.
+
+Using a discounted cash flow (DCF) model based on earnings before interest, tax, depreciation, and amortization (EBITDA) and information from the company’s latest quarterly earnings release (10-Q), filed on November 20, 2024, for the three months ended October 29, 2024, we estimate NVIDIA's fair value at $315 Billion.  This cautious valuation utilizes relatively pessimistic assumptions, reflecting the risks and uncertainties surrounding NVIDIA’s business.
+
+#### Valuation Assumptions
+
+* **Revenue Growth:** We assume a base case revenue growth of 20% for the next five years, declining gradually to 5% in perpetuity, which represents the long-run growth of the U.S. economy, to estimate free cash flow (FCF) to the firm and free cash flow to equity (FCFE). This estimate is lower than many sell-side analysts’ estimates, but we believe it is more realistic given the increasing competition and potential for technological disruption. This approach to growth is consistent with Phil Fisher, who wrote, in *Common Stocks and Uncommon Profits*: "Does the management have a determination to continue to develop products or processes that will still further increase total sales potentials when the growth potentialities of currently attractive product lines have largely been exploited?". Given increasing market maturity, 20% growth over the next five years is unlikely.
+
+{: .important }
+>
+> In essence, since nearly every company has access to the technology, the throttled economics will not remain at a premium. 
+
+* **Operating Margin:** We forecast operating margins of 30% in perpetuity.  This is below the company's historical levels, reflecting the potential for margin compression due to increased competition.
+* **Reinvestment Rate:**  We assume a reinvestment rate of 25% in perpetuity. This is slightly below the company's current rate, and reflects our expectations of reduced investment needs as growth slows.
+* **Cost of Capital:**  We estimate NVIDIA’s cost of capital at 10%, which we believe appropriately reflects the risk of the company’s business.  This is slightly higher than the risk-free rate plus our estimate of the risk premium, which could be calculated using a Capital Asset Pricing Model (CAPM), a multi-factor model (e.g. Fama French model), or a relative-valuation approach. We chose to use CAPM. We use an interest rate on debt (cost of debt) of 2.7 percent and cost of equity of 9 percent. This is based on a target capital structure with 15 percent debt and 85 percent equity, derived from company and sector average debt ratios.
+* **Probability of Failure:**  Given NVIDIA's position in a dynamic and competitive industry, we assign a 10% probability of failure.  This is reflected in the valuation by discounting the terminal value back one year earlier. This reflects Ben Graham’s margin of safety principle, discussed in *The Intelligent Investor*, "...that is to invest at a discount to your estimate of the underlying business's worth."
+
+#### DCF Valuation Calculation
+
+
+{: .note }
+>
+> We've worked hard to make our moat broader and deeper, and we keep these goals in mind whenever we make new investments in our business.
+
+To find present value of FCF we discounted FCF at a compounded cost of capital, where cost of capital varies each year reflecting the decreasing risk associated with investing in the company over time. To estimate FCF for the company, we use its annual report for fiscal year 2023, filed on February 26, 2024, for the year ended January 29, 2024.
+
+Using the formula:
+
+```
+Value = NOPLAT * (1-g/RONIC) / (WACC-g)
+```
+
+where:
+
+*   NOPLAT = Net operating profit less adjusted taxes. For NVIDIA, NOPLAT was $8.917 billion in fiscal year 2023.
+*   g = Expected growth rate in perpetuity. We are using 5 percent.
+*   RONIC = Return on new invested capital.  For NVIDIA, RONIC was estimated to be 20 percent.
+*   WACC = Weighted average cost of capital. We are using 10 percent.
+
+We arrive at a fair value of $315 billion. This value reflects the potential increase in share price from current levels to $450-500 per share. Note that this valuation is sensitive to changes in growth and profitability assumptions.
+
+
+### Recent Concerns and Controversies
+
+NVIDIA has faced scrutiny regarding its acquisition of ARM Holdings, which is still pending regulatory approval due to antitrust concerns. This acquisition represents a significant risk factor, as its failure could negatively impact NVIDIA's future growth potential. Jensen Huang acknowledges the acquisition's challenges in the Q3 FY23 earnings call.  This also shows the management's candidness, which is in line with what Warren Buffett wrote in his letters, in *The Essays of Warren Buffett*: "...pay attention to how readily management will face up to its shortcomings, and how candidly it will discuss them".
+
+
+{: .new }
+>
+> "The market seems skeptical of our Arm acquisition due to regulatory scrutiny but optimistic about the opportunities of the business. In reality, the opportunities of the business and the challenges it faces are both dependent on regulatory approval.
+
+Additionally, NVIDIA’s dependence on a limited number of customers in its data center business poses a risk, as the loss of a single large customer could materially impact revenue.
+
+{: .note }
+>
+> One final change to watch out for is the entry of an irrational competitor into an industry.
+
+### Upcoming Catalysts
+
+{: .note }
+>
+> So, rather than following the advice to “bet on the jockeys,” your job is to focus on the horses.
+
+Several potential catalysts could drive NVIDIA's share price higher in the coming years:
+
+* **Continued Growth in AI and Data Center Markets:** NVIDIA's dominance in the GPU market positions it to benefit from the secular growth trends in these markets.
+* **Success of ARM Acquisition:**  If regulatory hurdles are overcome, the ARM acquisition could significantly expand NVIDIA's addressable market and enhance its competitive advantage.
+* **Expansion in Automotive Market:** The growth of autonomous driving and the increasing adoption of AI in vehicles could drive further demand for NVIDIA's automotive solutions.
+* **New Product Launches:**  NVIDIA's strong track record of innovation suggests that new product launches could drive further growth and market share gains.
+
+Overall, the resources provided highlight the complexities of evaluating a dynamic company like NVIDIA.  While its current financial performance and growth trajectory are impressive, a careful and skeptical assessment, incorporating a margin of safety, is necessary to avoid overpaying for its shares.  By combining quantitative valuation with a qualitative assessment of its business model, management team, and competitive landscape, we arrive at a fair value estimate of $315 billion.
+
+
+{: .note }
+>
+> ...it all comes down to a simple, straightforward principle of intelligent investing. Buying stocks is much the same as buying groceries or any other sort of merchandise. It is the relationship between price and value—i.e., between price and what those shares represent—that counts
+
+{: .note }
+>
+> Investors should consider the possibility that the company may become worth very much more. This is particularly true of young businesses with promising growth records. 
+

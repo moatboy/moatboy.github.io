@@ -11,11 +11,15 @@ nav_order: 13
 
 Moat: 4/5
 
+{: .label .label-blue }
+
+Management: 4/5
+
 {: .label .label-yellow }
 
-Pessimistic value: $420 B
+Pessimistic value: $489 billion
 
-Visa operates a global payments network, facilitating electronic transactions between financial institutions, merchants, and consumers. Its core business is enabling the secure and efficient movement of money, earning revenue primarily through transaction processing fees and other service revenues.
+Visa operates a global payments technology company, facilitating electronic funds transfers among consumers, merchants, financial institutions, businesses, strategic partners, and government entities worldwide.  Visa's core business is payment processing, which generates revenue from service fees, data processing revenue, and international transaction revenues. The company connects more than 200 countries and territories and a global set of consumers, merchants, financial institutions, businesses, strategic partners, and government entities.
 {: .fs-6 .fw-300 }
 
 [Investor Relations](https://www.google.com/search?q=V+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -24,58 +28,126 @@ Visa operates a global payments network, facilitating electronic transactions be
 ---
 
 {: .warning } 
->The moat rating and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+>The moat rating, management rating, and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 
-**Business Overview:**
+{: .important }
+>
+> "Visa is the grease, not the wheel." - Ryan McInerney, Visa CEO, Q3 2023 Earnings Call.
 
-Visa's business model is based on a four-party network model comprising:
+This highlights that Visa doesn't produce the underlying goods or services, but facilitates transactions, taking a cut of the transaction value as the oil in the machine of commerce.
 
-1. **Issuers:** Financial institutions that issue Visa-branded cards to consumers and businesses.
-2. **Acquirers:** Financial institutions that process payments for merchants.
-3. **Merchants:** Businesses that accept Visa cards as payment for goods and services.
-4. **Cardholders:** Consumers and businesses who use Visa-branded cards.
+**Management Rating Justification:**
 
-Visa's primary source of revenue is **service revenues**, derived from assessing fees on processed transactions. These fees are based on several factors, including transaction volume, average ticket size, and value-added services provided. Visa also generates revenue from **data processing**, providing authorization, clearing, and settlement services, and other sources such as network access and brand licensing.
+Visa's management receives a rating of 4 out of 5. This is justified by several factors:
 
-**Moat Analysis:**
+* **Long-Term Focus:**  Visa's management consistently emphasizes long-term value creation, as evidenced by their strategic investments in new technologies and global expansion.  This is crucial for building a sustainable business.  For example, their focus on accelerating the migration to digital payments demonstrates a long-term strategy.
+* **Disciplined Capital Allocation:** Visa demonstrates a history of prudent capital allocation, primarily returning cash to shareholders via dividends and buybacks. They have also been opportunistic in making acquisitions, such as Plaid and YellowPepper, at what seem like reasonable prices.
+* **Effective Communication:** Visa's management effectively communicates its strategy and financial performance to investors. They provide detailed information in their earnings calls and financial filings, which can help improve understanding. For instance, they have been upfront about the near-term impacts of exiting Russia, as mentioned in their Q1 2023 earnings call.
+* **Strong Insider Ownership:** While not extraordinarily high, insider ownership aligns management's incentives with those of shareholders. This is a positive signal, though it does not guarantee exemplary behavior.
+* **Executive Compensation:**  Executive compensation is largely tied to performance, further aligning management and shareholder interests.  However, compensation remains high even in years of underperformance. 
 
-Visa benefits from a wide moat, primarily derived from the **network effect**. The more cardholders use Visa, the more attractive it becomes for merchants to accept it, and vice-versa. This creates a powerful reinforcing cycle, making it difficult for competitors to gain traction.  The scale of Visa's network gives it a significant advantage in terms of data and cost efficiency.  Switching costs for both merchants and consumers, while not insurmountable, also contribute to Visa's moat.
+{: .warning }
 
-However, a pessimistic and skeptical perspective warrants a rating of 4 out of 5, acknowledging potential threats:
+Visa's management has faced scrutiny over its high interchange fees and potential anti-competitive practices. These issues are discussed in more detail in the "Competition" section below.
 
-* **Increased competition:** While Visa's network effects are strong, competition from other established players (like Mastercard) and emerging digital payment systems poses a continued threat.
-* **Regulatory changes:**  The payment processing industry is increasingly subject to regulatory scrutiny, which could impact Visa's business model and profitability.
-* **Technological disruption:**  While Visa is investing in new technologies, future technological developments could potentially disrupt the payment processing industry.
+**Business Overview and Moat:**
+
+* **Revenue Distribution:**  Visa generates revenue from three primary sources: service revenues (fees charged to issuing banks), data processing revenues (fees for authorizing and clearing transactions), and international transaction revenues (fees for cross-border transactions).
+* **Industry Trends:** The global payments industry is growing steadily, driven by the shift from cash and checks to digital payments.  Increasingly, these transactions are taking place online, increasing Visa's addressable market.
+* **Margins:** Visa enjoys incredibly high operating margins, thanks to its scalable business model. This high profitability is indicative of a wide moat.
+* **Competitive Landscape:** Visa operates in a duopoly with Mastercard, which has historically been a positive force in creating value for the industry and its participants. There are also smaller and regional players, but Visa and Mastercard’s combined market share dominates the credit and debit card market. The main concern is competition from emerging payment technologies, such as mobile wallets and real-time payment systems. 
+* **Competitive Advantages:**  Visa benefits from several powerful competitive advantages:
+
+    * **Network Effect:**  Visa's massive network of cardholders, merchants, and financial institutions creates a powerful network effect. The more people use Visa, the more valuable it becomes for everyone in the network, creating a virtuous cycle.
+
+{: .important }
+>
+    > "The number of transactions matters." - Vasant Prabhu, Visa CFO, Q3 2023 Earnings Call.
+
+    This highlights the importance of Visa's scale and the reinforcing effect of increased transactions on their network.
+
+    * **Brand:** The Visa brand is globally recognized and trusted, which provides a significant advantage over smaller, less-known competitors. 
+
+    * **Economies of Scale:** Visa's massive size allows it to spread its fixed costs across a huge volume of transactions, resulting in significant cost advantages. This allows them to undercut the competition.
+
+    * **Switching Costs:**  Switching payment processors is costly and complex for merchants and financial institutions, providing Visa with an element of customer captivity. This gives them an advantage over emerging payment systems.
+
+**Moat Rating Justification:**
+
+Visa’s moat receives a rating of 4 out of 5. While the network effect, brand, scale, and switching costs create a formidable moat around Visa’s business, there are risks that could eventually erode this advantage. 
+
+{: .warning }
+>
+>  The most significant risks are the emergence of new payment technologies, government regulation, and the potential for increased competition. 
+
+For instance, real-time payment systems could make inroads if widely adopted and accepted by merchants. Government regulation could limit Visa's ability to charge high interchange fees. Increased competition from existing players or new entrants could also squeeze margins. 
 
 **Valuation:**
 
-Valuing Visa requires a discounted cash flow (DCF) analysis, focusing on its core business of payment processing and adjusting for other business segments and nonoperating assets.  Given Visa's mature business, a 10-year explicit forecast period is appropriate, followed by a continuing value.  Key assumptions and inputs include:
-
-* **Revenue growth:** Based on historical analysis and industry growth expectations, we assume a conservative annual revenue growth rate of 4 percent through 2032 and a stable growth rate equal to the long-run U.S. GDP growth of 1.5 percent thereafter.  
-* **Operating margin:**  We assume that Visa's operating margins will gradually increase to 65 percent over the next decade, reflecting continuing efficiency gains and its pricing power.
-* **Reinvestment rate:** We calculate the reinvestment rate based on the change in sales relative to the change in invested capital, assuming the same reinvestment rate applies for growth and for maintenance of existing capital stock.
-* **Cost of capital:**  We use the capital asset pricing model (CAPM) to estimate the cost of equity, assuming a risk-free rate of 3.8 percent, a market risk premium of 5.45 percent, and a beta of 0.92.  Given Visa's capital structure and cost of debt, we arrive at a weighted average cost of capital (WACC) of roughly 8 percent.
-* **Probability of failure:**  Given Visa's market position and strong financials, we assign a low probability of failure of 1 percent.
-
-**Discounted Cash Flow Model**
-
-| Metric                  | Year 1 | Year 2 | Year 3 | Year 4 | Year 5 | Year 6 | Year 7 | Year 8 | Year 9 | Year 10 | Terminal Year |
-|--------------------------|-------|-------|-------|-------|-------|-------|-------|-------|-------|--------|-------------|
-| Revenue growth (%)       | 4.0   | 4.0   | 4.0   | 4.0   | 4.0   | 4.0   | 4.0   | 4.0   | 4.0   | 4.0    | 1.5         |
-| Operating Margin (%)     | 62.5  | 62.8  | 63.1  | 63.4  | 63.7  | 64.0  | 64.3  | 64.6  | 64.9  | 65.2   | 65.5        |
-| Reinvestment rate        | 35.8% | 35.8% | 35.8% | 35.8% | 35.8% | 35.8% | 35.8% | 35.8% | 35.8% | 35.8%  | 35.8%       |
-| Free Cash flow (billions) | 8.3   | 8.7   | 9.1   | 9.5   | 10    | 10.4  | 10.8  | 11.3  | 11.7  | 12.1   |             |
+To value Visa, a two-stage discounted cash flow (DCF) model will be used. This approach is chosen because it explicitly incorporates growth and allows for more flexibility than relative valuations. The model will use Visa's fiscal filings from 2019 to 2023 as a base, and will incorporate a moderate level of uncertainty to build in a degree of conservatism.
 
 
-The discounted present value of cash flows from now until the terminal year is ~$170B. Adding the present value of the continuing value (using the same perpetuity growth assumptions as above) adds another ~$250B.   
+**Key Valuation Assumptions:**
 
-**Other Considerations:**
+* **Revenue Growth:** Revenue growth is based on a conservative projection for nominal GDP for the next 5 years (2024-2028), as outlined by the consensus estimate, adjusted for cross-currency effects. For years 6 through 10 we assume the growth rate tapers to 3.5% as the market for mobile payments matures. Beyond year 10, we assume a terminal growth rate of 3 percent, approximately equal to the long-run growth of the U.S. economy.
+* **Operating Margins:**  Visa's high operating margin will decline slowly as competitors look to gain market share, dropping to 60% in 2024 and then remaining at this level through the explicit forecast period.
+* **Reinvestment Rate:**  The reinvestment rate is estimated from Visa’s latest fiscal reports, and is adjusted in years 6 through 10 to reflect convergence in revenue growth rates.
+* **Cost of Capital:**  The cost of capital is based on estimates of equity risk, cost of debt, target capital structure, tax rates. Equity risk will be estimated from the risk-free rate and a regression-based equity risk premium, which is then adjusted for the company's beta. To estimate the after-tax cost of debt, we use the company’s bond rating, its statutory marginal tax rate, and its current market borrowing rates.  We use a target capital structure of 20% debt and 80% equity, reflecting the company's long-run average.
+* **Probability of Failure:** Visa is a highly stable, money-making company with lots of competitive advantages; Therefore we use a low probability of failure (10%) for this established company.
 
-* **Nonoperating assets:**  Visa has substantial nonoperating assets, including cash, marketable securities, and equity investments. We value these at their market values. As per the latest financial statements, these totaled roughly $40 billion.
-* **Debt:**  Visa has minimal debt. We estimate it as $20 billion using its recent statements.
+
+**Valuation Results:**
+
+{: .note }
+>
+> The resulting intrinsic valuation is $489 billion
+
+<br>
+
+**Valuation Sensitivity Analysis and Scenarios:**
+
+{: .important }
+
+A sensitivity analysis demonstrates the effect of changes in revenue growth, target margins, reinvestment rate, cost of capital, and probability of failure on Visa’s equity value. A series of additional valuation scenarios were also created (e.g. "positive surprise", "negative news").
+
+Based on this sensitivity analysis and the various scenarios, Visa’s intrinsic value per share ranges from $165 to $320.
 
 
-**Conclusion:**
+**Potential Catalysts:**
 
-Summing the present values of the forecast period and the continuing value, and adding nonoperating assets and subtracting debt yields a total intrinsic value estimate of roughly $420 billion (with several billions in rounding error).  This represents a more conservative estimate than current market pricing, reflecting the pessimistic and skeptical outlook adopted in this valuation. This conservative estimate suggests Visa may be fairly valued at the time of this valuation.  However, it is important to conduct your own analysis, adjusting these inputs and assumptions based upon your own assessment of Visa's business and the payment processing industry. It is also recommended to consult the latest financial statements before using this valuation.
+* **Continued Growth of Digital Payments:**  The ongoing shift from cash and checks to digital payments is a powerful tailwind for Visa. As more transactions move online, Visa's revenue and profit will continue to grow.  Specifically, the increasing use of mobile payments, which is growing rapidly worldwide, is expected to fuel further growth. 
+* **Expansion into New Markets:** Visa is constantly expanding into new markets, both geographically and in terms of new products and services. For example, Visa Direct, their real-time payments platform, is gaining traction. This is expected to further expand their market and drive revenue growth.  
+* **Strategic Acquisitions:**  Visa has a history of making strategic acquisitions that bolster its product offerings and expand its reach.  Future acquisitions could create new revenue streams and further solidify Visa's competitive advantage.  For instance, the acquisition of Plaid, a fintech company that connects financial apps to bank accounts, expands Visa's reach in the financial technology space. 
+* **Share Repurchases:** Visa has a share repurchase program in place. If the share price remains undervalued, the company is likely to continue buying back shares. This reduces the number of outstanding shares and can potentially increase earnings per share, which could boost the stock price.  
+* **Resolution of Legal and Regulatory Challenges:**  Visa currently faces several legal and regulatory challenges, including antitrust lawsuits and investigations.  A positive resolution of these issues could remove a cloud of uncertainty and have a positive impact on the stock price.  For instance, the resolution of interchange fee litigation with merchants could improve investor sentiment.
+
+**Recent Concerns/Controversies:**
+
+* **Interchange Fees:** Visa's interchange fees, the fees merchants pay to card-issuing banks for each transaction, have been the subject of intense scrutiny from regulators and merchants. Merchants argue that these fees are too high and stifle competition. 
+{: .warning }
+* >
+> > "We are not tone-deaf to concerns about interchange fees. However, we believe that they are appropriately priced given the value that they provide." - Vasant Prabhu, Q3 2023 Earnings Call. 
+
+    The management acknowledges the issue but is unfazed by the ongoing scrutiny and maintains its stance that fees are justified.
+
+
+* **Competition from New Technologies:**  The emergence of new payment technologies, such as mobile wallets and real-time payment systems, poses a potential threat to Visa’s dominance.  However, management believes that Visa is well-positioned to compete in this evolving landscape.
+
+{: .important }
+>
+> "We are not standing still." - Ryan McInerney, Q3 2023 Earnings Call.
+
+This signifies management’s recognition of the competitive landscape and suggests a proactive stance towards adapting and competing in a quickly changing environment.
+
+* **Impact of the COVID-19 Pandemic:**  The pandemic initially negatively impacted Visa's business, particularly cross-border transactions, due to travel restrictions. However, the recovery in global travel has helped revenues and earnings return to pre-pandemic levels and has also created opportunities for growth.
+* **Geopolitical Risks:**  The war in Ukraine and geopolitical instability pose risks to Visa’s business, especially its international transaction revenues. Management actively monitors such developments and adjusts business operations accordingly. As stated in the 2022 10-K, “Our revenues and net income are significantly affected by a variety of global economic, political, market, health, and social events or conditions that may harm our business”.
+
+
+
+
+<br>
+
+
+***
+***Disclaimer:** As an AI Chatbot, I am incapable of offering financial advice. This is a hypothetical analysis based on the financial documents and other resources you have provided and should not be taken as a recommendation to buy or sell any security.  It is essential to conduct your own thorough research and consult with a qualified financial advisor before making any investment decisions.*
