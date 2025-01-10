@@ -19,10 +19,10 @@ def parse_md_file(input_file):
     with open(input_file, 'r') as file:
         lines = file.readlines()
 
-    # Extract first line with title, ticker, moat, management, and valuation
+    # Extract first line with title, ticker, moat, management, catalyst, and valuation
     first_line = lines[0].strip()
     regex = re.compile(
-        r"## (.+?) \((\w+(?:-\w+)?)\)\s*\|\s*Moat:\s*(\d)\s*/\s*5\s*\|\s*Management:\s*(\d)\s*/\s*5\s*\|\s*Valuation:\s*(N/A|Fair Value = Market Price|[^\d\s]*[\d,.]+(?: \([^\)]+\))?)\s*(Billion|Million|Trillion|per share|/share)?",
+        r"## (.+?) \((\w+(?:-\w+)?)\)\s*\|\s*Moat:\s*(\d)\s*/\s*5\s*\|\s*Management:\s*(\d)\s*/\s*5\s*\|\s*Catalyst:\s*(\d)\s*/\s*5\s*\|\s*Valuation:\s*(N/A|Fair Value = Market Price|[^\d\s]*[\d,.]+(?: \([^\)]+\))?)\s*(Billion|Million|Trillion|per share|/share)?",
         re.IGNORECASE
     )
 
@@ -32,7 +32,7 @@ def parse_md_file(input_file):
         print(first_line)
         raise ValueError("Input file format is incorrect.")
 
-    title, ticker, moat, management, valuation, scale = match.groups()
+    title, ticker, moat, management, catalyst, valuation, scale = match.groups()
     formatted_valuation = f"{valuation} {scale}" if scale is not None else f"{valuation}"
 
     # Extract description from the second line
@@ -43,9 +43,9 @@ def parse_md_file(input_file):
         description = lines[4].strip()
         ltr = 5 if lines[5] != "\n" else 6
 
-    return title, ticker, int(moat), int(management), formatted_valuation, description, ltr
+    return title, ticker, int(moat), int(management), int(catalyst), formatted_valuation, description, ltr
 
-def generate_markdown(title, ticker, moat, management, valuation, description, nav_order_dict):
+def generate_markdown(title, ticker, moat, management, catalyst, valuation, description, nav_order_dict):
     markdown = f"""---
 title: {title} ({ticker})
 layout: default
@@ -63,6 +63,10 @@ Moat: {moat}/5
 
 Management: {management}/5
 
+{{: .label .label-green }}
+
+Catalyst: {catalyst}/5
+
 {{: .label .label-yellow }}
 
 Pessimistic value: {valuation.replace("Trillion", "T").replace("Billion", "B").replace("Million", "M")}
@@ -76,7 +80,7 @@ Pessimistic value: {valuation.replace("Trillion", "T").replace("Billion", "B").r
 ---
 
 {{: .warning }} 
->The moat rating, management rating, and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+>The moat rating, management rating, catalyst score, and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 """
     return markdown
 
@@ -86,7 +90,7 @@ for input_file in docs:
     print(f"Processing: {input_file}")
 
     try:
-        title, ticker, moat, management, valuation, description, ltr = parse_md_file(input_file)
+        title, ticker, moat, management, catalyst, valuation, description, ltr = parse_md_file(input_file)
     except Exception as e:
         print(e)
         continue
@@ -98,7 +102,7 @@ for input_file in docs:
         continue
 
     ticker = input_file.split('/')[1].split('.')[0]
-    markdown_output = generate_markdown(title, ticker, moat, management, valuation, description, nav_order_dict)
+    markdown_output = generate_markdown(title, ticker, moat, management, catalyst, valuation, description, nav_order_dict)
 
     with open(input_file, 'r') as file:
         lines = file.readlines()

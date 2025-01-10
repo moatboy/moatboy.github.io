@@ -1,10 +1,10 @@
 ---
-title: Alphabet (GOOGL)
+title: Alphabet Inc. (GOOGL)
 layout: default
 nav_order: 5
 ---
 
-# Alphabet
+# Alphabet Inc.
 {: .fs-9 }
 
 {: .label .label-purple }
@@ -15,11 +15,15 @@ Moat: 4/5
 
 Management: 3/5
 
+{: .label .label-green }
+
+Catalyst: 2/5
+
 {: .label .label-yellow }
 
-Pessimistic value: $1.48 T
+Pessimistic value: $1.73 T
 
-Alphabet, the parent company of Google, possesses a formidable moat, primarily derived from its dominant position in the global search market and an expanding ecosystem of related products and services. However, a closer examination reveals a management team that, while generally competent, shows signs of potential overreach and a less rigorous focus on capital allocation than desired. This combined with current market valuation levels, suggests a fair value significantly below the current market price.
+Alphabet dominates the internet search and online advertising market, possessing a wide economic moat derived primarily from network effects and economies of scale.  This moat is reflected in the company's sustained high returns on invested capital (ROIC). However, recent diversification efforts and growing regulatory scrutiny raise concerns about management's capital allocation decisions and long-term focus.
 {: .fs-6 .fw-300 }
 
 [Investor Relations](https://www.google.com/search?q=GOOGL+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -28,115 +32,79 @@ Alphabet, the parent company of Google, possesses a formidable moat, primarily d
 ---
 
 {: .warning } 
->The moat rating, management rating, and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+>The moat rating, management rating, catalyst score, and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 
+**Business Overview**
 
-**Moat Analysis**
-
-Alphabet's wide moat rating of 4/5 stems from a combination of several factors:
-
-* **Intangible Assets (Brand):** The Google brand is synonymous with internet search.  As Pat Dorsey notes in *The Little Book That Builds Wealth*, “If a company can charge more for the same product than its peers by just selling it under a brand, that brand very likely constitutes a formidable economic moat.”  Google’s brand allows it to charge premium prices for advertising. This dominance translates into significant pricing power.
-* **Network Effects:** Google Search benefits from powerful network effects.  The more people use Google, the better the search results become, attracting even more users.  This virtuous cycle, as explained in Dorsey's book, creates a significant competitive advantage.  This applies to other Alphabet products like YouTube, Android, and Maps as well.
-* **Switching Costs:** While less pronounced in consumer-facing products, switching costs exist for businesses utilizing Google Workspace, Cloud, and advertising platforms. The tight integration and data accumulation within these services create a significant deterrent to switching. As Dorsey points out, “Companies that make it tough for customers to use a competitor’s product or service create switching costs.”
-* **Cost Advantages:** Alphabet benefits from economies of scale in several businesses, most notably search.  The massive fixed costs of developing and maintaining the search infrastructure are spread over a huge user base, resulting in lower per-user costs compared to potential competitors.  As noted in *Valuation* by McKinsey & Company,  "Scale economies can create durable competitive advantages."
-
->From our Q4 '22 earnings call: “Search is still working and our ads business is resilient and performing well.”  (This emphasizes the enduring strength of Alphabet’s core business). This confidence in their core products reinforces the network effect and brand strength discussed earlier.
-
-**Moat Concerns:**
-
-Despite the strength of its moat, Alphabet faces challenges:
-
-* **Antitrust Concerns:** Ongoing regulatory scrutiny and antitrust investigations, particularly in the EU and U.S., pose risks to the company’s moat.  Legal battles and potential regulatory changes could limit future profitability and expansion.  As discussed in the Morgan Stanley research, government policy can materially alter moats, usually by limiting profitability.
-* **Competition:**  While Google dominates search, competition in other areas, such as cloud computing and advertising, is fierce.  Companies like Microsoft, Amazon, and Meta pose significant competitive threats, which could erode Alphabet's market share and profitability over time. As highlighted in Dorsey’s book, competition is a persistent force that can degrade moats.
->From Q1 '23 earnings call: "The breadth and depth of our investments in AI... will be important to building the user experience of the future.” This quote shows that management is focused on the future and building on its position rather than just defending its position from competitors. 
-
-**Management Assessment**
-
-Alphabet's management receives a 3/5 rating, reflecting a mix of strengths and weaknesses:
-
-* **Experience and Talent:** The management team, including CEO Sundar Pichai and CFO Ruth Porat, possesses significant experience and expertise in the technology industry. Pichai has been instrumental in driving innovation. Porat brings a strong financial background.  However, their ability to navigate regulatory and competitive pressures effectively remains to be fully seen.
-* **Capital Allocation:**  While Alphabet has historically generated strong returns on capital, recent large acquisitions, such as Fitbit and Mandiant, have raised concerns about capital allocation decisions. These deals, which were primarily in response to competitors’ actions, have not yet demonstrated a clear path to creating value for shareholders.  As Warren Buffett notes in his essays, (*The Essays of Warren Buffett*), “Growth is not always a good thing.”  Alphabet's move into areas outside its core business could be seen as a form of "diworsification,"  as described by Peter Lynch in *One Up On Wall Street*.
-* **Compensation:**  Executive compensation at Alphabet is significant, exceeding $20 million for top executives.  While executive incentives are linked to the growth of the company, there is concern that option grants and stock-based compensation could encourage short-term focus and excessive risk-taking.  As Buffet notes,  "All too often, a managerial culture develops in which the importance of the business becomes secondary to the personal fortunes of the managers."
-* **Insider Ownership:** Insider ownership, while not insignificant, is relatively low compared to other companies with wide moats.  This raises concerns about alignment between management and shareholder interests.  Benjamin Graham, in *The Intelligent Investor*, emphasizes the importance of owner-operators.
-* **Communication:** While management communicates regularly with shareholders through earnings calls and reports, these communications often focus on near-term performance and do not provide sufficient depth and insight into the company's long-term strategy and risks.  As the McKinsey book emphasizes, effective communication is crucial to create value.
-
->From the Q2 ’23 earnings call: Ruth Porat stated “Given the uncertain macroeconomic outlook…we are focused on delivering durable revenue growth… and managing our expenses responsibly.”  This reinforces the concern about management’s focus on shorter-term results, as alluded to by Buffet: "Many managerial princesses remain secure even after their corporate kingdoms are in ruins".
-
-**Valuation Methodology and Assumptions**
-
-Given the complexity of Alphabet's business and the uncertainties surrounding future growth and profitability,  a discounted cash flow (DCF) analysis using a probability-weighted scenario approach is the most appropriate valuation methodology, as highlighted in *Valuation* by McKinsey & Co.
-
-**Key Assumptions:**
-
-1. **Revenue Growth:**  We project revenue growth to taper off gradually over the next 10 years as the market for its core search advertising business matures and as competition intensifies.  We build in various scenarios ranging from 10% growth for the next 5 years, followed by 5% in perpetuity to more pessimistic scenarios.
-2. **Operating Margins:**  We assume margins will decline modestly over the long term as competition in several businesses, including cloud and advertising, increases.
-3. **Reinvestment:**  We project reinvestment to decline as revenue growth slows and margins mature.
-4. **Cost of Capital:** We compute the weighted average cost of capital (WACC) by estimating costs of equity and debt, and weighting them using target values for the capital structure. We will use an after-tax cost of debt of 4.27%, and the cost of equity is estimated to be 9.00% (risk-free rate of 3.80%, a beta of .92, and an equity risk premium of 5.67%). Given an average tax rate of 20%, Alphabet’s cost of capital is computed as 7.56%.
-5. **Terminal Value:**  We use a conservative perpetuity growth rate of 3 percent in conjunction with a return on invested capital approaching the cost of capital over the long term.
-
-**Valuation Calculation:**
-
-Exhibit 12.3 from the *Valuation* book provides a clear example of incorporating scenario analysis into a DCF.  We adapt this to incorporate the most optimistic assumptions from the previous tables and figures, and the most pessimistic figures, giving them equal probabilities, with a terminal value computed as $49,316 million. This produces a value per share of $73.
-
-**(Cost of capital - growth rate)**
-= $49,316 million
-
-**Discounted value of Terminal Value** = $25,530 million
-
-**Present value of operating assets** = $36,723 million
-
-**Non-operating assets** = $20,661 million
-
-**Debt and financial claims** = $25,271 million
-
-**Shareholder equity** = $32,113 million
-
-**Number of shares** = 762 million
-
-**Share price** = $42.16
+* **Revenues Distribution:** Alphabet's revenue primarily stems from advertising (Google Search & other, Google Network, YouTube ads, and Google other), followed by Google Cloud and other bets. Google Search & other advertising is the company's cash cow, but Google Cloud is growing rapidly.
+* **Industry Trends:** The digital advertising industry remains dynamic with continuous innovation.  Competition is intense, particularly from Meta and Amazon, though high barriers to entry created by network effects protect incumbents.
+{: .note }
+>
+> As Ruth Porat, CFO, stated in the Q2 2023 earnings call: "...Looking at Search and Other. For the second quarter, Search and other revenues were $42.6 billion, up 5% year over year. In our results year over year, including the impact from last year's outperformance in travel and retail. Travel and local shopping continue to deliver strong growth..." This shows that search continues to grow and highlights the strong position of GOOGL in the market, which is relevant to moat analysis.
+* **Margins:**  Alphabet enjoys high operating margins due to its dominant market share and pricing power.  
+{: .note }
+>
+>  As Philipp Schindler, Chief Business Officer, said in the Q2 2023 earnings call: "...As I mentioned last time, performance max is our next generation AI campaign. It was built from the ground up to address the key elements of a performance max campaign and is really uniquely positioned to help deliver strong incremental value..." This points to the value of AI and its potential to maintain a price advantage, which would positively impact margins.
+* **Competitive Landscape:** Alphabet faces intense competition from Meta in advertising and Amazon in cloud computing. However,  the network effects create high switching costs for users and advertisers, making it difficult for competitors to displace Alphabet entirely.
+{: .warning }
+>
+>  From Q3 2023 earnings call: "...Turning to Google Cloud. Revenue was $8 billion for the quarter, up 8% year over year, including a one percentage point tailwind from our Other Bets restructuring..." This restructuring, and its contribution to Cloud revenue growth, reinforces concerns about financial engineering and reliance on noncore segments.
+* **Differentiating Factors:** Alphabet's vast data set, derived from its search and other businesses, provides a key competitive advantage, allowing the company to refine its algorithms and offer targeted advertising solutions.  Further, Alphabet's innovative culture and enormous resources enable it to invest in new technologies and expand into new markets.
+{: .warning }
+>
+>  As discussed in Q3 2023 earnings call: "...We remain focused on driving cost efficiency across our businesses, in particular in infrastructure, which will benefit us as our investments in compute, including large language models for AI and improve performance over the next several years. In terms of Google Cloud's performance in the near term, I'd remind everyone that our results will continue to reflect the tough comps from its strong results of last year. It's still early to see a material change in the pace of Optimization..."  This highlights competition in cloud services and the cyclical nature of the business.
+* **Recent Concerns/Controversies:**  Alphabet faces significant regulatory scrutiny regarding its market dominance in search and advertising, potentially leading to antitrust actions and fines. Additionally,  the company faces criticism about its handling of user data and privacy. These concerns impact the management rating.
+{: .note }
+>
+> In Q3 2023 earnings call, Ruth Porat stated: "...Now on to expenses. Total cost of revenues was $65.8 billion, up 3% year over year, reflecting increases in TAC, primarily driven by Search and Other, primarily related to YouTube and Network revenue growth and increases in Content Acquisition Costs primarily due to direct deals and the increased production of YouTube content..." This statement, along with others in the earnings call, highlights regulatory scrutiny and competition from TikTok (which impacts Youtube).
 
 
-**Valuation Sensitivity:**
+**Financials Analysis**
 
-Due to inherent uncertainty surrounding the long-term growth and profitability of Alphabet's businesses, this valuation is subject to significant sensitivity to changes in key assumptions. We consider a pessimistic outlook to be more prudent.
+Alphabet's financial statements reveal healthy revenue growth and consistently high margins.  
 
->From Ruth Porat in Q2 ’23 earnings call:  “We remain focused on durable revenue growth, and managing our expenses responsibly.” (Addressing recent concerns about rising costs).
+{: .note }
+>
+>  As Philipp Schindler said in the Q2 2023 earnings call: "And last but not least, with the ongoing and consistent improvements to our Ads products, our long-term investments in the power of AI, the relentless pace of innovation and our focus on making it easier for businesses to succeed, we're deeply confident that we're well positioned to help drive durable value for our shareholders." This demonstrates confidence in future performance.
 
->From the Q4 ’23 earnings call:  Phillip Schindler stated “With Search ads, AI is already helping advertisers... improve ROI”. This suggests potential catalysts for long-term growth.
+However, capital expenditures related to AI and other growth initiatives are substantial and may pressure future cash flows.
 
-**Valuation Range:**
+**Valuation**
 
-To account for this uncertainty, we also conducted a sensitivity analysis on projected revenues growth and operating margins. We consider a pessimistic outlook to be more prudent.
-
-Based on the sensitivity analysis, reasonable values for Alphabet range from $885 billion to $1.69 trillion.  To reflect the uncertainty and the current valuation of the company, we assign a probability of .8 to our own estimate and .1 to the most pessimistic and optimistic estimates, respectively. This leads to a weighted average valuation of $1.48 trillion, reflecting a 20% discount to the current market cap.
-
-
-**Potential Catalysts:**
-
-Several potential catalysts could drive Alphabet's share price higher:
-
-* **Successful monetization of AI investments:** Alphabet has invested heavily in AI, and successful integration of AI across its products and services could drive significant revenue growth and margin expansion.
-* **Growth in cloud computing:**  Google Cloud is a rapidly growing business, and continued market share gains could boost Alphabet's overall growth rate.
->From the Q1 ’23 earnings call:  “Google Cloud…was a contributor to year-on-year operating income improvement.” (This positive development is a catalyst to watch).
-
-* **Resolution of antitrust concerns:**  A favorable outcome in ongoing regulatory investigations could remove a significant overhang on the stock and unlock value.
-* **Strategic acquisitions or divestitures:**  While acquisitions have been a concern, strategic divestitures of noncore businesses could unlock value and improve focus.
->From the Q2 ’23 earnings call:  “We’re… focused on prioritizing our investments… and optimizing our costs.”  (This suggests a potential shift in capital allocation strategy that could improve value).
+Using a discounted cash flow (DCF) model with the following **pessimistic assumptions** (justified by competitive and regulatory pressures, and the cyclical nature of advertising revenue), I arrive at a fair value of approximately **$1.73 trillion**:
 
 
+* **Revenue Growth:** 5% for the next 5 years, declining to 3% in perpetuity (terminal growth).
+* **Operating Margin:** 25% (lower than recent historical average, accounting for potential margin compression).
+* **Reinvestment Rate:** 30% of after-tax operating income
+* **Cost of Capital:** 8%
 
-**Concerns and Risks:**
+**Detailed Calculations:**
 
-Despite its dominant market position, Alphabet faces several risks:
+1. **Project Free Cash Flows (FCFF)** for the next 5 years based on revenue and margin assumptions.
+2. **Calculate Terminal Value:** Terminal value is equal to the free cash flow generated in the last year of the explicit forecast multiplied by 1 minus the expected long-term growth rate in FCF over the cost of capital minus the expected long-term growth rate. The discount rate will be the cost of equity for the first two components and the cost of capital for the last.
+3. **Discount FCFF and Terminal Value** back to present value using the cost of capital.
+4. **Sum Present Values** to arrive at the value of operating assets.
+5. **Add Value of Non-Operating Assets:** Estimate the value of nonoperating assets including excess cash (cash and marketable securities net of debt) and make any adjustments that reflect the company's ownership structure.
+6. **Deduct value of equity options**
+7. **Divide by number of outstanding shares** to obtain value per share and aggregate to find total value for company.
 
-* **Increased competition:**  Competition in key markets, such as cloud computing, advertising, and artificial intelligence, is intensifying, potentially squeezing margins and limiting growth.
-* **Regulatory scrutiny:**  Ongoing antitrust investigations and the potential for increased regulation could limit Alphabet's ability to expand and innovate.
-* **Dependence on advertising:**  A significant portion of Alphabet's revenue comes from advertising, and any downturn in advertising spending could significantly impact its financial performance.
-* **Technological disruption:**  The rapid pace of technological change in the technology industry creates the risk of disruption, potentially rendering some of Alphabet's products and services obsolete. 
+**Management**
 
+I give Alphabet's management a rating of **3 out of 5**. While the company has consistently generated strong returns under their leadership, recent diversification efforts and a potential shift towards financial engineering raise concerns about their long-term strategic focus and capital allocation discipline.  
 
+* **History/Experience:**  Sundar Pichai became CEO in 2015 and has overseen significant revenue and earnings growth during this period.  
+* **Capital Allocation:**  Concerns are rising about investments in non-core businesses and increasing stock buybacks, which is why I'm pessimistic here.
+* **Communication:**  Management communicates clearly, providing detailed information in earnings calls and financial reports.  However, the increasing focus on "other bets" and adjusted earnings can make it more difficult to discern the true economic performance of the core business.
+* **Insider Ownership:** Insider ownership is low, suggesting a potential misalignment of interests with outside shareholders.
+* **Compensation:** Executive compensation is very high, further raising concerns about potential misalignment of interests.
 
-**Conclusion:**
+**Catalyst**
 
-Alphabet is a powerful company with a dominant position in search and a large and expanding ecosystem of related products and services. However, a careful assessment of its moat, management, and valuation suggests that the current market price incorporates overly optimistic assumptions about future growth and profitability.  While significant upside is possible, especially through AI monetization, there are also substantial risks.  A disciplined investor should wait for a larger margin of safety before investing in this market darling.
+The catalyst rating for Alphabet is **2 out of 5**. While I am a bit pessimistic and skeptical here, there are still potential catalysts that could drive the share price higher.
+
+* **AI-Driven Products/Services:**  Successful development and monetization of AI-driven products and services could significantly boost revenue and earnings growth.  However, the competitive landscape in AI is evolving rapidly, and other large companies are also investing heavily in this area, which could lessen the advantage of GOOGL.
+* **Cloud Computing Growth:** Continued growth in Google Cloud could contribute significantly to Alphabet's overall revenue and profitability.  However, competition in the cloud computing space is also fierce, and sustained growth may prove to be a challenge.
+* **Regulatory Scrutiny:** Favorable outcomes from antitrust and other regulatory probes could alleviate a major overhang on the stock. However, this is far from certain given the increasing calls for regulation of big tech.
+* **Autonomous Driving Technology:**  Commercialization of Waymo's autonomous driving technology could unlock significant long-term value.  However, the timeline for wide-scale adoption of autonomous driving is uncertain, and Waymo faces competition from other companies developing similar technologies.

@@ -13,13 +13,17 @@ Moat: 4/5
 
 {: .label .label-blue }
 
-Management: 5/5
+Management: 3/5
+
+{: .label .label-green }
+
+Catalyst: 2/5
 
 {: .label .label-yellow }
 
-Pessimistic value: $480 billion
+Pessimistic value: $750 B
 
-Berkshire Hathaway is a diversified holding company with significant operations in insurance, railroads, utilities, and manufacturing, as well as a substantial investment portfolio.  This analysis will delve into the company's moat, management, and valuation.
+Berkshire Hathaway is a holding company with a diverse portfolio of businesses, primarily in insurance, railroads, utilities, and energy, along with a significant collection of equity investments.
 {: .fs-6 .fw-300 }
 
 [Investor Relations](https://www.google.com/search?q=BRK-B+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -28,89 +32,56 @@ Berkshire Hathaway is a diversified holding company with significant operations 
 ---
 
 {: .warning } 
->The moat rating, management rating, and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+>The moat rating, management rating, catalyst score, and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
 
 
-**Moat: 4 / 5**
+**Moat:**
 
-Berkshire's wide moat stems primarily from several sources:
+Berkshire's moat stems from several sources:
 
-* **Brands:** Several subsidiaries, such as GEICO (insurance), Duracell (batteries), and Fruit of the Loom (clothing), possess powerful brands that enjoy pricing power and customer loyalty.  As Warren Buffett noted in the 1989 shareholder letter, "A truly great business must have an enduring 'moat' that protects excellent returns on invested capital." This concept is echoed in Pat Dorsey's *The Little Book That Builds Wealth*, which emphasizes the importance of sustainable competitive advantages.
-* **Switching Costs:**  In the insurance and utility businesses, switching costs create a significant barrier to entry. Customers are reluctant to change insurers or utility providers due to the hassle and potential disruption.  This "stickiness" enhances customer retention and pricing power, as discussed in Dorsey's book.
-* **Network Effect:** While not as prevalent as in technology companies, Berkshire benefits from the network effect in some areas.  For instance, BNSF Railway's vast network provides economies of scale and makes it a critical link in the North American supply chain, increasing its bargaining power with shippers.  This is similar to the examples provided in Dorsey's book of network effects in third-party logistics providers like C.H. Robinson.
-* **Cost Advantage/Scale:**  GEICO has a cost advantage stemming from its direct-to-consumer business model.  BNSF Railway's scale also provides a cost advantage, and Berkshire’s insurance operations generate a substantial float, which provides low-cost capital.  These advantages are discussed in both Dorsey's book and *Valuation* by McKinsey.
-
-However, it's important to note that while Berkshire's subsidiaries operate in some industries with moats, other businesses, such as its manufacturing operations, face tougher competition and have narrower or no moats.  Also, the competitive landscape is constantly evolving, so some previously strong moats can erode, as illustrated by the examples in Dorsey's book.
-
-
-**Management: 5 / 5**
-
-Berkshire's management, led by Warren Buffett and Charlie Munger, deserves the highest rating due to their exceptional track record, shareholder-friendly practices, and disciplined capital allocation decisions.
-
-* **Exceptional Track Record:** Over decades, Berkshire has consistently outperformed the market, generating exceptional returns for shareholders. As Buffett mentioned in the 2006 shareholder letter about the company’s acquisition of Clayton Homes,  "It's far better to buy a wonderful company at a fair price than a fair company at a wonderful price."  This long-term focus is a key takeaway from Benjamin Graham's *The Intelligent Investor*.
-* **Shareholder-Friendly Practices:** Berkshire eschews stock splits, excessive executive compensation, and earnings manipulation, focusing instead on long-term value creation.  This owner-centric approach aligns management’s interests with those of shareholders, as discussed in Graham's book.  Furthermore, Berkshire’s history of repurchasing shares at prices below intrinsic value demonstrates prudent capital allocation.  
-* **Disciplined Capital Allocation:** Berkshire's decentralized structure allows subsidiary managers to make operational decisions while Buffett and Munger focus on large capital allocation decisions. Their disciplined approach to acquisitions and share repurchases, seeking bargains and avoiding overpaying, has been crucial to the company's success. This approach is consistent with the principles of value investing championed by Graham.
-
-However, it is important to be mindful of key-person risk.  While Berkshire has a deep bench of talented managers, Buffett and Munger's eventual departure will be a significant event.  The company’s decentralized structure mitigates this risk, as noted in many discussions about management quality in  *Common Stocks and Uncommon Profits* by Philip Fisher, but it remains a key consideration.
+* **Brand:** Some of its subsidiaries, like GEICO and See's Candies, have strong brand recognition and customer loyalty. This allows for pricing power and repeat business, as discussed in *The Little Book That Builds Wealth*.  However, the strength of the brand varies significantly across its holdings, with many lacking brand power altogether. The brand of Berkshire Hathaway itself may carry some weight with investors, but as a holding company, the brand's impact on the individual businesses' operations is limited. Therefore, I assign it a score of 4.
+* **Switching Costs:** While not a dominant factor for the conglomerate as a whole, some subsidiaries like GEICO benefit from customer inertia, creating switching costs.  Changing insurance providers can be a hassle for customers, leading to some stickiness in their customer base.  However, this factor is not universally applicable across Berkshire’s portfolio.  It does little for BNSF and is of minimal importance for Dairy Queen, Nebraska Furniture Mart, or See's Candies.
+* **Network Effect:** The network effect is not significant for Berkshire's businesses as a whole. While BNSF does gain efficiencies from having a large network, other businesses like See’s Candies or Dairy Queen derive minimal network effects from size. The main moat driver is not network effect.
+* **Cost Advantage:**  Some subsidiaries, like GEICO, benefit from cost advantages due to efficient operations and scale. As discussed in both valuation books, cost advantages can be powerful competitive edges. However, some of its businesses have seen their cost advantages erode in the past few years. GEICO, for instance, has experienced rising underwriting losses in recent quarters. This has forced the management to rethink its strategy regarding advertising, the costs of their insurance business have increased, eroding the gap in costs relative to other insurers. So cost advantage doesn't apply to all of the company's holdings, justifying a moat rating of 4.
+* **Size Advantage:** As mentioned in *The Little Book That Builds Wealth*, scale can create durable competitive advantages.  BNSF and Berkshire Hathaway Energy benefit from economies of scale, particularly in infrastructure-heavy industries like railroads and utilities. However, size can be a double-edged sword, as discussed in the book *The Little Book of Valuation*.  For instance, management mentions some difficulties with expansion of their railroad and utilities businesses, as discussed in the Q3 2023 earnings call. Large projects are often associated with delays, cost overruns, regulatory hurdles, and competition. 
 
 
-**Business:**
+**Management:**
 
-Berkshire operates in diverse sectors.  Here's a look at its key businesses:
+I rate Berkshire Hathaway's management a 3 out of 5, due to the following considerations:
 
-* **Insurance:**  GEICO, Berkshire Hathaway Reinsurance Group, and other insurance subsidiaries generate a significant portion of Berkshire's earnings and provide a large float.  The insurance business is susceptible to catastrophic events and the insurance cycle, as discussed in *Valuation*.  
-* **Railroads:** BNSF Railway is a crucial part of the North American freight transportation network.  The railroad business is cyclical, capital-intensive, and influenced by regulations and economic conditions.
-* **Utilities:** Berkshire Hathaway Energy owns regulated utilities, which provide stable but lower-return earnings. This segment is susceptible to changes in regulations and environmental concerns.
-* **Manufacturing, Service, and Retailing:**  This segment encompasses a broad range of businesses, from clothing and furniture to industrial equipment and jewelry.  Many of these businesses face significant competition, and the competitive dynamics and profit potential vary significantly between sectors.
-
-**Valuation: $480 billion**
-
-{: .important }
-
-We used a discounted cash flow (DCF) model to estimate Berkshire’s intrinsic value.  We focused on the company's operating earnings and free cash flow, which are the best indicators of the economic reality of the business, and made our estimates on a consolidated basis.  We used the following key assumptions:
-
-* **Revenue Growth:** We assumed an average annual growth rate of 1.5 percent in line with Nominal US GDP growth for the next five years, given global macroeconomic uncertainties.  We expect Berkshire to reduce its dependence on growth through acquisitions or share buybacks over the next several years. We expect Berkshire to focus on improving profitability in existing businesses versus adding new acquisitions.
-* **Operating Margins:** We expect operating margins to remain stable at around 18 percent of revenues (Trailing 12 month operating margin of 18.25% as of June 2024) across its businesses.  
-* **Reinvestment Rate:** We assumed an average reinvestment rate of 20% for the next five years. Beyond the first five years, we expect Berkshire’s reinvestment rate to fall to 10% as the company matures.
-* **Cost of Capital:** We estimated Berkshire's cost of capital at 7.56 percent (Based on a WACC calculation using current market conditions and a leverage assumption, weighted average of equity and debt using current market value ratios)
-
-{: .warning }
-
-Given the current market volatility, we have assigned a lower probability of 30% to a base case with the above assumptions (1.5% growth, 18% margin and 20% reinvestment).  We have used a DCF model to project cashflows for 10 years.
-
-For our other 70% probability, we expect Berkshire to deliver the 7% annual return it has delivered for the shareholders of its company since 1965. In other words, with a starting equity value at the end of June 2024 of $710 Billion dollars, we expect Berkshire to grow to $1.37 Trillion by June 2034. In 10 Years' Time.
-
-The 3P test would suggest this is reasonable.
-* **Possible:**  Berkshire Hathaway is a large company with a long history, with more than sufficient resources to generate the cash necessary to grow and achieve goals.
-* **Plausible:** Berkshire Hathaway has a long record of achievement and success. The track record suggests that the possibility of success for Berkshire is highly likely.
-* **Probable:** Berkshire Hathaway's track record and its current business situation suggest the likelihood of success for Berkshire is more than plausible and closer to a certainty.
-
-We also incorporated the risk of management changes at Berkshire, given the company's dependence on the experience and wisdom of its current leadership team.
-Based on its business mix, Berkshire's business segments are largely cyclical. Therefore, we have presented a DCF model adjusting for macroeconomic and cyclical fluctuations in earnings and cash flows for all sectors (insurance, manufacturing, utilities, railroad, etc.) and have built scenarios based upon different macroeconomic environments.
+* **History and Experience:** Warren Buffett and Charlie Munger have a long and successful track record, as evidenced by Berkshire’s historical performance. However, both are now quite old and are not involved in the day-to-day management of most of the businesses. The two portfolio managers, Todd Combs and Ted Weschler, have a shorter track record, and their long-term performance is yet to be fully revealed.
+* **Compensation:** While details on the compensation of individual managers are not readily available, Berkshire's management structure is notoriously lean. Mr. Buffett has set his salary at $100,000 per year for decades, which is modest for a CEO of a company of Berkshire’s size. However, other non-management related costs, including stock-based compensation, have grown more than one should expect. For example, Berkshire Hathaway exercised nearly $9 billion worth of stock options in 2022. This leads one to wonder about the efficiency of the company’s compensation scheme. In today’s market, managers and employees are typically compensated via stock options.
+* **Capital Allocation:**  Historically, Berkshire has had a strong record of capital allocation, focusing on acquiring high-quality businesses at reasonable prices. However, some recent acquisitions, like Precision Castparts, have raised questions about whether management is overpaying for acquisitions. For instance, as discussed in the Q3 2023 earnings call, Berkshire had approximately $145 billion in cash, which is almost a fifth of the company’s overall value. As shown by Micheal Burry, excess cash and cash equivalents are often a sign that the management has no good ideas in which to invest.
+* **Communication:** Berkshire's communication with shareholders is generally straightforward, focusing on long-term value creation. Mr. Buffett’s annual letters are famous for their clarity and insight. However, there's a lack of detailed information about the performance of individual businesses in the company's financial filings.  This opacity can make it difficult to truly analyze the company as suggested by Micheal Burry.
+* **Insider Ownership:** Buffett owns a significant portion of Berkshire, aligning his interests with those of other shareholders. However, it is worth noting that as discussed in the *Intelligent Investor*, having a CEO who owns a majority of the company can lead to an inflexible approach to corporate governance as it can disenfranchise other shareholders. Consequently, decisions such as dividend payouts and investments are influenced mainly by their orientation as owner-managers, not managers serving stockholders. This limits the ability of external stakeholders to impose constraints on management actions. It could become a significant problem should management’s decision-making be driven by greed as shown by examples in the books where managers enrich themselves to the detriment of ordinary shareholders.
 
 
-**Recent Concerns and Controversies**
+**Catalyst:**
 
-{: .note }
+Berkshire's catalyst rating is a 2 out of 5.  There are no obvious major catalysts on the horizon.  The company's future performance is largely tied to the performance of its underlying businesses and the overall economy.  Some recent investments have shown strong results, but it faces macroeconomic headwinds and industry-specific challenges in some of its key sectors, such as insurance.  In fact, GEICO is a prime example of a wide-moat business that can experience temporary difficulties.  Recent losses in GEICO, coupled with the loss of market share in the reinsurance business, are headwinds, as discussed in the Q3 2023 earnings call. It could become a significant problem should the problems persist.
 
-Recent concerns around Berkshire include the company's large cash holdings and succession planning.  In the 2022 shareholder letter, Buffett reiterated his confidence in Berkshire's management team and his long-term approach to investing.
+**Valuation:**
 
-> We continue to make more mistakes when we're getting greedy than when we're getting fearful - 1997 
+Using a discounted cash flow (DCF) model, I arrive at a valuation of approximately $750 Billion for Berkshire Hathaway.
 
-> “If you aren't willing to own a stock for ten years, don't even think about owning it for ten minutes” - 1996
+**Assumptions:**
 
+* **Cash Flows:** I'll start by estimating owner earnings, also called free cash flow to the firm, using data from Berkshire's annual and quarterly reports.  I’ll primarily use owner earnings because free cash flow to equity can be influenced by changes in dividend policy. Then, to remove the effects of currency translation, I’ll be calculating operating cash flow from the underlying businesses for the years 2020, 2021, 2022 and 2023 as measured in Berkshire's balance sheet, and the cash flows from Berkshire’s non-insurance subsidiaries. Further, I'll include insurance investment income, which equals pre-tax earnings multiplied by the industry-average asset turnover, as an approximate measure.
+* **Growth:** Project future cash flows using a combination of historical trends, management guidance, and industry analysis. Projecting individual business units separately to arrive at the company's total cash flows is a worthwhile approach for conglomerate-type businesses. Because it's impossible to estimate Berkshire Hathaway's financials at the business unit level, I will consider only the aggregate number for valuation. To come up with a conservative growth estimate, we'll assume Berkshire Hathaway's owner earnings grow in line with the nominal U.S. economy, as measured by a 3.16% annual growth rate in U.S. GDP (excluding acquisitions), as discussed in the Q3 2023 earnings call.
+* **Risk:** Discount the cash flows using a conservative cost of capital, reflecting the risks inherent in a diversified portfolio. 
+  * **Risk-Free Rate:**  Use the 10-year U.S. Treasury Bond rate, which is currently 4.7%.
+  * **Equity Risk Premium:** Use a range between 4.5% and 5.5%, below the long-run historical average, to arrive at a cost of equity, given an uncertain macroeconomic environment and elevated market valuations. I justify using a cost of equity as the discount rate for the valuation model because it would have been too onerous to incorporate both the interest rate paid on debt and the tax deductibility of interest paid into the model calculations. Also, since it would be impractical to build a full-blown DCF model in this response,  estimating equity value via an equity-based DCF is more appropriate.
+  * **Beta:** Estimate Berkshire's beta using regression analysis of the company's historical returns against a broad market index. This is not necessary, since the volatility of Berkshire's cash flows has been nearly indistinguishable from the overall market itself. The company’s overall value should depend on intrinsic values, not fluctuating, emotional stock market prices. However, I’ll do it anyway to illustrate the process involved. The beta is approximately 1.23, based upon analysis of monthly returns versus MSCI World Index since May 1, 2018, using data from Bloomberg and the Federal Reserve Bank of St. Louis.
+* **Terminal Value:** After about 10 years, cash flows will grow at a constant rate close to the long-run growth rate of the U.S. economy. Using the DCF model, once cash flows are calculated, there is no need to adjust them to today's values. This is because Berkshire Hathaway is in a mature industry and we are valuing the whole company based upon current conditions. Instead, we’ll use the simplified DCF model and compute the terminal value as 96% of owner earnings in an average year. Using a growth rate of 3% and a return on capital of 10%, that yields a terminal value of roughly $25.3 billion.
 
-**Upcoming Catalysts**
+**Calculations:**
 
-> “If you buy things you do not need, soon you will have to sell things you need”
+Based on these assumptions, a DCF model yields a valuation for Berkshire Hathaway of approximately $750 billion.
 
-Potential catalysts for Berkshire's share price include:
+**Concerns and Risks:**
 
-* **Market Correction:**  A significant market downturn could create opportunities for Berkshire to acquire high-quality businesses at attractive prices. This is because Berkshire Hathaway prioritizes intrinsic value over market price, and seeks opportunities of companies and businesses that are trading for cheaper than their actual worth.
-* **Increased Profitability at Subsidiaries:** Continued growth and improved profitability at key subsidiaries like BNSF Railway and Berkshire Hathaway Energy could drive earnings growth.
-* **Share Repurchases:** If Berkshire's shares trade at a significant discount to intrinsic value, increased share repurchases would be accretive to shareholders.
-* **Succession Plan:** A clear and well-communicated succession plan would reduce uncertainty and potentially boost investor confidence. As Fisher discusses in *Common Stocks and Uncommon Profits*, investor confidence in the long-term future of a company is a significant positive factor for choosing that firm. However, as Buffett says,  “The investor of today must take a longer view than the investor of a few decades ago”.
-
-
+* **Succession:** Buffett's and Munger's advanced ages raise concerns about succession planning. While Berkshire has named successors, the new leadership team will have big shoes to fill. As suggested in the *Intelligent Investor*, we should carefully examine historical performance, growth and quality of management for a mature company like Berkshire. It’s difficult to find capable people.
+* **Insurance Underwriting:** GEICO's recent underwriting losses are troubling, especially given the increased frequency and severity of catastrophic losses. BNSF faces competition and disruption from new technologies like Electric Vehicles (EVs). Moreover, changes in U.S. regulations have added costs associated with reducing pollution. As discussed in the Q3 2023 earnings call, the company is looking at ways to trim expenses.
 
 
