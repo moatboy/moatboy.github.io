@@ -20,3 +20,7 @@ callouts:
   warning:
     title: Warning
     color: red
+
+nav_external_links:
+  - title: Screener
+    url: https://moatboy.streamlit.app/
