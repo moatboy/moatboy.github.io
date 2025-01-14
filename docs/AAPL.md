@@ -75,14 +75,14 @@ Given that Apple has clear-cut competitive advantages with a track record of hig
 **Legitimate Risks:**
 Despite Apple's robust moat, several threats could erode its value:
 
-  *  **Technological Disruption:** The risk of technological disruption is very high for technology companies. If there is a shift in consumer trends, this could significantly affect profits for established companies like Apple.
-  *  **Economic Downturn:** Apple’s financials, while strong, are heavily dependent on continued revenue growth and consumer spending. A significant decline in overall economic conditions, as seen during the great recession, could affect results as consumers would spend less on non-essential goods like electronics.
-  *  **Increased Competition:** Increased competition in existing markets is always a threat to Apple as other companies attempt to catch up with its innovation. This threat might be most apparent for companies that do not have the financial resources to compete with Apple’s research budget.
-  *  **Regulatory Pressure:** The increasing complexity of regulatory requirements, especially in relation to privacy and cybersecurity, could negatively affect Apple’s operations, or force the company to change its design or practices.
-  *  **Changing Consumer Preferences:** Consumer preferences are fluid. Trends change quickly, and tastes change, requiring continued innovation and focus from Apple to avoid a negative shift in consumer demand.
-  *   **Supply Chain Disruptions:** The risk of supply chain disruptions always exists given how important its network is and how sensitive it is to economic and geopolitical forces.
+*  **Technological Disruption:** The risk of technological disruption is very high for technology companies. If there is a shift in consumer trends, this could significantly affect profits for established companies like Apple.
+*  **Economic Downturn:** Apple’s financials, while strong, are heavily dependent on continued revenue growth and consumer spending. A significant decline in overall economic conditions, as seen during the great recession, could affect results as consumers would spend less on non-essential goods like electronics.
+*  **Increased Competition:** Increased competition in existing markets is always a threat to Apple as other companies attempt to catch up with its innovation. This threat might be most apparent for companies that do not have the financial resources to compete with Apple’s research budget.
+*  **Regulatory Pressure:** The increasing complexity of regulatory requirements, especially in relation to privacy and cybersecurity, could negatively affect Apple’s operations, or force thåe company to change its design or practices.
+*  **Changing Consumer Preferences:** Consumer preferences are fluid. Trends change quickly, and tastes change, requiring continued innovation and focus from Apple to avoid a negative shift in consumer demand.
+*   **Supply Chain Disruptions:** The risk of supply chain disruptions always exists given how important its network is and how sensitive it is to economic and geopolitical forces.
 
-  Apple has shown itself to be well equipped at handling these risks by:
+Apple has shown itself to be well equipped at handling these risks by:
 *   Reinvesting into research and development.
 *   Constantly adapting its product portfolio and adding new products.
 *   Focusing on providing a differentiated experience for its customers with superior software.
@@ -90,19 +90,19 @@ Despite Apple's robust moat, several threats could erode its value:
 
 **Financial Analysis:**
 
-  Looking at Apple’s financials reveals a very strong company, with a massive cash pile.
-  * **Revenue:** Apple's revenue is derived from the sale of products and services. As of its latest reports, the revenue is still quite high, but growth has slowed significantly. Although the company has announced new products like its Vision Pro, it remains to be seen what effect this has on the financials.
-  *   **Profitability:** Apple maintains a high level of profitability, with high gross margins from its products and strong net profit margins. These indicate that the company has a clear pricing power because of the brand loyalty, product quality, and value that consumers place on its ecosystem.
+Looking at Apple’s financials reveals a very strong company, with a massive cash pile.
+* **Revenue:** Apple's revenue is derived from the sale of products and services. As of its latest reports, the revenue is still quite high, but growth has slowed significantly. Although the company has announced new products like its Vision Pro, it remains to be seen what effect this has on the financials.
+*   **Profitability:** Apple maintains a high level of profitability, with high gross margins from its products and strong net profit margins. These indicate that the company has a clear pricing power because of the brand loyalty, product quality, and value that consumers place on its ecosystem.
 *    **Operating Cashflow:** Apple has an extremely high operating cashflow. This results from selling its premium-priced products, and is far greater than the company's net income due to non-cash expenses, such as depreciation and amortization.
 *  **Financial Health:** Apple has a very strong balance sheet with extremely low levels of debt, and large amounts of cash and marketable securities. The company's financial health is a testament to its consistent business operations.
 
-  **Understandability Rating**:
+**Understandability Rating**:
 
-  I have given the business a 3/5 for understandability. It’s easier to understand than most companies for a retail investor because most people have used its products. However, its financial statements and the complex nature of its supply chain and operations still make it tricky to fully understand.
-  
-   **Balance Sheet Health Rating**:
+I have given the business a 3/5 for understandability. It’s easier to understand than most companies for a retail investor because most people have used its products. However, its financial statements and the complex nature of its supply chain and operations still make it tricky to fully understand.
 
-    I have given the company a balance sheet health rating of 5/5 as there are very few liabilities, and the debt levels are very low, while the company maintains an extreme amount of liquid assets in the form of cash and marketable securities.
+**Balance Sheet Health Rating**:
+
+I have given the company a balance sheet health rating of 5/5 as there are very few liabilities, and the debt levels are very low, while the company maintains an extreme amount of liquid assets in the form of cash and marketable securities.
 
 {: .warning }
 
