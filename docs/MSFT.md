@@ -9,15 +9,15 @@ nav_order: 2
 
 {: .label .label-purple }
 
-Moat: 4.0/5
+Moat: 4/5
 
 {: .label .label-blue }
 
-Understandability: 2.0/5
+Understandability: 2/5
 
 {: .label .label-green }
 
-Balance Sheet Health: 5.0/5
+Balance Sheet Health: 5/5
 
 Microsoft is a technology company committed to empowering every person and organization on the planet to achieve more. It develops and supports software, services, devices, and solutions, and that are often embedded deeply in customers business, making it hard to switch to competitors.
 {: .fs-6 .fw-300 }

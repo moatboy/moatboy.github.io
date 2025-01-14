@@ -9,15 +9,15 @@ nav_order: 1
 
 {: .label .label-purple }
 
-Moat: 4.0/5
+Moat: 4/5
 
 {: .label .label-blue }
 
-Understandability: 2.0/5
+Understandability: 2/5
 
 {: .label .label-green }
 
-Balance Sheet Health: 5.0/5
+Balance Sheet Health: 5/5
 
 Apple Inc. is a multinational technology company, primarily known for its premium consumer electronics, software, and services.
 {: .fs-6 .fw-300 }

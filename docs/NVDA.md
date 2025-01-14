@@ -9,15 +9,15 @@ nav_order: 3
 
 {: .label .label-purple }
 
-Moat: 3.0/5
+Moat: 3/5
 
 {: .label .label-blue }
 
-Understandability: 4.0/5
+Understandability: 4/5
 
 {: .label .label-green }
 
-Balance Sheet Health: 4.0/5
+Balance Sheet Health: 4/5
 
 Nvidia is a fabless technology company primarily known for its design and manufacturing of GPUs, systems, and software that drives AI, data center, and gaming industries.
 {: .fs-6 .fw-300 }
