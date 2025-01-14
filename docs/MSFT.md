@@ -33,6 +33,7 @@ Microsoft is a technology company committed to empowering every person and organ
 
 
 {: .important }
+
 ## Business Overview
 Microsoft operates across three main segments:
 *   **Productivity and Business Processes:** This segment includes Office 365 subscriptions (Commercial and Consumer), LinkedIn, and Dynamics 365. This segment drives revenue and provides tools that help customers be productive, communicate effectively, and improve business processes. This is the most stable and consistent part of its business.
@@ -43,7 +44,8 @@ Microsoft operates across three main segments:
 *   The most recent earnings show that Productivity and Business Processes accounted for $18.3 billion in revenue, Intelligent Cloud accounted for $25.6 billion, and More Personal Computing accounted for $18.7 billion. This distribution highlights the importance of the Cloud business, which is also driving growth for the company.
 *   Over time, the Intelligent Cloud segment has become a larger and more important part of the overall business, reflecting Microsoft's strategic focus on cloud computing.
 
-{: .new}
+{: .new }
+
 ### **Recent Trends and Performance Highlights:**
 
 *   **Strong Cloud Growth:** Azure and other cloud services continue to show strong growth, driven by the increasing demand for cloud infrastructure and computing. The growth of Azure is a key driver of revenue and profits.
@@ -55,6 +57,7 @@ Microsoft operates across three main segments:
 *   Microsoft faces challenges in margin management, with gross margins decreasing in some segments, primarily due to higher costs in Azure, devices, and gaming. Management has made efforts to control costs, but it’s a trend to watch closely.
 
 {: .note }
+
 ### **Competitive Landscape**
 *   **Cloud Computing:** Microsoft competes fiercely with Amazon (AWS) and Google Cloud Platform (GCP) in the cloud computing market. While Azure’s growth is strong, its profitability needs improvement to match rivals.
 *   **Office Productivity:** In the productivity software segment, Microsoft continues to dominate with Office 365, although some competition exists from Google Workspace and other providers. However, the network effect built by Microsoft is hard to breach and still continues to keep the competition limited.
@@ -66,7 +69,8 @@ Microsoft operates across three main segments:
 *  **Global scale and enterprise footprint:** The reach and distribution networks of Microsoft are very hard to duplicate. Large companies rely on Microsoft.
 *   **Innovation:** Microsoft is investing heavily in new technologies and trying to transform its existing business model. With AI and Cloud, it is well positioned to compete with Google and Apple.
 
-{: .warning}
+{: .warning }
+
 ## Risks
 *   **Intense Competition in Cloud:** Despite strong revenue growth, increased competition from Amazon and Google could cause decline in market share and profits.
 *   **Integration Challenges:** Integrating a large acquisition like Activision Blizzard can present significant challenges that could affect the company’s financial performance.

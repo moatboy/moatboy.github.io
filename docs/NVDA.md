@@ -68,13 +68,16 @@ Nvidia has several competitive advantages that differentiate it from its competi
 
 Nvidia possesses a **moderate** economic moat, built upon a combination of factors:
 
-{: .important}
+{: .important }
+
 ### Sources of Competitive Advantage
 *   **Network Effect**: NVIDIA benefits from a network effect in AI, where a larger number of developers and researchers use the CUDA platform. This means more applications, training, and tooling becomes available. This further reinforces NVIDIA's platform, as more and more people are attracted to use the platform, and making it difficult to replace.
-*   **Intangible Assets**{: .new } :NVIDIA has strong brand value, which is valuable among the enthusiasts. Furthermore, NVIDIA has a very extensive portfolio of technology and products backed up by patents.
+{: .new }
+*   **Intangible Assets** :NVIDIA has strong brand value, which is valuable among the enthusiasts. Furthermore, NVIDIA has a very extensive portfolio of technology and products backed up by patents.
 *  **High Switching Costs:** NVIDIA's highly optimized software and hardware ecosystem increases switching costs for customers and users. Existing systems and software built on NVIDIA infrastructure is a strong lock-in effect.
 
-{: .warning}
+{: .warning }
+
 ### Risks to the Moat
 *  **Technological Disruption**: Due to rapid innovation in technology and AI, it's possible that new technologies may bypass or diminish the advantages of NVIDIA's current platforms.
 *   **Increasing Competition:** While not as effective as NVIDIA in current benchmarks, competitors like AMD are working on competing hardware and software, and also Hyperscalers like Google, Amazon, and Microsoft are trying to minimize their reliance on NVIDIA hardware by making their own AI chips. This could lead to lower profits for NVIDIA in the long term.
@@ -123,7 +126,8 @@ NVIDIA has been facing some headwinds recently:
 * **Data Center Spending:** NVIDIA has said that some companies are starting to optimize AI systems and use their existing servers more efficiently. Some large customers are also trying to utilize their purchased GPUs effectively instead of continuously purchasing them. This could affect their sales and growth in the future.
 *   **Declining Gaming Revenues:** While gaming has been a driver of Nvidia's growth, recent trends have indicated some softness in that market, which is due to post-pandemic demand drop and other macroeconomic factors. This led to a drop in gaming revenue this past year, however management expects demand to stabilize and grow with the new product launches.
 
-{: .note}
+{: .note }
+
 ### Management's perspective on risks and future
 
 Management is still very confident about the growth in AI, Automotive, and Data center sectors despite short-term headwinds. Management believes that their platform will continue to be a foundation on which various industries will build on, giving them a clear path towards future growth and long-term sustainability. They have also highlighted their investment into new data centers which they believe will drive significant revenue growth in the coming years. Also, they are very focused on reducing spending to improve profitability in the near term.

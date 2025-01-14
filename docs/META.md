@@ -33,6 +33,7 @@ A multinational technology conglomerate, Meta Platforms, Inc. is primarily known
 
 
 {: .important }
+
 **Business Overview**
 
 Meta operates a portfolio of globally recognized social media and messaging platforms, namely:
@@ -54,6 +55,7 @@ Meta derives its revenue primarily through advertising within its FoA segment. T
 *   _Reality Labs (RL)_:  Generated from the sales of VR related hardware products.
 {: .new }
 
+
 **Trends in the Industry**:
 
 *   **AI-driven advertising**: The industry is rapidly transitioning to AI-driven advertising, as data and technology advances create more effective ways to reach users. Many large tech firms are trying to become dominant in this field.
@@ -62,11 +64,13 @@ Meta derives its revenue primarily through advertising within its FoA segment. T
 *   **Data privacy and regulations:** Governments are clamping down on the usage and handling of user data, forcing the tech giants to adhere to ever-evolving rules and regulations.
 {: .note }
 
+
 **Competitive Landscape**:
 *   **Intense Competition:** The competition is immense in the social media industry. New players are always trying to disrupt the established ones. The rise of TikTok showed how fast a company can rise in the ranks. This creates challenges for META and also limits their growth.
 *   **Traditional rivals**: Google and Apple make META compete for advertising revenue. Apple's privacy updates have made data collection for META more difficult.
 *   **Metaverse**: META needs to take advantage of its first movers advantage. The competitors are starting to build similar products and may compete effectively in that segment.
 {: .warning }
+
 
 **What makes Meta different?**
 
@@ -74,6 +78,7 @@ Meta derives its revenue primarily through advertising within its FoA segment. T
 *   **Data Collection & Algorithms:** META is a leader in data collection, which is used to create complex algorithmic products, such as the advertisement delivery system and the feed algorithm.
 *   **Metaverse push:** The shift towards the metaverse with Reality Labs shows the company is willing to look into future technologies. It's not only a social media company, but a tech company in general.
 {: .important }
+
 
 **Financials**
 Meta's most recent quarterly results show revenue growth and improved profitability.
@@ -108,6 +113,7 @@ Capital Expenditures:
 
 *AI adoption*: The management also commented on their adoption of AI, to improve efficiency and improve their platform. Their AI efforts are also meant to attract more advertisers and users alike.
 {: .new }
+
 
 **Moat Rating: 3/5**
 

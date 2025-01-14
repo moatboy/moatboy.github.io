@@ -107,5 +107,29 @@ for input_file in docs:
         file.write(markdown_output)
         file.write("\n\n")
 
+        callouts = ['{: .highlight }', '{: .note }', '{: .new }', '{: .important }', '{: .warning }']
+        wrong_callouts = ['{: .highlight}', '{: .note}', '{: .new}', '{: .important}', '{: .warning}']
+
+        # Create a mapping from wrong callouts to correct ones
+        callout_mapping = dict(zip(wrong_callouts, callouts))
+
         for line in lines[ltr:]:
-            file.write(line)
+            modified_line = line  # Start with the original line
+
+            # Check for both correct and wrong callouts
+            for callout in callouts + wrong_callouts:
+                if callout in line.strip():
+                    correct_callout = callout_mapping.get(callout, callout)  # Normalize to correct callout
+                    print(f"{correct_callout} detected.")
+                    # Remove the callout from the line and prepend the normalized callout
+
+                    if line.replace(callout, '').strip().startswith("**") and line.replace(callout, '').strip().endswith("**"):
+                        modified_line = f"{line.replace(callout, '').strip()}\n"
+                    else:
+                        modified_line = f"{correct_callout}\n{line.replace(callout, '').strip()}\n"
+
+                    modified_line = modified_line.replace(">  ", "")
+                    break  # Exit the loop after finding the first matching callout
+
+            file.write(modified_line)  # Write the modified line once, outside the callout loop
+

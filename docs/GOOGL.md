@@ -35,6 +35,7 @@ Alphabet Inc. is a multinational technology conglomerate, primarily known for it
 ### Business Overview
 
 {: .note }
+
 Google's dominance in search and related advertising is a powerful competitive advantage. The moat is further reinforced by its large ecosystem, and network effects.
 
 Alphabet, primarily known for its Google subsidiary, is a technology behemoth with a diverse portfolio of businesses. While Google Search and Google Advertising form the core of its revenue generation, its operations extend into cloud services (Google Cloud), hardware (Pixel devices), platforms (Android, Chrome) and various other "Other Bets" focusing on futuristic or more high-risk, high-reward opportunities.
@@ -50,7 +51,8 @@ Alphabet, primarily known for its Google subsidiary, is a technology behemoth wi
 *   A significant portion of revenues are also generated outside of United States. 
 
 **Industry Trends:**
-*   **AI integration:** AI is rapidly permeating various industries and workflows. Google is investing heavily into AI and is integrating AI into many parts of its business. In their words: "AI will be a transformational technology and we are working across all of our product teams, including cloud, to prepare Google for a long-term future driven by AI," - as per their latest earnings call. {: .new }
+{: .new }
+*   **AI integration:** AI is rapidly permeating various industries and workflows. Google is investing heavily into AI and is integrating AI into many parts of its business. In their words: "AI will be a transformational technology and we are working across all of our product teams, including cloud, to prepare Google for a long-term future driven by AI," - as per their latest earnings call.
 *   **Digital Advertising Growth:** While ad revenues have rebounded, growth in advertising is expected to normalize. Companies are continuing to invest in digital advertising, but growth has slowed down. Google needs to adjust and find new ways to monetize it's large user base.
 *   **Cloud Computing:** Growth is expected in cloud computing sector, with strong growth rates expected in the coming years. Companies are migrating their infrastructure to cloud and google is benefiting from it.
 *   **Shifts in Consumer Behavior:** There are increasing pressures on the ability to collect user data for personalized ads. Additionally, there are changes in how users consume information, that Google has to adopt to.
@@ -71,6 +73,7 @@ Alphabet, primarily known for its Google subsidiary, is a technology behemoth wi
 ### Financials Analysis
 
 {: .important }
+
 Alphabet's financials are impressive with a strong balance sheet, good profit margins, and huge free cash flow generation capabilities.
 
 *   **Revenue Growth:** Revenue has been growing consistently, although growth has slowed down. Google Services had 10.5% y-o-y growth, while Google Cloud revenue rose by 22.5% y-o-y for the quarter ending September 30, 2023. This signifies strong growth in its main sectors. The growth is largely impacted by the effects of foreign exchange rates. In constant currency terms, Google Services revenue grew by 11.5%, and Google Cloud grew by 23%.
@@ -82,7 +85,8 @@ Alphabet's financials are impressive with a strong balance sheet, good profit ma
 *  **Balance Sheet**: Alphabet has a large amount of cash and marketable securities on the balance sheet. It has relatively low levels of debt.
 
 **Latest Reports and Earnings Calls:**
-*   In the latest earnings call, they noted that they are using AI in multiple areas, specifically highlighting their use of AI in search, to power Gemini, to increase efficiency and to reduce costs. {: .new }
+{: .new }
+*   In the latest earnings call, they noted that they are using AI in multiple areas, specifically highlighting their use of AI in search, to power Gemini, to increase efficiency and to reduce costs.
 *  They continue to focus on AI and how to integrate that across their services. In their words, "AI is going to be a critical part of the long-term success of the company". 
 *  The company also highlighted the importance of their cloud services and how they are pushing growth in this area.
 *  In the latest Form 10-Q, Alphabet highlighted that they are having to pay more to content creators in streaming. This shows how much value they create for the content creators.
@@ -114,6 +118,7 @@ While you can understand the core search and advertising business easily, unders
 ### Balance Sheet Health: 5 / 5
 
 {: .highlight }
+
 Alphabet has a fantastic balance sheet that allows it to take advantage of future opportunities and to withstand tough economic times.
 
 Alphabet's balance sheet is among the best of any company, giving a rating of 5/5 with:
@@ -125,6 +130,7 @@ Alphabet's balance sheet is among the best of any company, giving a rating of 5/
 ### Potential Risks To The Moat and Business Resilience
 
 {: .warning }
+
 Regulatory scrutiny, competition, economic changes, and ethical concerns can threaten Google's moat and its ability to create value.
 
 *   **Regulatory Challenges**: Alphabet is facing increasing legal scrutiny and lawsuits in different jurisdictions regarding its business practices, such as content moderation, privacy and data usage, and competitive behavior. Some of these legal challenges could result in fines or changes to the business model. An antitrust lawsuit brought by the US Government is currently ongoing.

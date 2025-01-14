@@ -32,7 +32,8 @@ Amazon.com Inc. is a global technology conglomerate, primarily known for its e-c
 
 
 
-{: .important}
+{: .important }
+
 ### Business Overview
 Amazon operates through three main segments: 
 *   **North America:** This segment primarily focuses on retail sales of consumer products and digital media content sold through online and physical stores. This also includes digital subscriptions, such as Amazon Prime.
@@ -48,7 +49,8 @@ Amazon's diversified business model reflects its strategic focus on various aven
 *   **Subscription Services:** This includes Amazon Prime, which creates a recurring revenue stream through providing a variety of benefits including fast delivery, streaming, and exclusive deals.
 *   **Digital Advertising:** Amazon's advertising revenues are fast growing, as the company leverages user data to increase targeted ad sales on its platforms.
 
-{: .new}
+{: .new }
+
 ### Industry Trends
 *   **E-commerce Growth:** While the growth of e-commerce has been slowing, it is still expected to continue increasing in future years, even with more physical stores being opened. The move towards a blended online and in-store purchasing is becoming increasingly common.
 *  **Cloud Computing:** The cloud computing industry is experiencing growth, and competition in the sector is increasing. AWS is the biggest player, but other players like Microsoft, and Google, are catching up.
@@ -57,7 +59,8 @@ Amazon's diversified business model reflects its strategic focus on various aven
 
 ### Financials in Detail
 
-{: .important}
+{: .important }
+
 **Recent Performance:** As per their latest earnings report (Q3 2024), Amazon's net sales saw a notable growth, and while operating income has grown as well, it shows signs of cost cutting measures, and investments going in specific sectors like AWS and AI, which could have a high upside. 
 
 **Revenue Trends:**
@@ -82,7 +85,8 @@ Amazon's diversified business model reflects its strategic focus on various aven
 
 **Balance Sheet Health: 3 / 5**
 
-{: .note}
+{: .note }
+
 **A healthy balance sheet should have the following characteristics:** 
 * A good amount of cash on hand, which suggests the business can cover any short term problems.
 * Low debt relative to its equity, to signify the business can manage its finances.
@@ -98,7 +102,8 @@ Amazon's diversified business model reflects its strategic focus on various aven
 
     The key point is that the company is in a decent spot to absorb losses and weather turbulent market conditions, even with high debt.
 
-{: .warning}
+{: .warning }
+
 ### Risks that Can Harm the Moat and Business Resilience
 *  **Competition in Cloud:** While AWS is the market leader for cloud, there is increasing competition, from major tech companies like Microsoft and Google, which could hurt growth and margins. The rise of other players is a clear risk, particularly as the AI market further evolves.
 *  **Regulatory Pressure:** The government is looking to place more regulations on AI, and tech companies in general, which might hamper innovation and increase costs. Similarly, regulations in relation to data and privacy could impact AMZN's user base. Antitrust issues are also a concern.
@@ -106,7 +111,8 @@ Amazon's diversified business model reflects its strategic focus on various aven
 *  **Acquisition Integration Risks:** In their recent Q3 call, they mentioned that they have acquired numerous companies, and a lack of proper integration can lead to decreased synergies.
 *  **Currency Fluctuations:** As AMZN expands its business worldwide, their revenue and expenses are more at risk of fluctuation due to currency changes.
 
-{: .new}
+{: .new }
+
 ###  Recent Concerns & Management Response
 * **Economic Slowdown**:
        * Management has noted that the economic downturn has hurt their e-commerce business, particularly in the retail sector. Management has been cutting costs and reducing expenses to adjust, while also focusing on growth in areas like AWS and advertisement.
