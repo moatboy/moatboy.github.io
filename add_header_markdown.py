@@ -30,16 +30,20 @@ def parse_md_file(input_file):
     re.IGNORECASE
 )
 
-
     match = regex.match(first_line)
     if not match:
         print(first_line)
         raise ValueError("Input file format is incorrect.")
 
     title, ticker, moat, understandability, balance_sheet_health = match.groups()
-    description = lines[start_line + 2].strip() if len(lines) > start_line + 2 else ""
+    next_line = start_line + 1
+    if len(lines[next_line].strip()) == 0:
+        next_line += 1
 
-    return title, ticker, int(moat), int(understandability), int(balance_sheet_health), description
+    description = lines[next_line].strip()
+    print(description)
+
+    return title, ticker, float(moat), float(understandability), float(balance_sheet_health), description, next_line + 1
 
 def generate_markdown(title, ticker, moat, understandability, balance_sheet_health, description, nav_order_dict):
     markdown = f"""---
@@ -82,7 +86,7 @@ for input_file in docs:
     print(f"Processing: {input_file}")
 
     try:
-        title, ticker, moat, understandability, balance_sheet_health, description = parse_md_file(input_file)
+        title, ticker, moat, understandability, balance_sheet_health, description, ltr = parse_md_file(input_file)
     except Exception as e:
         print(e)
         continue
@@ -105,7 +109,7 @@ for input_file in docs:
 
         callouts = ['{: .highlight }', '{: .note }', '{: .new }', '{: .important }', '{: .warning }']
 
-        for line in lines:
+        for line in lines[ltr:]:
             if any(line.strip().startswith(callout[:-1]) for callout in callouts):
                 callout = next(c for c in callouts if line.strip().startswith(c[:-1]))
                 modified_line = f"{callout}\n{line.replace(callout[:-1], '').strip()}\n"
