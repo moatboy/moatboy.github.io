@@ -1,8 +1,39 @@
-## Apple Inc. (AAPL) | Moat: 4 / 5 | Understandability: 3 / 5 | Balance Sheet Health: 5 / 5
+---
+title: Apple Inc. (AAPL)
+layout: default
+nav_order: 1
+---
+
+# Apple Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-blue }
+
+Understandability: 3/5
+
+{: .label .label-green }
+
+Balance Sheet Health: 5/5
 
 Apple Inc. is a multinational technology company, primarily known for its iconic hardware products such as iPhones, iPads, and Macs. Additionally, the company has a vast ecosystem comprising software, services, and a strong brand.
+{: .fs-6 .fw-300 }
+
+[Investor Relations](https://www.google.com/search?q=AAPL+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/AAPL/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+{: .warning }
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
+
+
 
 {: .important }
+
 **Business Overview:**
 Apple is a consumer electronics giant that has built an ecosystem around its products, software, and services. Their revenue is derived from four principal segments:
 1.	**Products:** This category includes hardware sales of devices like the iPhone, Mac, iPad, AirPods, and Apple Watch. It remains the most significant contributor to Apple’s overall revenue and has the most variability in the margins based on the device itself. In 2023, iPhones made up 52% of total revenue, Mac was 10%, iPad was 6% and Wearables, Home and Accessories (Which includes things like the Apple Watch, HomePod and Earbuds) accounted for 11% of revenue.
@@ -11,6 +42,7 @@ Apple is a consumer electronics giant that has built an ecosystem around its pro
 4.    **International:** This segment is derived from sales of products and services to customers in regions outside of the Americas. The international segment accounts for the majority of revenue, being over 70% in 2023.
 
 {: .note }
+
 Apple operates in a highly competitive environment and faces constant challenges from both established rivals and new entrants. The company's future performance is highly dependent on technological advancements, shifting consumer preferences, global economic conditions, and regulatory changes.
 
 **Industry Trends and Competitive Landscape:**
@@ -22,6 +54,7 @@ The technology industry is characterized by rapid innovation, intense competitio
 *   **Cybersecurity and Privacy:** Data privacy and cybersecurity are becoming more pressing issues, as users are concerned about data breaches and misuse of personal information. There is increasing interest in “privacy-preserving” technologies.
 
 {: .important }
+
 Apple’s competitors span a wide range of industries, including:
 *    Samsung, Google, and Xiaomi in smartphones.
 *    Microsoft and HP in computers.
@@ -71,6 +104,7 @@ I have given the business a 3/5 for understandability. It’s easier to understa
 I have given the company a balance sheet health rating of 5/5 as there are very few liabilities, and the debt levels are very low, while the company maintains an extreme amount of liquid assets in the form of cash and marketable securities.
 
 {: .warning }
+
 **Recent Concerns and Controversies:**
 Apple has been criticized for its high commission rates in the App Store, as well as for its treatment of the app developers. The US government and various governments across the world have been trying to enact legislation to curb this power. This will require constant monitoring. The company has also been criticized for its production practices and ethics, but has taken steps to improve its environmental impact. Management seems to be doing its utmost to keep these issues at bay.
 

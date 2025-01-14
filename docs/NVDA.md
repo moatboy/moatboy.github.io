@@ -1,7 +1,39 @@
-## NVIDIA Corporation (NVDA) | Moat: 4 / 5 | Understandability: 3 / 5 | Balance Sheet Health: 5 / 5
-NVIDIA Corporation is a leading designer of graphics processing units (GPUs), accelerated computing solutions, and related software, serving diverse markets such as gaming, data centers, automotive, and professional visualization.
+---
+title: NVIDIA Corporation (NVDA)
+layout: default
+nav_order: 3
+---
 
-{: .important } **Business Overview**
+# NVIDIA Corporation
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-blue }
+
+Understandability: 3/5
+
+{: .label .label-green }
+
+Balance Sheet Health: 5/5
+
+NVIDIA Corporation is a leading designer of graphics processing units (GPUs), accelerated computing solutions, and related software, serving diverse markets such as gaming, data centers, automotive, and professional visualization.
+{: .fs-6 .fw-300 }
+
+[Investor Relations](https://www.google.com/search?q=NVDA+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/NVDA/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+{: .warning }
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
+
+
+
+{: .important }
+**Business Overview**
 
 NVIDIA's business is broadly divided into two main segments: Graphics and Compute & Networking.
 
@@ -12,7 +44,8 @@ NVIDIA leverages these two core segments to establish and maintain a global foot
 
 **Recent Developments, Future Objectives, and Challenges**
 
-{: .important } NVIDIA is rapidly expanding its influence in AI, both in training and deployment, and accelerating its growth.
+{: .important }
+NVIDIA is rapidly expanding its influence in AI, both in training and deployment, and accelerating its growth.
 
 *   NVIDIA’s GPU architecture is becoming the primary driver for large language models, with strong demand for their H100 GPU platform, including new networking technologies.
 *   AI infrastructure: NVIDIA’s cloud AI infrastructure providers have expanded capacity to meet increased demand and are building on NVIDIA platforms for cloud computing, which is rapidly growing.
@@ -40,7 +73,8 @@ Based on the provided information and financial statements, NVIDIA possesses a s
 
 **Risks to the Moat**
 
-{: .warning } NVIDIA faces several legitimate risks that could weaken its economic moat:
+{: .warning }
+NVIDIA faces several legitimate risks that could weaken its economic moat:
 
 *   **Technological disruption:** Although this is a primary driver of NVIDIA's success, a new breakthrough or disruptive technologies could rapidly erode NVIDIA's advantage. New companies can come and offer similar performance at much lower cost, and this can significantly disrupt NVIDIA. Competitors are always ready to jump in and are already starting to provide hardware with comparable or even better performance.
 *   **Increased competition:** AMD and other companies are producing competitors to NVIDIA chips at an increasing performance, and some are providing open-source software solutions, which may diminish the switching costs that NVIDIA has.

@@ -1,7 +1,39 @@
-## Microsoft Corporation (MSFT) | Moat: 4 / 5 | Understandability: 3 / 5 | Balance Sheet Health: 5 / 5
-Microsoft is a technology company committed to empower every person and every organization on the planet to achieve more. Its mission is to create local opportunity, growth, and impact in every country around the world.
+---
+title: Microsoft Corporation (MSFT)
+layout: default
+nav_order: 2
+---
 
-{: .highlight} Microsoft’s economic moat is considered **Wide**, supported by strong network effects and switching costs, particularly in its cloud and enterprise software segments. However, it’s important to recognize a nuanced analysis is needed, so not a 5/5 moat.
+# Microsoft Corporation
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-blue }
+
+Understandability: 3/5
+
+{: .label .label-green }
+
+Balance Sheet Health: 5/5
+
+Microsoft is a technology company committed to empower every person and every organization on the planet to achieve more. Its mission is to create local opportunity, growth, and impact in every country around the world.
+{: .fs-6 .fw-300 }
+
+[Investor Relations](https://www.google.com/search?q=MSFT+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/MSFT/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+{: .warning }
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
+
+
+
+{: .highlight }
+Microsoft’s economic moat is considered **Wide**, supported by strong network effects and switching costs, particularly in its cloud and enterprise software segments. However, it’s important to recognize a nuanced analysis is needed, so not a 5/5 moat.
 
 **Moat Analysis:**
 
@@ -17,7 +49,8 @@ While Microsoft has a strong moat, it is not perfect. It faces competition and e
 
 1.  **Technological Disruption:** Microsoft’s long-term success depends on its ability to stay relevant in rapidly changing technology landscapes. Disruptive innovations, such as a new computing paradigm or new technological platforms, may disrupt the status quo and threaten the existing products.
 
-{: .note} For example, a new operating system or office application might surpass Windows or Office in usefulness or convenience. This creates a constant need for innovation to defend the moat.
+{: .note }
+For example, a new operating system or office application might surpass Windows or Office in usefulness or convenience. This creates a constant need for innovation to defend the moat.
 2.  **Competition in Cloud Computing:** While Azure is a major player in the cloud computing sector, it faces intense competition from Amazon Web Services (AWS) and Google Cloud Platform. In this space, prices are frequently being lowered, and smaller upstarts can compete with large corporations on low prices and good quality of service. To compete, Microsoft will have to show a stronger edge than its competitors.
 3.  **Changing Consumer Preferences:** Consumer habits are not set in stone and shift easily, making it difficult for companies to maintain a loyal consumer base. For example, mobile gaming has come onto the scene and quickly changed preferences in how people buy video games. This affects Microsoft's gaming business. Also, customers may become weary of software subscriptions, and desire alternatives with upfront payments. 
 4. **Regulation**: Governments around the world can set new laws and regulations which hinder some of Microsoft’s businesses and products. In fact, Microsoft is currently under scrutiny for potential antitrust behavior related to its cloud computing sector. The company is being forced to change some practices in an attempt to level the playing field. This can affect the company’s revenue in the long run.

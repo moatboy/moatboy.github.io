@@ -1,15 +1,48 @@
-## Meta Platforms, Inc. (META) | Moat: 3 / 5 | Understandability: 2 / 5 | Balance Sheet Health: 4 / 5
+---
+title: Meta Platforms, Inc. (META)
+layout: default
+nav_order: 6
+---
+
+# Meta Platforms, Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-blue }
+
+Understandability: 2/5
+
+{: .label .label-green }
+
+Balance Sheet Health: 4/5
+
 Meta Platforms, Inc., formerly Facebook, operates a suite of social media platforms and related technologies, connecting people globally and generating revenue primarily through advertising.
+{: .fs-6 .fw-300 }
+
+[Investor Relations](https://www.google.com/search?q=META+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/META/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+{: .warning }
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
+
+
 
 ### Business Overview
 
 Meta Platforms, Inc. is a technology behemoth that, at its core, facilitates social interaction and connection through its suite of platforms, notably Facebook, Instagram, and WhatsApp.
 
-{: .note } Facebook, despite its evolution into a broader entity, remains the flagship service of Meta.
+{: .note }
+Facebook, despite its evolution into a broader entity, remains the flagship service of Meta.
 
 #### Revenue Streams
 
-{: .note } Nearly all of Meta's revenue is driven by advertising.
+{: .note }
+Nearly all of Meta's revenue is driven by advertising.
 
 *   **Advertising:** Meta’s revenue is largely derived from advertising, with a heavy reliance on advertising displayed on Facebook and Instagram. Advertising revenue includes direct response and brand ads, where advertisers seek to achieve specific performance metrics or brand awareness.
 *   **Metaverse/Reality Labs:** Revenue from this segment is primarily derived from sales of virtual reality and augmented reality devices, along with sales of virtual and augmented reality content. However, this area is still a small part of revenue when compared to advertising. This includes Horizon Worlds, but is still very early stage and not meaningfully generating any returns.
@@ -27,11 +60,13 @@ The social media and advertising space is immensely competitive and fast-moving.
 
 Meta competes in a heavily congested landscape with rivals like Google (Alphabet Inc.), TikTok (ByteDance), Amazon, Twitter (now X), and a plethora of smaller platforms across the world. New entrants are also a constant threat. Meta's competitive edge is based on its network of users, brand recognition, and its targeted advertising prowess.
 
-{: .note } In the long-term, the competition for advertising dollars is set to become more intense as companies increasingly compete for attention-for both engagement and advertisement.
+{: .note }
+In the long-term, the competition for advertising dollars is set to become more intense as companies increasingly compete for attention-for both engagement and advertisement.
 
 ### Company Financials
 
-{: .note } Meta's financial performance is directly tied to the health of the digital advertising market.
+{: .note }
+Meta's financial performance is directly tied to the health of the digital advertising market.
 
 *   **Revenues:** As detailed earlier, Meta generates the vast majority of its revenue through advertising. Total revenue was $34 billion in the third quarter of 2023, a 23% increase compared to same period in 2022. Full year 2022 revenue was $117B, a 1% decrease from 2021. 
 *   **Profitability:** Net income was $11.6 billion for Q3 of 2023. For full year 2022, net income was $23 billion. This represented a significant decrease year on year, and this was mainly due to the higher operating costs related to metaverse investment. But operating margins for the past few years are quite solid. For Q3, the operating margins was 40%.
@@ -55,7 +90,8 @@ Therefore, based on all these factors, I rate **Meta's Moat as 3/5** as it has a
 
 ### Risks
 
-{: .warning } Meta faces an array of risks that have potential to harm its competitive position and overall value creation.
+{: .warning }
+Meta faces an array of risks that have potential to harm its competitive position and overall value creation.
 
 *   **Technological Obsolescence:** Meta is still heavily dependent on its apps in their current form, and they may become obsolete very soon due to new innovations. The company needs to keep improving its products and incorporate new technologies, like AI, or else its products could lose their importance in the industry. This is a big risk given that the main products are mainly in short form and messaging, and it is not clear if metaverse will be a new strong product for the company. Also, the changes in user preferences and requirements will have some impact on usage and growth.
 *   **Regulatory scrutiny and Data Privacy:** Meta is under increased regulatory pressure for how it handles data and privacy. This is a very big risk, and is not confined to just Meta, but all big social media companies are under immense government pressure. There is a real chance that regulations are put into effect, and that may have a large negative influence over their bottom lines.
@@ -64,19 +100,22 @@ Therefore, based on all these factors, I rate **Meta's Moat as 3/5** as it has a
 
 ### Understandability Rating
 
-{: .note } While the business is generally understandable, there are lots of complex technologies and revenue sources.
+{: .note }
+While the business is generally understandable, there are lots of complex technologies and revenue sources.
 
 Although the core functionality of Meta's apps is relatively easy to understand, the business model, especially with metaverse and AI, is more difficult. The interplay of technical advancements, regulation, user behavior, and the complexities of its large-scale operations all make the business model difficult for most people to understand in detail. Therefore I rate its **Understandability as 2 / 5**.
 
 ### Balance Sheet Health
 
-{: .note } Meta's Balance Sheet health is quite strong, with lots of cash and very little debt. However, debt has increased somewhat recently.
+{: .note }
+Meta's Balance Sheet health is quite strong, with lots of cash and very little debt. However, debt has increased somewhat recently.
 
 Despite recent financial moves, Meta has a great balance sheet, with cash on hand and low debt, and the business is generating very good cash. So I rate its **Balance Sheet health 4 / 5**.
 
 ### Recent Concerns
 
-{: .warning } Meta has had some concerns, particularly with the metaverse, but also regulatory scrutiny, all of which have had an impact on performance.
+{: .warning }
+Meta has had some concerns, particularly with the metaverse, but also regulatory scrutiny, all of which have had an impact on performance.
 
 Meta is facing:
 
