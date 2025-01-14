@@ -35,7 +35,6 @@ Alphabet Inc. is a multinational technology conglomerate, primarily known for it
 ### Business Overview
 
 {: .note }
-}
 Google's dominance in search and related advertising is a powerful competitive advantage. The moat is further reinforced by its large ecosystem, and network effects.
 
 Alphabet, primarily known for its Google subsidiary, is a technology behemoth with a diverse portfolio of businesses. While Google Search and Google Advertising form the core of its revenue generation, its operations extend into cloud services (Google Cloud), hardware (Pixel devices), platforms (Android, Chrome) and various other "Other Bets" focusing on futuristic or more high-risk, high-reward opportunities.
@@ -72,7 +71,6 @@ Alphabet, primarily known for its Google subsidiary, is a technology behemoth wi
 ### Financials Analysis
 
 {: .important }
-}
 Alphabet's financials are impressive with a strong balance sheet, good profit margins, and huge free cash flow generation capabilities.
 
 *   **Revenue Growth:** Revenue has been growing consistently, although growth has slowed down. Google Services had 10.5% y-o-y growth, while Google Cloud revenue rose by 22.5% y-o-y for the quarter ending September 30, 2023. This signifies strong growth in its main sectors. The growth is largely impacted by the effects of foreign exchange rates. In constant currency terms, Google Services revenue grew by 11.5%, and Google Cloud grew by 23%.
@@ -116,7 +114,6 @@ While you can understand the core search and advertising business easily, unders
 ### Balance Sheet Health: 5 / 5
 
 {: .highlight }
-}
 Alphabet has a fantastic balance sheet that allows it to take advantage of future opportunities and to withstand tough economic times.
 
 Alphabet's balance sheet is among the best of any company, giving a rating of 5/5 with:
@@ -128,7 +125,6 @@ Alphabet's balance sheet is among the best of any company, giving a rating of 5/
 ### Potential Risks To The Moat and Business Resilience
 
 {: .warning }
-}
 Regulatory scrutiny, competition, economic changes, and ethical concerns can threaten Google's moat and its ability to create value.
 
 *   **Regulatory Challenges**: Alphabet is facing increasing legal scrutiny and lawsuits in different jurisdictions regarding its business practices, such as content moderation, privacy and data usage, and competitive behavior. Some of these legal challenges could result in fines or changes to the business model. An antitrust lawsuit brought by the US Government is currently ongoing.

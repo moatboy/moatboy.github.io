@@ -42,7 +42,6 @@ Apple operates in several interconnected market segments, contributing to a high
 The company's primary revenue drivers come from the sale of iPhones, services, and Macs.
 
 {: .note }
-}
 
 *   In terms of geographic segments, the Americas account for the largest share of net sales followed by Europe and Greater China. However, growth in Asia Pacific and Europe has been robust compared to Americas during recent quarters.
 
@@ -75,7 +74,6 @@ Apple's financials demonstrate a strong and profitable business with robust grow
 * For the quarter ending June 29, 2024, Apple reported net sales of 81.8 billion USD, a 1% increase compared to the same quarter in 2023.
 
 {: .important }
-}
 
 *   A strong recurring revenue from its service sector makes Apple more resilient to cyclicality compared to a company that is purely based on products. Apple is also investing and expanding in services which shows good long term potential.
 

@@ -107,6 +107,5 @@ for input_file in docs:
         file.write(markdown_output)
         file.write("\n\n")
 
-
         for line in lines[ltr:]:
             file.write(line)
