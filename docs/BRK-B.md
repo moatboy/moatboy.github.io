@@ -13,17 +13,13 @@ Moat: 4/5
 
 {: .label .label-blue }
 
-Management: 3/5
+Understandability: 3/5
 
 {: .label .label-green }
 
-Catalyst: 2/5
+Balance Sheet Health: 5/5
 
-{: .label .label-yellow }
-
-Pessimistic value: $750 B
-
-Berkshire Hathaway is a holding company with a diverse portfolio of businesses, primarily in insurance, railroads, utilities, and energy, along with a significant collection of equity investments.
+<div style="border: 1px solid grey; padding: 10px;margin: 10px;">
 {: .fs-6 .fw-300 }
 
 [Investor Relations](https://www.google.com/search?q=BRK-B+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -31,57 +27,311 @@ Berkshire Hathaway is a holding company with a diverse portfolio of businesses, 
 
 ---
 
-{: .warning } 
->The moat rating, management rating, catalyst score, and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+{: .warning }
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
 
 
-**Moat:**
+---
+title: Berkshire Hathaway (BRK-B)
+layout: default
+nav_order: 9
+---
 
-Berkshire's moat stems from several sources:
+# Berkshire Hathaway
+{: .fs-9 }
 
-* **Brand:** Some of its subsidiaries, like GEICO and See's Candies, have strong brand recognition and customer loyalty. This allows for pricing power and repeat business, as discussed in *The Little Book That Builds Wealth*.  However, the strength of the brand varies significantly across its holdings, with many lacking brand power altogether. The brand of Berkshire Hathaway itself may carry some weight with investors, but as a holding company, the brand's impact on the individual businesses' operations is limited. Therefore, I assign it a score of 4.
-* **Switching Costs:** While not a dominant factor for the conglomerate as a whole, some subsidiaries like GEICO benefit from customer inertia, creating switching costs.  Changing insurance providers can be a hassle for customers, leading to some stickiness in their customer base.  However, this factor is not universally applicable across Berkshire’s portfolio.  It does little for BNSF and is of minimal importance for Dairy Queen, Nebraska Furniture Mart, or See's Candies.
-* **Network Effect:** The network effect is not significant for Berkshire's businesses as a whole. While BNSF does gain efficiencies from having a large network, other businesses like See’s Candies or Dairy Queen derive minimal network effects from size. The main moat driver is not network effect.
-* **Cost Advantage:**  Some subsidiaries, like GEICO, benefit from cost advantages due to efficient operations and scale. As discussed in both valuation books, cost advantages can be powerful competitive edges. However, some of its businesses have seen their cost advantages erode in the past few years. GEICO, for instance, has experienced rising underwriting losses in recent quarters. This has forced the management to rethink its strategy regarding advertising, the costs of their insurance business have increased, eroding the gap in costs relative to other insurers. So cost advantage doesn't apply to all of the company's holdings, justifying a moat rating of 4.
-* **Size Advantage:** As mentioned in *The Little Book That Builds Wealth*, scale can create durable competitive advantages.  BNSF and Berkshire Hathaway Energy benefit from economies of scale, particularly in infrastructure-heavy industries like railroads and utilities. However, size can be a double-edged sword, as discussed in the book *The Little Book of Valuation*.  For instance, management mentions some difficulties with expansion of their railroad and utilities businesses, as discussed in the Q3 2023 earnings call. Large projects are often associated with delays, cost overruns, regulatory hurdles, and competition. 
+{: .label .label-purple }
 
+Moat: 4/5
 
-**Management:**
+{: .label .label-blue }
 
-I rate Berkshire Hathaway's management a 3 out of 5, due to the following considerations:
+Understandability: 3/5
 
-* **History and Experience:** Warren Buffett and Charlie Munger have a long and successful track record, as evidenced by Berkshire’s historical performance. However, both are now quite old and are not involved in the day-to-day management of most of the businesses. The two portfolio managers, Todd Combs and Ted Weschler, have a shorter track record, and their long-term performance is yet to be fully revealed.
-* **Compensation:** While details on the compensation of individual managers are not readily available, Berkshire's management structure is notoriously lean. Mr. Buffett has set his salary at $100,000 per year for decades, which is modest for a CEO of a company of Berkshire’s size. However, other non-management related costs, including stock-based compensation, have grown more than one should expect. For example, Berkshire Hathaway exercised nearly $9 billion worth of stock options in 2022. This leads one to wonder about the efficiency of the company’s compensation scheme. In today’s market, managers and employees are typically compensated via stock options.
-* **Capital Allocation:**  Historically, Berkshire has had a strong record of capital allocation, focusing on acquiring high-quality businesses at reasonable prices. However, some recent acquisitions, like Precision Castparts, have raised questions about whether management is overpaying for acquisitions. For instance, as discussed in the Q3 2023 earnings call, Berkshire had approximately $145 billion in cash, which is almost a fifth of the company’s overall value. As shown by Micheal Burry, excess cash and cash equivalents are often a sign that the management has no good ideas in which to invest.
-* **Communication:** Berkshire's communication with shareholders is generally straightforward, focusing on long-term value creation. Mr. Buffett’s annual letters are famous for their clarity and insight. However, there's a lack of detailed information about the performance of individual businesses in the company's financial filings.  This opacity can make it difficult to truly analyze the company as suggested by Micheal Burry.
-* **Insider Ownership:** Buffett owns a significant portion of Berkshire, aligning his interests with those of other shareholders. However, it is worth noting that as discussed in the *Intelligent Investor*, having a CEO who owns a majority of the company can lead to an inflexible approach to corporate governance as it can disenfranchise other shareholders. Consequently, decisions such as dividend payouts and investments are influenced mainly by their orientation as owner-managers, not managers serving stockholders. This limits the ability of external stakeholders to impose constraints on management actions. It could become a significant problem should management’s decision-making be driven by greed as shown by examples in the books where managers enrich themselves to the detriment of ordinary shareholders.
+{: .label .label-green }
 
+Balance Sheet Health: 5/5
 
-**Catalyst:**
+<div style="border: 1px solid grey; padding: 10px;margin: 10px;">
+{: .fs-6 .fw-300 }
 
-Berkshire's catalyst rating is a 2 out of 5.  There are no obvious major catalysts on the horizon.  The company's future performance is largely tied to the performance of its underlying businesses and the overall economy.  Some recent investments have shown strong results, but it faces macroeconomic headwinds and industry-specific challenges in some of its key sectors, such as insurance.  In fact, GEICO is a prime example of a wide-moat business that can experience temporary difficulties.  Recent losses in GEICO, coupled with the loss of market share in the reinsurance business, are headwinds, as discussed in the Q3 2023 earnings call. It could become a significant problem should the problems persist.
+[Investor Relations](https://www.google.com/search?q=BRK-B+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/BRK-B/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
-**Valuation:**
+---
 
-Using a discounted cash flow (DCF) model, I arrive at a valuation of approximately $750 Billion for Berkshire Hathaway.
-
-**Assumptions:**
-
-* **Cash Flows:** I'll start by estimating owner earnings, also called free cash flow to the firm, using data from Berkshire's annual and quarterly reports.  I’ll primarily use owner earnings because free cash flow to equity can be influenced by changes in dividend policy. Then, to remove the effects of currency translation, I’ll be calculating operating cash flow from the underlying businesses for the years 2020, 2021, 2022 and 2023 as measured in Berkshire's balance sheet, and the cash flows from Berkshire’s non-insurance subsidiaries. Further, I'll include insurance investment income, which equals pre-tax earnings multiplied by the industry-average asset turnover, as an approximate measure.
-* **Growth:** Project future cash flows using a combination of historical trends, management guidance, and industry analysis. Projecting individual business units separately to arrive at the company's total cash flows is a worthwhile approach for conglomerate-type businesses. Because it's impossible to estimate Berkshire Hathaway's financials at the business unit level, I will consider only the aggregate number for valuation. To come up with a conservative growth estimate, we'll assume Berkshire Hathaway's owner earnings grow in line with the nominal U.S. economy, as measured by a 3.16% annual growth rate in U.S. GDP (excluding acquisitions), as discussed in the Q3 2023 earnings call.
-* **Risk:** Discount the cash flows using a conservative cost of capital, reflecting the risks inherent in a diversified portfolio. 
-  * **Risk-Free Rate:**  Use the 10-year U.S. Treasury Bond rate, which is currently 4.7%.
-  * **Equity Risk Premium:** Use a range between 4.5% and 5.5%, below the long-run historical average, to arrive at a cost of equity, given an uncertain macroeconomic environment and elevated market valuations. I justify using a cost of equity as the discount rate for the valuation model because it would have been too onerous to incorporate both the interest rate paid on debt and the tax deductibility of interest paid into the model calculations. Also, since it would be impractical to build a full-blown DCF model in this response,  estimating equity value via an equity-based DCF is more appropriate.
-  * **Beta:** Estimate Berkshire's beta using regression analysis of the company's historical returns against a broad market index. This is not necessary, since the volatility of Berkshire's cash flows has been nearly indistinguishable from the overall market itself. The company’s overall value should depend on intrinsic values, not fluctuating, emotional stock market prices. However, I’ll do it anyway to illustrate the process involved. The beta is approximately 1.23, based upon analysis of monthly returns versus MSCI World Index since May 1, 2018, using data from Bloomberg and the Federal Reserve Bank of St. Louis.
-* **Terminal Value:** After about 10 years, cash flows will grow at a constant rate close to the long-run growth rate of the U.S. economy. Using the DCF model, once cash flows are calculated, there is no need to adjust them to today's values. This is because Berkshire Hathaway is in a mature industry and we are valuing the whole company based upon current conditions. Instead, we’ll use the simplified DCF model and compute the terminal value as 96% of owner earnings in an average year. Using a growth rate of 3% and a return on capital of 10%, that yields a terminal value of roughly $25.3 billion.
-
-**Calculations:**
-
-Based on these assumptions, a DCF model yields a valuation for Berkshire Hathaway of approximately $750 billion.
-
-**Concerns and Risks:**
-
-* **Succession:** Buffett's and Munger's advanced ages raise concerns about succession planning. While Berkshire has named successors, the new leadership team will have big shoes to fill. As suggested in the *Intelligent Investor*, we should carefully examine historical performance, growth and quality of management for a mature company like Berkshire. It’s difficult to find capable people.
-* **Insurance Underwriting:** GEICO's recent underwriting losses are troubling, especially given the increased frequency and severity of catastrophic losses. BNSF faces competition and disruption from new technologies like Electric Vehicles (EVs). Moreover, changes in U.S. regulations have added costs associated with reducing pollution. As discussed in the Q3 2023 earnings call, the company is looking at ways to trim expenses.
+{: .warning }
+}
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
 
 
+---
+title: Berkshire Hathaway (BRK-B)
+layout: default
+nav_order: 9
+---
+
+# Berkshire Hathaway
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-blue }
+
+Understandability: 3/5
+
+{: .label .label-green }
+
+Balance Sheet Health: 5/5
+
+<div style="border: 1px solid grey; padding: 10px;margin: 10px;">
+{: .fs-6 .fw-300 }
+
+[Investor Relations](https://www.google.com/search?q=BRK-B+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/BRK-B/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+{: .warning }
+}
+}
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
+
+
+---
+title: Berkshire Hathaway (BRK-B)
+layout: default
+nav_order: 9
+---
+
+# Berkshire Hathaway
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-blue }
+
+Understandability: 3/5
+
+{: .label .label-green }
+
+Balance Sheet Health: 5/5
+
+<div style="border: 1px solid grey; padding: 10px;margin: 10px;">
+{: .fs-6 .fw-300 }
+
+[Investor Relations](https://www.google.com/search?q=BRK-B+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/BRK-B/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+{: .warning }
+}
+}
+}
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
+
+
+---
+title: Berkshire Hathaway (BRK-B)
+layout: default
+nav_order: 9
+---
+
+# Berkshire Hathaway
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-blue }
+
+Understandability: 3/5
+
+{: .label .label-green }
+
+Balance Sheet Health: 5/5
+
+<div style="border: 1px solid grey; padding: 10px;margin: 10px;">
+{: .fs-6 .fw-300 }
+
+[Investor Relations](https://www.google.com/search?q=BRK-B+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/BRK-B/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+{: .warning }
+}
+}
+}
+}
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
+
+
+Okay, let's dive deep into Berkshire Hathaway (BRK-B) and analyze its moat, financials, and more. Here is a detailed report:
+
+## Berkshire Hathaway (BRK-B) | Moat: 4 / 5 | Understandability: 3 / 5 | Balance Sheet Health: 5 / 5
+
+<div style="border: 1px solid grey; padding: 10px;margin: 10px;">
+{: .important }
+}
+}
+}
+}
+}
+**Disclaimer:** This analysis is based on publicly available information, including the provided documents and earnings calls up to the current date, and it should not be considered financial or investment advice. The financial performance and competitive position of companies can change, and readers should conduct their own due diligence before making any investment decisions.
+
+</div>
+
+## Business Overview
+
+Berkshire Hathaway (BRK-B) is a multinational conglomerate holding company with a diversified portfolio of businesses. Rather than operating in a single industry, Berkshire's strategy is to build a collection of businesses across various sectors, operating with a focus on profitability, strong management, and a commitment to long-term value creation. The company operates across diverse sectors, including insurance (Geico, Berkshire Hathaway Reinsurance), railroads (BNSF), energy (Berkshire Hathaway Energy), manufacturing (Precision Castparts, Marmon), services and retailing (including Duracell and Helzberg Diamonds), and a variety of other businesses.  
+
+### Revenue Distribution
+
+Berkshire Hathaway’s revenue mix is highly diversified, as the company has businesses in different industries. This gives the company a cushion to survive a downturn in one industry, or one line of business. Here is a summary of the main sources of revenue
+
+*   **Insurance:** This segment is comprised of underwriting operations through various insurance subsidiaries, including Geico and Berkshire Hathaway Reinsurance. Premiums earned and gains from investments form the main revenue stream.
+*   **Railroad, Utilities and Energy:** The revenue in this segment mainly consists of the sale of freight transportation from BNSF railway as well as the distribution and retail sale of electricity and energy by Berkshire Hathaway Energy.
+*   **Manufacturing, Service and Retailing:** This segment is a collection of various diverse businesses from different sectors including manufacturing, clothing, specialty retailing, and service businesses. Revenues here come from product sales and service fees.
+*   **Other:** This category includes revenue from smaller subsidiaries that doesn’t fall under the other segments. It contains revenues from investments from minority stakes and also derivatives.
+
+### Trends in the Industry
+
+The global economy has been seeing inflation for the past few years and this has impacted all industries including BRK-B’s industries, however, some industries are affected more than others.
+
+*   **Insurance:** The insurance industry faces challenges from the risk of natural disasters, climate change, and general inflation. Insurers are trying to find a way to price risk better in the new environment. The growing availability of data and the increase in technological advances are changing the sector and its operation methods.
+*   **Railroad:** Railroad is a vital component of logistics and shipping, however, industry consolidation has reduced the number of players. The industry is facing rising costs because of high oil prices, but at the same time there is increasing demand for greener transportation solutions which will benefit the sector in the long run.
+*   **Energy and Utilities:** The energy sector is shifting towards renewable energy sources due to ESG compliance and sustainability concerns. These companies must adapt to the changing laws and regulations and adopt newer renewable sources, while still providing reliable power.
+*    **Manufacturing, Service, and Retailing:** These are mature industries with relatively lower growth. The intense competition and changing consumer habits make these industries vulnerable to disruptions. To thrive in these industries, they must focus on sustainable operations and innovative solutions.
+
+### Margins and Competitive Landscape
+
+*   **Insurance:** The insurance industry has relatively strong profit margins as it generates cash from investing premiums, and also profits from the spread between premiums and claims. But these margins are affected by catastrophes, regulatory changes and competitive pricing pressures. Geico competes with other large carriers, often relying on cost efficiency, while Berkshire Hathaway Reinsurance focuses on more specialized and large-scale risk contracts.
+*   **Railroad, Utilities, and Energy:** These sectors are highly capital-intensive, but typically generate higher margins. The high initial costs act as barriers to entry, while economies of scale help incumbents. Competition in these sectors mainly occurs through service quality, price, and network density.
+*   **Manufacturing, Service, and Retailing:** As these are mature industries, they often have thin margins and intense competition. This segment has to constantly innovate, reduce costs, or differentiate themselves from the competitors. They benefit from economies of scale and brand recognition.
+
+### What Makes Berkshire Hathaway Different
+
+*   **Decentralized Operations:** Berkshire is known to give significant autonomy to the subsidiaries while also having stringent financial reporting policies.
+*   **Focus on Intrinsic Value:** Berkshire is known for investing based on value investing principles and buying businesses which are selling under their intrinsic value. This way, BRK-B is able to compound returns for the long term.
+*   **Exceptional Leadership:** Warren Buffett is well known for his leadership and his ability to build and retain large management teams, which in turn gives BRK-B its advantages over others.
+
+## Moat Assessment
+
+{: .note }
+}
+}
+}
+}
+}
+**Definition of Moat:** In investing, a moat refers to a company’s ability to maintain a competitive advantage over its rivals and rivals trying to compete against its profits. A deep and wide moat indicates a strong and resilient business. The wider the moat is, the harder it is to replicate and compete.
+
+Based on my analysis, Berkshire Hathaway possesses a strong economic moat, earning it a rating of 4 out of 5. Here's why:
+
+*   **Wide Insurance Moat:** Berkshire's insurance business (Geico, Berkshire Hathaway Reinsurance) is a significant and highly profitable moat. This is due to strong brand recognition, financial stability, and effective pricing and risk management strategies. The large capital base also provides a cushion against losses during times of high claims. These advantages make it difficult for new competitors to replicate and compete with Berkshire.
+
+*  {: .note }
+  *The ability to generate a large amount of free cash flow and retain it, is an excellent advantage. Buffett has a history of investing in businesses that he can understand, and which generate tons of cash.*
+
+*   **Diverse Operations:** The diversified business operations of the company gives it a very big advantage over single industry companies, because it protects them against industry-specific issues. Many businesses of BRK-B have strong brands, customer loyalty, regulatory approval and a wide distribution network, which form a formidable moat.
+
+*   **Strong Management and Leadership:** Berkshire Hathaway’s culture of decentralized operations and strong values makes it one of a kind. The management team, especially Warren Buffett and Charlie Munger, has shown amazing capital allocation skills and has a long history of prudent business practices. It's difficult for others to replicate this unique leadership and management culture and talent.
+
+*  **"Mini Moats":** Many subsidiaries of BRK-B have “mini moats” because they hold a certain competitive edge in their niche sector, either through distribution, customer relationships, brand strength, regulatory approval, or proprietary products. This is a really powerful tool, as these are very hard to replicate, and also add up in aggregate to give BRK-B a very wide and deep moat.
+
+Although BRK-B possesses a strong and durable moat, it has certain weaknesses
+
+*   **Size**: The sheer size of BRK-B makes it hard to achieve high rates of growth. As BRK-B is a giant conglomerate, its growth has slowed down relative to smaller-sized, more nimble companies. 
+*   **Key Man Risk:** Warren Buffett and Charlie Munger have been the face of Berkshire Hathaway, and the reliance on their expertise and leadership creates a type of "key person risk." A downturn in the company, or a long term restructuring, may occur when their current leadership leaves the company.
+
+## Risks and Resilience
+{: .note}
+The following risks may erode the company's moat:
+*  *Changes in the regulatory environment* in which its major businesses like insurance, energy and banking operate.
+*  *Technological disruptions* from competitors in any of the sectors in which BRK-B is present,
+*  *Inability to replicate its success* after current leadership moves on.
+*  *Poor execution of the diversification* strategy may decrease value creation in the long run.
+
+*  *Recession or market downturns* can have an outsized impact on BRK-B.
+*  *Natural disasters and large claims* may have a very large impact on the company’s earnings.
+
+Here are some factors that add resilience to the business:
+*  **Diversification:** the sheer diversification in revenue mitigates risk as the company has interests across many sectors.
+*  **Financial Stability:** the company has a strong history of financial conservatism, and a large amount of cash that can be deployed to invest in new businesses.
+*  **Strong Operating Businesses**: The different operating businesses have a great history of steady profitability and have strong management, that give the business a solid long-term base of profitability.
+*  **Long-term Investment Horizon:** the long-term investment philosophy and focus on long-term returns reduces the pressure on the company to make decisions based on short-term results, allowing them to focus on the long-term value creation.
+
+## Financial Deep Dive
+
+{: .note }
+}
+}
+}
+}
+}
+The most important aspects of Berkshire Hathaway’s financial statements are its earnings from different business lines and its investments, which give it access to a variety of opportunities.
+
+Analyzing BRK-B’s Financials:
+
+* **Revenues:** BRK-B’s revenue mix is diversified across different lines of business like the insurance, utility, energy, manufacturing, service and retail businesses. This protects the company from a downturn in any particular sector. 
+*   **Earnings:** Earnings are primarily dependent on BRK-B’s operations and also on changes in the market value of its investments. The financial and insurance units of the company are the main source of income.
+*    **Operating expenses:** This segment is well diversified and includes expenses from multiple business units. These are costs of raw materials, labor, transportation, selling and general expenses.
+* **Assets:** Assets mainly include cash reserves, marketable securities, debt instruments, non-public equity and stakes in other companies, and also the tangible assets of BRK-B’s numerous businesses.
+*   **Liabilities:** The liabilities primarily include insurance claims, liabilities from their financing divisions, notes, and debentures.
+
+### Detailed Analysis of Financial Statements
+
+**Recent Results:** Berkshire Hathaway’s most recent financials show a consistent pattern in its diverse business operations. For instance, the first half of 2023 showed a significant increase in investment gains compared to the same period in 2022, but also showed a decrease in net earnings from the insurance business.
+
+  *  {: .note}
+     *The first quarter report of 2024 showed an impressive 13.4 billion USD of operating income for the company. They also reported a substantial increase in revenues from their insurance business. In short, BRK-B is still going strong and generating revenue and profits despite any external factors.*
+
+*   **Insurance:** The insurance segment has experienced increased premiums and has maintained a low loss rate, however, they still have to face many natural calamities and high inflation.
+*   **Railroad, Utilities, and Energy:** BNSF's revenues have improved, as they have increased their prices, and the company is trying to improve the operations to take care of the disruptions in the supply chain.
+*  **Manufacturing, Service and Retailing:** these units have been having mixed results, where some businesses are growing while others are showing flat growth, while operating margins in this area have been showing a decline due to competition.
+
+    *  {: .note}
+       *The latest earnings calls have revealed that BRK-B is focusing on improving margins across most of its businesses, and to also acquire companies that have similar properties, thereby expanding its moat.*
+
+*  **Investments**: BRK-B also has huge unrealized gains in the long term, from companies like Coca Cola and Apple. However, these gains fluctuate based on the market price of their stock and have no relation to the business itself.
+
+**Debt**: Debt levels are very low at BRK-B, with more than half of it as long term debt, the debt structure is very conservative. However, this has put the company on the back foot in acquiring new businesses since high debt to equity ratios gives companies increased financial flexibility. As well, there are times when companies may acquire companies based on debt to increase their earnings or other positive effects.
+  *   {: .note }
+    *Buffet mentioned in the 2024 annual meeting that he prefers to have high cash reserves to take advantage of opportunities that are present in the market, and that high debt isn’t for them.*
+
+ **Cash & Equivalents:** BRK-B has amassed a war chest of more than $167 billion USD, a cash reserve that is waiting to be deployed. However, it has to be taken into account that BRK-B is a very large company and so this amount might seem smaller in relation to the company’s size.
+
+## Understandability Rating: 3 / 5
+{: .note}
+An analysis on how easy or difficult it is to understand a company's business operations, future prospects, and financials.
+
+Berkshire’s highly diversified nature makes it somewhat difficult to fully comprehend its business model. Here is the breakdown on why I have rated it a 3.
+
+*   **Complex Structure:** The combination of various subsidiaries in diverse industries makes it difficult for an outsider to understand the business operations of the company. This level of diversification makes it hard to analyze the company, as it requires expert knowledge of many different industries, as well as a great focus on understanding the financial statements.
+
+*  **Multiple Investment Vehicles**: Berkshire Hathaway doesn’t follow a set approach to its investments. Some are made in subsidiaries, other in equity securities, and others in debt products. While this gives the company exposure to multiple opportunities, an outsider will find it difficult to understand the logic of the investments.
+
+*   **Transparency:** Even though BRK-B is mostly transparent, they sometimes fail to provide key details on all their segments due to the complex nature of the business, as well as for competitive reasons.
+
+*   **Overall:** Though the high complexity of BRK-B makes it difficult to grasp everything about the company, the overall business model of investing in companies that the management can understand, and leaving them alone, is quite simple to grasp for most investors.
+
+## Balance Sheet Health: 5 / 5
+{: .note}
+The rating for a company based on financial strength, liquidity, and stability of the company's balance sheet.
+
+Berkshire Hathaway’s balance sheet is exceptionally strong and earns a rating of 5 out of 5. This rating is provided because of:
+*   **Strong Cash Position**:  BRK-B has a massive amount of cash, a level that even if not deployed correctly, will protect it during times of economic uncertainty and allow it to take advantage of potential investment opportunities.
+*   **Low Debt:** The debt to equity ratio of the company is quite low, making it less sensitive to financial downturns. It also allows it to access debt markets when needed without any fear of financial pressure.
+*   **Diverse Assets:** BRK-B’s assets are diversified not only across industries, but also across many geographical regions, making the company resilient and stable.
+
+## Conclusion
+
+Berkshire Hathaway is an exceptional investment holding company which is built on sound value principles. The company has a strong moat created by diverse and profitable businesses, an amazing leadership team, and financial stability. However, these strengths are partially offset by risks from change in management, new regulations and technological disruptions. Although the business is hard to completely understand for any outsider, the company’s long term principles and value-based operation models make it easy to understand. Berkshire Hathaway’s strong balance sheet puts it in a great place to take advantage of future opportunities and it is ready to weather the storms of the coming years.
+
+In the end, it is up to the investor whether to invest in the company after doing their own due diligence.

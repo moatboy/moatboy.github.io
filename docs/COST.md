@@ -1,10 +1,10 @@
 ---
-title: Costco Wholesale Corporation (COST)
+title: Costco (COST)
 layout: default
 nav_order: 20
 ---
 
-# Costco Wholesale Corporation
+# Costco
 {: .fs-9 }
 
 {: .label .label-purple }
@@ -13,17 +13,13 @@ Moat: 4/5
 
 {: .label .label-blue }
 
-Management: 3/5
+Understandability: 1/5
 
 {: .label .label-green }
 
-Catalyst: 2/5
+Balance Sheet Health: 5/5
 
-{: .label .label-yellow }
-
-Pessimistic value: $220 B
-
-Costco operates a membership-based warehouse club business model, selling a diverse range of merchandise at competitively low prices, primarily in the U.S., Canada, Mexico, Japan, the U.K., Korea, Taiwan, Australia, and Spain.
+### Business Overview
 {: .fs-6 .fw-300 }
 
 [Investor Relations](https://www.google.com/search?q=COST+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -31,80 +27,97 @@ Costco operates a membership-based warehouse club business model, selling a dive
 
 ---
 
-{: .warning } 
->The moat rating, management rating, catalyst score, and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
-
-### Moat: 4/5
-
-Costco's **wide moat** stems primarily from a combination of **cost advantages** and the **network effect**:
-
-* **Cost Advantages:**  Costco leverages its massive scale to negotiate favorable pricing from its suppliers and operates efficiently with a focus on high sales volumes and low margins. This allows it to consistently offer lower prices than its competitors, as highlighted in *The Little Book that Builds Wealth*.  Their business model of charging membership fees also contributes to this cost advantage by providing a steady stream of high-margin revenue, partially insulating the company from thin margins on merchandise sales, as mentioned in  *Valuation: Measuring and Managing the Value of Companies*. Their quarterly reports consistently highlight increasing membership fees and renewal rates.
-* **Network Effect:**  As discussed in *The Little Book That Builds Wealth*, the network effect is a powerful moat for companies like Costco. More members attract more suppliers, which allows Costco to offer a wider variety of merchandise and services at even lower prices. This, in turn, attracts more members, creating a virtuous cycle. The 10-K filings consistently show an increasing number of members and warehouses. Further, management often discusses increasing penetration in existing markets in their earnings calls, and opening new markets and new warehouses.
-
-Costco's moat is not unassailable, and challenges do exist. The retail landscape is always evolving, as exemplified by the rise of e-commerce, which is being addressed by Costco through expansion of its online business as well. Competition, both domestically and internationally, remains intense. However, the durability of cost advantages and network effects make Costco's moat quite defensible. This is why we assign a rating of 4/5.
-
-### Management: 3/5
-
-* **Capital Allocation:** Management's capital allocation decisions have primarily focused on expanding warehouses and growing the company organically. Returns on invested capital have been impressive over the long term, averaging around 17%. However, more recently, ROIC has seen a mild decline. Further, there has been a growing emphasis on share buybacks which haven't always added value, as shown in *Valuation: Measuring and Managing the Value of Companies*.  This raises concerns about management's ability to allocate capital efficiently as growth slows down.
-* **Compensation:** Executive compensation is tied to performance metrics such as net sales growth and earnings. However, the absence of detailed disclosure of performance metrics in annual reports is a concern.  While executive compensation seems to be in line with peers, as noted by Counterpoint Global, specific numbers on executive compensation and returns on capital are lacking in 10-K filings. The lack of transparency is somewhat disconcerting.
-* **Communication:**  Management provides fairly detailed information about current operations and results in its earnings calls. Quarterly financial disclosures are also reasonably detailed. However, a pessimistic investor might find management's comments about the future to be overly optimistic, and their emphasis on beating earnings targets is a bit worrying, as discussed in *The Little Book that Builds Wealth*.  There have been some quarters, where there has been bad news, that is covered up by management.
-* **Insider Ownership:** Insider ownership is quite low at less than 1%. While this is common for larger companies, a more skeptical investor might prefer to see greater alignment between management and shareholders’ interests, as emphasized in *The Essays of Warren Buffett*.
-
 {: .warning }
-Overall, Costco's management seems competent, but some factors like low insider ownership and lack of detailed disclosure in some areas keep us from giving a high rating.
-
-### Catalyst: 2/5
-
-* **International Expansion:** Costco continues to expand into new markets, primarily in Asia and Australia. These new markets have the potential to drive long-term growth, though building out infrastructure in these markets takes time, as discussed in management's comments in earnings calls.  Management often comments on increasing penetration in existing markets like Taiwan and China in earnings calls.
-* **E-commerce:** Costco's e-commerce business is growing. This segment could become a more significant part of the business over time and enhance customer convenience, as exemplified by Amazon's success, as mentioned in Counterpoint Global’s report. However, this also might not be a meaningful driver of higher sales growth.
-* **New Products and Services:** Costco continues to add new products and services, such as gasoline and more recently fresh foods, as mentioned in their earnings calls.  The potential for these products and services to have a big impact on overall profitability are slim.
-
-The above catalysts may increase earnings over time, but the company is facing pressures from changing consumer behaviors and a challenging competitive landscape.  We therefore assign a catalyst rating of 2/5, indicating a limited near-term upside.
-
-### Valuation: $220 Billion
-
-We'll use a **discounted cash flow (DCF)** model, specifically the **free cash flow to the firm (FCFF)** approach discussed in *The Little Book of Valuation*. This approach is chosen because it removes the distortion caused by financial leverage and focuses on cash flows generated by operations.
-
-**Key Assumptions:**
-
-* **Revenue Growth:**  2% for the next 5 years and then 1% (terminal growth).
-Given the maturity of the U.S. economy and retail sector, revenue growth is likely to be in the low single digits. We will use more conservative rates than what management projects in its discussions, as is our philosophy.
-* **Operating Margin:** 3.5%, as per historical averages and in-line with current margin.
-* **Reinvestment Rate:** 30% declining to a stable growth rate of 10%.
-Costco continues to reinvest in new warehouses and e-commerce; however, we are assuming a lower rate than the current rate as growth slows.
-* **Cost of Capital (WACC):** 7.5%.
-This reflects a risk-free rate of 4%, a beta of 0.6 (obtained from regression against a global index), an equity risk premium of 4.5%, an after-tax cost of debt of 4%, and a 15/85 debt-to-equity ratio, in line with the company's current capital structure. The recent increasing financial leverage is likely to reverse itself to lower levels.
-
-**Calculations:**
-
-1. **FCFF:**  We'll use the following formula to compute free cash flow for the next 5 years:
-FCFF = EBIT(1-t) + Depreciation - Capital Expenditures - Change in Working Capital
-Based on the financials, Costco generated about $8.8 billion in FCFF in the fiscal year 2023.
-{: .highlight }
-
-The current revenue growth rate is above 10%--which is unsustainable. Management claims the company is benefiting from a continued reopening recovery after the pandemic. However, they also comment on increased shopping frequency at existing stores. This could indicate some structural improvements, but needs to be monitored further.
-{: .highlight }
-
-2. **Terminal Value:**  We use a perpetuity growth model in conjunction with our conservative assumptions.
-Terminal Value = FCFF(1+g)/(WACC-g)
-3. **Present Value:**  Discount the FCFF for the next 5 years and the terminal value back to the present at the WACC of 7.5%.  We then add the present values to arrive at the total firm value. This firm value needs to be adjusted by adding back cash balances (excluding marketable securities), the value of non-operating assets, and subtracting debt and the value of any non-equity claims. 
-{: .highlight }
-
-As seen in the firm’s financial reports, Costco has purchased shares at much higher prices. However, as seen in the valuation books, this does not increase the value of the company for its existing shareholders. Repurchasing shares when the share price is overpriced is a very dubious value-adding activity.
-{: .highlight }
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
 
 
+Okay, let's dive deep into Costco (COST) and analyze its business, moat, risks, and financials.
 
-Dividing the resulting value of equity by the number of shares outstanding yields a value per share.  Based on these conservative assumptions, we estimate a fair value of approximately $220 billion for Costco.
+## Costco (COST) | Moat: 4 / 5 | Understandability: 1 / 5 | Balance Sheet Health: 5 / 5
 
-### Additional Comments and Recent Concerns
+### Business Overview
 
-* **Inflation:** As highlighted by Aswath Damodaran, inflation can compress margins and impact profitability. Costco is particularly exposed to this risk, as evidenced in their earnings calls and in their annual reports, because grocery items are sensitive to price changes. However, as management indicated in recent earnings calls, the company seems to be navigating this environment effectively by selectively raising prices and also through effective supply chain management and cost controls.  They also comment on the increased volumes from higher shopping frequency from its members, although they do not quantify what portion of this increase stems from higher frequency and what portion stems from a continued reopening recovery.
-* **Competition:** Competition from other warehouse clubs, traditional retailers, and e-commerce companies remains intense.  Management acknowledges this risk in its 10-K filings and comments on it in its earnings calls. They believe that their moat gives them an edge, as mentioned in the Counterpoint Global’s report. There has been a case, where there was some information leakage, that caused some of the company's suppliers to give some confidential information, which led to some of the company's new product developments. However, as seen in the recent earnings reports, they seem to be doing very well, so there does not seem to be any lingering adverse effects. Further, given our already fairly conservative estimates on revenues and operating margins, we do not need to build in any additional buffer or penalty for possible information leakage.
-* **Cybersecurity Risks:**  Costco, like any other company that operates in an online environment, is susceptible to cybersecurity threats.  The company acknowledges these risks in its 10-K filings. However, there haven't been any major cybersecurity breaches reported in recent years.  They also claim to have the resources and processes in place to minimize these risks.
+Costco Wholesale Corporation (COST) operates a global membership-based warehouse club model.  The core strategy is to offer a limited selection of nationally branded and private-label products at deeply discounted prices. Their membership-only model fosters a loyal customer base and also provides an extra revenue stream and an additional benefit of profitability, as the membership fee revenue is high-margin. Here's a more detailed look:
 
-{: .important }
+*   **Revenue Distribution:**
+    *   Costco's revenue is primarily derived from merchandise sales and membership fees.
+    *   Merchandise sales include a variety of goods such as foods and sundries (which is the largest segment), non-foods (including electronics, apparel, and other products), and fresh foods.
+    *   Membership fees provide a high-margin, recurring revenue stream and encourage customer loyalty and repeat business.
+    *   The international market is a growing part of the company's total revenue and is expected to be a bigger revenue contributor going forward.
+*   **Industry Trends:**
+    *   The retail industry is highly competitive with players vying for market share and customer spending.
+    *   Consumers are increasingly value conscious, seeking high-quality products at affordable prices.
+    *   The demand for convenience drives a constant need for retailers to make shopping easier, both in-person and online.
+    *   E-commerce, while being a growing segment, is still significantly smaller compared to brick-and-mortar stores.
+*   **Competitive Landscape:**
+    *   Costco competes with other warehouse retailers such as Sam's Club and BJ's Wholesale Club, as well as traditional retailers such as Walmart and Target.
+    *   Competition is also coming from online retailers like Amazon and other e-commerce sites.
+    *   Costco differentiates itself through its membership-only model, its focus on high-quality products at discounted prices, and the treasure hunt experience in their stores.
+*   **What Makes Costco Different?**
+    *   **Membership Model:** This creates a loyal and captive customer base, which makes their revenue more predictable than those companies that don't have such a model.
+    *   **Unique Product Selection:** They offer a curated selection of products, rather than offering the exhaustive selection offered by their competitors.
+    *   **Treasure Hunt Environment:**  The limited selection leads customers to buy what is available, and their limited merchandise rotation creates a treasure-hunt atmosphere, driving more purchases.
+    *   **Price Leadership:** Their large size and purchasing power enable them to offer products at lower prices than many competitors.
+    *   **Strong Brand Identity:** Costco has created a very powerful brand that implies high value for money.
+*   **Financial Highlights**:
+  * A strong business model has consistently shown success in earnings generation with solid membership retention rates around 90% to 91%.
+  * The business has very high bargaining power over its suppliers due to its large size which is a key factor behind lower product prices.
+  * The company has good growth prospects with e-commerce still being a small part of their overall revenue with plenty of room to grow that segment.
 
+### Moat Assessment: 4 / 5 {: .highlight }
 
-Disclaimer: This valuation is based on a set of assumptions and is only one possible interpretation of Costco's future performance.  Actual results may differ substantially.  This valuation should not be taken as investment advice. Conduct your own due diligence and consult with a financial advisor before making any investment decisions. 
+Costco possesses a strong economic moat, primarily stemming from the following:
+
+*   **Brand Loyalty and Customer Captivity:** The membership model creates significant switching costs for members. These members generally have to pay a yearly fee to have access to the store which increases customer stickiness, as they are more likely to shop where their money has already gone (membership). This leads to high renewal rates and a very loyal customer base.
+*  **Economies of Scale:** Their bulk-purchasing power and large sales volumes enable the company to secure favorable prices from suppliers. These savings are passed onto their members through lower prices, thus resulting in a virtuous cycle which creates a huge barrier for competitors to enter into the market, as they can rarely offer a similar value-for-money proposition.
+*  **Strong Brand:** A highly regarded brand image makes it extremely hard for competition. Costco is a well known brand, which has a reputation of selling high quality products at an affordable price, thus making it extremely loved by its customers.
+
+This combination of factors gives Costco a strong competitive advantage that is difficult for rivals to replicate. 
+
+### Risks to the Moat and Business Resilience
+There are certain risks that could impact the business and its moat:
+
+*  **Increased Competition:** Competitors could try and steal away the customers by offering lower prices, creating a more convenient experience and providing a membership based experience. This will create a direct challenge to Costco's moat.
+*  **E-Commerce Disruption:** While Costco has its own e-commerce platform, more aggressive competition from e-commerce companies could reduce their sales growth and change the shopping habits of customers that prefer to shop online.
+*  **Supply Chain Issues:** Global supply chains are vulnerable to disruptions, which could lead to stock-outs, higher costs, and increased operating costs for Costco.
+*  **Inflation**: If the company is not able to pass increasing costs to its customers, their margins could be impacted, and this would negatively impact value creation. Also, higher prices may lead to reduced consumer demand.
+*   **Changing Consumer Preferences:** Shifts in consumer preferences or the trends in the goods that are being demanded can change. This would require Costco to adapt and might reduce the popularity of their current limited set of product offerings.
+*   **Membership Fee Increases:** If the company raises the membership prices by an amount that customers find not worth it, it could lead to lower customer retention and impact their profitability.
+*  **Recession:** Lower consumer demand or reduced discretionary spending can negatively impact the company's profits.
+
+Despite these risks, Costco has shown high business resilience over the years. Their loyal customer base, large size and purchasing power, and strategic importance in the supply chain, all lead to a very resilient business that can handle downturns.
+
+### Financials Deep Dive
+
+Here's an in-depth analysis of Costco's financials:
+
+*   **Revenue Growth**: Costco has displayed a strong growth in revenue in the last few years. They have been focusing on expansion in new markets and have been increasing the number of warehouses while increasing revenue per location. 
+  * In 2023 their total revenues reached 238 billion USD, with 74% being comprised from net sales, and 26% from membership fees, showing the strength and stability of the membership revenue.
+  * 2022 annual revenue was $227 billion, compared to $196 billion in 2021 which shows a significant growth trend.
+*   **Profit Margins:** While having relatively low retail prices, Costco has very high-profit margins which are enabled by its membership model. The company makes most of its profits on membership revenue and a smaller but still considerable profit on their sales, due to low prices and high sales volume.
+  * The gross profit margin has been 12.93%, 12.88%, and 13.15% for the years 2023, 2022, and 2021 respectively.
+  * They generally keep their SG&A expenses to around 10% of net sales.
+*   **Cash Flow**:
+   *  The company has a very strong cash flow, with over $6 billion in net cash from operations in 2023, compared to around $5.8 billion in 2022, meaning they have sufficient resources to invest into the business.
+    *   The company has increased its investments into more property, equipment, and new distribution locations over the recent years, showing the intention to grow the business at a faster pace and have a wider reach.
+*  **Balance Sheet:**
+ *  Costco has a healthy balance sheet. It had over 11.4B in cash and short term investments which shows its ability to weather any market downturns or economic issues.
+    *  They also have over $51 billion in working capital and a total equity of over $26 billion.
+    *  They do have a long-term debt of over $8.5 billion, but considering their high and sustainable profitability, this is easily manageable.
+ *   **Capital Allocation:** Costco has used its cash to fund expansion, stock repurchases, and dividends over the years. In the recent past, they have been expanding into new markets to ensure sustained growth, while returning value to their shareholders through dividends and repurchases.
+
+### Understandability: 1 / 5
+
+Costco's business model is fairly simple to understand: They sell a limited quantity of goods at low prices to a members-only customer base. However, the financial statements of Costco and the factors which contribute to its valuation are complex, involving several moving parts. Analyzing its financial performance requires a lot of in-depth analysis and understanding of accounting practices. Therefore, we give it a rating of 1 for understandability.
+
+### Balance Sheet Health: 5 / 5
+
+Costco maintains a very healthy balance sheet, displaying sound liquidity, solvency, and limited debt. This strong financial position allows it to withstand economic downturns and continue to invest into growth opportunities, earning it a rating of 5.
+
+### Recent Concerns and Management's Response
+    *  Costco faces many challenges such as high inflation which are mentioned throughout their 10-Qs and 10-Ks. However, they are responding by limiting promotions and strategically increasing prices to maintain margins. They also have an increased focused on their e-commerce channels as a way to increase future revenue while maintaining a stable presence in the brick and mortar space.
+    *  They are also working to maintain quality and improve supply chains to ensure that they can meet customer demand and that they can still provide high quality products at the best price.
+   * The company's management has indicated during recent earning calls that despite the current economic uncertainty, they are confident in their ability to generate sustained value growth and navigate any market volatility with their loyal customer base and large scale and purchasing power. They also stated that they are seeing steady recovery in their member sign up rates in both the USA and other countries.
+
+In Conclusion
+Costco is a highly valuable business with an extremely strong economic moat, excellent financial health, and a solid business model. Although the financials are complex, the business is easy to understand, which leads to a good investment option for the long-term investor. However, it is important to keep monitoring the industry dynamics, the increasing competition, and possible disruption by other players, especially e-commerce companies.

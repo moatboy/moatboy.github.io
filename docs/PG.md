@@ -13,17 +13,13 @@ Moat: 3/5
 
 {: .label .label-blue }
 
-Management: 3/5
+Understandability: 2/5
 
 {: .label .label-green }
 
-Catalyst: 2/5
+Balance Sheet Health: 4/5
 
-{: .label .label-yellow }
-
-Pessimistic value: $375 B
-
-P&G possesses a **narrow moat**, primarily stemming from its portfolio of **intangible assets**, specifically **brands**.  These brands, built over decades of advertising and product innovation, allow the company to exert some pricing power in several consumer staples categories.  This is consistent with Pat Dorsey's arguments in *The Little Book That Builds Wealth* about the value of intangible assets like brands in creating durable competitive advantages. However, the moat is not as wide as it once was, as the effectiveness of brand advertising has diminished due to factors such as the rise of private-label products and retailer power, as discussed in Counterpoint Global Insights' assessment of moats.
+### Business Overview
 {: .fs-6 .fw-300 }
 
 [Investor Relations](https://www.google.com/search?q=PG+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -31,91 +27,111 @@ P&G possesses a **narrow moat**, primarily stemming from its portfolio of **inta
 
 ---
 
-{: .warning } 
->The moat rating, management rating, catalyst score, and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
-
 {: .warning }
->
->
->The increasing concentration of retailer power and the proliferation of lower-cost alternatives are chipping away at P&G's pricing power.
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
 
-P&G's **management** receives a rating of **3 out of 5**. While the company benefits from scale, as detailed in *Valuation: Measuring and Managing the Value of Companies*, and has historically demonstrated sound financial discipline, recent performance has been uninspiring. Growth has been sluggish, and returns on capital, while still above the cost of capital, have been trending downwards. As discussed in *The Little Book of Valuation*,  returns on capital are a key driver of value, and a decline in ROIC, even if still above WACC, can signal trouble.  
 
-{: .important }
->
->
-> A declining return on capital, even if still above WACC, may indicate a weakening of P&G's fundamental value creation process. 
+Okay, let's dive deep into Procter & Gamble (PG) and analyze its business, moat, financials, and overall prospects based on the provided documents.
 
-Further concerns arise from the company's **capital allocation decisions**. While P&G has historically returned significant capital to shareholders through dividends and buybacks, as discussed in Warren Buffett's essays, the magnitude of share repurchases in recent years seems excessive given the relatively high valuation at which they were executed. This capital may have been better used for acquisitions or investments in new product lines.
-
+## Procter & Gamble (PG) | Moat: 3 / 5 | Understandability: 2 / 5 | Balance Sheet Health: 4 / 5
 
 ### Business Overview
 
-**Revenues Distribution and Trends:** P&G is a global consumer products giant operating in five segments: Beauty, Grooming, Health Care, Fabric & Home Care, and Baby, Feminine & Family Care.  Its geographic reach spans the globe, with a fairly balanced revenue distribution across North America, Europe, Asia, Latin America, and IMEA. The industry is mature and highly competitive, experiencing growth rates roughly in line with global GDP, as demonstrated in the Morgan Stanley analysis of industry life cycles.
+Procter & Gamble (PG) is a global consumer goods behemoth, managing a diverse portfolio of well-known brands. They operate primarily in three core segments, each catering to specific consumer needs:
+   1. **Beauty:** This segment offers a wide array of products, including skincare (such as Olay), hair care (like Pantene and Head & Shoulders), and cosmetics (such as Covergirl).
+   2. **Grooming:** This division focuses on products like razors (Gillette), blades, and other shaving-related items for both men and women.
+   3. **Fabric & Home Care:** This segment includes fabric care products (like Tide and Downy), home care items (such as Mr. Clean and Dawn), and air care products.
+   4. **Health Care:** This segment markets oral care brands (Crest and Oral-B), cough and cold medications, and personal health care products such as Vicks and Metamucil.
+   5.  **Baby, Feminine & Family Care:** This division produces baby care products (such as Pampers), feminine care products (like Always and Tampax) and adult care products.
+
+**Geographic Distribution:**
+PG’s business is global, with a strong presence in:
+   - North America (including the United States)
+   - Asia Pacific (including China, India, and Japan)
+   - Latin America (Brazil, Mexico, and other LATAM nations)
+   - Europe
+   - Middle East and Africa (EMEA)
+
+Each of these geographical areas constitutes a key market and presents distinct consumer preferences and opportunities.
+
+### Competitive Landscape
+
+PG's industries are highly competitive.
+   - **Consumer Goods Sector:** The consumer goods sector is extremely competitive. Big brands like Unilever and Henkel are direct rivals. They also have to compete with many smaller, local brands.
+   - **Shifting Consumer Preferences:** Consumer tastes are constantly evolving. As a result, retailers and manufacturers must constantly adapt, innovate, and create new products and brands.
+    - **Digital Marketing and eCommerce:** Digital marketing and eCommerce have changed the way products are bought and sold, particularly for consumer-oriented firms.
+     -   **Local Competition:** For products like food, cleaning supplies, and other household basics, local players are usually a force to be reckoned with.
+
+### Financials in Detail
+
+Let’s now analyze the financial results as mentioned in the latest quarterly report.
 
 {: .note }
->
->
->Growth in the consumer products industry typically mirrors global GDP growth and is relatively stable over long periods.
+}
+   **Disclaimer:** These financials reflect the most recent quarterly results (ended September 30, 2023) and the last 10K from June 30, 2022.
 
-**Margins and Competitive Landscape:**  P&G historically enjoyed high margins and dominant market share in many of its product categories, stemming from brand loyalty and scale advantages.  However, as highlighted in the Counterpoint Global Insights report, competitive pressures have been increasing, particularly from private-label competitors.  This has put downward pressure on both pricing power and margins.  P&G has been able to offset some of these pressures through cost-cutting measures, but as discussed in *Valuation: Measuring and Managing the Value of Companies*, cutting costs to maintain margins is not a sustainable source of value creation.
+*   **Revenues**: For the three months ended September 30, 2023, the company generated revenues of $21.811 billion which is an increase of 0.3% YOY. Their sales across operating segments vary due to volume, pricing, and product mix.
 
-{: .warning }
->
->
-> Cost cutting, while necessary, is not a sufficient means of creating shareholder value. Companies must also focus on top-line growth and innovation.
+*  **Operating Income**: P&G generated operating income of $4.469 billion, an increase of 7%.  The increase was mainly due to higher sales volume which offset increased input costs.
 
+*  **Net Earnings**: The net earnings attributable to P&G has decreased by -3.6% YOY to $3.954 billion which was mainly due to higher income tax expenses. P&G is focused on driving both growth and profitability.
 
-**What Makes P&G Different:**  P&G attempts to differentiate itself through its massive scale and well-established distribution network, providing access to retailers that smaller companies can't match. The company also invests heavily in research and development to maintain its position on the cutting edge of innovation, as discussed in Philip Fisher's *Common Stocks and Uncommon Profits*. While this is important in a mature industry, the payoff has been modest in recent years.
+*  **Cash Flow**: P&G’s cash flow is quite strong. P&G has strong working capital, is able to generate lots of free cash flow and has significant cash holdings.
 
-### Financial Analysis
+*  **Profit Margins**: P&G’s operating margins are quite healthy at 21%.
 
-P&G's financial statements have historically been marked by consistent revenue growth, high margins, and strong cash flow generation.  However, as discussed earlier, growth has slowed in recent years, and margins have faced increasing pressure.  A thorough analysis of P&G’s financials for the fiscal years 2021-2023 reveals the following key trends:
+*  **Capital Structure**: P&G has a high percentage of equity than debt. It has a good investment grade rating.
 
-* **Revenue Growth:** Revenue growth has been in the low single digits, below historical averages. This is a concern, even in a mature industry.
-* **Margins:** Gross and operating margins have contracted moderately, reflecting pricing pressure and increased input costs, as mentioned in the company's earnings calls.
-* **Return on Invested Capital:** ROIC has declined gradually, but remains slightly above the company's cost of capital, which is consistent with a narrow moat rating. (See exhibits from Counterpoint Global Insight's report *Measuring the Moat*.)
-* **Capital Allocation:** Significant cash has been returned to shareholders through dividends and buybacks, but the high valuation at which buybacks have been executed raises concerns about capital allocation efficiency.
+*  **Shareholder Returns**: P&G has been consistent in paying dividends to its shareholders. The share price appreciation has been decent but not spectacular.
 
+###  Moat Analysis
 
-### Valuation
+After a thorough analysis, PG receives a **3 out of 5** rating for its economic moat. Here’s why:
 
-Using a discounted cash flow model, incorporating the risk premiums, growth rates, and returns on capital previously highlighted, the company's intrinsic value is estimated to be around **$375 billion**.  
-(FCF is calculated using 12 years of historical annual numbers on a three-year trailing average.)
+   *   **Brand Strength (Intangible Assets):** PG owns some of the most recognizable brands globally. This brand equity allows them to command a price premium over competitors and inspires consumer loyalty. The power of brands like Gillette in the shaving market, Tide in laundry, and Pampers in baby care gives P&G a significant edge against competitors.
+   *   **Distribution and Economies of Scale:** P&G’s size and distribution network provides a massive advantage over newcomers. They can efficiently transport products in very large quantities, which leads to better pricing and higher margins.
+   *   **Switching Costs:** While not as pronounced as in sectors like software, some of P&G's products create a form of switching costs due to habit and preference. Once a consumer settles on a specific brand, inertia kicks in making them less likely to switch (especially in the case of baby products).
+  *   **R&D Prowess:** The company spends a large amount on research and development in order to continuously improve their existing products and create new ones. They spent over $1.7 billion for the last quarter and 7.3 Billion YTD in Research and development to constantly innovate and improve their products and gain market share. However, most of that spend is to maintain the same market share by constantly producing new versions of their products, as their competitors are also competing in this sphere. This puts a barrier for new companies but does not really give a very big advantage to P&G over its direct competitors.
+   
+   **Why Not a 4 or 5?**
 
-**Key Valuation Assumptions:**
+   *   **Competition:** While the company has a strong moat, it still has to compete in a saturated market with many big competitors. The consumer goods sector is prone to new competitors or substitute products. As an example, brands like Dollar Shave Club have managed to take market share from Gillette, even if it eventually ended up being bought by Unilever. And for a brief period, some e-commerce companies had put a significant pressure on traditional giants.
+   *   **Changing Consumer Preferences:** Consumers become loyal to a particular brand of a certain product, and a small change in preference or tastes can cause them to switch to other brands. This is especially prevalent in non-commodity products like beauty items and clothing.
+   *  **Commoditization:** Some of the products, especially home care products, are being commoditized. Hence, the lowest price always wins. This erodes the power of the brand advantage.
+   *  **Weakness in pricing power**: Due to strong competition, they might not be able to pass on the increased prices to their end users which results in diminishing margins.
 
-* **Revenue Growth:**  2% for the next five years, then 1% (terminal growth). This is below historical averages and reflects increased competitive intensity and sluggish industry growth.
-* **Operating Margin:**  22%, assuming continuing pressure from private-label brands and retailers.
-* **Cost of Capital:** 7.5%. This incorporates the current risk-free rate, an equity risk premium, and a beta reflecting the company's business and financial risk.
-* **Reinvestment Rate:**  Decreasing gradually over time, reflecting the company's maturity.
-* **Terminal Value:** Calculated using a stable growth perpetuity model.
-
-
+   **Overall, the moat is respectable, but is not as wide or durable as companies like Apple or Google.**
 {: .important }
->
->
->**Valuation Sensitivity Analysis**
-> Intrinsic value is highly sensitive to changes in assumptions about growth and profitability. Even small changes in these variables can significantly affect the outcome of the valuation.
+}
+   **"Moat" is one of the most important concepts in investing. A company with a wide and durable moat is far more likely to produce great returns over a long period of time.**
 
-### Potential Catalysts
+### Legitimate Risks to the Moat and Business Resilience
 
-P&G's catalyst rating is **2 out of 5**. While the company has been pursuing various initiatives to improve its growth outlook and restore its pricing power, these initiatives face several hurdles.
+Even with a considerable moat, PG faces several risks:
+   *   **Changing Tastes and Trends**: Trends are constantly changing in the consumer goods market, and what was in fashion yesterday might be out of style today. PG needs to be able to adapt to these trends quickly to prevent loss of sales and market share.
+   *   **Supply Chain Disruptions**: As a company that operates globally, there is a risk of geopolitical risk and instability which could cause severe supply chain disruptions.
+     *  **Currency Risk:** Since P&G operates in a large number of countries, their revenues and earnings may be hit by negative foreign exchange volatility.
+   *   **Competition from Smaller/Local Brands**: Smaller brands that can connect well with specific customer tastes pose a constant threat. These brands can carve into profit pools of bigger corporations and eat into market share.
+  *   **Private Label Competition:** Grocery stores producing private labeled products have a long history of stealing market share from big players such as P&G. These private labels are much cheaper and give consumers a feeling that they are getting a much better deal, putting pressure on the margins.
+    *  **Eroding Brands:** P&G also faces the risk of losing its brand value. For example, in the past, Kraft cheese was very popular but they lost their luster when private labels started offering the same product for a much lower price.
+   *   **Impact from Advertising Effectiveness:** Changes in advertising technology (like increasing spending for short-form video ads and social media ads) can impact how effectively their marketing campaigns are.
+      *   **Changing Regulations**: Regulatory changes pertaining to the ingredients, chemicals used in their products or import/export regulations, can affect P&G negatively.
+   *  **Overinvestment and Disastrous Acquisitions:** Acquisitions can lead to huge losses if synergies cannot be realized and the expected performance does not come up. Over-diversification into new unproven areas can also be harmful to a company’s existing performance. The company must always choose what's more important to focus on.
 
-* **Innovation:** P&G's innovation pipeline, while active, has not yet generated any blockbuster new products in recent years. 
-* **Emerging Market Growth:** While emerging markets have the potential to be significant growth drivers, they also carry additional macroeconomic and political risks.  
-* **Cost Savings:**  Further cost-cutting measures can improve margins in the short term, but they are not a sustainable source of long-term value creation.
-
-The most likely catalyst for share-price appreciation would be a **re-rating of the stock by the market**. If investors become more optimistic about the company's growth prospects or its ability to restore its pricing power, then a higher valuation might be justified.  However, given the current competitive landscape and P&G's recent performance, this seems like a relatively low-probability event in the near term.
-
-### Recent Concerns
-
-Recent concerns for P&G have centered around **slowing growth and margin pressure**. These have been addressed in recent earnings calls, with management emphasizing efforts to increase innovation, expand into emerging markets, and improve cost efficiency. However, these initiatives have not yet translated into a meaningful improvement in financial performance, leading to investor skepticism. As seen in the excerpt of the July 2023 earnings call transcript, the company continues to emphasize cost control and pricing initiatives.
+Despite these risks, P&G has shown resilience in weathering previous storms. Their diversified portfolio, global reach, and brand strength offer a level of robustness.
 
 {: .note }
->
->
->From the Q4 FY2023 Earnings Call: *"We're also stepping up productivity savings across cost of goods sold and overhead to fund growth and improve margins, with an outlook for another $1.5 billion to $2 billion in productivity savings over the next three years."*
+}
+      **"Resilience" in an organization means that it has a well-defined competitive advantage so that even if it faces a tough time, it can weather that storm and come out of it stronger.**
 
-This illustrates the importance of evaluating information from management with a critical eye. While cost savings can have a positive impact in the short term, they are unlikely to drive sustainable long-term value creation if not accompanied by a revitalization of top-line growth and a restoration of pricing power.  The market will be watching closely to see if P&G can deliver on its promises.
+### Understandability Rating: 2 / 5
+
+Despite being a consumer goods behemoth, P&G is not that easy to understand. A lot of their operations, financials, and business segments are complicated. There are also certain accounting principles that one must know in order to interpret their numbers, which can make it difficult to understand.
+
+### Balance Sheet Health: 4 / 5
+
+P&G’s balance sheet health is solid overall. They have huge cash reserves, high retained earnings, and a relatively low debt-to-equity ratio. However, the market has started penalizing companies with lots of debt, and if P&G overleverages its assets to create value, it may start looking less attractive to investors. However, the company is fiscally stable and has enough flexibility. As such, I believe that their current balance sheet is quite healthy, but they can definitely take steps to improve it.
+
+**Conclusion**
+
+P&G is a business with strong brands and considerable global reach. It has the benefit of economies of scale and switching costs, but also faces high levels of competition in every market they are active in. As an investor, a good strategy will be to wait for dips in the stock prices before investing because as long as the business is sound and the company has a high degree of profitability and a great management, a strong moat provides the framework for it to produce excellent returns over time.

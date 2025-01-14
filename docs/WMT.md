@@ -13,17 +13,13 @@ Moat: 3/5
 
 {: .label .label-blue }
 
-Management: 3/5
+Understandability: 2/5
 
 {: .label .label-green }
 
-Catalyst: 2/5
+Balance Sheet Health: 3/5
 
-{: .label .label-yellow }
-
-Pessimistic value: $415 B
-
-Walmart's moat stems primarily from its **massive scale**, which translates into cost advantages and a formidable distribution network. While not as unassailable as some tech giants, it possesses characteristics that offer a degree of protection against competitors. This warrants a moat rating of 3/5. I'm being strict and pessimistic here because while Walmart's scale is impressive, the retail landscape is changing rapidly, and its competitive edge, though still substantial, has shown signs of erosion in recent years.
+### Business Overview
 {: .fs-6 .fw-300 }
 
 [Investor Relations](https://www.google.com/search?q=WMT+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -31,102 +27,129 @@ Walmart's moat stems primarily from its **massive scale**, which translates into
 
 ---
 
-{: .warning } 
->The moat rating, management rating, catalyst score, and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+{: .warning }
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
 
 
+Okay, let's dive into a comprehensive analysis of Walmart (WMT), using the resources provided.
 
-> "Our strategy is simple: buy wonderful businesses at reasonable prices" - Pat Dorsey, *The Little Book that Builds Wealth*
-
-The management rating is 3/5.  While generally competent, there are concerns about capital allocation decisions and long-term vision, which I will detail later.  The rating is based on a balanced assessment of several factors:
-
-* **History:** Walmart has a long and storied history of success, but recent performance has been less stellar, with declining returns on capital.
-* **Experience:** The management team has extensive retail experience, but its track record of adapting to the changing retail landscape, particularly the rise of e-commerce, has been mixed.
-* **Compensation:** Executive compensation is substantial, but its linkage to intrinsic value creation is not always clear.
-* **Insider Ownership:** Insider ownership is relatively low, which may raise questions about management's alignment with shareholder interests.
-* **Communication:** Management communication is generally transparent, but there's a lack of a compelling long-term vision beyond incremental improvements.
-* **Capital Allocation:** Capital allocation decisions have been questionable at times, with investments in non-core areas and acquisitions that have not always delivered as promised. For example, the $3.3 Billion acquisition of Jet.com was later written down due to its failure to live up to expectations.
-
-
-> "One of the most powerful managerial “insights” is the ability to distinguish between a necessary decision and a casual one.” - Warren Buffett, *The Essays of Warren Buffett*
-
-Walmart’s catalyst rating is 2/5. While the company is not known for game-changing innovations, several potential catalysts could improve its stock price:
-
-* **E-commerce growth:** Continued growth in e-commerce sales could re-rate the stock.  The company's online sales are growing at a healthy clip, and further acceleration could be a catalyst.
-* **Margin expansion:**  Management has an ongoing effort to cut costs and improve efficiency, and further improvements in this segment could increase the bottom line and boost investor sentiment. Q1 2023 earnings call.
-* **International expansion:**  Walmart is looking to expand its presence in emerging markets, which could be a source of future growth.  Success in these markets could be a positive catalyst. Q2 2023 Earnings Call.
+## Walmart (WMT) | Moat: 3 / 5 | Understandability: 2 / 5 | Balance Sheet Health: 3 / 5
 
 ### Business Overview
 
-**Revenues:** Walmart is the world's largest retailer, with hundreds of billions in annual revenue. The company's revenue is highly diversified across a number of retail segments, including grocery, general merchandise, health and wellness, apparel, and home improvement.
-Recent growth has been driven by strength in grocery and health and wellness, and by the company's e-commerce business, with the Walmart U.S. segment representing roughly two-thirds of the company's total revenues. Q4 2023 Earnings Call.
+Walmart is the world's largest retailer, operating through a vast network of hypermarkets, discount department stores, and grocery stores, primarily under the "Walmart" and "Sam's Club" brands. It has a significant international presence.
 
-**Industry Trends:**  The retail landscape is undergoing a rapid transformation, with the rise of e-commerce and changing consumer preferences.  Walmart has adapted to these changes by investing heavily in its online business and by expanding its delivery and pickup options.  The company has been successful in growing its e-commerce sales, but it faces increasing competition from Amazon and other online retailers. Q3 2022 Earnings Call.
+{: .important }
+}
+**Revenue Distribution:**
+*   **Walmart U.S.:** This segment forms the core of the company's business, accounting for the largest portion of its revenues. It includes retail stores, as well as eCommerce, mainly groceries and general merchandise.
+*   **Walmart International:** This segment comprises operations in various countries around the world, including South America, Canada, Mexico, and Asia, and sells a variety of products from groceries to household items and clothing.
+*   **Sam's Club:** Operates membership-based warehouse clubs that offer a range of merchandise at discounted prices.
 
-**Margins:** Walmart operates on razor-thin margins, with a net margin of around 2 percent.  The company's profitability is dependent on its ability to generate high sales volumes and to control costs.
-The company has achieved some margin improvements in recent years, but maintaining those gains in the face of competition will be challenging.
+{: .note }
+}
+**Recent Trends:**
+*   **Shift to E-Commerce:** Walmart is aggressively expanding its online presence, including a strong focus on grocery delivery. The importance of this has been highlighted by the pandemic which resulted in rapid growth for their online platforms.
+*   **Omnichannel Focus:** The company is aiming to integrate its physical stores and online platforms seamlessly, providing a holistic shopping experience for customers. This includes efforts such as a pickup and delivery service.
+*   **Healthcare Expansion:** Walmart is making in-roads into healthcare space, including telehealth services and also is expanding its pharmacy business.
+*   **Supply Chain Optimization:** They are heavily investing in technological and logistical upgrades to increase the efficiency of its supply chain. This is a major move for the retailer who operates at such a scale.
+*   **Emphasis on Innovation:** The company is exploring new technologies such as artificial intelligence (AI) and robotics to improve operational efficiency and enhance customer experiences.
 
+{: .important }
+}
+**Margins:**
+*   Operating margins in the retail industry are generally thin, typically in the range of 2% - 8%.
+*   Walmart has high sales volume which helps generate significant profits on lower margins.
+*   Walmart's operating margin is around 3% before recent acquisitions and other significant factors which can influence it further.
+*   A focus of company is to improve margins through more efficient operations and supply chain initiatives.
 
-> "No matter how complex, every company can be reduced to a handful of numbers.” - Aswath Damodaran, *The Little Book of Valuation*
+**Competitive Landscape:**
+*   **Intense Competition:** The retail industry is highly competitive, with rivals such as Amazon, Target, Costco, Kroger, and a variety of local retailers. The competition has been more intense and complex after the pandemic.
+*   **Amazon's Dominance:** Amazon is a dominant force in the online retail market, which is a significant concern for Walmart.
+*   **Price Wars:** There is constant price war among various big players, putting downward pressure on profit margins.
+*   **Shifting Consumer Preferences:** Rapidly evolving consumer preferences require flexibility and adaptability from the business.
 
-**Competitive Landscape:** The retail industry is highly competitive, with a wide range of players, from mom-and-pop stores to global giants.  Walmart's scale gives it a significant cost advantage over smaller players, but it faces intense competition from other large retailers, such as Amazon, Target, and Costco.
-Walmart's vast distribution network is a key competitive advantage, as is its ability to offer low prices. The company's recent efforts to offer more products to its customers also serves as a competitive edge. Q1 2024 Earnings Call.
+{: .important }
+}
+**What Makes Walmart Different?**
 
+*   **Scale:** Walmart has unmatched scale, giving it enormous purchasing power and operating efficiency that competitors cannot mimic easily.
+*   **Logistics Network:** The company operates a sophisticated logistics network, allowing efficient distribution of products.
+*   **Brand Recognition:** The Walmart brand is widely recognized and commands considerable customer loyalty.
+*   **Global Presence:** It is an international operation which is an advantage and also provides exposure to risks of various currencies and political policies around the world.
 
-**Differentiation:** Walmart's low-cost model is its key differentiator.  The company's vast network of stores and distribution centers allows it to offer low prices on a wide variety of goods.
-While the company has made efforts to enhance customer experience and add more premium products to its offerings, it's still known primarily for its low prices.
+### Financials In-Depth
 
-### Financial Analysis
+{: .new }
+}
+**Recent Performance (Form 10Q ended October 31, 2023):**
 
-Walmart's financials are generally healthy, with consistent revenue growth and solid cash flows.  However, there are some causes for concern.  Return on invested capital has declined in recent years, and free cash flow has been declining as a percentage of revenue.
+*   **Total Revenue**: Walmart's total revenue was 160.8 billion, compared to 152.8 billion YoY.
+*   **Operating Income**: The operating income was $6.3 billion which is roughly 4% of total sales. This has jumped from 5.7 billion YoY.
+*   **Diluted EPS**: Diluted earnings per share were $0.77, compared with a loss of $0.37 per share in the previous year.
+*    **Store Growth**: Store expansion continues, although at a slower pace than before with 22 new stores in the past quarter.
+*   **E-commerce:** Online sales increased by 24% and e-commerce is roughly 16% of total revenue.
 
+{: .note }
+}
+**Financial Notes:**
+*   The third quarter fiscal 2024 results were promising with a large jump in net sales, operating profits, and diluted EPS.
+*   However, they had some margin compression in the US operations, which was due to higher prices and markdowns in general merchandise.
+*   They also made a change to their reporting system, where they combined all their international sales into one section. This makes it more difficult for investors to understand the health of their individual operations.
+*   Their inventory has increased by about $4 billion YoY.
+*  They reduced their employee headcount which negatively impacted the company.
+*  The company's liquidity position has weakened over the last 6 months.
+*   Operating expenses were more than they made in the same period last year.
 
-> "Valuation is not about getting the precise number; it is about getting a reasonable range." - Michael Mauboussin
+* **Balance Sheet Health Rating: 3 / 5**:
+  - **Positive**: Cash and cash equivalents are stable, total assets have seen a decent increase over the year.
+  - **Negative**: Liquidity has weakened, long term debts have increased, total liabilities have increased, and the company reported negative operating cash flows in its most recent financials.
 
-Here are some additional observations:
+### Moat Rating: 3 / 5
 
+Based on my analysis of Walmart's business and competitive landscape, I would assign a moat rating of **3 out of 5**. Here's the justification:
 
-* **Debt:** Walmart's debt has been increasing in recent years, partly to fund share repurchases and acquisitions. While still manageable, the increasing debt load increases financial risk.
-* **Working Capital:**  The company's working capital has been increasing as a percentage of revenue, which could be a sign of inefficiency.
-* **Capital Expenditures:** Walmart's capital expenditures have been increasing in recent years, primarily to support its e-commerce initiatives and to improve its stores. The company has also made large acquisitions, including Flipkart. Q4 2024 Earnings Call.
+*   **Strengths (Narrow Moat):**
+    *   **Scale and Cost Advantages:** Walmart’s massive scale provides significant economies of scale, allowing it to leverage its size to achieve greater purchasing power, reduce logistics costs and generate higher revenues. This is a strong advantage.
+    *   **Distribution Network:** Walmart's supply chain is a major competitive advantage as it allows efficient distribution of goods and reduces costs. The scale of the company and its long term investments in this domain provide a significant barrier to entry.
+    *   **Brand Loyalty:** For its customer base, it enjoys strong brand recognition, which leads to customer loyalty and repeat traffic. Its consistent low pricing gives it an advantage as well.
+*   **Weaknesses:**
+    *   **Competitive Pressure**: The rise of E-commerce and other big players like Amazon, Target, and others have diluted Walmart's edge. These new companies are also investing billions in their own supply chains, pricing, and customer experience enhancements.
+    *   **Low Switching Costs:** For most consumers, switching from one retailer to another is fairly easy, which could cause instability in margins and demand. The grocery market, specifically, has the lowest switching costs.
+    *   **Eroding Moat:** The competitive advantages, especially in the retail industry, are subject to erosion from intense competition and rapid technological change. Walmart's efforts in the online market may see stiff headwinds in the long run.
 
-### Valuation
+While Walmart's scale and logistics give it a strong advantage, the fierce competition and low switching costs limit it from being a wide-moat company.
 
-> All models are wrong, some are useful.
+### Risks to the Moat and Resilience
 
-**Method:** Discounted Cash Flow (DCF)  Using a two-stage DCF model to value Walmart. I am using the enterprise value based DCF method to arrive at the company's equity value.  This approach is chosen because it provides a structured way to incorporate various drivers of value.
+Several legitimate risks could affect Walmart's moat and business:
 
-**Key Inputs and Assumptions:**
+*   **Intensified E-commerce Competition:** The rise of online retailers like Amazon poses a constant threat. If Walmart fails to adapt to changing buying habits, then it may lose its edge and customer base.
+*   **Supply Chain Disruptions:** Supply chain problems like labor shortages, and political instability and regulations in various countries, and other issues can disrupt operations and drive up costs.
+*   **Changes in Consumer Preferences:** Changing consumer preferences can make products or brands obsolete leading to falling sales and margins.
+*   **Inflation**: Inflation could put downward pressure on profit margins if prices are not increased in time. Consumers might switch to competitors for better deals as well.
+*   **Labor Costs and Unions:** As the company’s workforce increases, it may face risks arising from unionization, increasing wages, and employee benefits.
 
-* **Revenue Growth:** Assuming revenue growth of 2% annually for the next five years (reflecting Walmart's mature business and competitive pressures).  Thereafter, revenue growth will decline to 1.5% annually (in perpetuity) reflecting slowing macroeconomic growth, and an increase in the competitive nature of the US retail market as Amazon and others continue growing.
-* **Operating Margin:** Assuming an operating margin of 5%, which is slightly below its historical average (reflecting competitive pressures).
-* **Reinvestment Rate:**  Assuming a reinvestment rate of 40% (reflecting ongoing investments in e-commerce and stores).
-* **Cost of Capital:**  Estimating a cost of capital of 7%. Walmart has $52.3B of market value of debt at a pretax cost of 4.8%, giving it an after tax cost of 3.2%. Walmart's current market cap is $444.8 B, making its debt to equity ratio at 11.74% assuming market values. Risk free rate is 3.8%,  equity risk premium is 4.5%, and a beta of 0.92 (based on a regression against the S&P 500) giving it a cost of equity of 8.0%. Cost of capital = (444.8/497.1)*8.0% + (52.3/497.1)*3.2% = 7.5%. This is a little pessimistic, but considering Walmart is a mature company operating in a fiercely competitive industry with changing consumer behavior, pessimism is very appropriate and justifiable.
-* **Terminal Value:**  Estimating terminal value using a perpetuity growth rate of 1.5% and a cost of capital of 7%. 
-These inputs are somewhat pessimistic, given Walmart's size and historical performance. However, I am being intentionally conservative given the changing retail landscape and competitive pressures facing the company.
+**Business Resilience**
+Despite the above risks, the business is extremely resilient due to:
 
+*   **Global Presence**: It has operations all over the world and across many segments, which makes it less reliant on any one market.
+*   **Cost-Effectiveness:** It runs one of the most efficient supply chains and has a relentless focus on lowering the costs for the customer which can allow it to compete well in highly competitive markets.
+*   **Diversification:** It operates in various business segments and caters to all kinds of customers which diversifies their risks.
+*   **Constant Innovation**: The company constantly innovates in its logistics and other areas to improve its operations and adapt to changing market dynamics.
 
+### Understandability: 2 / 5
 
-**Calculations:**
+Walmart is **moderately difficult** to understand, earning a rating of **2 out of 5**. Here’s why:
+*   **Straightforward Business Model:** The retail business model, which sells consumer products directly through various channels to consumers, seems very simple to understand but requires an in-depth understanding of the logistics involved and the competitive dynamics of the industry.
+*   **International Operations:** The wide range of operations in multiple countries adds complexity to understanding operations as they can be affected by local regulations and politics.
+*   **Complex Financials:** The company's large scale and diversified operations make its financials somewhat complex and tedious to analyze. Understanding how these numbers affect the company is important for understanding the business but it can be difficult for a beginner.
 
-The following table presents the estimated free cash flows to the firm (FCFF) for Walmart for the next 10 years, along with the terminal value:
+### Other Points:
 
-| Year | Revenue ($B)   | Operating Margin | EBIT ($B)    | Reinvestment Rate | FCFF ($B)   | Cost of Capital | PV ($B)   |
-|------|----------------|-----------------|-------------|-------------------|-------------|---------------|------------|
-| 1     | $627           | 5%              | $31.35       | 40%              | $18.81       | 7.5%          | $17.49       |
-| 2     | $640           | 5%              | $32           | 40%              | $19.2         | 7.5%          | $16.90       |
-| 3     | $653           | 5%              | $32.65       | 40%              | $19.59       | 7.5%          | $16.33       |
-| 4     | $667           | 5%              | $33.35       | 40%              | $20          | 7.5%          | $15.78       |
-| 5     | $680            | 5%              | $34         | 40%              | $20.4         | 7.5%          | $15.25       |
-| TV    |                |                 |              |                  |              | 7.5%          | $297        |
+* The management acknowledges that it needs more visibility into its operations. They will also reduce operating expenses and continue to try and leverage scale to create profitability.
+* The management also acknowledges the uncertainty in the market, stating that they still haven't returned to a normal operating environment and that inflation is making forecasting difficult, and that they expect it to continue to be volatile for the foreseeable future.
 
+In conclusion, Walmart remains a dominant player in the retail industry, but it has many challenges to overcome to continue generating attractive long term growth for investors.
 
-{: .warning }
-
-Discounting the FCFF and terminal value at the cost of capital and summing them up yields an enterprise value of approximately $415 billion. This is substantially below the company's current market value, but it reflects my conservative assumptions about the company's future growth and profitability.
-
-
-
-***
-
-This valuation is purely based on a DCF model, and incorporates pessimistic and conservative assumptions about the company’s future financials, competitive landscape, and the future of the retail industry. 
+**Note:** This analysis is based on the provided documents and financial statements up until October 31, 2023. It should not be taken as investment advice, and investors are advised to do their own due diligence before making decisions.

@@ -1,10 +1,10 @@
 ---
-title: T-Mobile US, Inc. (TMUS)
+title: T-Mobile US (TMUS)
 layout: default
 nav_order: 33
 ---
 
-# T-Mobile US, Inc.
+# T-Mobile US
 {: .fs-9 }
 
 {: .label .label-purple }
@@ -13,17 +13,13 @@ Moat: 3/5
 
 {: .label .label-blue }
 
-Management: 3/5
+Understandability: 2/5
 
 {: .label .label-green }
 
-Catalyst: 2/5
+Balance Sheet Health: 2/5
 
-{: .label .label-yellow }
-
-Pessimistic value: $140 B
-
-T-Mobile has established a **narrow moat** based primarily on cost advantages and its network effect. Its rapid growth and acquisitions have solidified its position as a major player, making it harder for new entrants to gain traction. However, challenges remain.
+## Business Overview
 {: .fs-6 .fw-300 }
 
 [Investor Relations](https://www.google.com/search?q=TMUS+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -31,79 +27,143 @@ T-Mobile has established a **narrow moat** based primarily on cost advantages an
 
 ---
 
-{: .warning } 
->The moat rating, management rating, catalyst score, and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+{: .warning }
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
 
 
-**Moat (3/5):**
+Okay, I'm ready to analyze T-Mobile US (TMUS) and provide a comprehensive report based on the provided information, focusing heavily on the latest data and insights.
 
->Cost advantages and the network effect are significant, and these aren’t easily copied overnight, but they aren’t as sturdy as they seem on the surface.
->—Pat Dorsey, The Little Book That Builds Wealth
+## T-Mobile US (TMUS) | Moat: 3 / 5 | Understandability: 2 / 5 | Balance Sheet Health: 2 / 5
 
-T-Mobile benefits from **cost advantages** stemming from its history as a scrappy underdog. It initially targeted less-price-sensitive customer segments, allowing it to undercut larger competitors on price. This also meant that it did not need the same network density as its larger rivals, resulting in a lower cost structure. However, as T-Mobile grows larger, these advantages are diminishing.  The company now faces more intense competition from other low-cost carriers and from larger players that have retooled their operations.
+## Business Overview
 
-T-Mobile also benefits from a **network effect**. The company's extensive network allows it to serve more customers more efficiently, which makes it harder for smaller firms to compete. The value of the network increases with the number of subscribers, as each new subscriber benefits from the larger pool of users to connect with. The merger with Sprint significantly enhanced T-Mobile's network. However, the network effect is less powerful for companies like T-Mobile that operate in open networks (where users can switch between different service providers), unlike closed networks such as American Express or video game consoles.
+T-Mobile US, a subsidiary of Deutsche Telekom, is one of the three major wireless carriers in the United States, providing cellular communication services to consumers and businesses.
 
-**Management (3/5):**
+### Revenue Distribution
+{: .note}
+T-Mobile's revenues are primarily driven by several interconnected streams. These are the main sources:
+*   **Service Revenue**: The bulk of T-Mobile’s income comes from recurring monthly charges for wireless communication services. This includes voice, data, text messaging, and increasingly, broadband internet access, offered under their 5G and 4G networks.
+*   **Equipment Revenue**: T-Mobile sells smartphones, tablets, and other mobile devices. This revenue stream is subject to fluctuations as it is primarily tied to consumer upgrades and demand for new technology.
+*   **Wholesale/Other Revenue**: This segment is related to T-Mobile selling its network capacity to other providers or through arrangements such as tower leases, spectrum leases and advertising.
 
-* **History and Experience:** Management has a demonstrably successful track record, having taken T-Mobile from a struggling underdog to a leading wireless carrier.  They have executed well on acquisitions, network buildouts, and marketing. However, their emphasis on subscriber growth over profits—and the accounting gimmicks sometimes employed to achieve those growth targets—raises some concerns.
+### Industry Trends
+{: .new}
+The US telecommunications market is dynamic with several key trends:
+*   **5G Expansion**: The race to deploy a robust 5G network and capture related consumer adoption is paramount. This is the most important growth engine for these companies. 
+*   **Fiber Expansion**: Fiber is the most advanced way to deliver internet. All carriers are racing to increase their fiber infrastructure and acquire clients for that segment.
+*  **Convergence of Services**: Telecom companies are increasingly bundling internet, mobile, and media services. This convergence reflects changing consumer preferences and the companies are trying to retain customers.
+*   **Competition for Market Share**: The industry is highly competitive, with each player vying for subscribers, often through aggressive pricing strategies and promotional offers.
+*   **Data Consumption**: The demand for data continues to increase from consumers. This makes higher-tier unlimited plans to be important in these companies’ profitability.
+*  **Technological Innovation**: Innovation in hardware and software is essential for keeping an edge over the competition, so most telcos have to spend millions of dollars on R&D.
 
->Management matters...But the cold, hard truth is that some CEOs just have an easier job.
->—Pat Dorsey, The Little Book That Builds Wealth
+### Competitive Landscape
+{: .important}
+T-Mobile competes directly with:
 
-* **Capital Allocation Decisions:** T-Mobile's aggressive acquisition strategy is a double-edged sword. While the Sprint merger created value, some other large acquisitions have not been as successful. The company’s tendency to prioritize growth over profits can also lead to value destruction if the company invests in businesses where it lacks a competitive advantage.
+*   **Verizon**: Known for its extensive network coverage and reliability.
+*   **AT&T**: Also known for its national coverage, bundling options, and a strong business market presence.
+*   **Other smaller players**: Dish, Comcast, Charter, Altice, among other smaller players.
 
->Acquisitions are good for the economy when they allocate resources more efficiently between owners.
->—McKinsey & Company, Valuation
+### What Makes T-Mobile Different
+{: .note}
+T-Mobile differentiates itself through:
+*   **"Un-carrier" Approach**: T-Mobile is the most disruptive player and known for its "un-carrier" initiatives that promote customer-friendly approaches, eliminating common pain points in the industry.
+*   **5G Network Focus**: T-Mobile is the biggest 5G player in the United States, making it the industry leader with a more robust network.
+*   **T-Mobile Home Internet**: Through its focus on the T-Mobile network, it has become one of the few strong players in home internet by deploying its massive 5G spectrum.
 
-* **Communication:** Management communicates regularly with investors through earnings calls and other forums, but often focuses on short-term metrics. Their communication is generally clear, but it can also be promotional at times.
+## Moat Analysis - Rating: 3 / 5
 
-* **Compensation and Insider Ownership:**  Executive compensation at T-Mobile is competitive, but not excessively so. Insider ownership is also at a reasonable level. 
+T-Mobile possesses a moderate economic moat, characterized by a mix of intangible and economic advantage:
 
-* **Long-Term Focus:** The jury is still out on how effectively T-Mobile will be able to navigate an increasingly competitive landscape.  While the company’s current investments position it well for the near term, maintaining the pace of growth while preserving margins will be challenging.  Management’s ability to adapt and innovate will be critical.
+1.  **Spectrum Portfolio (Intangible Asset):** T-Mobile's extensive holdings in the 5G mid-band spectrum and the 5G and 4G low-band spectrum provide a structural advantage in its ability to offer high speeds and good coverage, which cannot be easily replicated in the short-term by its competitors.
+2.  **Network Effect (Moderate):** As T-Mobile's customer base grows, more resources can be allocated to expanding and improving its network, creating a positive cycle. A better network provides more value for consumers, allowing the company to attract more clients and create more cash flow. However, the network effect is weaker in this sector, as it’s not a natural monopoly like other network-based businesses, as they have direct competition.
+3.  **Brand (Moderate):** T-Mobile has a strong consumer brand, associated with its "un-carrier" approach that has resonated strongly with its clients, allowing a greater perceived value for its services over other providers. Despite that, their brand still cannot command premiums like some companies with strong brands are able to.
 
+### **Justification for a 3/5 Moat Rating**
+{: .important}
+T-Mobile's moat is moderate, not wide, because the competitive landscape in the US telecommunications sector is intense, with the two other giants – AT&T and Verizon – also trying to provide the same services. Despite its advantages, other companies have the resources to compete effectively, but with a higher moat rating, the company’s moat is more durable.
 
-**Catalyst (2/5):**
+### Legitimate Risks That Could Harm the Moat and Business Resilience
 
-* **5G Rollout and Network Improvements:**  T-Mobile's 5G network and its continuing network improvements could be a source of competitive advantage for years to come. This could lead to greater market share and improved customer retention, which would boost the stock price. 
-    >...our network is just getting better and better… we have more opportunity to add customers and continue to improve our cost structure and enhance shareholder value.
-    >—Peter Osvaldik, President and CFO, Q2 2023 Earnings Call
+*   **Technological Obsolescence**: Rapid technology advancements, such as improvements in spectrum technology, could potentially erode the value of its existing infrastructure. If T-Mobile fails to stay on the cutting edge of technology, its position may be at risk.
+*   **Increased Competition**: Competition from existing players and new entrants could erode market share and push down pricing, lowering profitability. Price wars and aggressive promotions can severely impact margins and profit.
+*   **Regulatory Changes**: Changes in government regulations, such as those concerning spectrum auctions, or data privacy, could alter the competitive environment and create unexpected new costs for the company.
+*   **Economic Downturn**: A significant recession could reduce consumer spending on telecom services and mobile devices, adversely affecting T-Mobile’s income and growth. If a recession were to happen, they are at risk of seeing less income and having difficulties paying their long-term debt.
+*   **Operational Challenges**: Major network outages, data breaches, or failures in integrating new technologies could significantly impact T-Mobile's brand and ability to retain or attract clients.
+*   **Debt burden**: Their debt load is significant, even though the company has been reducing their leverage after the merger. They will need to keep a close eye on how the increase in interest rates can affect their financials.
 
-* **Expansion into New Markets:** T-Mobile has been expanding into new geographic areas and introducing new service offerings, which could drive additional growth.
-    >...we're adding share across pretty much all demographics. We're continuing to add ultra capacity to our network… and we're starting to turn on our standalone 5G services.
-    >—Mike Sievert, President and CEO, Q2 2023 Earnings Call
+Despite the risks above, T-Mobile has shown high resilience through the merger with Sprint, leading to an increase in customer base, market share, and an improvement in their network. The company has also used its pricing power to maintain a stable stream of income. This gives the company an upper hand over the competition during an economic downturn.
 
+## Financial Analysis
 
-**Valuation ($140 Billion):**
+T-Mobile's financial performance reflects its position in a competitive industry:
+*  **Stable Revenue Growth:** TMUS has been able to consistently grow their revenue throughout the years. This is mainly due to growth in their subscriber base, higher prices, and new lines of revenue, such as home internet.
+*   **High Capital Expenditures**: Due to the heavy infrastructure required in the industry, T-Mobile spends a massive amount of money to implement and maintain its network. They also incur expenses in buying licenses for spectrum.
+*   **Aggressive Pricing**: T-Mobile has aggressively priced its services to compete with other providers, which can have a negative effect on profitability. They have maintained profitability through controlling costs and gaining customers through lower prices.
+*   **Low Net Income Margins**: This is common in telco companies due to a lot of costs with a large amount of infrastructure.
 
-A discounted cash flow (DCF) valuation was used, valuing the firm using free cash flow to the firm (FCFF), and considering the company’s risk profile and competitive position. A long-term growth rate and stable operating margin are assumed, reflecting the maturity of the wireless industry.
+Here’s a more detailed look at their recent performance based on their filings.
 
->Valuation levels for the stock market as a whole clearly reflect the underlying fundamental economic performance of the real economy.
->—McKinsey & Company, Valuation
+### Consolidated Statements of Comprehensive Income
+    
+T-Mobile reported the following financials for the quarter ended September 30, 2023, as compared to the same period in 2022:
+*   **Service revenues** increased from \$15.7 billion to \$16.5 billion. Service revenue is usually very steady as it is based on recurring monthly payments from its customer base. 
+*   **Equipment revenues** increased from \$5.3 billion to \$5.6 billion, indicating a strong demand for new devices. This number is also dependent on promotional activities.
+*   **Net income** rose from \$4.6 billion to \$10.9 billion for the three months ended September 30. 2023.
+*  **Adjusted EBITDA** was increased from \$7.2 billion to \$7.6 billion.
 
-**Key Assumptions:**
+Overall, these results indicate a strong performance in the business.
 
-* **Revenue Growth:** 2% annually (in line with expected long-term economic growth and slightly below historical organic growth in the sector)
-* **Operating Margin:** 15% (below the company's current margin but reflecting increased competition and incorporating a moderate degree of pessimism)
-* **Cost of Capital (WACC):** 8% (assuming modest increases in the cost of equity and cost of debt)
+### Consolidated Balance Sheets
+    
+Key aspects of T-Mobile’s balance sheet (as of September 30, 2023) include:
 
+*   **High Asset Base**: The total amount of their assets is \$311.7 billion, with tangible and intangible assets taking a huge part of the company’s capital.
+*   **Increased Working Capital**: Working capital is the current assets that are not tied up in other operations. Net working capital was at -$17.7 billion. However, this can change significantly based on the quarter because T-Mobile has had some significant acquisition and merger costs recently.
+*   **High Debt**: Total debt was $84.8 billion, after a small decrease of \$1 billion in the third quarter. This debt load has a significant impact on the company’s profitability.
+*   **Shareholder Equity**:  Total shareholders equity came in at \$141.5 billion, or 46% of total assets. This number is likely to change based on the number of share buybacks or dilutions.
 
-**Calculations:**
+### Consolidated Statements of Cash Flow
+    
+The company’s cash flows for the quarter ended September 30, 2023, were as follows:
+*   **Net cash from operating activities** was \$2.1 billion for the three-month period compared to $1.7 billion from the same period last year. This means that they are making a positive cash flow from their core business.
+*   **Net cash used in investing activities** came in at \$6.2 billion. This is mainly for acquiring more licenses and for infrastructure spending.
+*   **Net cash used in financing activities** came in at \$3.9 billion, primarily from buybacks and payments in debt.
 
-1. **Projected Free Cash Flow (FCFF):**  Using historical financials and applying a 2% growth rate and a 15% margin, project FCFF for the next 10 years.  
-2. **Terminal Value:** Compute a terminal value at year 10.  I have used a perpetuity model, assuming cash flows will grow at a constant rate in perpetuity. 
-3. **Present Value:** Discount the projected FCFF and the terminal value back to today's dollars using an 8% WACC.
-4. **Non-Operating Assets:**  Add the value of non-operating assets. T-Mobile has limited non-operating assets and these are included in the valuation as part of operating assets for simplification.
-5. **Debt:** Subtract the market value of debt and the value of debt equivalents.
-6. **Equity Value:** Arrive at the value of equity and equity value per share.
+Overall the company is free cash flow negative, mainly due to their debt payments and infrastructure spending.
 
-Note: It is important to highlight that because T-Mobile is subject to ongoing spectrum auctions and is actively managing its capital structure (retaining earnings, issuing debt, making acquisitions, returning capital to its investors), these valuation calculations could change if any of these actions were undertaken or planned.
+## Understandability - Rating: 2 / 5
 
+While T-Mobile is a well-established telecommunications company, its financials and strategy are quite complicated. This complexity is due to:
 
-**Note:**
+*   **Capital Intensive Operations**: The need to frequently update and maintain its infrastructure, including cell towers and spectrum licenses, makes it difficult to project future free cash flows.
+*   **Regulatory Environment:** The telecommunications industry is heavily regulated, and those changes will influence the company’s operations and profitability.
+*   **Complicated Accounting**: Some of the accounting adjustments made by the company, like goodwill and intangibles, can be quite confusing and it’s essential to understand how they impact profitability, valuation and growth.
 
-This valuation is based on a number of assumptions, and the actual value of the company could be higher or lower.  The inherent uncertainty associated with valuing any company is substantial, particularly so for a company with the characteristics of T-Mobile.  The margin of safety in a DCF model is your greatest friend and your worst enemy.  A wide spread in valuations by various analysts suggests there is room for error in this model. The market can also become disconnected from fundamentals as observed in 2000.
+## Balance Sheet Health - Rating: 2 / 5
+{: .warning}
 
->In relative valuation, the market prices based on how similar assets are priced in the market...Valuation stories and numbers must play out.
->—Aswath Damodaran, The Little Book of Valuation
+T-Mobile's balance sheet has several concerning areas:
+*  **High Debt:** With \$84.8 billion in debt, T-Mobile is a highly leveraged company and has a high reliance on financing activities to conduct its operations. This makes the company more vulnerable to unexpected economic changes and interest rates.
+*   **Negative Free Cash Flow:** The company is free cash flow negative, mainly due to infrastructure spending, and share buybacks. If they are not able to transition to a positive free cash flow company in the near future, that could have serious financial implications.
+*   **Goodwill:** The company has \$63.4 billion in goodwill and acquired intangibles, representing over 20% of total assets. This can create significant future impairment losses which will impact profits negatively.
 
+Although T-Mobile does have some financial metrics which are okay, such as current asset liabilities and their current growth rate, the above factors put it at risk.
+
+## Recent Controversies, Problems and Management's Outlook
+{: .new}
+
+Here’s a view of the recent important topics that T-Mobile has been dealing with, as well as how management has reacted to them.
+
+*  **Network Issues**: They have struggled with some network issues that cause some delays. Management believes that they are working to improve the network with the help of new tech and investments and are committed to providing a stable and high-performing network.
+*   **Price Increases**: There are concerns about T-Mobile consistently raising prices for their plans, while still trying to push the "un-carrier" image. The management has been using inflation and rising costs as a reason for raising prices.
+*   **Competition**: In their earnings call, management was specifically asked about the new initiatives from other players in the telecommunications industry. They noted that they are focused on their business strategy and are confident in their ability to compete with others.
+*   **Acquisition**: The company recently acquired the remaining 30% of the spectrum business from SpectrumCo, which they believe will give them greater flexibility in deploying the 5G network.
+*   **Subscriber Growth**: While other companies in the telecom industry have experienced low subscriber growth numbers, T-Mobile has continued to see significant growth, which is a positive.
+*  **Subscriber retention**: The company has had a high churn rate historically, but management is confident in being able to bring down this number with their new strategies and network strength.
+*  **Employee relations:** Management has stated that they care deeply for their employees and are trying to provide the best working environment for them, showing the focus on human capital.
+
+## Conclusion
+
+T-Mobile presents a mixed picture, as it is a strong player in the telecommunication industry with a moderate moat, but struggles with a very competitive industry, and a high leverage level. The company is also undertaking heavy investments for its infrastructure and R&D, which will shape its future financial position. Overall, the company has good growth prospects, but needs to improve its balance sheet, and improve in some key metrics. 
+The management appears to be focused on long-term sustainability, which would be helpful for investors who are looking for a stable, high-return investment. But in its current form, it might be suitable for investors who are more aggressive than defensive.

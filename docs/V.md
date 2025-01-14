@@ -13,17 +13,13 @@ Moat: 4/5
 
 {: .label .label-blue }
 
-Management: 3/5
+Understandability: 2/5
 
 {: .label .label-green }
 
-Catalyst: 2/5
+Balance Sheet Health: 5/5
 
-{: .label .label-yellow }
-
-Pessimistic value: $470 B
-
-Visa operates a global electronic payments network. Its business model is based on facilitating transactions between consumers, merchants, and financial institutions.  It generates revenue primarily through transaction processing fees (charged to financial institutions and merchants), and service revenues. It also generates small amounts of revenue from data processing, and other services.  Visa's network operates across 200+ countries and its customers can utilize Visa cards to transact in over 160 currencies.
+# Business Overview
 {: .fs-6 .fw-300 }
 
 [Investor Relations](https://www.google.com/search?q=V+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -31,71 +27,287 @@ Visa operates a global electronic payments network. Its business model is based 
 
 ---
 
-{: .warning } 
->The moat rating, management rating, catalyst score, and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+{: .warning }
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
 
 
-**Moat (4/5):**
+---
+title: Visa (V)
+layout: default
+nav_order: 13
+---
 
-Visa's moat stems primarily from the **network effect**. The more cardholders use Visa, the more attractive Visa becomes to merchants, and vice versa.  This creates a powerful virtuous cycle, making it exceedingly difficult for competitors to gain traction.  As described by Dorsey in "The Little Book that Builds Wealth", network effects are particularly potent in industries based on information transfer.  This two-sided network, where more merchants means more customers and vice versa, creates tremendous value.  Further strengthening Visa's moat are significant **switching costs** for its customers. Financial institutions are deeply integrated into the Visa network, making it an operational nightmare to switch to a competing payments network.
+# Visa
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-blue }
+
+Understandability: 2/5
+
+{: .label .label-green }
+
+Balance Sheet Health: 5/5
+
+# Business Overview
+{: .fs-6 .fw-300 }
+
+[Investor Relations](https://www.google.com/search?q=V+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/V/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
 
 {: .warning }
+}
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
 
-However, the network effect is not absolute, as seen with Visa's pullback from the Chinese market due to competition from local players.  This reinforces the importance of assessing moat durability in the context of specific geographic markets and regulatory environments. Further, the increasing concentration in the payment-processing industry raises concerns about potential regulatory action aimed at anti-trust issues.  Visa's moat, while wide, is not unassailable. 
 
-**Management (3/5):**
+---
+title: Visa (V)
+layout: default
+nav_order: 13
+---
 
-Visa's management team seems competent enough, with a clear focus on growing payments volume and expanding into new markets and payment products like Tap to Pay.  Their strategy to accelerate revenue growth includes focusing on growing volume, gaining new customers, and increasing usage of cards.  However, there are some cautionary flags.
+# Visa
+{: .fs-9 }
 
-* **Capital Allocation:** Visa's aggressive share repurchases during the 2010s (discussed in the Q3 Fiscal Year 2010 and Q3 Fiscal Year 2019 earnings calls) coincided with extremely high valuations for the stock, which raises concerns about capital allocation discipline.  This behavior echoes the managerial short-termism that both Graham and Buffett frequently criticized. As warned by Graham, high current earnings can blind management to the fact that the stock market is anticipating even higher earnings down the road.
+{: .label .label-purple }
 
-* **Compensation:**  Executive compensation at Visa is substantial, but the lack of direct linkage to long-term return on invested capital (ROIC) is concerning. This raises worries about potential managerial myopia and a focus on short-term metrics. As discussed in “Valuation: Measuring and Managing the Value of Companies”, incentives should be structured to encourage long-term value creation.
+Moat: 4/5
 
-* **Insider Ownership:**  While insider ownership is not negligible, it is not high enough to fully align management's interests with those of outside shareholders.
+{: .label .label-blue }
 
-{: .note }
+Understandability: 2/5
 
-Overall, management seems reasonably competent but not exceptional. The potential for misallocation of capital through buybacks at high prices and insufficient focus on long-term value creation lowers their rating.
+{: .label .label-green }
 
-**Catalyst (2/5):**
+Balance Sheet Health: 5/5
 
-* **Expansion into New Markets:**  Visa's continued push into emerging markets, like India and Brazil (Q3 Fiscal Year 2013 earnings call), has the potential to drive long-term growth.
+# Business Overview
+{: .fs-6 .fw-300 }
 
-* **New Payment Technologies:**  Investments in new technologies like Tap to Pay (Fiscal Year 2021 Earnings call) and increased acceptance of digital wallets could accelerate payments volume growth.
+[Investor Relations](https://www.google.com/search?q=V+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/V/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+{: .warning }
+}
+}
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
+
+
+---
+title: Visa (V)
+layout: default
+nav_order: 13
+---
+
+# Visa
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-blue }
+
+Understandability: 2/5
+
+{: .label .label-green }
+
+Balance Sheet Health: 5/5
+
+# Business Overview
+{: .fs-6 .fw-300 }
+
+[Investor Relations](https://www.google.com/search?q=V+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/V/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+{: .warning }
+}
+}
+}
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
+
+
+---
+title: Visa (V)
+layout: default
+nav_order: 13
+---
+
+# Visa
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 4/5
+
+{: .label .label-blue }
+
+Understandability: 2/5
+
+{: .label .label-green }
+
+Balance Sheet Health: 5/5
+
+# Business Overview
+{: .fs-6 .fw-300 }
+
+[Investor Relations](https://www.google.com/search?q=V+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/V/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+{: .warning }
+}
+}
+}
+}
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
+
+
+Okay, let's dive into an in-depth analysis of Visa (V).
+
+## Visa (V) | Moat: 4 / 5 | Understandability: 2 / 5 | Balance Sheet Health: 5 / 5
+
+# Business Overview
+
+Visa Inc. (V) is a global payments technology company that operates a vast electronic payments network connecting financial institutions, businesses, consumers, and governments around the world. It facilitates the seamless exchange of money through its network, primarily via credit, debit, and prepaid cards. Visa does not directly issue cards; instead it acts as an intermediary, providing the technology platform and processing services for transactions. This places them at the center of the global payments ecosystem.
+
+## Revenue Distribution
+
+Visa's revenue is primarily derived from three main sources:
+
+1.  **Service Revenues:** These are based on payments volume, and the processing of transactions that happen through the Visa network. They are charged to financial institutions, not consumers.
+2.  **Data Processing Revenues:** This comes from providing authorization, clearing, settlement, and other data processing services. This is charged per transaction that happens through the Visa network.
+3.  **International Transaction Revenues:** This comes from cross-border and currency-conversion transactions, a significant source of revenue given Visa's global nature.
+4.  **Other Revenues:** Includes a variety of other revenues including incentives, client services, and other small fees that are difficult to attribute to a particular group of revenue sources.
 
 {: .important }
+}
+}
+}
+}
+}
+It is important to note that Visa is not a financial institution. They do not extend credit, and as a result, are not directly exposed to credit risk. They make money on the volume of transactions through their network. Their business model is incredibly asset light.
 
-However, these are long-term growth drivers, and there is no immediate catalyst that is likely to dramatically boost the share price in the near term.  Competition from new technologies and regulatory scrutiny cloud the near-term outlook.  Hence, the catalyst rating is low.
+## Industry Trends
 
-**Valuation ($470 Billion):**
+The payments industry is undergoing a period of dynamic change driven by several forces:
 
-A discounted cash flow (DCF) model is used to estimate Visa's intrinsic value.  As emphasized by Damodaran, DCF is the most appropriate approach for valuing cash-flow-generating assets.  Given the network effect, estimating Visa’s future cash flows should be less tricky than for a typical young, growth company. Due to the maturity of the business, a 10-year explicit forecast period is used, followed by a continuing value. 
+1.  **Digital Payments Growth:** There is a continuing increase in the adoption of digital payments and mobile wallets, which drive volumes in favor of payment processors like Visa. This means an increase in overall transaction volumes, which benefits Visa.
+2.  **E-commerce Expansion:** The e-commerce sector is also growing rapidly, which is also driving payment volume. Online transactions need a fast and stable platform and Visa is well poised to provide this.
+3.  **Increased Competition:** There is a rise in competition from newer payment methods and financial technology (fintech) companies. This could pose a long-term threat and could lead to lower prices in their services.
+4.  **Regulatory Scrutiny:** Regulatory measures on interchange fees, data privacy, and security are on the rise across the world. This creates complexity to operations and increases costs.
 
-**Key Assumptions:**
+## Competitive Landscape
+{: .important }
+}
+}
+}
+}
+}
+Visa operates in a market dominated by three major players: Visa, Mastercard, and American Express. While all three compete in the electronic payments space, they do so with different business models:
+  *  Visa's model is to be a pure payment network that provides processing services to its clients.
+  *  Mastercard also behaves mostly as a pure payment network.
+  *  American Express is also a card issuer and a lender, therefore, its business operations are more diverse.
 
-* **Revenue Growth:**  Base-case revenue growth of 8 percent annually for the first five years, declining linearly to a 3 percent stable growth rate in perpetuity (based on the stable growth rate of the global economy and incorporating the increasing competitive and regulatory landscape of the digital payments industry, in line with historical evidence and growth expectations provided by Visa itself in its SEC filings).
+The competitive landscape also includes other alternative payment providers like PayPal, Apple Pay, and Google Pay. These firms are innovating and gaining market share rapidly.
 
-* **Operating Margin:**  Starting at the recent trailing twelve months margin of 67%, and linearly declining to 60% over the forecast period to account for rising competition from local players as well as FinTech firms in both domestic and international markets and to reflect the pessimistic outlook that we want to instill.
+## What Makes Visa Different?
 
-* **Reinvestment Rate:** Based on historical reinvestment and revenue growth numbers, the reinvestment rate is initially assumed to be 22%, linearly declining to 15% over the next 10 years as Visa's growth matures. In perpetuity, it is assumed that the reinvestment rate will equal the stable growth rate of 3%.
+1.  **Extensive Global Network:** Visa boasts a truly global network with a massive volume of transactions happening every day. This is a huge benefit from economies of scale that will be difficult to duplicate.
+2.  **Trusted Brand:** Visa is a globally recognizable brand and has very strong consumer confidence. This brand equity acts as a strong barrier to entry.
+3.  **Scalable Technology:** Visa's technology platform is built for high volumes of transactions, and is hard to replicate. This acts as a barrier for competitors.
+4.  **Network Effects:** More consumers using the network makes it more valuable to merchants, and vice versa, creating a powerful network effect.
 
-* **Cost of Capital:**  A cost of capital of 8.75% is used (risk-free rate of 4%, equity risk premium of 4.75%, beta of 1, a default spread of 0.25% based on Visa's AA bond rating and a debt to capital ratio of 20%).
+# Financial Analysis
 
-* **Probability of Failure:**  Zero.  Given Visa's size, financial strength, and dominant market position, it is highly unlikely that Visa will fail as a going concern.
+## Income Statement Analysis
+{: .important }
+}
+}
+}
+}
+}
+*   **Consistent Revenue Growth:** Visa has shown consistent revenue growth over the years, driven by increasing transaction volumes. This is a direct consequence of the growing digital payments ecosystem and Visa's dominant position in that ecosystem. This points towards a strong structural moat.
+*  **High Margins:** Visa has consistently high operating and profit margins, as their revenues are generated with incredibly low costs. This means that a high percentage of each transaction ends up as profit.
+*  **Low Capital Expenditure:** A major benefit of Visa is that it's an incredibly asset-light business. The infrastructure required is massive, but it has very low operating expenses as a percentage of revenues. This increases free cash flow and profitability.
+*   **Slight impact of inflation:** Even with inflation, Visa has continued to show strong growth, and the effects on the business have been negligible so far.
 
-{: .new }
+## Balance Sheet Health: 5/5
 
-**DCF Calculations:**
+*   **Very Strong Liquidity:** Visa has consistently maintained a high level of cash and cash equivalents. They have close to $19 billion in cash and cash equivalents on hand according to their latest 10k report. This is enough to cover most of their short term liabilities by a substantial margin.
+*   **Low Debt:** Visa maintains a manageable debt level. While they do have some debt, it isn't significant compared to the cash they hold, so it doesn't pose a real risk.
+*   **Strong Equity:** Visa's equity is relatively high, given the nature of the asset-light business. In other words, they have substantial resources.
 
-The explicit cash flow forecast is obtained by using the following formula:
-Free Cash Flow to the Firm (FCFF) = EBIT(1-t) + Depreciation – Capital Expenditures + Change in non-cash Working Capital. In the continuing value period, it is assumed that FCFF will grow at the stable growth rate of 3%.
+## Moat Rating: 4/5
 
+Visa has a very strong moat based on powerful factors:
 
-Discounting the cash flows to the present and adding back excess cash and non-operating investments yields a value per share for Visa of around $245 in late 2023. Based on a sensitivity analysis (changing just the base case stable growth rate and operating margin) the range of values per share is from $162- $367, yielding an approximate fair value of $470 billion for Visa’s equity in late 2023.
+1. **Network Effects:** The sheer magnitude of Visa's network, connecting billions of consumers and merchants, creates a network effect. It is very hard for any new entrant to replicate such an established network.
 
-**Recent Concerns:**
+2. **Brand Recognition:** Visa's brand is synonymous with electronic payments worldwide. This recognition builds trust and security, which is essential for a payment provider.
 
-* **Competition:**  The rise of new payment technologies and FinTech companies (discussed during the Q1 Fiscal Year 2024 earnings call) poses a threat to Visa's long-term growth and profitability.  Management acknowledges this competition (Q2 Fiscal Year 2024 earnings call) and is actively investing in new technologies and expanding its network to maintain its competitive position. However, the duration of Visa’s fat profit margins remains to be seen. 
+3. **Scale:** Visa's global scale enables it to reduce per transaction cost to very low levels. Visa benefits greatly from economies of scale and high network effects. This gives them a cost advantage.
 
-* **Regulation:**  Increased regulatory scrutiny of the payments industry is another concern.  Visa discusses the impacts of evolving payments regulations and legislation in numerous geographic markets (Fiscal Year 2023 10-K) and is adapting to the changing regulatory landscape. However, there is always a risk that future regulations could negatively impact Visa's business model.  
+4. **Switching Costs:** While not that high, the level of integration with financial institutions and merchants makes it very costly for any customer to change to a different provider.
 
+5. **Data Advantage:** Visa has unique data sets, derived from the volume of transactions they process, that could allow them to make better decisions.
+
+These factors give them a very robust moat, but risks from other players do exist, which brings down the rating to 4.
+
+## Risks and Resilience
+
+1. **Regulatory Risks:** The global payments industry is subject to a complex web of regulations and compliance. Changes in these laws could have a negative impact on their profitability.
+2.  **Technological disruption:** There is a continued risk that disruptive technologies might undermine Visa's business model. This might be a new tech-based payment platform with a lower cost structure or something new that captures the value.
+3.  **Competition from other payment networks and platforms.** As stated before, there is competition from Mastercard, Amex, Apple Pay, Paypal, etc.
+4.  **Cybersecurity Risks:** Due to the high amount of transactions that they process, and their highly digital nature, they are a top target for hackers. They will be on the constant lookout for vulnerabilities to exploit. This could severely disrupt operations and destroy trust.
+5.  **Loss of Major Partnerships:** Visa's revenues are based on transactions routed through their partners. The loss of one or multiple major partners (banks, financial institutions, retailers, etc) can significantly hurt revenues.
+6.  **Macro-Economic Factors**: Visa's profits also depend on the world economies. A global recession will lead to less spending and less transactions. This will mean less profits for Visa.
+7.   **Geopolitical Instability**: Global uncertainty might make some countries more difficult for Visa to operate in. Trade wars, sanctions, or the rise of protectionism might make it harder for Visa to operate.
+
+Despite these risks, Visa has several characteristics that enable its resilience.
+
+1.  **Diversified Geographic Reach:** Visa is present all across the globe. This geographic diversification ensures that a setback in one country can be offset by profits from another country.
+2.  **Highly Diversified Customer Base:** Visa works with all types of banks, financial institutions, and merchants. There is no significant concentration risk and this adds to their long-term resilience.
+3.   **Long-Term Contracts:** Some of Visa's relationships with financial institutions are based on long-term contracts, providing a reliable income stream.
+4.   **Innovation and R&D:** Visa's commitment to research and innovation allows it to adapt to technological changes quickly.
+
+## Understandability: 2 / 5
+
+Visa, is in many ways, a quite complicated business.
+On one hand, they're just a technology provider, that facilitates payment transactions, but on the other hand, they require vast amounts of technical knowledge, agreements with different organizations, a very intricate structure, etc.
+Here's a further explanation of why it can be hard to understand:
+  *   **Network complexities**: The sheer scale and complexity of their network makes it hard to understand. They're connecting millions of merchants with billions of customers across a lot of different systems and protocols, which can be difficult to understand.
+  *   **Pricing structure**: Their revenue streams are fairly complicated with the different fees charged for each part of their service, so understanding their exact revenue sources is very difficult.
+  *    **Accounting practices:** They're very complicated to analyze and also, difficult for the average investor to get a clear sense of how well the business is doing.
+
+# Recent Concerns/Controversies/Problems
+
+1.  **Cross Border Fees:** While VISA has been enjoying a surge in cross border volume, they are still facing increasing scrutiny from international regulatory agencies. It remains to be seen how this problem is resolved as international interchange fees are under threat.
+
+2.  **Inflation**: The risk of inflation is ever present for VISA since that could dampen growth if consumers buy less due to increased prices. However, so far this risk seems to be limited.
+
+# Latest Management Commentary
+
+During the most recent earnings calls (July 2023, October 2023, January 2024, and April 2024), Visa's management expressed the following views:
+
+1.  **Strong Growth:** The business is experiencing robust growth, particularly in terms of cross-border transaction volumes, new flows, and value-added services. Visa also continues to grow as it expands its global network.
+2.  **Growth in Digital Payments:** They expect a continued shift toward digital payments, and they are well positioned to take advantage of this trend. They're also investing to take advantage of this trend.
+3.   **Commitment to Innovation:** They also re-iterated their strong commitment to innovation and research and development in order to protect their moat and maintain relevance.
+4.   **Focus on shareholder value**: Management stressed their commitment to creating shareholder value, both with buybacks and dividends. They will continue to take a balanced approach to capital allocation.
+5.  **Data Analytics:** Visa is investing heavily in data analytics to identify trends, create new services, and improve fraud protection.
+6.  **Geopolitics**: They're confident that the various geopolitical issues aren't affecting their business and that they are well poised to deal with the emerging global economy.
+7.   **Partnerships**: They have emphasized strategic partnerships with financial institutions and others in order to grow their business.
+
+# Conclusion
+
+In conclusion, Visa is an outstanding business with a wide moat, a strong balance sheet, and a good growth outlook. The company's financial performance is robust and they are well-positioned to capitalize on the continued growth in digital payments, but risks from various aspects must still be considered. Their management team also seems to be aligned with the shareholders. They have a sustainable moat, but it's not impenetrable. Overall, this is a business with very high upside and very stable financials that should produce great long-term returns.

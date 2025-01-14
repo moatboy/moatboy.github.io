@@ -13,17 +13,13 @@ Moat: 4/5
 
 {: .label .label-blue }
 
-Management: 3/5
+Understandability: 2/5
 
 {: .label .label-green }
 
-Catalyst: 2/5
+Balance Sheet Health: 5/5
 
-{: .label .label-yellow }
-
-Pessimistic value: $410 B
-
-Johnson & Johnson, a prominent player in the health care sector, boasts a wide moat primarily derived from intangible assets—specifically, its powerful brand portfolio and patent protection for its pharmaceutical products.  This allows the company to charge premium prices and maintain significant market share in various segments. I am giving the moat a rating of 4/5 because it's not an absolute monopoly and faces challenges, especially as patents expire and competitive pressures increase.  However, the diversity of its products across consumer health, pharmaceuticals, and medical devices provides a strong base for sustained profitability.
+## Business Overview
 {: .fs-6 .fw-300 }
 
 [Investor Relations](https://www.google.com/search?q=JNJ+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -31,93 +27,138 @@ Johnson & Johnson, a prominent player in the health care sector, boasts a wide m
 
 ---
 
-{: .warning } 
->The moat rating, management rating, catalyst score, and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
-
-
-{: .important }
-
-Moats are not about great products, great execution, or great management—they’re about the structural characteristics of a business, as discussed in _The Little Book That Builds Wealth_.
-
-**Management:** I'm assigning a 3/5 rating to JNJ's management.  While the company has historically demonstrated strong capital allocation through share repurchases and dividends, there are reasons for a more critical view. The company's R&D productivity has been lackluster, and its expansion into new business lines has not always been successful. There are also concerns about its handling of legal issues, particularly those surrounding its talc products.
-
-{: .note }
-
-While past performance is no guarantee of future results, a company with a history of making good capital allocation decisions is more likely to deliver decent returns to its shareholders, especially for a mature company.
-
-* **History & Experience:** JNJ's long history in the market speaks to its ability to weather industry ups and downs, and its executive officers typically have decades of experience at the firm (see 2023 10-K for details).  However, past success doesn't guarantee future performance.  
-* **Compensation:**  Executive compensation is substantial (see proxy statement), but it's aligned with performance relative to the market and competitors. Excessive CEO pay relative to performance, as warned against by Warren Buffett in his essays, is not evident here.
-* **Communication:**  JNJ provides detailed segment information (see financial reports), but it could do a better job providing more transparency regarding R&D productivity and its pipeline. In the Q3 2024 earnings call, CEO Joaquin Duato was pressed about the company's focus on improving profitability rather than pursuing growth. He argued that their pursuit of superior profitability will actually allow them to have faster growth, with the caveat that this strategy applies to mature companies. This is a realistic, if unexciting, take on where JNJ is in its corporate life cycle.
-* **Capital Allocation:**  Historically, share repurchases have been the key driver of increasing shareholder value (see _The Essays of Warren Buffet_). This makes sense for mature companies with a surplus of cash and limited reinvestment opportunities. JNJ seems to understand this reality.
-* **Insider Ownership:**  While insider ownership is not excessively high, it is high enough to suggest that managers' interests are aligned with those of shareholders.
-
 {: .warning }
-
-Management matters less than many pundits would have you believe, especially in mature businesses. Companies that try to compete solely on “management” often present the illusion of a moat, as discussed in _The Little Book That Builds Wealth_.
-
-**Catalyst:** The catalyst rating is 2/5. The planned separation of its consumer health business, Kenvue, while promising, is not a game-changer. There is also some skepticism that JNJ will succeed in growing its pharmaceutical and medical device businesses at a faster rate, following the spin-off. Potential catalysts for upward movement in the stock price include FDA approvals for new drugs, successful clinical trial results, and accretive acquisitions. In the Q3 2024 earnings call, management discussed its pharmaceutical segment, emphasizing progress in its pipeline, notably the results of its Carvykti clinical trials for multiple myeloma patients and the positive clinical data for its Nipocalimab trials for patients with chronic inflammatory demyelinating polyneuropathy. These drugs, if they come to market, will drive earnings growth for the company in the future.
-
-**Business in Detail:**
-
-* **Revenue Distribution:** JNJ operates in three segments: pharmaceutical, medical devices, and consumer health. Pharmaceuticals is the largest segment (see 2023 10-K), followed by MedTech and consumer health. Sales are geographically diversified (see 2023 10-K for details).
-* **Industry Trends:** The health care sector is undergoing significant shifts, including an aging population, increasing health care costs, and technological disruptions.  JNJ is exposed to these trends, and its ability to adapt will determine its future success. The entry and exit rates of startups in the pharmaceutical and medical devices industries are quite high, which is consistent with _Measuring the Moat_. However, companies with established brands and a solid customer base like JNJ have a higher probability of success.
-* **Margins:** JNJ maintains relatively stable and healthy operating margins despite pricing pressure in some segments (see financial reports and earnings calls).
-* **Competitive Landscape:** JNJ faces competition from large, well-financed competitors in all of its segments (see _Measuring the Moat_ for examples). It leverages its strong brand portfolio and economies of scale to maintain its competitive position.
-* **Differentiation:**  JNJ's brand portfolio differentiates it in the consumer health segment, allowing it to command premium prices (see _The Little Book That Builds Wealth_ for a discussion of brands as a source of a moat).  In pharmaceuticals and medical devices, its investments in R&D and resultant patented products provide an edge, though these advantages have a limited lifespan.
-* **What Makes JNJ Different?**  JNJ’s diversification across a wide range of products and businesses makes it unique, providing a layer of stability and resilience (see _The Intelligent Investor_).
-
-**Financial Analysis:**
-
-A careful review of JNJ's financial statements (see 10-Ks and 10-Qs) reveals a mature company with stable operations and consistent cash flows. Earnings have been growing modestly. (In the Q2 2023 earnings call, management discussed the challenging macroeconomic environment and volatility. However, the company's diversification helped it to deliver relatively stable earnings growth.)
-
-{: .note }
-
-Key factors in valuing a company are the expected cash flows, and the risk associated with them, as discussed in _The Little Book That Builds Wealth_.
-
-**Valuation:**
-
-To arrive at a fair value, I will use a discounted cash flow (DCF) model, valuing each segment separately and then summing the parts. The DCF is the most appropriate valuation method for a company with substantial tangible assets.  (Given the inconsistencies of accounting, there is less risk of making mistakes in valuation when you value the entire business—the firm—using an enterprise DCF. Also, the DCF model does the best job highlighting the drivers of value creation: return on invested capital [ROIC] and growth, as discussed in _Valuation_ by McKinsey.)
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
 
 
-**Valuation Assumptions and Calculations (in $ billions):**
+Certainly! Let's delve into Johnson & Johnson (JNJ) and assess its moat, financials, and overall business profile.
 
-* **Revenue Growth:**  Given the mature nature of the business and recent performance, I’ll assume a modest average annual revenue growth of 3% for all three segments for the next 10 years. In the Q3 2024 earnings call, the CEO expressed optimism about the potential for future revenue growth from new drug launches. Nevertheless, given the history of difficulty in sustaining high growth for companies, as presented in _Valuation_ by McKinsey, I am choosing to maintain a relatively conservative view here.
-* **Operating Margin:** I’ll assume a stable operating margin of 20% for the next 10 years. JNJ's margins have been reasonably stable in the past (see financial reports), and this assumption reflects my expectation that margin improvement will be difficult in the face of competitive pressures and rising costs. (Again, in the Q3 2024 earnings call, the company's focus on profitability is encouraging, and I could be slightly too pessimistic about its potential for margin improvement in the future.)
-* **Reinvestment Rate:**  Based on historical data and assuming limited growth opportunities, I'll use a reinvestment rate of 40%.
-* **Cost of Capital:** I'll use a weighted average cost of capital (WACC) of 7%. This incorporates a risk-free rate of 4%, an equity risk premium of 4%, and a beta of 0.9 for the company's equity. (I'm choosing to err on the conservative side with this assumption, reflecting the uncertainties surrounding the litigation and competitive pressures.)
-* **Terminal Value:**  After 10 years, I'll assume a terminal growth rate of 2%, reflecting the long-term growth rate of the economy.
+## Johnson & Johnson (JNJ) | Moat: 4 / 5 | Understandability: 2 / 5 | Balance Sheet Health: 5 / 5
 
-{: .highlight }
+## Business Overview
+ {: .highlight}
+Johnson & Johnson (JNJ) is a global healthcare giant with operations spanning pharmaceuticals, medical devices, and consumer health products. It’s a diversified company known for its strong brands and extensive global reach. 
 
-The terminal value computation is sensitive to small changes in the growth rate. (Also, in the real world, the interest rate on 10-year government bonds varies from day to day, and there is not much a financial analyst can do about it.)
+### Revenues Distribution
+ {: .new}
+JNJ’s revenue is distributed across three segments:
+1.  **Innovative Medicine (Pharmaceuticals):** Develops and markets prescription medications. This segment is primarily in immunology, oncology, neuroscience, infectious diseases and cardiovascular diseases.
+2. **MedTech:** Develops and markets surgical, orthopaedic, vision, interventional solutions, and advanced technologies, including robotics.
+3. **Consumer Health**: Offers over-the-counter drugs, skin care, baby care, wound care, and other wellness products.
+    
+  *Note:* In late 2023, JNJ spun off the consumer health business into a new publicly traded company named Kenvue. Going forward, JNJ's report will show Kenvue as a discontinued operations, so focus will be on the other two segments.*
 
-**DCF Calculation (in $ billions):**
+### Industry Trends
 
-| Year | Free Cash Flow to Firm | PV |
-|---|---|---|
-| 1 | $27.2 | $25.4 |
-| 2 | $28.1 | $24.4 |
-| 3 | $28.9 | $23.5 |
-| 4 | $29.8 | $22.6 |
-| 5 | $30.7 | $21.8 |
-| 6 | $31.7 | $21.0 |
-| 7 | $32.7 | $20.2 |
-| 8 | $33.7 | $19.5 |
-| 9 | $34.8 | $18.8 |
-| 10 | $35.9 | $18.1 |
-| Terminal Value | $410 | $225.7 |
-| **Total Firm Value** |  | **$410** |
+1.  **Pharmaceuticals:**
+     * Continued innovation and development of new drugs is crucial, with increased interest in biologics, cell, and gene therapies.
+     * There is growing attention on drug pricing.
+     * The use of AI and data analytics is rising in drug development and clinical trials.
+     * There is an increasing trend towards personalized medicine.
+2.  **MedTech:**
+     * The industry is seeing a shift towards minimally invasive procedures, including robotic surgery.
+     * There is a growing demand for data analytics and AI to improve patient outcomes.
+    * The use of implants with advanced technologies.
+    * The move to remote patient monitoring is another trend.
+3. **Consumer Health:**
+     * Preference for wellness and preventive care.
+    * Strong competition from direct-to-consumer brands and private labels.
+    * Rising use of digital platforms and e-commerce for purchasing healthcare products.
+     * Focus on natural and environmentally friendly products.
 
+### Competitive Landscape
+JNJ operates in highly competitive environments across all its segments.
 
-The resulting value per share for the company, after adjusting for debt and cash, is approximately $155. Given the uncertainties and risks facing JNJ, including potential litigation costs and regulatory headwinds, this fair value represents a reasonable estimate. 
+*  **Pharmaceuticals:** Faces intense rivalry from other pharmaceutical giants (e.g., Pfizer, Merck, AbbVie), as well as from biotech companies. Patent expirations and generic drugs pose constant threats to sales.
+*  **MedTech:** Competes with other large MedTech companies (e.g., Medtronic, Stryker), medical technology startups, and smaller companies focusing on niche products.
+*  **Consumer Health:** Competes with many established players (e.g., Procter & Gamble, Unilever) and emerging direct-to-consumer brands. Brand loyalty and pricing are key competitive factors.
+  *Now JNJ operates only in Pharmaceutical and MedTech. They are leaders in their respective fields.*
 
-{: .note }
+### What Makes JNJ Different?
+{: .important}
+Johnson & Johnson stands out due to several factors:
 
-In valuations, you risk being “precisely wrong” rather than “approximately right.” I am intentionally using round numbers to avoid getting bogged down by false precision.
+*  **Diversification:** JNJ operates across multiple healthcare sectors, thus reducing its reliance on any single business. (But now JNJ is focusing only on pharma and medtech). 
+*   **Strong Brands:** JNJ has a portfolio of well-known and trusted brands across all the segments.
+*   **Global Scale:**  It has a vast international presence and an extensive distribution network, allowing for broad market access.
+*   **R&D Expertise:** JNJ invests heavily in research and development, allowing it to innovate in both pharmaceuticals and medical devices.
+*   **Integrated Healthcare Approach:** JNJ is among the companies that have a complete healthcare chain from manufacturing drug to treatment and devices to wellness.
+*   **Stringent Quality Control:** As a healthcare provider, strict quality controls can enable better trust and reliability in the product portfolio.
+*   **Financial Strength:** The company maintains a robust balance sheet.
+*   **M&A Expertise:** JNJ has great experience in successful M&A and divestment.
 
-**Final Word:**
+### Recent Concerns / Controversies / Problems
+{: .warning}
+JNJ, being a massive organization, has had certain challenges:
 
-JNJ is a solid company with a wide moat. Its diversified business and brand portfolio provide a strong platform for long-term growth. However, the company faces challenges, including litigation risk and pricing pressure in some of its segments. Management's ability to successfully navigate these challenges will determine whether the company delivers excess returns to shareholders in the future. Given the current valuation, which is significantly below my estimate of intrinsic value, JNJ looks like a compelling long-term investment.  However, given the legal and competitive headwinds the company faces, there are considerable downside risks that warrant a large margin of safety.  
+*   **Opioid Litigation:** JNJ faced significant legal challenges and financial burdens related to its involvement in the opioid crisis. The company had to pay billions in settlement fees, which can impact future finances. The company is still facing litigations.
+*   **Baby Powder Lawsuits:** JNJ faced thousands of lawsuits alleging that its talc-based baby powder caused cancer. The company has reached settlements and has announced a plan to reorganize its business through bankruptcy. This saga will continue to be a risk in the near term.
+*   **Pricing Pressure:** In its pharmaceutical business, JNJ faces pricing pressures as governments and payers increase efforts to lower the cost of healthcare.
 
+#### Management's Perspective
 
-***Disclaimer:** This is not financial advice.  This analysis is for educational purposes only and should not be taken as a recommendation to buy or sell any security.*
+On calls, JNJ’s management has repeatedly emphasized:
+
+*    **Commitment to innovation:** They continue to invest heavily in R&D to bring innovative drugs and medical devices into the market.
+*   **Operational Excellence:**  They are focusing on improving operational efficiency to maximize profits and returns.
+*    **Strategic Acquisitions:** JNJ is committed to pursuing strategic acquisitions to strengthen its position in certain key areas.
+*   **Portfolio Management:** They actively manage their portfolios, making a decision on when to sell, spin off or hold certain businesses and products.
+
+## Moat Assessment 4 / 5
+{: .highlight}
+JNJ's economic moat is assessed as strong due to several sources:
+
+1.  **Intangible Assets (Brands and Patents):** JNJ’s brands have a high degree of customer loyalty. Moreover, a lot of its medical and pharmaceutical products are patent-protected and offer a sustainable competitive advantage.
+2. **Switching Costs:** MedTech products come with long-term relationships with hospitals, and once adopted, it is costly to switch. Also, pharmaceutical products usually create dependencies among patients on their routine drugs, and thus, the rate of switching from the same product will be low.
+3. **Size and Scale Advantages:** JNJ’s operations are global and diverse, with economies of scale that give it a competitive edge over smaller players.
+4. **Proprietary Data**: As a healthcare company, the data generated about the usage of its products, will help improve the existing products and make newer ones better and faster.
+*While JNJ enjoys a wide economic moat, the competitive nature of its businesses, potential disruption and regulations do reduce its width.
+
+## Legitimate Risks that Could Harm the Moat
+{: .important}
+Despite its solid advantages, JNJ faces several potential risks that could weaken its moat:
+
+1. **Patent Cliff:** The expiration of patents on key drugs exposes them to generic competition, which would affect the revenues considerably.
+2.  **Increased Regulation:** The company faces increasing government regulation and healthcare reforms, which can increase compliance costs, limit pricing power, or mandate changes in its business practices.
+3.  **Litigation Risks:** The company faces huge lawsuits, especially related to product liability and the opioids crisis which could lead to significant liabilities and reputational damage.
+4. **Disruptive Technology:** New technologies and medical devices, may disrupt and displace JNJ's existing products and offerings.
+5.  **Changes in Consumer Preferences:** Consumer health products are subject to changing trends and preferences, and brands can lose their competitive positions if they fail to adapt.
+6. **Pricing Pressures:** Increased government and insurer efforts to control healthcare costs can limit price increases, affecting margins.
+7.   **Increased Competition**: Increased competition in pharmaceuticals, medical devices, and consumer health industries, could also put a negative pressure on growth and profit potential.
+
+## Business Resilience
+Despite the risks mentioned above, JNJ demonstrates a high level of business resilience:
+
+*  **Diversified Business Model:** The company’s business units are largely independent of each other, allowing them to overcome individual hurdles more easily. 
+*  **Strong R&D:** JNJ is a company that has a strong ability to innovate new products and come out with new versions of the existing ones, so a product failure does not put a dent in the company’s overall prospects.
+*  **Global Scale:** The geographical diversity of the business operations will give it access to various markets and reduce the risk associated with adverse conditions in any single region. 
+*  **Financial Stability:** JNJ’s strong balance sheet gives it the resources to make required changes and stay stable in difficult times.
+
+## Financials Analysis
+{: .highlight}
+
+### Income Statement
+*   **Revenues:** JNJ’s annual revenue is about $80-90 billion and it has been steadily growing, with strength in its Pharmaceutical segment.
+*   **Gross Profit Margin:** The company’s gross profit margin usually fluctuates around 70%.
+*    **Operating Margin**: The operating margin tends to hover around 25%.
+*   **Net Income:** JNJ’s net income is usually about $17-20 billion annually.
+
+### Balance Sheet Health: 5 / 5
+
+*   **Assets**: The company has about $180 billion in total assets and over $20B in cash. 
+*   **Debt**: Their debt is a bit high at around $30B, but it can easily be paid off through their annual cash flow.
+*  **Equity:** Total shareholders' equity is about $130B.
+*   **Liquidity:** The company’s current ratio (current assets divided by current liabilities) is around 1.4, indicating a sound capacity to handle short term liabilities.
+
+Overall, JNJ's balance sheet is very strong and they can easily tackle any problem that they may face.
+
+### Understandability: 2 / 5
+{: .important}
+
+JNJ's business is quite complex to understand due to various factors:
+*   **Business Segments:** JNJ has multiple businesses across different fields in healthcare (pharmaceuticals, medical devices, and consumer health). Each of these segments is complex, and it can make understanding their interplay difficult.
+*  **Large Global Operations:** The company's extensive worldwide presence increases complexity, since local conditions, regulations, and market dynamics influence the business in various regions differently. 
+*   **Financials:** Given the large scope and multiple segments of the company, analyzing the financial statements becomes more intricate. Multiple accounting adjustments, and non-recurring expenses are harder to understand.
+
+**In Conclusion**
+Johnson & Johnson is a resilient and stable company with a strong economic moat and sound financials. Its diversified business strategy, coupled with a focus on innovation and strong brands, contributes to its long-term stability. However, the company faces challenges related to litigation, competition, regulation, and ethical issues. The company has significant operations, numerous subsidiaries, complex accounting rules and financial statements, which makes it difficult to understand fully.

@@ -19,33 +19,29 @@ def parse_md_file(input_file):
     with open(input_file, 'r') as file:
         lines = file.readlines()
 
-    # Extract first line with title, ticker, moat, management, catalyst, and valuation
-    first_line = lines[0].strip()
+    # Start parsing from the first line with ##
+    start_line = next((i for i, line in enumerate(lines) if line.startswith("##")), None)
+    if start_line is None:
+        raise ValueError("Input file format is incorrect: No line starting with ##.")
+
+    first_line = lines[start_line].strip()
     regex = re.compile(
-        r"## (.+?) \((\w+(?:-\w+)?)\)\s*\|\s*Moat:\s*(\d)\s*/\s*5\s*\|\s*Management:\s*(\d)\s*/\s*5\s*\|\s*Catalyst:\s*(\d)\s*/\s*5\s*\|\s*Valuation:\s*(N/A|Fair Value = Market Price|[^\d\s]*[\d,.]+(?: \([^\)]+\))?)\s*(Billion|Million|Trillion|per share|/share)?",
-        re.IGNORECASE
-    )
+    r"## (.+?) \((\w+(?:-\w+)?)\)\s*\|\s*Moat:\s*(\d(?:\.\d)?)\s*/\s*5\s*\|\s*Understandability:\s*(\d(?:\.\d)?)\s*/\s*5\s*\|\s*Balance Sheet Health:\s*(\d(?:\.\d)?)\s*/\s*5",
+    re.IGNORECASE
+)
+
 
     match = regex.match(first_line)
-
     if not match:
         print(first_line)
         raise ValueError("Input file format is incorrect.")
 
-    title, ticker, moat, management, catalyst, valuation, scale = match.groups()
-    formatted_valuation = f"{valuation} {scale}" if scale is not None else f"{valuation}"
+    title, ticker, moat, understandability, balance_sheet_health = match.groups()
+    description = lines[start_line + 2].strip() if len(lines) > start_line + 2 else ""
 
-    # Extract description from the second line
-    description = lines[2].strip()
-    ltr = 3 if lines[3] != "\n" else 4
+    return title, ticker, int(moat), int(understandability), int(balance_sheet_health), description
 
-    if len(description.split()) < 5:
-        description = lines[4].strip()
-        ltr = 5 if lines[5] != "\n" else 6
-
-    return title, ticker, int(moat), int(management), int(catalyst), formatted_valuation, description, ltr
-
-def generate_markdown(title, ticker, moat, management, catalyst, valuation, description, nav_order_dict):
+def generate_markdown(title, ticker, moat, understandability, balance_sheet_health, description, nav_order_dict):
     markdown = f"""---
 title: {title} ({ticker})
 layout: default
@@ -61,15 +57,11 @@ Moat: {moat}/5
 
 {{: .label .label-blue }}
 
-Management: {management}/5
+Understandability: {understandability}/5
 
 {{: .label .label-green }}
 
-Catalyst: {catalyst}/5
-
-{{: .label .label-yellow }}
-
-Pessimistic value: {valuation.replace("Trillion", "T").replace("Billion", "B").replace("Million", "M")}
+Balance Sheet Health: {balance_sheet_health}/5
 
 {description}
 {{: .fs-6 .fw-300 }}
@@ -79,8 +71,8 @@ Pessimistic value: {valuation.replace("Trillion", "T").replace("Billion", "B").r
 
 ---
 
-{{: .warning }} 
->The moat rating, management rating, catalyst score, and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+{{: .warning }}
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
 """
     return markdown
 
@@ -90,7 +82,7 @@ for input_file in docs:
     print(f"Processing: {input_file}")
 
     try:
-        title, ticker, moat, management, catalyst, valuation, description, ltr = parse_md_file(input_file)
+        title, ticker, moat, understandability, balance_sheet_health, description = parse_md_file(input_file)
     except Exception as e:
         print(e)
         continue
@@ -101,8 +93,7 @@ for input_file in docs:
         print(e)
         continue
 
-    ticker = input_file.split('/')[1].split('.')[0]
-    markdown_output = generate_markdown(title, ticker, moat, management, catalyst, valuation, description, nav_order_dict)
+    markdown_output = generate_markdown(title, ticker, moat, understandability, balance_sheet_health, description, nav_order_dict)
 
     with open(input_file, 'r') as file:
         lines = file.readlines()
@@ -113,27 +104,12 @@ for input_file in docs:
         file.write("\n\n")
 
         callouts = ['{: .highlight }', '{: .note }', '{: .new }', '{: .important }', '{: .warning }']
-        wrong_callouts = ['{: .highlight}', '{: .note}', '{: .new}', '{: .important}', '{: .warning}']
 
-        # Create a mapping from wrong callouts to correct ones
-        callout_mapping = dict(zip(wrong_callouts, callouts))
+        for line in lines:
+            if any(line.strip().startswith(callout[:-1]) for callout in callouts):
+                callout = next(c for c in callouts if line.strip().startswith(c[:-1]))
+                modified_line = f"{callout}\n{line.replace(callout[:-1], '').strip()}\n"
+            else:
+                modified_line = line
 
-        for line in lines[ltr:]:
-            modified_line = line  # Start with the original line
-
-            # Check for both correct and wrong callouts
-            for callout in callouts + wrong_callouts:
-                if callout in line.strip():
-                    correct_callout = callout_mapping.get(callout, callout)  # Normalize to correct callout
-                    print(f"{correct_callout} detected.")
-                    # Remove the callout from the line and prepend the normalized callout
-
-                    if line.replace(callout, '').strip().startswith("**") and line.replace(callout, '').strip().endswith("**"):
-                        modified_line = f"{line.replace(callout, '').strip()}\n"
-                    else:
-                        modified_line = f"{correct_callout}\n{line.replace(callout, '').strip()}\n"
-
-                    modified_line = modified_line.replace(">  ", "")
-                    break  # Exit the loop after finding the first matching callout
-
-            file.write(modified_line)  # Write the modified line once, outside the callout loop
+            file.write(modified_line)

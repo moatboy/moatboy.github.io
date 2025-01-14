@@ -1,10 +1,10 @@
 ---
-title: Netflix (NFLX)
+title: Netflix, Inc. (NFLX)
 layout: default
 nav_order: 23
 ---
 
-# Netflix
+# Netflix, Inc.
 {: .fs-9 }
 
 {: .label .label-purple }
@@ -13,17 +13,13 @@ Moat: 3/5
 
 {: .label .label-blue }
 
-Management: 3/5
+Understandability: 2/5
 
 {: .label .label-green }
 
-Catalyst: 2/5
+Balance Sheet Health: 4/5
 
-{: .label .label-yellow }
-
-Pessimistic value: $172 B
-
-Netflix operates in a dynamic and competitive industry. While it has built a sizable brand and a large subscriber base, its moat is not as formidable as some other companies with stronger competitive advantages. Its main source of competitive advantage is the network effect, but this is under pressure due to intensifying competition, rising costs, and changing consumer behavior.
+{: .important }
 {: .fs-6 .fw-300 }
 
 [Investor Relations](https://www.google.com/search?q=NFLX+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -31,77 +27,284 @@ Netflix operates in a dynamic and competitive industry. While it has built a siz
 
 ---
 
-{: .warning } 
->The moat rating, management rating, catalyst score, and valuation are meant to reflect a pessimistic outlook, signaling potential competitive pressures and limited growth. This ensures that some margin of safety is already baked in.
+{: .warning }
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
 
 
+---
+title: Netflix, Inc. (NFLX)
+layout: default
+nav_order: 23
+---
 
-**Moat (3/5):**
+# Netflix, Inc.
+{: .fs-9 }
 
-Netflix's network effect stems from its large subscriber base.  More subscribers attract more content creators, leading to better content, which attracts more subscribers. This virtuous cycle has helped Netflix establish a dominant position in the streaming video industry. However, this moat is not insurmountable. As discussed in Pat Dorsey's *The Little Book That Builds Wealth*, network effects are strongest in closed networks. Unlike stock exchanges or payment networks, the streaming market is open, and switching costs—though increasing with the increasing prevalence of personalized recommendations—are relatively low compared to, for example, enterprise software or medical devices.  
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-blue }
+
+Understandability: 2/5
+
+{: .label .label-green }
+
+Balance Sheet Health: 4/5
+
+{: .important }
+}
+{: .fs-6 .fw-300 }
+
+[Investor Relations](https://www.google.com/search?q=NFLX+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/NFLX/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
 
 {: .warning }
-
-Competition has intensified with the entry of well-funded players like Disney+, HBO Max, and Amazon Prime Video. These competitors have deep content libraries and are aggressively investing in new content.  This increased competition has put pressure on Netflix's pricing power and profitability. As discussed in Michael Mauboussin and Dan Callahan's *Measuring the Moat*, sustainable value creation requires ROIC > WACC (weighted average cost of capital). Netflix's ROIC has been declining, though it is still above its cost of capital. Further intensifying competition may increase pressure and possibly decrease subscriber counts in the near term.
-
-**Management (3/5):**
-
-Netflix's management team has a mixed record.  On the positive side, they were early movers in the streaming video space and built a sizable business with global reach.  They have also demonstrated an ability to adapt to changing consumer preferences, as demonstrated by their shift from DVDs to streaming and their increasing investment in original content.
-
-{: .important }
-
-However, there are also concerns.  Capital allocation decisions have been questionable at times, with investments in some areas outside their core competency (e.g., video games, mobile) yielding mediocre returns.  Their compensation structure, with substantial stock options grants, may incentivize short-term focus at the expense of long-term value creation, as discussed in Warren Buffett's *The Essays of Warren Buffett: Lessons for Corporate America*. Insider ownership is relatively high, but management communication has been inconsistent and at times overoptimistic about future growth prospects (e.g., original content spending, international expansion).  Specifically, in recent earnings calls, management has indicated a willingness to continue to compete for streaming dominance by pricing competitively, adding content, and increasing access via more mobile devices. However, competition is increasing in the face of stagnating revenue growth, which increases financial pressure on the company. Consequently, their stance seems overly aggressive.
-
-**Catalyst (2/5):**
-
-Potential catalysts for Netflix include continued subscriber growth in international markets, successful expansion into new areas like video games and live sports, and the development of new revenue streams through advertising or cloud gaming.  However, the strength and timing of these catalysts are uncertain, and competition is likely to remain intense. The recent password crackdown has increased subscriber numbers but has not translated into increased revenue, as they trade more revenue growth for maintaining prices at the existing level.  Overall, the company will have to rely on existing levers of subscriber acquisition, with little room for expansion.
-
-**Business:**
-
-Netflix operates a subscription-based streaming video service. Its revenues are primarily from subscriptions, with a small but growing contribution from advertising. The company is expanding internationally, but growth has slowed in recent years.  Margins have been under pressure due to increasing content costs and competition.  Netflix differentiates itself through original content, user interface, and recommendation algorithms. The company operates in nearly all countries worldwide, but revenues are concentrated in the UCAN and EMEA regions.
-
-**Financials:**
-
-Netflix's financials reflect the challenges it faces. Revenue growth has slowed, while operating expenses have increased, leading to margin compression.  Free cash flow has improved recently, but the company's financial leverage is high.  
-
-{: .note }
-
-A detailed examination of Netflix's financial statements is necessary to understand the drivers of cash flow and value. The financials presented in this valuation are from the SEC 10-K filings for fiscal years 2020, 2021, and 2022.  As highlighted in Aswath Damodaran's *The Little Book of Valuation*, it is important to distinguish between equity valuation and firm valuation when applying discounted cash flow analysis. We will value the entire firm and then subtract out the value of non-equity claims to arrive at equity value.
-
-**Valuation ($172 Billion):**
-
-This valuation uses a discounted cash flow (DCF) model. It is based on conservative assumptions about future growth and profitability, and incorporates a discount for the high uncertainty surrounding Netflix's future prospects.  The valuation uses a three-stage model, with higher growth in the early years, followed by slower growth and eventually reaching a terminal growth rate. Specifically, I assumed a decline in revenue growth rate from 25.80% in 2021 to 14.74% in 2022, and estimate a growth rate of 10% for the next three years and decrease to 6% from year 6 to 10,  and an 8% cost of equity (based on 3.80% Risk Free rate, 4.2% ERP, and 1.11 beta), to account for intense competition and market risk. The terminal growth rate is assumed to be 3% and the reinvestment rate is 20%.
-
-<br>
-
-| Year       | Revenue Growth | Revenue    | Operating Margin | EBIT |
-|------------|----------------|------------|------------------|------------|
-| Tr12m       | 14.74%           | $31,616m   | 18.49%          | $5,841m          |
-| 1          | 10%             | $34,778m   | 20%            | $6,956m |
-| 2          | 10%             | $38,255m   | 20%            | $7,651m  |
-| 3          | 10%             | $42,081m    | 20%           | $8,416m   |
-| 4          | 10%             | $46,289m    | 20%           | $9,258m   |
-| 5          | 10%              | $50,918m   | 20%         | $10,184m   |
-| 6          | 6%              | $53,955m   | 20%         | $10,791m   |
-| 7          | 6%              | $57,253m   | 20%         | $11,451m   |
-| 8          | 6%              | $60,778m   | 20%         | $12,156m   |
-| 9          | 6%              | $64,556m   | 20%         | $12,911m   |
-| 10         | 6%              | $68,561m   | 20%         | $13,712m   |
-| Terminal  | 3%             |           |                 |             |
+}
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
 
 
+---
+title: Netflix, Inc. (NFLX)
+layout: default
+nav_order: 23
+---
 
-Terminal Value = (EBIT *(1-t)*(1-Reinvestment rate))/ (Cost of Capital - Growth Rate)
+# Netflix, Inc.
+{: .fs-9 }
 
-= ($13,712m * (1-0.2) * (1-0.2))/(0.08-0.03)
+{: .label .label-purple }
 
-= $175,533m
+Moat: 3/5
 
-{: .note }
+{: .label .label-blue }
 
-The reinvestment rate is assumed to be 20%, based on the average capital expenditures divided by the average after-tax operating income, across the years covered in this valuation.  Specifically, I used $5,213 million for capital expenditures and $26,066m for operating income (after-tax). As discussed in the *Little Book of Valuation*, the reinvestment rate reflects management's capital allocation decisions (it is not unusual for a firm with new management to make sizable changes in existing capital allocation policies).
+Understandability: 2/5
+
+{: .label .label-green }
+
+Balance Sheet Health: 4/5
 
 {: .important }
+}
+}
+{: .fs-6 .fw-300 }
 
-Based on these numbers, the DCF valuation of operations of Netflix is $149.7 billion, which after deducting outstanding debt of $14.6 billion (from the company's balance sheet), and cash of $6.6 billion from the most recent 10-K, yields a value of $132.5 billion. Given the fact that the industry is continuing to consolidate, with the possibility of some consolidation related to Netflix, I added $40 billion to my DCF valuation to account for the likelihood of a future takeover premium. The resulting firm value is $172.5 billion, which, divided by the number of shares outstanding at $23.73 billion, gives a value of $428.81 per share.
+[Investor Relations](https://www.google.com/search?q=NFLX+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/NFLX/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+{: .warning }
+}
+}
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
+
+
+---
+title: Netflix, Inc. (NFLX)
+layout: default
+nav_order: 23
+---
+
+# Netflix, Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-blue }
+
+Understandability: 2/5
+
+{: .label .label-green }
+
+Balance Sheet Health: 4/5
+
+{: .important }
+}
+}
+}
+{: .fs-6 .fw-300 }
+
+[Investor Relations](https://www.google.com/search?q=NFLX+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/NFLX/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+{: .warning }
+}
+}
+}
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
+
+
+---
+title: Netflix, Inc. (NFLX)
+layout: default
+nav_order: 23
+---
+
+# Netflix, Inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 3/5
+
+{: .label .label-blue }
+
+Understandability: 2/5
+
+{: .label .label-green }
+
+Balance Sheet Health: 4/5
+
+{: .important }
+}
+}
+}
+}
+{: .fs-6 .fw-300 }
+
+[Investor Relations](https://www.google.com/search?q=NFLX+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/NFLX/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+{: .warning }
+}
+}
+}
+}
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
+
+
+Okay, let's dive into a deep dive analysis of Netflix, Inc. (NFLX). Here’s the detailed report, as you requested:
+
+## Netflix, Inc. (NFLX) | Moat: 3/5 | Understandability: 2/5 | Balance Sheet Health: 4/5
+
+{: .important }
+}
+}
+}
+}
+}
+### Executive Summary
+Netflix has a *narrow* moat (3/5), based on its brand and proprietary content, which allows for limited pricing power and customer stickiness, though this can change quickly in the entertainment space and the barriers to entry in this field are not that high and are eroding with intense competition. Despite some significant financial risks in the past and a high amount of debt, the company shows signs of great resilience and long-term profitability, and a clear understanding of its business model. The business model is straightforward and easy to understand in theory but it is not as simple as it seems to keep up with competition in the rapidly evolving entertainment landscape and constant changing technology and consumer preference(understandability 2/5). The balance sheet health is also good (4/5), but recent heavy capital spending could pose a risk. Netflix's strategy, involving international expansion and focusing on content creation, is a good step towards long-term success. The business and its performance have been under scrutiny recently due to a change in its business and management's future predictions, however, it is evident that it has the strength to withstand difficult times.
+
+### Business Overview
+
+Netflix is the world's leading streaming entertainment service with a global reach. It's primarily a subscription business, meaning that users pay a monthly fee to access the company's vast library of TV series, films, documentaries, and other content.
+
+#### Revenue Distribution
+Netflix generates its revenues from its streaming subscriptions.
+
+*   **Membership:** The main source of revenue is from monthly subscription fees. Price points vary from region to region and also depend on the quality of the membership. Netflix often changes price points in different areas based on consumer habits.
+*   **Paid Memberships:** In the most recent quarter, it has seen an increase of almost 8 million paid memberships, pushing the paid memberships to 247.15 million as a global user base.
+
+#### Industry Trends
+The entertainment industry, especially the streaming sector, is experiencing rapid growth and intense competition, and that includes streaming services:
+
+*   **Streaming Wars:** Several players like Disney+, HBO Max, Paramount+, Amazon Prime Video, and AppleTV+ are now vying for customers’ attention and subscription money. As a result the barriers to entry are very low.
+*   **Content is King:** Content is very significant to acquire and retain customers. Netflix has increased investment in producing its own content, especially as its ability to get content from other studios has been getting lower over the years and the prices that they demand have been skyrocketing.
+*   **Globalization:** Streaming services are continuously expanding into international markets, including developing markets. Netflix has been aggressively pursuing global user base expansion over the past few years.
+*   **Technology Trends:** Technology changes very quickly which impacts the quality of content being served. There is a huge emphasis on increased speed and quality, hence companies are heavily investing in that.
+
+#### Competitive Landscape
+The competitive landscape for streaming video is fierce. Netflix faces competition from:
+
+*   **Large Media Conglomerates:** Disney, Warner Bros. Discovery, Paramount Global, NBCUniversal
+*  **Tech Giants:** Amazon, Apple, Google
+*   **Regional and Local Players:** Competitors like Hulu in the US, HBO Europe, Star India in India, are making the competition more fierce.
+
+While Netflix pioneered the streaming market, the competition is increasing, with many companies launching and growing their own platforms. Competitors have also been aggressive with discounts on bundled content with other services.
+
+### What Makes Netflix Different?
+
+Despite the competition, Netflix has a few traits that still give it a distinctive identity:
+
+*   **Global Reach:** Netflix has a worldwide presence and strong content in different countries and languages. Netflix has an edge in this domain as the company continues to generate large subscriber base globally.
+*   **Original Content:** Netflix has been very aggressive in creating original content that gives the streaming service a unique image. Many of its shows have become pop culture phenomenons. It has also made deals with famous producers and studios to further enhance the overall content library.
+*   **Data-Driven Approach:** Netflix collects massive user data to help them improve their offerings. This helps in choosing what shows to produce as well as where to serve these new shows.
+
+### Financials In-Depth
+
+Let’s now take a deep look into Netflix’s financial health. Here's a breakdown:
+
+#### Income Statement
+
+*   **Revenue Growth:** Netflix has shown consistent revenue growth over the past few years, primarily driven by adding new customers, and is expected to continue at a fast rate in the foreseeable future. For instance, in the last two quarters, it has increased revenues by a large percentage.
+*   **Operating Margins:** Netflix’s operating margins have historically been at the higher end and continue to remain impressive, but this also makes the company a target for intense competition in the long-term.
+*   **Net Income:** Net income has been relatively stable for the past few years, however recent reports are showing an increasing bottom line, due to a growth in subscribers and also more effective cost-cutting measures.
+
+#### Balance Sheet
+
+*   **Assets:** Netflix holds a substantial amount of assets, which include a huge library of produced or licensed content, and also a significant number of intangible assets.
+*   **Liabilities:** The company has taken on a higher amount of long-term debt.
+*   **Equity:** Netflix’s equity has increased steadily, especially in recent quarters as the company's profit continues to increase.
+
+#### Cash Flow
+
+*   **Operating Cash Flow:** Consistent positive cash flow from operations ensures that the company can fund its growth effectively.
+*   **Investing Cash Flow:** Netflix has been spending a huge amount on content creation, causing negative investing cash flow. However, the investments are expected to boost profits in the future.
+*   **Financing Cash Flow:** Debt has continued to be a substantial source of funding.
+
+{: .note }
+}
+}
+}
+}
+}
+**Recent Concerns and Developments**
+
+*   **Subscriber Slowdown:** Netflix has been dealing with a slowdown in new subscriptions for the past couple of quarters, with high competition and economic headwinds being cited as the main causes. This has led to some stock price volatility in recent times.
+*   **Password Sharing Crackdown:** Netflix is aggressively cracking down on password sharing and unauthorized usage among its users, and this is expected to lead to increased revenue, and has been a major reason for positive earnings projections in recent financial reports.
+*  **Management's Predictions:** In recent earnings call, management has given optimistic predictions for the next fiscal year and expects the company to grow significantly from both increased revenue and also more cost reduction in all of its business operations. 
+*   **Changes in Strategy:** The management at Netflix is continually changing and refining its business strategies to keep up with changing consumer behavior and preferences, including exploring different marketing strategies, partnership deals and alternative revenue sources.
+
+### Moat Rating: 3/5
+Netflix has a *narrow* moat, mainly stemming from:
+
+1.  **Brand Recognition:** Netflix has built a globally recognized brand.  Their unique brand identity helps attract users who recognize that the company has high quality content.
+2.  **Proprietary Content:** It has been focusing on creating its original content, giving it some unique value proposition. Although this helps improve the moat a little, it does not provide absolute protection as other firms can easily do this as well.
+
+However, its moat is not as strong as others due to:
+
+1.  **Low Switching Costs:** There are no switching costs and therefore it is relatively easy for customers to move from one platform to the other. This hurts Netflix the most, as many users switch to competitors to explore their content libraries and offers.
+2.   **Intense Competition:** Competition in the streaming space is intense, and it will make it difficult for any company to grow consistently. Other established players with large pockets will put on more pressure as well. 
+3.  **Technological Disruption:** The streaming industry changes very quickly, which means the competitive advantages could also fall apart very quickly if newer, more innovative technology is introduced.
+
+### Understandability: 2/5
+Netflix's business model is easy to understand at a high level: they sell a monthly subscription to access content. However, a deeper understanding of its business operations is complicated due to the following factors:
+
+1.   **Content Acquisition and Production:** It can be hard to understand what are the criteria involved in creating or acquiring new content. The prices paid and the potential returns are not always obvious.
+2.  **International Expansion:** Different cultures and countries have their own unique preferences, so a one-size-fits all strategy will never work, and adapting quickly to local consumer demands is an extremely complex process.
+3.   **Competition Dynamics:** The intense competitive landscape and the impact of new technological innovation make the analysis complex. It is extremely difficult to accurately assess who will ultimately win in the long term.
+4.   **Changing Consumer Preferences:** New trends in consumer behaviour can quickly make one streaming platform unpopular and another popular. Predicting which kind of content is going to be popular can be difficult as many preferences change abruptly.
+5.  **Management's Actions:** Management actions can greatly impact the business, as can their predictions and goals, which investors should always carefully analyze and adjust based on their own judgment.
+
+### Balance Sheet Health: 4/5
+
+Despite having a good amount of debt, Netflix’s balance sheet health is good:
+
+1.  **Liquidity:** Netflix’s cash balances may not seem very high, but they can be used to cover their short-term debts. It has also used a significant amount of debt to improve the scale of the business, but this debt has not yet become unmanageable. 
+2.   **Assets:** It has a large library of content, which if converted into value, could provide a huge cushion.
+3.  **Solvency:** It has historically always been profitable and is continually generating a positive return, which shows that it has a positive balance sheet. However, the company is heavily reliant on external funding and any tightening of credit conditions could cause stress in the long-term.
+
+### Legitimate Risks That Could Harm the Moat and Business Resilience
+
+Even with a decent moat, Netflix faces certain risks:
+
+*   **Content Loss:** If Netflix loses the rights to popular content, especially as content providers are pulling off their old content, it could hurt their subscriber base.
+*  **Increased Competition:** If competitors start providing more and better content at a cheaper rate, it could lure away Netflix subscribers. This is happening continuously with other companies providing their streaming services at a huge discount, or bundled with other services.
+*  **Economic Slowdown:** In a bad economy, people may be less likely to subscribe to a streaming service. This risk can lead to large subscriber churn as more and more people reduce discretionary spending.
+* **Management Missteps:** The management might not be able to anticipate changing consumer preferences and could make errors in content creation, causing losses and brand damage.
+
+### Conclusion
+
+Netflix remains a resilient business with a narrow moat in a fiercely competitive landscape. It faces clear financial risks, but as long as it keeps focusing on creating quality content and efficiently managing its finances, it can continue to grow and generate value in the long term. The increasing user base and consistent revenue also provide a good foundation for stable future growth. A crucial part in its future growth depends on how well it can manage its debt obligations, and how well the brand maintains its popularity.
 
