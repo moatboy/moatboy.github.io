@@ -70,17 +70,17 @@ Apple’s strengths include:
 *   **Hardware Expertise:** Apple has become renowned for a blend of hardware engineering and industrial design. It also produces its own in-house chip-design capabilities, which give it an advantage over competitors who are forced to rely on third-party chips.
 *  **Supply Chain and Distribution:** The company's large supply chain allows for a steady supply of components and a smooth distribution to consumers. Apple products are extremely popular and can often be found with few days' wait after release, giving Apple an edge as other companies may face logistical or manufacturing issues.
 
-  Given that Apple has clear-cut competitive advantages with a track record of high profitability, returns on capital, and customer loyalty, its moat rating is a 4/5.  The network effect is a little limited, because there is not a strong network aspect with the company’s products.
+Given that Apple has clear-cut competitive advantages with a track record of high profitability, returns on capital, and customer loyalty, its moat rating is a 4/5.  The network effect is a little limited, because there is not a strong network aspect with the company’s products.
 
-  **Legitimate Risks:**
-  Despite Apple's robust moat, several threats could erode its value:
+**Legitimate Risks:**
+Despite Apple's robust moat, several threats could erode its value:
 
-    1.  **Technological Disruption:** The risk of technological disruption is very high for technology companies. If there is a shift in consumer trends, this could significantly affect profits for established companies like Apple.
-   2.  **Economic Downturn:** Apple’s financials, while strong, are heavily dependent on continued revenue growth and consumer spending. A significant decline in overall economic conditions, as seen during the great recession, could affect results as consumers would spend less on non-essential goods like electronics.
-    3.  **Increased Competition:** Increased competition in existing markets is always a threat to Apple as other companies attempt to catch up with its innovation. This threat might be most apparent for companies that do not have the financial resources to compete with Apple’s research budget.
-    4.  **Regulatory Pressure:** The increasing complexity of regulatory requirements, especially in relation to privacy and cybersecurity, could negatively affect Apple’s operations, or force the company to change its design or practices.
-    5.  **Changing Consumer Preferences:** Consumer preferences are fluid. Trends change quickly, and tastes change, requiring continued innovation and focus from Apple to avoid a negative shift in consumer demand.
-     6.   **Supply Chain Disruptions:** The risk of supply chain disruptions always exists given how important its network is and how sensitive it is to economic and geopolitical forces.
+  *  **Technological Disruption:** The risk of technological disruption is very high for technology companies. If there is a shift in consumer trends, this could significantly affect profits for established companies like Apple.
+  *  **Economic Downturn:** Apple’s financials, while strong, are heavily dependent on continued revenue growth and consumer spending. A significant decline in overall economic conditions, as seen during the great recession, could affect results as consumers would spend less on non-essential goods like electronics.
+  *  **Increased Competition:** Increased competition in existing markets is always a threat to Apple as other companies attempt to catch up with its innovation. This threat might be most apparent for companies that do not have the financial resources to compete with Apple’s research budget.
+  *  **Regulatory Pressure:** The increasing complexity of regulatory requirements, especially in relation to privacy and cybersecurity, could negatively affect Apple’s operations, or force the company to change its design or practices.
+  *  **Changing Consumer Preferences:** Consumer preferences are fluid. Trends change quickly, and tastes change, requiring continued innovation and focus from Apple to avoid a negative shift in consumer demand.
+  *   **Supply Chain Disruptions:** The risk of supply chain disruptions always exists given how important its network is and how sensitive it is to economic and geopolitical forces.
 
   Apple has shown itself to be well equipped at handling these risks by:
 *   Reinvesting into research and development.
