@@ -107,13 +107,6 @@ for input_file in docs:
         file.write(markdown_output)
         file.write("\n\n")
 
-        callouts = ['{: .highlight }', '{: .note }', '{: .new }', '{: .important }', '{: .warning }']
 
         for line in lines[ltr:]:
-            if any(line.strip().startswith(callout[:-1]) for callout in callouts):
-                callout = next(c for c in callouts if line.strip().startswith(c[:-1]))
-                modified_line = f"{callout}\n{line.replace(callout[:-1], '').strip()}\n"
-            else:
-                modified_line = line
-
-            file.write(modified_line)
+            file.write(line)
