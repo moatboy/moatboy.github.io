@@ -70,18 +70,18 @@ Apple’s strengths include:
 *   **Hardware Expertise:** Apple has become renowned for a blend of hardware engineering and industrial design. It also produces its own in-house chip-design capabilities, which give it an advantage over competitors who are forced to rely on third-party chips.
 *  **Supply Chain and Distribution:** The company's large supply chain allows for a steady supply of components and a smooth distribution to consumers. Apple products are extremely popular and can often be found with few days' wait after release, giving Apple an edge as other companies may face logistical or manufacturing issues.
 
-Given that Apple has clear-cut competitive advantages with a track record of high profitability, returns on capital, and customer loyalty, its moat rating is a 4/5.  The network effect is a little limited, because there is not a strong network aspect with the company’s products.
+  Given that Apple has clear-cut competitive advantages with a track record of high profitability, returns on capital, and customer loyalty, its moat rating is a 4/5.  The network effect is a little limited, because there is not a strong network aspect with the company’s products.
 
-**Legitimate Risks:**
-Despite Apple's robust moat, several threats could erode its value.
-1.  **Technological Disruption:** The risk of technological disruption is very high for technology companies. If there is a shift in consumer trends, this could significantly affect profits for established companies like Apple.
-2.  **Economic Downturn:** Apple’s financials, while strong, are heavily dependent on continued revenue growth and consumer spending. A significant decline in overall economic conditions, as seen during the great recession, could affect results as consumers would spend less on non-essential goods like electronics.
-3.  **Increased Competition:** Increased competition in existing markets is always a threat to Apple as other companies attempt to catch up with its innovation. This threat might be most apparent for companies that do not have the financial resources to compete with Apple’s research budget.
-4.  **Regulatory Pressure:** The increasing complexity of regulatory requirements, especially in relation to privacy and cybersecurity, could negatively affect Apple’s operations, or force the company to change its design or practices.
-5.    **Changing Consumer Preferences:** Consumer preferences are fluid. Trends change quickly, and tastes change, requiring continued innovation and focus from Apple to avoid a negative shift in consumer demand.
-6.   **Supply Chain Disruptions:** The risk of supply chain disruptions always exists given how important its network is and how sensitive it is to economic and geopolitical forces.
+  **Legitimate Risks:**
+  Despite Apple's robust moat, several threats could erode its value.
+    1.  **Technological Disruption:** The risk of technological disruption is very high for technology companies. If there is a shift in consumer trends, this could significantly affect profits for established companies like Apple.
+   2.  **Economic Downturn:** Apple’s financials, while strong, are heavily dependent on continued revenue growth and consumer spending. A significant decline in overall economic conditions, as seen during the great recession, could affect results as consumers would spend less on non-essential goods like electronics.
+    3.  **Increased Competition:** Increased competition in existing markets is always a threat to Apple as other companies attempt to catch up with its innovation. This threat might be most apparent for companies that do not have the financial resources to compete with Apple’s research budget.
+    4.  **Regulatory Pressure:** The increasing complexity of regulatory requirements, especially in relation to privacy and cybersecurity, could negatively affect Apple’s operations, or force the company to change its design or practices.
+   5.    **Changing Consumer Preferences:** Consumer preferences are fluid. Trends change quickly, and tastes change, requiring continued innovation and focus from Apple to avoid a negative shift in consumer demand.
+     6.   **Supply Chain Disruptions:** The risk of supply chain disruptions always exists given how important its network is and how sensitive it is to economic and geopolitical forces.
 
-Apple has shown itself to be well equipped at handling these risks by:
+  Apple has shown itself to be well equipped at handling these risks by:
 *   Reinvesting into research and development.
 *   Constantly adapting its product portfolio and adding new products.
 *   Focusing on providing a differentiated experience for its customers with superior software.
@@ -89,19 +89,19 @@ Apple has shown itself to be well equipped at handling these risks by:
 
 **Financial Analysis:**
 
-Looking at Apple’s financials reveals a very strong company, with a massive cash pile.
-* **Revenue:** Apple's revenue is derived from the sale of products and services. As of its latest reports, the revenue is still quite high, but growth has slowed significantly. Although the company has announced new products like its Vision Pro, it remains to be seen what effect this has on the financials.
-*   **Profitability:** Apple maintains a high level of profitability, with high gross margins from its products and strong net profit margins. These indicate that the company has a clear pricing power because of the brand loyalty, product quality, and value that consumers place on its ecosystem.
+  Looking at Apple’s financials reveals a very strong company, with a massive cash pile.
+  * **Revenue:** Apple's revenue is derived from the sale of products and services. As of its latest reports, the revenue is still quite high, but growth has slowed significantly. Although the company has announced new products like its Vision Pro, it remains to be seen what effect this has on the financials.
+  *   **Profitability:** Apple maintains a high level of profitability, with high gross margins from its products and strong net profit margins. These indicate that the company has a clear pricing power because of the brand loyalty, product quality, and value that consumers place on its ecosystem.
 *    **Operating Cashflow:** Apple has an extremely high operating cashflow. This results from selling its premium-priced products, and is far greater than the company's net income due to non-cash expenses, such as depreciation and amortization.
 *  **Financial Health:** Apple has a very strong balance sheet with extremely low levels of debt, and large amounts of cash and marketable securities. The company's financial health is a testament to its consistent business operations.
 
-**Understandability Rating**:
+  **Understandability Rating**:
 
-I have given the business a 3/5 for understandability. It’s easier to understand than most companies for a retail investor because most people have used its products. However, its financial statements and the complex nature of its supply chain and operations still make it tricky to fully understand.
+  I have given the business a 3/5 for understandability. It’s easier to understand than most companies for a retail investor because most people have used its products. However, its financial statements and the complex nature of its supply chain and operations still make it tricky to fully understand.
+  
+   **Balance Sheet Health Rating**:
 
-**Balance Sheet Health Rating**:
-
-I have given the company a balance sheet health rating of 5/5 as there are very few liabilities, and the debt levels are very low, while the company maintains an extreme amount of liquid assets in the form of cash and marketable securities.
+    I have given the company a balance sheet health rating of 5/5 as there are very few liabilities, and the debt levels are very low, while the company maintains an extreme amount of liquid assets in the form of cash and marketable securities.
 
 {: .warning }
 

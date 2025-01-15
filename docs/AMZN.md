@@ -42,10 +42,10 @@ Amazon operates through several segments:
 
 {: .highlight }
 **Revenue Distribution (2023):**
-*   Online stores, including third party sales made up 44% of net revenue in 2023.
-*   AWS made up 16% of net revenue in 2023.
-*   Advertising services made up 8.4% of net revenue in 2023.
-*   Other sales categories, primarily subscriptions, physical stores, made up about 32% of revenue.
+   *   Online stores, including third party sales made up 44% of net revenue in 2023.
+   *   AWS made up 16% of net revenue in 2023.
+   *   Advertising services made up 8.4% of net revenue in 2023.
+   *   Other sales categories, primarily subscriptions, physical stores, made up about 32% of revenue.
 
 **Industry Trends and Competitive Landscape:**
 *  **E-commerce:** The e-commerce landscape is intensely competitive, with a high degree of pricing pressure and focus on efficiency, delivery speeds, and logistics. Amazon’s biggest competitors in the e-commerce space include Walmart, Alibaba, and Target.
@@ -55,11 +55,11 @@ Amazon operates through several segments:
 
 {: .important }
 **What Makes Amazon Different?**
-*   **Massive Scale:** Amazon operates a vast global infrastructure, enabling it to offer services and products to a diverse clientele with excellent logistics, fulfillment and supply chain networks.
-*   **Diverse Business Segments:** With successful operations in e-commerce, cloud computing, advertising, and more, Amazon isn't dependent on a single line of business to thrive. This makes it a highly diversified company, and that diversity helps to create a stable and resilient business.
-*   **Customer-Centric Approach:** Amazon has a strong focus on customer satisfaction, and it does everything in its power to keep customers loyal.
-*   **Innovation:** It has a great history of innovations in new technology, such as AWS, which have created a lot of value for the business.
-*   **Data-Driven approach** Amazon leverages its data to better understand the behavior of customers, employees and other businesses, which allows them to improve their business and operations.
+    *   **Massive Scale:** Amazon operates a vast global infrastructure, enabling it to offer services and products to a diverse clientele with excellent logistics, fulfillment and supply chain networks.
+    *   **Diverse Business Segments:** With successful operations in e-commerce, cloud computing, advertising, and more, Amazon isn't dependent on a single line of business to thrive. This makes it a highly diversified company, and that diversity helps to create a stable and resilient business.
+    *   **Customer-Centric Approach:** Amazon has a strong focus on customer satisfaction, and it does everything in its power to keep customers loyal.
+    *   **Innovation:** It has a great history of innovations in new technology, such as AWS, which have created a lot of value for the business.
+    *   **Data-Driven approach** Amazon leverages its data to better understand the behavior of customers, employees and other businesses, which allows them to improve their business and operations.
 
 {: .highlight }
 **Recent Concerns and Controversies:**
@@ -78,9 +78,9 @@ Amazon operates through several segments:
 {: .important }
 **Moat Rating: 3/5**
 Amazon possesses a *narrow moat*. The company has established a powerful position in e-commerce and cloud computing, which provides a sustainable competitive advantage. However, as the competitive landscape intensifies with established players trying to compete and new players starting to disrupt the established order, Amazon’s moat is no longer as wide as it used to be.
-* **E-commerce:** While it has strong logistics, scale, and brand recognition in e-commerce, the low barriers of entry, intense competition, and changing consumer behavior make it difficult for this to be considered a wide-moat industry for any player.
-*   **Cloud Computing:** AWS has strong switching costs due to enterprise customer reliance on AWS systems, and the high difficulty of switching vendors without losing out on a lot of operational efficiency. The market is becoming very competitive as other cloud providers such as Google and Microsoft ramp up their offerings. This keeps AWS at a narrow moat, rather than a wide-moat position. 
-*   **Other segments**: There's little to no evidence to show moats for the company's advertising and streaming businesses. These sectors are very competitive. 
+    * **E-commerce:** While it has strong logistics, scale, and brand recognition in e-commerce, the low barriers of entry, intense competition, and changing consumer behavior make it difficult for this to be considered a wide-moat industry for any player.
+    *   **Cloud Computing:** AWS has strong switching costs due to enterprise customer reliance on AWS systems, and the high difficulty of switching vendors without losing out on a lot of operational efficiency. The market is becoming very competitive as other cloud providers such as Google and Microsoft ramp up their offerings. This keeps AWS at a narrow moat, rather than a wide-moat position. 
+    *   **Other segments**: There's little to no evidence to show moats for the company's advertising and streaming businesses. These sectors are very competitive. 
 
 {: .important }
 **Legitimate Risks to the Moat:**
