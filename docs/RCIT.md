@@ -1,7 +1,7 @@
 ---
-title: RCIT (RCI)
+title: RCIT (RCIT)
 layout: default
-nav_order: 662
+nav_order: 30
 ---
 
 # RCIT
@@ -22,8 +22,8 @@ Balance Sheet Health: 4/5
 RCIT is a publicly traded real estate investment trust (REIT) primarily focused on owning and managing a portfolio of commercial properties across the United States, specializing in single-tenant net lease assets.
 {: .fs-6 .fw-300 }
 
-[Investor Relations](https://www.google.com/search?q=RCI+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[Previous Earnings Calls](https://discountingcashflows.com/company/RCI/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Investor Relations](https://www.google.com/search?q=RCIT+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/RCIT/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 

@@ -42,6 +42,7 @@ def parse_md_file(input_file):
 
     description = lines[next_line].strip()
     print(description)
+    ticker = input_file.split(".")[0].split("/")[-1]
 
     return title, ticker, int(moat), int(understandability), int(balance_sheet_health), description, next_line + 1
 
