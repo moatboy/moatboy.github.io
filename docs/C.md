@@ -1,10 +1,43 @@
-## Citigroup (C) | Moat: 1.5 / 5 | Understandability: 3 / 5 | Balance Sheet Health: 3 / 5
-Citigroup Inc. is a multinational financial services company offering a wide array of banking and financial products to consumers, corporations, governments, and institutions worldwide.
+---
+title: Citigroup (C)
+layout: default
+nav_order: 96
+---
 
-{: .note }Citigroup operates across diverse segments including Global Consumer Banking (GCB), Institutional Clients Group (ICG), and Legacy Franchises. The company has been undergoing a strategic transformation to simplify its business and improve profitability.
+# Citigroup
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 1.5/5
+
+{: .label .label-blue }
+
+Understandability: 3/5
+
+{: .label .label-green }
+
+Balance Sheet Health: 3/5
+
+Citigroup Inc. is a multinational financial services company offering a wide array of banking and financial products to consumers, corporations, governments, and institutions worldwide.
+{: .fs-6 .fw-300 }
+
+[Investor Relations](https://www.google.com/search?q=C+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/C/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+{: .warning }
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
+
+
+
+{: .note }
+Citigroup operates across diverse segments including Global Consumer Banking (GCB), Institutional Clients Group (ICG), and Legacy Franchises. The company has been undergoing a strategic transformation to simplify its business and improve profitability.
 
 ### Business Overview
-{: .important }Citigroup's revenue is broadly distributed across its different segments. The company has made significant divestitures of its international retail operations to focus on the segments with higher returns.
+{: .important }
+Citigroup's revenue is broadly distributed across its different segments. The company has made significant divestitures of its international retail operations to focus on the segments with higher returns.
 
 *   **Global Consumer Banking (GCB):** Includes retail banking and wealth management, generating revenue from consumer banking fees, deposits, and wealth management services.
 *   **Institutional Clients Group (ICG):** Provides services to large corporations and institutional clients. The main sources of revenue are: Global Markets, Investment Banking, Corporate Lending, and Transaction Services.
@@ -12,12 +45,14 @@ Citigroup Inc. is a multinational financial services company offering a wide arr
 
 
 #### Industry Trends and Competitive Landscape
-{: .highlight}The banking industry is undergoing a period of rapid change due to technological innovation, regulatory changes, and shifting customer preferences. While large banks like Citigroup benefit from scale and diversified revenue streams, they are also challenged by fintech companies which may offer innovative and digital solutions. Increased interest rates have led to increased net interest income in banking as well, which may be a driver of future profitability.
+{: .highlight }
+The banking industry is undergoing a period of rapid change due to technological innovation, regulatory changes, and shifting customer preferences. While large banks like Citigroup benefit from scale and diversified revenue streams, they are also challenged by fintech companies which may offer innovative and digital solutions. Increased interest rates have led to increased net interest income in banking as well, which may be a driver of future profitability.
 
 Citigroup faces intense competition from other global banks such as JPMorgan Chase, Goldman Sachs, and Bank of America. Each segment of Citi competes against both specialized competitors (like pure-play investment banks) and other large diversified firms. It's a commoditized market.
 
 ### Moat Analysis
-{: .important}
+{: .important }
+
 The nature of the banking industry makes it inherently difficult to build a strong and sustainable economic moat. While some financial institutions may have brand recognition and a scale advantage, regulatory and financial risks make them easily interchangeable and prone to disruption. The financial structure of banks is different from the standard enterprise as they operate under different capital and leverage rules making standard analysis of moats difficult.
 
 *   **Brand:** Citigroup has a well-known brand name, but it doesn't provide much pricing power because of low customer switching costs. Customers are often sensitive to price and prefer cheaper products instead of well-known brands.
@@ -29,7 +64,8 @@ The nature of the banking industry makes it inherently difficult to build a stro
 In conclusion, Citigroup has only a minimal moat stemming from brand recognition, and maybe a minor degree of scale, and thus its moat is rated at **1.5/5**.
 
 ### Balance Sheet Health
-{: .important}
+{: .important }
+
 The balance sheet of Citigroup is complicated due to the numerous financial instruments, derivatives and securitizations it uses. It is also undergoing a period of transition and restructuring after having sold many parts of its retail banking operations.
 
 * **Leverage:** The company has a lot of debt ($2.5 Trillion), and a high leverage with total debt as compared to market capitalization. However, this leverage is normal for the banking industry.

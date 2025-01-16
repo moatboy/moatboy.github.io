@@ -1,27 +1,62 @@
-## Fomento Economico Mexicano, S.A.B. de C.V. (FMX) | Moat: 2.5 / 5 | Understandability: 3 / 5 | Balance Sheet Health: 3.5 / 5
-Fomento Economico Mexicano, S.A.B. de C.V. (FEMSA) is a multinational beverage and retail company with its primary operations in Mexico and Latin America. It's the largest Coca-Cola bottler in the world by volume and the second-largest by revenue.
+---
+title: Fomento Economico Mexicano, S.A.B. de C.V. (FMX)
+layout: default
+nav_order: 74
+---
 
-{: .highlight } FEMSA is primarily a bottler of Coca-Cola products with a significant presence in the Latin American market, especially in Mexico.
+# Fomento Economico Mexicano, S.A.B. de C.V.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 2.5/5
+
+{: .label .label-blue }
+
+Understandability: 3/5
+
+{: .label .label-green }
+
+Balance Sheet Health: 3.5/5
+
+Fomento Economico Mexicano, S.A.B. de C.V. (FEMSA) is a multinational beverage and retail company with its primary operations in Mexico and Latin America. It's the largest Coca-Cola bottler in the world by volume and the second-largest by revenue.
+{: .fs-6 .fw-300 }
+
+[Investor Relations](https://www.google.com/search?q=FMX+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/FMX/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+{: .warning }
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
+
+
+
+{: .highlight }
+FEMSA is primarily a bottler of Coca-Cola products with a significant presence in the Latin American market, especially in Mexico.
 
 ## Business Overview
 FEMSA operates across three main business units: Coca-Cola FEMSA (KO), FEMSA’s retail division, and the Strategic Businesses unit, which is mainly involved in logistics. Each division's contribution to the overall revenue gives an overview of the business's diversification, and an idea of its competitive landscape, and its strengths as well as vulnerabilities.
 
 **Coca-Cola FEMSA (KO):**
-{: .note}The core of FEMSA's business.
+{: .note }
+The core of FEMSA's business.
 *   This segment is the world's largest bottler of Coca-Cola products and includes a wide range of brands like Coca-Cola, Fanta, and Sprite in addition to still water, juices, and plant-based drinks.
 *   It has a well-established distribution network, especially in Mexico and Latin America, which is hard for competitors to replicate.
 *  It holds a significant share in the soft drink markets in Latin America. 
 *   The focus is on strengthening its core brands, innovating new products, and maximizing value for customers. 
 
 **FEMSA Retail Division:**
-{: .note } Focused on convenience retail.
+{: .note }
+Focused on convenience retail.
 * This segment operates OXXO, a large chain of small-format stores with a huge presence in Mexico and other Latin American countries. 
 *   OXXO is a convenience-store powerhouse, offering day-to-day consumer goods to capture daily purchases.
 *   They are focused on expanding locations, providing convenience and new offerings to customers.
 *   It's also involved in other retail operations, such as drug stores.
 
 **Strategic Businesses Unit:**
-{: .note } Involved in several businesses including logistics.
+{: .note }
+Involved in several businesses including logistics.
 *   This division includes the company's logistics operations.
 *   The goal of this division is to complement FEMSA's core business with solutions relating to supply chain, distribution and the like.
 * This segment has also seen some growth in the last few years.
@@ -36,7 +71,8 @@ The most recent financial reports show a stable but evolving business. FEMSA’s
 *  The company expects strong performances in all business units as we progress into 2023.
    
 **Profitability:**
-{: .highlight }The company has high-margin businesses.
+{: .highlight }
+The company has high-margin businesses.
 *  Operating profit margins have shown resilience.
 *  The company is seeing improved cost efficiencies.
 *  They expect further improvement in operating margins in the next few years.
@@ -63,7 +99,8 @@ The most recent financial reports show a stable but evolving business. FEMSA’s
 
 ## Moat Rating: 2.5 / 5
 
-{: .warning}While FEMSA has some moats, they are narrow. It doesn't have a strong moat as the competitive landscape is very intense.
+{: .warning }
+While FEMSA has some moats, they are narrow. It doesn't have a strong moat as the competitive landscape is very intense.
 *   **Brand Strength:** While Coca-Cola is a powerful brand, FEMSA is its bottler and doesn't own the brand itself. A strong brand, which has loyal customers, provides them with pricing power, enabling the firm to generate a premium price with strong and repeat sales and profits.
 *    **Distribution Network:** FEMSA has an extensive distribution network that allows them to reach a wide range of clients.
      *  This moat is relatively solid and provides a certain level of protection, it doesn't stop entrants from getting into the market.

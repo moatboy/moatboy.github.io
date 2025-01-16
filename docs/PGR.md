@@ -1,5 +1,36 @@
-## Progressive Corporation (PGR) | Moat: 2.5 / 5 | Understandability: 2 / 5 | Balance Sheet Health: 3 / 5
+---
+title: Progressive Corporation (PGR)
+layout: default
+nav_order: 84
+---
+
+# Progressive Corporation
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 2.5/5
+
+{: .label .label-blue }
+
+Understandability: 2/5
+
+{: .label .label-green }
+
+Balance Sheet Health: 3/5
+
 Progressive is a leading provider of personal and commercial auto insurance, as well as other specialty insurance products. Its core business is focused on underwriting policies based on algorithms, and the business also employs data analytics and technology to improve processes and offer services to their customers.
+{: .fs-6 .fw-300 }
+
+[Investor Relations](https://www.google.com/search?q=PGR+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/PGR/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+{: .warning }
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
+
+
 
 ### Business Overview
 Progressive Corporation (PGR) is a major player in the U.S. insurance market, primarily known for its auto insurance offerings, but has diversified into other insurance segments. The company operates through three main divisions: Personal Lines, Commercial Lines, and Property insurance.
@@ -8,7 +39,8 @@ Progressive Corporation (PGR) is a major player in the U.S. insurance market, pr
  * **Property Insurance:**  Progressive also underwrites a variety of property insurance, including homeowners' insurance, and other related policies.
  
 
-   {: .note }
+{: .note }
+
    Progressive’s focus on a data-driven approach to underwriting, claims processing, and customer service. The company's technology is highly advanced, with AI being deployed throughout.
  
 
@@ -16,7 +48,8 @@ The core of Progressive's competitive edge is its direct channel and their use o
 
 ### Industry Trends and Competitive Landscape
 The insurance industry is highly competitive, with a mix of large, established players and smaller, specialized insurers. Competition primarily revolves around price, coverage options, customer service, and technology. Digital innovation is transforming the industry, including use of data analytics and artificial intelligence. As a result, companies with innovative and agile processes are generally better positioned than others.
- {: .note }
+{: .note }
+
    Technological innovations including the use of telematics, data analytics, and artificial intelligence are a growing trend in the insurance industry.
 
 However, insurance is heavily regulated and a lot of the competition revolves around price. This is a double edged sword, because while it may entice customers, it also can lead to intense price competition, and a focus on margins for profits. 
@@ -24,7 +57,8 @@ However, insurance is heavily regulated and a lot of the competition revolves ar
 ### Moat Analysis
 Progressive's moat, while present, is not exceptionally strong. It can be characterized as a narrow moat with a rating of 2.5/5, since it has some sustainable competitive advantages. The main source of the moat comes from their direct sales channel (via internet and mobile apps). A large portion of the industry still operates through sales agents. Progressive has spent huge amounts of capital and time perfecting their tech capabilities. 
 
-  {: .important }
+{: .important }
+
    The direct sales channel is what gives Progressive a cost advantage over companies that rely on third-party agents or brokers, however other insurance companies are increasingly using a similar method to gain new customers.
 
 The company also makes great use of data analytics to better understand the risk associated with insuring different types of customers and cars. This helps the company in better pricing their policies, and provides them an edge compared to other insurers that do not possess similar capabilities.
@@ -46,11 +80,13 @@ Several factors could harm Progressive’s moat:
 ### Business Resilience
 Progressive has shown some resilience in its operations. However, given the intense nature of the industry, the business is far from being immune to industrywide effects. As such, the business’s financial health is only somewhat robust, so that in case of a large-scale economic downturn, or unexpected catastrophic events, they might be put into difficult positions.
 {: .important }
+
   While Progressive's strong use of data and AI are beneficial, the company is vulnerable to changes in market preferences, as well as intense competition among industry players. The constant need to upgrade systems and improve operations will also strain resources.
  
 ### Financial Analysis
 Progressive's financials have shown some positive trends and have been relatively stable over the last decade, with an increase in revenues, profit, and retained earnings. 
-  {: .note }
+{: .note }
+
    Progressive's financial performance is strongly tied to its pricing policies, the level of expenses that it incurs on operations, and the frequency and severity of claims.
  
 

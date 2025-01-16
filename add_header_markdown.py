@@ -44,7 +44,7 @@ def parse_md_file(input_file):
     print(description)
     ticker = input_file.split(".")[0].split("/")[-1]
 
-    return title, ticker, int(moat), int(understandability), int(balance_sheet_health), description, next_line + 1
+    return title, ticker, moat, understandability, balance_sheet_health, description, next_line + 1
 
 def generate_markdown(title, ticker, moat, understandability, balance_sheet_health, description, nav_order_dict):
     markdown = f"""---

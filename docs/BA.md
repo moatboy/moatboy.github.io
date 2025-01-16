@@ -9,7 +9,7 @@ nav_order: 102
 
 {: .label .label-purple }
 
-Moat: 3/5
+Moat: 2.5/5
 
 {: .label .label-blue }
 
