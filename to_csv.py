@@ -20,6 +20,10 @@ def get_market_cap(ticker):
     stock = yf.Ticker(ticker)
     return format_large_number(stock.info['marketCap']) if 'marketCap' in stock.info else None
 
+def get_pe_ratio(ticker):
+    stock = yf.Ticker(ticker)
+    return round(stock.info['trailingPE'], 1) if 'trailingPE' in stock.info else None
+
 def extract_data_from_md(md_content):
     """Extract data from a single markdown file content."""
     moat_match = re.search(r"Moat: (\d+(?:\.\d+)?)", md_content)
@@ -42,13 +46,14 @@ def process_md_files(input_directory, output_csv):
                 data = extract_data_from_md(md_content)
                 data["ticker"] = file_name.split(".")[0]
                 data["marketcap"] = get_market_cap(data["ticker"])
+                data["pe_ratio"] = get_pe_ratio(data["ticker"])
 
                 if data["moat"] != "N/A" and data["understandability"] != "N/A" and data["balance_sheet_health"] != "N/A":
                     rows.append(data)
 
     # Write extracted data to CSV
     with open(output_csv, "w", newline='', encoding="utf-8") as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=["ticker", "moat", "understandability", "balance_sheet_health", "marketcap"])
+        writer = csv.DictWriter(csvfile, fieldnames=["ticker", "moat", "understandability", "balance_sheet_health", "marketcap", "pe_ratio"])
         writer.writeheader()
         writer.writerows(rows)
 
