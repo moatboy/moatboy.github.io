@@ -1,0 +1,98 @@
+---
+title: ePlus inc. (PLUS)
+layout: default
+nav_order: 2051
+---
+
+# ePlus inc.
+{: .fs-9 }
+
+{: .label .label-purple }
+
+Moat: 2/5
+
+{: .label .label-blue }
+
+Understandability: 3/5
+
+{: .label .label-green }
+
+Balance Sheet Health: 4/5
+
+ePlus inc. is a technology solutions provider that helps companies assess, procure, and manage their IT assets, offering a suite of services from procurement to deployment and lifecycle management, mainly serving mid-market and enterprise customers across various industries.
+{: .fs-6 .fw-300 }
+
+[Investor Relations](https://www.google.com/search?q=PLUS+investor+relations){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Previous Earnings Calls](https://discountingcashflows.com/company/PLUS/transcripts/){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+{: .warning }
+>The moat, understandability, and balance sheet health scores reflect a conservative evaluation to ensure a margin of safety in any assessment.
+
+
+
+{: .highlight }
+**Business Overview**
+ePlus inc. (PLUS) is a value-added reseller (VAR) and technology solutions provider that specializes in IT hardware, software, and services. They assist their clients in identifying their IT needs, procuring necessary products, and managing these assets through their entire life cycle. This includes system architecture and planning, procurement, configuration and integration, implementation and deployment, and managed services.  Their operations are primarily within the US and international markets.
+
+* **Revenue Streams**: The company has multiple revenue streams divided into the main segments:
+
+    1.  **Product Sales:** This is the largest revenue contributor for PLUS, primarily from the sale of hardware and software products from various manufacturers.
+    2.  **Technology Services:** This segment includes recurring revenue from providing managed services, cloud, security, and networking.
+    3.  **Financing:** ePlus is also able to sell or provide financing services for the customer. 
+    
+* **Industry Trends:**
+    *   **Digital Transformation**: The pace of digital transformation, accelerated by the pandemic, is driving demand for technology solutions and services. Companies are increasingly recognizing the need to upgrade their IT infrastructure and are looking to service providers like ePlus.
+    *   **Cybersecurity**: Increasing cyber threats drive demand for security solutions.
+    *   **Cloud**: Companies are migrating to the cloud at an increasing pace, leading to demand for cloud solutions and managed services.
+
+* **Competitive Landscape:**
+    *   The IT solutions market is highly competitive and includes a mix of large players, smaller value-added resellers, and software companies, which are all seeking to provide for these needs. This creates a fragmented environment where pricing can often be competitive, which has a negative affect on margins.
+    *   Companies such as Insight Enterprises, CDW Corporation, and SHI International compete with PLUS in similar offerings.
+    *   The industry is also seeing an increasing amount of services sold.
+    
+*   **What Makes ePlus Different?**
+  
+{: .note }
+ePlus differentiates itself by providing comprehensive solutions and focusing on client relationships rather than just commodity-style sales.
+    *  **Strong Vendor Relationships:** The company has cultivated good relationships with some vendors, allowing a certain degree of priority and flexibility in product procurement.
+    * **End-to-end Solutions:** ePlus provides a full range of services, including product procurement and IT support services. The services are a major driver of revenue and profitability growth because they are recurring and are tied to a relationship with clients.
+    *   **Financial Services**: Offering financial services to facilitate deals to its clients.
+
+* **Latest Information:** ePlus recently held an earnings call (Q4 2023) in which it pointed out that they had a full year revenue of $2.08 billion, a gross profit of $480.4 million, and non-GAAP income of $119.2 million, representing a strong year in the face of economic uncertainty and reduced spending.  They also mentioned that they were focused on growing their managed service offerings to capture future growth. Their Q4 results were also very good in which they beat expectations, and with the demand of their offerings were also very high.
+
+*   **Financials**
+  
+    *  **Revenues**: Total revenues increased 29.4% year over year due to an increase in product revenues and their services sector was flat. Product revenue increased 20.8% YoY, and their services revenue decreased .3% YoY. However, overall services revenue was up 10.3% YoY if you include "financing and other."
+{: .highlight }
+
+     *   **Margins**: Gross profit margin was 23.1% in 2023, down 140 basis points from 2022's 24.5%. Their service business (excluding financing and other) had a gross margin of 41.2%, relatively higher than the margin generated by products. Their consolidated margin is a bit lower than other businesses in the industry, but this is expected from a company where a lot of the sales comes from products.
+    *   **Profitability**: ePlus is profitable but is not a growth stock because of its heavy product sales component. The company's net profit is quite volatile from year to year. Net income was -$7.5 million in 2020, $38.6 million in 2021, $66.1 million in 2022, and $105.3 million in 2023. These swings can be attributed to different macroeconomic forces, which can have a drastic impact on the company's spending.
+  
+*   **Balance Sheet Health**: ePlus's balance sheet is relatively healthy with current assets greatly exceeding current liabilities. In fiscal 2023, they have current assets of $1.26 Billion and current liabilities of $792.9 million. However, like many IT suppliers, they have considerable leverage. They have long-term liabilities of $175.3 million, and total debt (including short-term) of $375.3 million and total equity of 545 million. With a Debt to equity ratio of .68 and an interest coverage ratio over 5, the balance sheet is healthy enough.
+    *  While debt might seem high, interest expense is typically only 2-3% of revenue so it is manageable.
+
+*   **Risks and Resilience**
+    *   **Economic Slowdown**: A recessionary environment could lead to a decrease in IT spending by businesses, impacting ePlus's financial health. However, they have shown to grow in past slowdowns due to their focus on specific IT areas with higher growth. 
+    *   **Supply Chain Issues**: Disruptions in the supply chain of IT components can lead to delays in order fulfillment, and reduced revenues. This is an ongoing challenge, and is expected to continue into the future, but the company has shown its ability to mitigate supply chain shortages. 
+    *    **Competition**: There is immense competition in this sector from big companies to smaller mom-and-pop shops. It is a very fragmented market.
+   
+*   **Other Relevant Information**
+    *   ePlus is relatively small, and its business model can lead to a lot of volatility.
+
+* **Moat Rating:** 2 / 5
+   While ePlus has a well-established position in the IT solutions market, their moat is considered narrow due to the following:
+  *   **Lack of Differentiation**: Although ePlus focuses on customer relationships and offers end-to-end solutions, other companies are doing the same. Differentiation within the products themselves are almost none, and come directly from vendors (which they have a good relationship with)
+   *   **Competitive Pressures:** The IT industry is highly fragmented with several firms having similar business models, making it hard for them to command better terms or margins than competitors.
+    *   **Switching Costs**: While there is a level of customer lock-in with switching costs, it is not as high as it would be in software for instance. 
+  *   **Intangibles**: ePlus may not necessarily have a strong brand moat.
+    *  While the company does create a recurring stream of revenue with their service offerings, it is hard to see a wide economic moat.
+   * **Management:** There was a leadership change in the past few years where Mark Marron was appointed CEO. He seems to have a clear strategy for future value creation, and has been involved in the company for a long time. He has focused on growing service revenue, and continuing with that will likely increase the moat.
+    *  However, the company is still a little volatile and is very exposed to macroeconomic headwinds. A higher rating would be achieved once these issues are mitigated.
+
+* **Understandability:** 3 / 5
+     ePlus is a pretty straightforward business that provides IT products and services. However, a detailed analysis of its financials can be complicated due to accounting of acquisitions and other one time charges. Understanding the IT market and what specific areas where they are generating excess profit and where not can be difficult to grasp.
+
+*  **Balance Sheet Health**: 4 / 5
+ The balance sheet for ePlus is pretty healthy as current assets exceed liabilities, and is improving with time. While the company has debt, the level of interest rate coverage as well as the nature of the business makes it easily manageable. They have relatively low levels of financial risks as a result.
